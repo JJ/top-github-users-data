@@ -1,4 +1,4 @@
-top-github-users-data
+Data from top Github users
 =====================
 
-Data obtained with the top-github-users script
+According to a series of conditions, mainly the city that they list in their profile. Check out the source for updates.
