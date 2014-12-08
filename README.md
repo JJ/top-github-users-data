@@ -1,7 +1,3 @@
----
-layout: index
----
-
 top-github-users-data
 =====================
 
