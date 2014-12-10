@@ -11,9 +11,9 @@
       "CANUBE",
       "MusesProject"
     ],
-    "contributions": 4119,
+    "contributions": 4195,
     "contributionsStreak": 77,
-    "contributionsCurrentStreak": 24
+    "contributionsCurrentStreak": 26
   },
   {
     "name": "Javier Carrillo",
@@ -37,9 +37,9 @@
     "organizations": [
       "dgiim"
     ],
-    "contributions": 1301,
+    "contributions": 1325,
     "contributionsStreak": 23,
-    "contributionsCurrentStreak": 0
+    "contributionsCurrentStreak": 2
   },
   {
     "name": "Alexey Alekhin",
@@ -54,9 +54,9 @@
       "era7bio",
       "statika"
     ],
-    "contributions": 1190,
+    "contributions": 1192,
     "contributionsStreak": 15,
-    "contributionsCurrentStreak": 0
+    "contributionsCurrentStreak": 2
   },
   {
     "name": "Eduardo Pareja Tobes",
@@ -70,9 +70,9 @@
       "bio4j",
       "era7bio"
     ],
-    "contributions": 1090,
+    "contributions": 1096,
     "contributionsStreak": 18,
-    "contributionsCurrentStreak": 0
+    "contributionsCurrentStreak": 2
   },
   {
     "name": "Víctor Terrón",
@@ -80,12 +80,12 @@
     "location": "Granada, Spain",
     "language": "Python",
     "gravatar": "https://avatars2.githubusercontent.com/u/1575425?v=3&s=400",
-    "followers": 38,
+    "followers": 39,
     "organizations": [
       "astropy",
       "IAA-CSIC"
     ],
-    "contributions": 1041,
+    "contributions": 1043,
     "contributionsStreak": 12,
     "contributionsCurrentStreak": 0
   },
@@ -117,9 +117,9 @@
       "bio4j",
       "era7bio"
     ],
-    "contributions": 963,
+    "contributions": 966,
     "contributionsStreak": 12,
-    "contributionsCurrentStreak": 0
+    "contributionsCurrentStreak": 2
   },
   {
     "name": "Benito Palacios",
@@ -129,9 +129,9 @@
     "gravatar": "https://avatars2.githubusercontent.com/u/3107481?v=3&s=400",
     "followers": 9,
     "organizations": [],
-    "contributions": 785,
+    "contributions": 783,
     "contributionsStreak": 14,
-    "contributionsCurrentStreak": 3
+    "contributionsCurrentStreak": 4
   },
   {
     "name": "Óscar Zafra",
@@ -146,18 +146,6 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Juan Miguel Boyero Corral",
-    "login": "Amab",
-    "location": "Granada, Spain",
-    "language": "CSS",
-    "gravatar": "https://avatars3.githubusercontent.com/u/461393?v=3&s=400",
-    "followers": 12,
-    "organizations": [],
-    "contributions": 449,
-    "contributionsStreak": 14,
-    "contributionsCurrentStreak": 0
-  },
-  {
     "name": "Ernesto Alejo",
     "login": "ernestoalejo",
     "location": "Granada, Spain",
@@ -165,9 +153,21 @@
     "gravatar": "https://avatars3.githubusercontent.com/u/961966?v=3&s=400",
     "followers": 7,
     "organizations": [],
-    "contributions": 446,
+    "contributions": 452,
     "contributionsStreak": 5,
-    "contributionsCurrentStreak": 2
+    "contributionsCurrentStreak": 3
+  },
+  {
+    "name": "Juan Miguel Boyero Corral",
+    "login": "Amab",
+    "location": "Granada, Spain",
+    "language": "CSS",
+    "gravatar": "https://avatars3.githubusercontent.com/u/461393?v=3&s=400",
+    "followers": 12,
+    "organizations": [],
+    "contributions": 448,
+    "contributionsStreak": 14,
+    "contributionsCurrentStreak": 0
   },
   {
     "name": "NCordon",
@@ -195,7 +195,7 @@
     ],
     "contributions": 413,
     "contributionsStreak": 6,
-    "contributionsCurrentStreak": 2
+    "contributionsCurrentStreak": 0
   },
   {
     "name": "Daniel",
@@ -205,7 +205,7 @@
     "gravatar": "https://avatars2.githubusercontent.com/u/5851516?v=3&s=400",
     "followers": 1,
     "organizations": [],
-    "contributions": 373,
+    "contributions": 374,
     "contributionsStreak": 5,
     "contributionsCurrentStreak": 0
   },
@@ -217,9 +217,9 @@
     "gravatar": "https://avatars2.githubusercontent.com/u/394797?v=3&s=400",
     "followers": 52,
     "organizations": [],
-    "contributions": 356,
+    "contributions": 368,
     "contributionsStreak": 12,
-    "contributionsCurrentStreak": 2
+    "contributionsCurrentStreak": 4
   },
   {
     "name": "Jose Miguel Colella",
@@ -229,7 +229,7 @@
     "gravatar": "https://avatars3.githubusercontent.com/u/1974588?v=3&s=400",
     "followers": 13,
     "organizations": [],
-    "contributions": 350,
+    "contributions": 348,
     "contributionsStreak": 9,
     "contributionsCurrentStreak": 0
   },
@@ -241,9 +241,9 @@
     "gravatar": "https://avatars0.githubusercontent.com/u/5708747?v=3&s=400",
     "followers": 4,
     "organizations": [],
-    "contributions": 305,
+    "contributions": 306,
     "contributionsStreak": 9,
-    "contributionsCurrentStreak": 2
+    "contributionsCurrentStreak": 0
   },
   {
     "name": "Manu",
@@ -260,18 +260,6 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "José Miguel",
-    "login": "josemlp91",
-    "location": "Granada",
-    "language": "Java",
-    "gravatar": "https://avatars3.githubusercontent.com/u/1655898?v=3&s=400",
-    "followers": 4,
-    "organizations": [],
-    "contributions": 270,
-    "contributionsStreak": 6,
-    "contributionsCurrentStreak": 0
-  },
-  {
     "name": "Pablo García Sánchez",
     "login": "fergunet",
     "location": "Granada",
@@ -281,8 +269,20 @@
     "organizations": [
       "CANUBE"
     ],
-    "contributions": 261,
+    "contributions": 265,
     "contributionsStreak": 10,
+    "contributionsCurrentStreak": 2
+  },
+  {
+    "name": "José Miguel",
+    "login": "josemlp91",
+    "location": "Granada",
+    "language": "Java",
+    "gravatar": "https://avatars3.githubusercontent.com/u/1655898?v=3&s=400",
+    "followers": 4,
+    "organizations": [],
+    "contributions": 264,
+    "contributionsStreak": 6,
     "contributionsCurrentStreak": 0
   },
   {
@@ -293,9 +293,9 @@
     "gravatar": "https://avatars0.githubusercontent.com/u/4806311?v=3&s=400",
     "followers": 7,
     "organizations": [],
-    "contributions": 252,
+    "contributions": 257,
     "contributionsStreak": 27,
-    "contributionsCurrentStreak": 0
+    "contributionsCurrentStreak": 2
   },
   {
     "name": "Jaime Torres",
@@ -308,6 +308,20 @@
     "contributions": 243,
     "contributionsStreak": 5,
     "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Psicobyte",
+    "login": "psicobyte",
+    "location": "Granada",
+    "language": "Python",
+    "gravatar": "https://avatars2.githubusercontent.com/u/1206823?v=3&s=400",
+    "followers": 19,
+    "organizations": [
+      "CANUBE"
+    ],
+    "contributions": 239,
+    "contributionsStreak": 8,
+    "contributionsCurrentStreak": 3
   },
   {
     "name": "German Martinez",
@@ -334,20 +348,6 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Psicobyte",
-    "login": "psicobyte",
-    "location": "Granada",
-    "language": "Python",
-    "gravatar": "https://avatars2.githubusercontent.com/u/1206823?v=3&s=400",
-    "followers": 19,
-    "organizations": [
-      "CANUBE"
-    ],
-    "contributions": 233,
-    "contributionsStreak": 8,
-    "contributionsCurrentStreak": 0
-  },
-  {
     "name": "Luke Hudson",
     "login": "lingo",
     "location": "Granada, Spain.  Previously in Brighton, UK, Bilbao, Euskadi / España, Chiapas, México and New Zealand",
@@ -358,6 +358,18 @@
     "contributions": 176,
     "contributionsStreak": 4,
     "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Pedro Marín Ramos",
+    "login": "pmarinr",
+    "location": "Granada, Spain",
+    "language": "C#",
+    "gravatar": "https://avatars0.githubusercontent.com/u/376731?v=3&s=400",
+    "followers": 7,
+    "organizations": [],
+    "contributions": 172,
+    "contributionsStreak": 4,
+    "contributionsCurrentStreak": 4
   },
   {
     "name": "Fran Expósito",
@@ -379,21 +391,9 @@
     "gravatar": "https://avatars1.githubusercontent.com/u/5589299?v=3&s=400",
     "followers": 5,
     "organizations": [],
-    "contributions": 171,
+    "contributions": 172,
     "contributionsStreak": 6,
     "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Pedro Marín Ramos",
-    "login": "pmarinr",
-    "location": "Granada, Spain",
-    "language": "C#",
-    "gravatar": "https://avatars0.githubusercontent.com/u/376731?v=3&s=400",
-    "followers": 7,
-    "organizations": [],
-    "contributions": 159,
-    "contributionsStreak": 4,
-    "contributionsCurrentStreak": 3
   },
   {
     "name": "Ruben Bermudez",
@@ -482,6 +482,20 @@
     "contributionsCurrentStreak": 0
   },
   {
+    "name": "Fran",
+    "login": "franlu",
+    "location": "Granada, Spain",
+    "language": "Python",
+    "gravatar": "https://avatars0.githubusercontent.com/u/412844?v=3&s=400",
+    "followers": 11,
+    "organizations": [
+      "pupils"
+    ],
+    "contributions": 120,
+    "contributionsStreak": 5,
+    "contributionsCurrentStreak": 2
+  },
+  {
     "name": "Javier Cordero",
     "login": "jneight",
     "location": "Granada",
@@ -505,20 +519,6 @@
     "gravatar": "https://avatars1.githubusercontent.com/u/1782996?v=3&s=400",
     "followers": 17,
     "organizations": [],
-    "contributions": 115,
-    "contributionsStreak": 5,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Fran",
-    "login": "franlu",
-    "location": "Granada, Spain",
-    "language": "Python",
-    "gravatar": "https://avatars0.githubusercontent.com/u/412844?v=3&s=400",
-    "followers": 11,
-    "organizations": [
-      "pupils"
-    ],
     "contributions": 115,
     "contributionsStreak": 5,
     "contributionsCurrentStreak": 0
@@ -548,6 +548,18 @@
     "contributionsCurrentStreak": 0
   },
   {
+    "name": "Antonio Álvarez",
+    "login": "analca3",
+    "location": "Granada",
+    "language": "Shell",
+    "gravatar": "https://avatars1.githubusercontent.com/u/3939991?v=3&s=400",
+    "followers": 6,
+    "organizations": [],
+    "contributions": 105,
+    "contributionsStreak": 5,
+    "contributionsCurrentStreak": 0
+  },
+  {
     "name": "Guillermo Chica Sabariego",
     "login": "guillermochica",
     "location": "Granada, de Jaén",
@@ -557,18 +569,6 @@
     "organizations": [],
     "contributions": 104,
     "contributionsStreak": 8,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Antonio Álvarez",
-    "login": "analca3",
-    "location": "Granada",
-    "language": "Shell",
-    "gravatar": "https://avatars1.githubusercontent.com/u/3939991?v=3&s=400",
-    "followers": 6,
-    "organizations": [],
-    "contributions": 103,
-    "contributionsStreak": 5,
     "contributionsCurrentStreak": 0
   },
   {
@@ -652,25 +652,35 @@
     "contributionsCurrentStreak": 0
   },
   {
+    "name": "Juan Francisco Rodríguez Vílchez",
+    "login": "juanfranrv",
+    "location": "Granada (Spain)",
+    "language": "Shell",
+    "gravatar": "https://avatars3.githubusercontent.com/u/8874373?v=3&s=400",
+    "followers": 4,
+    "organizations": [],
+    "contributions": 76,
+    "contributionsStreak": 4,
+    "contributionsCurrentStreak": 4
+  },
+  {
+    "name": "Javier Aranda Izquierdo",
+    "login": "JavideBaza",
+    "location": "Granada (Spain)",
+    "language": "Java",
+    "gravatar": "https://avatars2.githubusercontent.com/u/6824323?v=3&s=400",
+    "followers": 6,
+    "organizations": [],
+    "contributions": 75,
+    "contributionsStreak": 2,
+    "contributionsCurrentStreak": 2
+  },
+  {
     "name": "Sergio González Vázquez",
     "login": "sergiogvz",
     "location": "Granada, Spain",
     "language": "Shell and Python",
     "gravatar": "https://avatars2.githubusercontent.com/u/9193243?v=3&s=400",
-    "followers": 3,
-    "organizations": [
-      "babeltowerteam"
-    ],
-    "contributions": 73,
-    "contributionsStreak": 2,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Álvaro",
-    "login": "alvaromm",
-    "location": "Granada, Spain",
-    "language": "Shell",
-    "gravatar": "https://avatars1.githubusercontent.com/u/9200976?v=3&s=400",
     "followers": 3,
     "organizations": [
       "babeltowerteam"
@@ -687,9 +697,23 @@
     "gravatar": "https://avatars1.githubusercontent.com/u/5575066?v=3&s=400",
     "followers": 1,
     "organizations": [],
-    "contributions": 72,
+    "contributions": 73,
     "contributionsStreak": 4,
     "contributionsCurrentStreak": 4
+  },
+  {
+    "name": "Álvaro",
+    "login": "alvaromm",
+    "location": "Granada, Spain",
+    "language": "Shell",
+    "gravatar": "https://avatars1.githubusercontent.com/u/9200976?v=3&s=400",
+    "followers": 3,
+    "organizations": [
+      "babeltowerteam"
+    ],
+    "contributions": 73,
+    "contributionsStreak": 2,
+    "contributionsCurrentStreak": 0
   },
   {
     "name": "Antonio Moya",
@@ -704,16 +728,16 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Juan Francisco Rodríguez Vílchez",
-    "login": "juanfranrv",
-    "location": "Granada (Spain)",
-    "language": "Shell",
-    "gravatar": "https://avatars3.githubusercontent.com/u/8874373?v=3&s=400",
-    "followers": 4,
+    "name": "J. Cristóbal López",
+    "login": "JCristobal",
+    "location": "Granada",
+    "language": "Arduino",
+    "gravatar": "https://avatars0.githubusercontent.com/u/8878426?v=3&s=400",
+    "followers": 1,
     "organizations": [],
-    "contributions": 70,
-    "contributionsStreak": 3,
-    "contributionsCurrentStreak": 3
+    "contributions": 69,
+    "contributionsStreak": 4,
+    "contributionsCurrentStreak": 0
   },
   {
     "name": "Glenn Sweeney",
@@ -725,18 +749,6 @@
     "organizations": [],
     "contributions": 69,
     "contributionsStreak": 5,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "J. Cristóbal López",
-    "login": "JCristobal",
-    "location": "Granada",
-    "language": "Arduino",
-    "gravatar": "https://avatars0.githubusercontent.com/u/8878426?v=3&s=400",
-    "followers": 1,
-    "organizations": [],
-    "contributions": 69,
-    "contributionsStreak": 4,
     "contributionsCurrentStreak": 0
   },
   {
@@ -764,18 +776,6 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Javier Aranda Izquierdo",
-    "login": "JavideBaza",
-    "location": "Granada (Spain)",
-    "language": "Java",
-    "gravatar": "https://avatars2.githubusercontent.com/u/6824323?v=3&s=400",
-    "followers": 6,
-    "organizations": [],
-    "contributions": 69,
-    "contributionsStreak": 2,
-    "contributionsCurrentStreak": 0
-  },
-  {
     "name": "Angel Jimenez de Cisneros Carreño",
     "login": "angeljcc",
     "location": "Granada (Spain)",
@@ -783,9 +783,9 @@
     "gravatar": "https://avatars2.githubusercontent.com/u/6865938?v=3&s=400",
     "followers": 7,
     "organizations": [],
-    "contributions": 62,
+    "contributions": 64,
     "contributionsStreak": 5,
-    "contributionsCurrentStreak": 0
+    "contributionsCurrentStreak": 2
   },
   {
     "name": "Carlos Campos",
@@ -795,7 +795,7 @@
     "gravatar": "https://avatars1.githubusercontent.com/u/6200116?v=3&s=400",
     "followers": 3,
     "organizations": [],
-    "contributions": 60,
+    "contributions": 64,
     "contributionsStreak": 3,
     "contributionsCurrentStreak": 0
   },
@@ -873,7 +873,7 @@
     "gravatar": "https://avatars3.githubusercontent.com/u/6298499?v=3&s=400",
     "followers": 3,
     "organizations": [],
-    "contributions": 49,
+    "contributions": 50,
     "contributionsStreak": 3,
     "contributionsCurrentStreak": 0
   },
@@ -919,6 +919,18 @@
     "contributionsCurrentStreak": 0
   },
   {
+    "name": "Jose Enrique Ruiz",
+    "login": "Bultako",
+    "location": "Granada, Spain",
+    "language": "TeX",
+    "gravatar": "https://avatars0.githubusercontent.com/u/328261?v=3&s=400",
+    "followers": 4,
+    "organizations": [],
+    "contributions": 46,
+    "contributionsStreak": 4,
+    "contributionsCurrentStreak": 0
+  },
+  {
     "name": "",
     "login": "martinezdelariva",
     "location": "Granada",
@@ -931,12 +943,12 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Jose Enrique Ruiz",
-    "login": "Bultako",
+    "name": "Juan Olalla",
+    "login": "juanolalla",
     "location": "Granada, Spain",
-    "language": "TeX",
-    "gravatar": "https://avatars0.githubusercontent.com/u/328261?v=3&s=400",
-    "followers": 4,
+    "language": "JavaScript",
+    "gravatar": "https://avatars2.githubusercontent.com/u/329818?v=3&s=400",
+    "followers": 2,
     "organizations": [],
     "contributions": 46,
     "contributionsStreak": 4,
@@ -967,18 +979,6 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Juan Olalla",
-    "login": "juanolalla",
-    "location": "Granada, Spain",
-    "language": "JavaScript",
-    "gravatar": "https://avatars2.githubusercontent.com/u/329818?v=3&s=400",
-    "followers": 2,
-    "organizations": [],
-    "contributions": 42,
-    "contributionsStreak": 4,
-    "contributionsCurrentStreak": 0
-  },
-  {
     "name": "Alberto Olivares",
     "login": "aolivares",
     "location": "Granada, Spain",
@@ -988,6 +988,18 @@
     "organizations": [],
     "contributions": 42,
     "contributionsStreak": 2,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Daniel Álvarez González",
+    "login": "Crixo24",
+    "location": "Granada",
+    "language": "C# and Shell",
+    "gravatar": "https://avatars2.githubusercontent.com/u/5598461?v=3&s=400",
+    "followers": 4,
+    "organizations": [],
+    "contributions": 41,
+    "contributionsStreak": 3,
     "contributionsCurrentStreak": 0
   },
   {
@@ -1003,15 +1015,15 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Daniel Álvarez González",
-    "login": "Crixo24",
+    "name": "Jorge",
+    "login": "Georgevik",
     "location": "Granada",
-    "language": "C# and Shell",
-    "gravatar": "https://avatars2.githubusercontent.com/u/5598461?v=3&s=400",
-    "followers": 4,
+    "language": "Java and Shell",
+    "gravatar": "https://avatars1.githubusercontent.com/u/6259005?v=3&s=400",
+    "followers": 1,
     "organizations": [],
-    "contributions": 40,
-    "contributionsStreak": 3,
+    "contributions": 38,
+    "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
   {
@@ -1046,21 +1058,21 @@
     "location": "Granada, SPAIN",
     "language": "Shell",
     "gravatar": "https://avatars2.githubusercontent.com/u/3056540?v=3&s=400",
-    "followers": 36,
+    "followers": 37,
     "organizations": [],
     "contributions": 38,
     "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Jorge",
-    "login": "Georgevik",
-    "location": "Granada",
-    "language": "Java and Shell",
-    "gravatar": "https://avatars1.githubusercontent.com/u/6259005?v=3&s=400",
-    "followers": 1,
+    "name": "Francisco J. Ruiz-Ruano",
+    "login": "fjruizruano",
+    "location": "Granada, Spain",
+    "language": "Python",
+    "gravatar": "https://avatars3.githubusercontent.com/u/980700?v=3&s=400",
+    "followers": 2,
     "organizations": [],
-    "contributions": 38,
+    "contributions": 37,
     "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
@@ -1077,14 +1089,14 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Francisco J. Ruiz-Ruano",
-    "login": "fjruizruano",
+    "name": "",
+    "login": "VictorCoronas",
     "location": "Granada, Spain",
     "language": "Python",
-    "gravatar": "https://avatars3.githubusercontent.com/u/980700?v=3&s=400",
+    "gravatar": "https://avatars3.githubusercontent.com/u/8873270?v=3&s=400",
     "followers": 2,
     "organizations": [],
-    "contributions": 35,
+    "contributions": 37,
     "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
@@ -1096,21 +1108,9 @@
     "gravatar": "https://avatars2.githubusercontent.com/u/1674789?v=3&s=400",
     "followers": 1,
     "organizations": [],
-    "contributions": 34,
+    "contributions": 37,
     "contributionsStreak": 5,
-    "contributionsCurrentStreak": 3
-  },
-  {
-    "name": "José Delgado Dolset",
-    "login": "PPeMg",
-    "location": "Granada",
-    "language": "C#",
-    "gravatar": "https://avatars3.githubusercontent.com/u/6950370?v=3&s=400",
-    "followers": 4,
-    "organizations": [],
-    "contributions": 34,
-    "contributionsStreak": 4,
-    "contributionsCurrentStreak": 0
+    "contributionsCurrentStreak": 4
   },
   {
     "name": "Paloma de las Cuevas Delgado",
@@ -1122,8 +1122,20 @@
     "organizations": [
       "CANUBE"
     ],
-    "contributions": 33,
+    "contributions": 34,
     "contributionsStreak": 2,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "José Delgado Dolset",
+    "login": "PPeMg",
+    "location": "Granada",
+    "language": "C#",
+    "gravatar": "https://avatars3.githubusercontent.com/u/6950370?v=3&s=400",
+    "followers": 4,
+    "organizations": [],
+    "contributions": 34,
+    "contributionsStreak": 4,
     "contributionsCurrentStreak": 0
   },
   {
@@ -1139,12 +1151,24 @@
     "contributionsCurrentStreak": 0
   },
   {
+    "name": "Jesus Manuel Contreras Siles",
+    "login": "Jesusmcs",
+    "location": "Granada",
+    "language": "JavaScript",
+    "gravatar": "https://avatars3.githubusercontent.com/u/3786917?v=3&s=400",
+    "followers": 2,
+    "organizations": [],
+    "contributions": 32,
+    "contributionsStreak": 4,
+    "contributionsCurrentStreak": 0
+  },
+  {
     "name": "Jose Antonio Plata",
     "login": "Ariacus",
     "location": "Granada, Spain.",
     "language": "CSS",
     "gravatar": "https://avatars0.githubusercontent.com/u/8951042?v=3&s=400",
-    "followers": 5,
+    "followers": 6,
     "organizations": [],
     "contributions": 31,
     "contributionsStreak": 3,
@@ -1163,18 +1187,6 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Alexandra Vatsiou",
-    "login": "alexvat",
-    "location": "Granada, Spain",
-    "language": "",
-    "gravatar": "https://avatars1.githubusercontent.com/u/5310537?v=3&s=400",
-    "followers": 3,
-    "organizations": [],
-    "contributions": 30,
-    "contributionsStreak": 2,
-    "contributionsCurrentStreak": 0
-  },
-  {
     "name": "José Camacho",
     "login": "josecamachop",
     "location": "Granada",
@@ -1187,14 +1199,14 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "",
-    "login": "VictorCoronas",
+    "name": "Alexandra Vatsiou",
+    "login": "alexvat",
     "location": "Granada, Spain",
-    "language": "Python",
-    "gravatar": "https://avatars3.githubusercontent.com/u/8873270?v=3&s=400",
-    "followers": 2,
+    "language": "",
+    "gravatar": "https://avatars1.githubusercontent.com/u/5310537?v=3&s=400",
+    "followers": 3,
     "organizations": [],
-    "contributions": 29,
+    "contributions": 30,
     "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
@@ -1208,7 +1220,19 @@
     "organizations": [],
     "contributions": 29,
     "contributionsStreak": 6,
-    "contributionsCurrentStreak": 6
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "nacho rapallo",
+    "login": "yestoall",
+    "location": "granada, spain",
+    "language": "Ruby",
+    "gravatar": "https://avatars2.githubusercontent.com/u/29780?v=3&s=400",
+    "followers": 11,
+    "organizations": [],
+    "contributions": 27,
+    "contributionsStreak": 2,
+    "contributionsCurrentStreak": 0
   },
   {
     "name": "Raúl Álvarez Hinojosa",
@@ -1223,14 +1247,14 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "nacho rapallo",
-    "login": "yestoall",
-    "location": "granada, spain",
-    "language": "Ruby",
-    "gravatar": "https://avatars2.githubusercontent.com/u/29780?v=3&s=400",
+    "name": "Esteban Dorado Roldan",
+    "login": "mresti",
+    "location": "Granada, Spain",
+    "language": "CSS",
+    "gravatar": "https://avatars2.githubusercontent.com/u/1193771?v=3&s=400",
     "followers": 11,
     "organizations": [],
-    "contributions": 27,
+    "contributions": 26,
     "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
@@ -1259,30 +1283,6 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Jesus Manuel Contreras Siles",
-    "login": "Jesusmcs",
-    "location": "Granada",
-    "language": "JavaScript",
-    "gravatar": "https://avatars3.githubusercontent.com/u/3786917?v=3&s=400",
-    "followers": 2,
-    "organizations": [],
-    "contributions": 25,
-    "contributionsStreak": 4,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Esteban Dorado Roldan",
-    "login": "mresti",
-    "location": "Granada, Spain",
-    "language": "CSS",
-    "gravatar": "https://avatars2.githubusercontent.com/u/1193771?v=3&s=400",
-    "followers": 11,
-    "organizations": [],
-    "contributions": 24,
-    "contributionsStreak": 2,
-    "contributionsCurrentStreak": 0
-  },
-  {
     "name": "Rubén Héctor",
     "login": "raiben",
     "location": "Granada",
@@ -1295,6 +1295,30 @@
     "contributionsCurrentStreak": 0
   },
   {
+    "name": "Antonio Cañas Vargas",
+    "login": "acanas",
+    "location": "Granada, Spain",
+    "language": "Makefile",
+    "gravatar": "https://avatars0.githubusercontent.com/u/9986986?v=3&s=400",
+    "followers": 8,
+    "organizations": [],
+    "contributions": 24,
+    "contributionsStreak": 8,
+    "contributionsCurrentStreak": 8
+  },
+  {
+    "name": "Francisco Charte Ojeda",
+    "login": "fcharte",
+    "location": "Granada, Spain",
+    "language": "R",
+    "gravatar": "https://avatars3.githubusercontent.com/u/8365501?v=3&s=400",
+    "followers": 2,
+    "organizations": [],
+    "contributions": 24,
+    "contributionsStreak": 4,
+    "contributionsCurrentStreak": 3
+  },
+  {
     "name": "Francisco Javier Bolívar Lupiáñez",
     "login": "fblupi",
     "location": "Granada (Spain)",
@@ -1304,30 +1328,6 @@
     "organizations": [],
     "contributions": 23,
     "contributionsStreak": 3,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Antonio Cañas Vargas",
-    "login": "acanas",
-    "location": "Granada, Spain",
-    "language": "Makefile",
-    "gravatar": "https://avatars0.githubusercontent.com/u/9986986?v=3&s=400",
-    "followers": 4,
-    "organizations": [],
-    "contributions": 23,
-    "contributionsStreak": 8,
-    "contributionsCurrentStreak": 8
-  },
-  {
-    "name": "alberto__segura",
-    "login": "segura2010",
-    "location": "Granada",
-    "language": "Python",
-    "gravatar": "https://avatars2.githubusercontent.com/u/1244724?v=3&s=400",
-    "followers": 2,
-    "organizations": [],
-    "contributions": 22,
-    "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
   {
@@ -1343,6 +1343,18 @@
     "contributionsCurrentStreak": 0
   },
   {
+    "name": "alberto__segura",
+    "login": "segura2010",
+    "location": "Granada",
+    "language": "Python",
+    "gravatar": "https://avatars2.githubusercontent.com/u/1244724?v=3&s=400",
+    "followers": 2,
+    "organizations": [],
+    "contributions": 22,
+    "contributionsStreak": 2,
+    "contributionsCurrentStreak": 0
+  },
+  {
     "name": "Francisco José Fajardo Toril",
     "login": "FranFT",
     "location": "Granada, Spain",
@@ -1350,21 +1362,9 @@
     "gravatar": "https://avatars2.githubusercontent.com/u/8977250?v=3&s=400",
     "followers": 1,
     "organizations": [],
-    "contributions": 20,
+    "contributions": 21,
     "contributionsStreak": 3,
     "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Francisco Charte Ojeda",
-    "login": "fcharte",
-    "location": "Granada, Spain",
-    "language": "R",
-    "gravatar": "https://avatars3.githubusercontent.com/u/8365501?v=3&s=400",
-    "followers": 2,
-    "organizations": [],
-    "contributions": 19,
-    "contributionsStreak": 4,
-    "contributionsCurrentStreak": 2
   },
   {
     "name": "Antonio Doncel Campos",
@@ -1374,8 +1374,20 @@
     "gravatar": "https://avatars0.githubusercontent.com/u/8970297?v=3&s=400",
     "followers": 3,
     "organizations": [],
-    "contributions": 18,
+    "contributions": 20,
     "contributionsStreak": 3,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "",
+    "login": "RadW2020",
+    "location": "Granada, Spain",
+    "language": "Ruby",
+    "gravatar": "https://avatars1.githubusercontent.com/u/8538542?v=3&s=400",
+    "followers": 1,
+    "organizations": [],
+    "contributions": 19,
+    "contributionsStreak": 1,
     "contributionsCurrentStreak": 0
   },
   {
@@ -1398,7 +1410,7 @@
     "location": "Granada",
     "language": "Shell",
     "gravatar": "https://avatars1.githubusercontent.com/u/7083986?v=3&s=400",
-    "followers": 3,
+    "followers": 4,
     "organizations": [],
     "contributions": 14,
     "contributionsStreak": 2,
@@ -1441,14 +1453,14 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "",
-    "login": "RadW2020",
-    "location": "Granada, Spain",
-    "language": "CSS",
-    "gravatar": "https://avatars1.githubusercontent.com/u/8538542?v=3&s=400",
+    "name": "Rafa Leblic",
+    "login": "malfario",
+    "location": "Granada",
+    "language": "Clojure",
+    "gravatar": "https://avatars2.githubusercontent.com/u/414186?v=3&s=400",
     "followers": 1,
     "organizations": [],
-    "contributions": 12,
+    "contributions": 11,
     "contributionsStreak": 1,
     "contributionsCurrentStreak": 0
   },
@@ -1459,18 +1471,6 @@
     "language": "Shell",
     "gravatar": "https://avatars0.githubusercontent.com/u/624793?v=3&s=400",
     "followers": 1,
-    "organizations": [],
-    "contributions": 11,
-    "contributionsStreak": 2,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Pedro Tomás",
-    "login": "TommyHernandez",
-    "location": "Granada",
-    "language": "JavaScript",
-    "gravatar": "https://avatars0.githubusercontent.com/u/9032948?v=3&s=400",
-    "followers": 2,
     "organizations": [],
     "contributions": 11,
     "contributionsStreak": 2,
@@ -1489,15 +1489,15 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Rafa Leblic",
-    "login": "malfario",
+    "name": "Pedro Tomás",
+    "login": "TommyHernandez",
     "location": "Granada",
-    "language": "Clojure",
-    "gravatar": "https://avatars2.githubusercontent.com/u/414186?v=3&s=400",
-    "followers": 1,
+    "language": "JavaScript",
+    "gravatar": "https://avatars0.githubusercontent.com/u/9032948?v=3&s=400",
+    "followers": 2,
     "organizations": [],
     "contributions": 11,
-    "contributionsStreak": 1,
+    "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
   {
@@ -1508,20 +1508,8 @@
     "gravatar": "https://avatars1.githubusercontent.com/u/281185?v=3&s=400",
     "followers": 18,
     "organizations": [],
-    "contributions": 9,
+    "contributions": 10,
     "contributionsStreak": 1,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Pablo Castelnovo",
-    "login": "pablonvz",
-    "location": "Granada - Spain",
-    "language": "Assembly",
-    "gravatar": "https://avatars3.githubusercontent.com/u/4595771?v=3&s=400",
-    "followers": 1,
-    "organizations": [],
-    "contributions": 9,
-    "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
   {
@@ -1551,18 +1539,6 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Antonio Romero",
-    "login": "antonioromero",
-    "location": "Granada",
-    "language": "JavaScript",
-    "gravatar": "https://avatars1.githubusercontent.com/u/1826617?v=3&s=400",
-    "followers": 1,
-    "organizations": [],
-    "contributions": 9,
-    "contributionsStreak": 2,
-    "contributionsCurrentStreak": 0
-  },
-  {
     "name": "Antonio Castillo Lora",
     "login": "kamuisaeba",
     "location": "Granada",
@@ -1575,15 +1551,27 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Francisco Lupión Villegas",
-    "login": "soyellupi",
-    "location": "Granada, Spain",
-    "language": "JavaScript",
-    "gravatar": "https://avatars1.githubusercontent.com/u/1446469?v=3&s=400",
-    "followers": 2,
+    "name": "Antonio Romero",
+    "login": "antonioromero",
+    "location": "Granada",
+    "language": "Shell",
+    "gravatar": "https://avatars1.githubusercontent.com/u/1826617?v=3&s=400",
+    "followers": 1,
     "organizations": [],
-    "contributions": 8,
-    "contributionsStreak": 1,
+    "contributions": 9,
+    "contributionsStreak": 2,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Pablo Castelnovo",
+    "login": "pablonvz",
+    "location": "Granada - Spain",
+    "language": "Assembly",
+    "gravatar": "https://avatars3.githubusercontent.com/u/4595771?v=3&s=400",
+    "followers": 1,
+    "organizations": [],
+    "contributions": 9,
+    "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
   {
@@ -1599,14 +1587,14 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Jose M. Ibáñez",
-    "login": "ppmim",
-    "location": "Granada(Spain)",
-    "language": "Python",
-    "gravatar": "https://avatars1.githubusercontent.com/u/44784?v=3&s=400",
-    "followers": 1,
+    "name": "Francisco Lupión Villegas",
+    "login": "soyellupi",
+    "location": "Granada, Spain",
+    "language": "JavaScript",
+    "gravatar": "https://avatars1.githubusercontent.com/u/1446469?v=3&s=400",
+    "followers": 2,
     "organizations": [],
-    "contributions": 7,
+    "contributions": 8,
     "contributionsStreak": 1,
     "contributionsCurrentStreak": 0
   },
@@ -1616,6 +1604,18 @@
     "location": "Granada, Spain",
     "language": "",
     "gravatar": "https://avatars1.githubusercontent.com/u/3717527?v=3&s=400",
+    "followers": 1,
+    "organizations": [],
+    "contributions": 7,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Jose M. Ibáñez",
+    "login": "ppmim",
+    "location": "Granada(Spain)",
+    "language": "Python",
+    "gravatar": "https://avatars1.githubusercontent.com/u/44784?v=3&s=400",
     "followers": 1,
     "organizations": [],
     "contributions": 7,
@@ -1647,18 +1647,6 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Raúl López Cárdenas",
-    "login": "rlopc",
-    "location": "Granada",
-    "language": "Matlab",
-    "gravatar": "https://avatars2.githubusercontent.com/u/4123661?v=3&s=400",
-    "followers": 3,
-    "organizations": [],
-    "contributions": 5,
-    "contributionsStreak": 1,
-    "contributionsCurrentStreak": 0
-  },
-  {
     "name": "Emilio Morilla",
     "login": "EmilioMN92",
     "location": "Granada / Ceuta",
@@ -1683,26 +1671,26 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "JM Robles",
-    "login": "jmrobles",
+    "name": "Raúl López Cárdenas",
+    "login": "rlopc",
     "location": "Granada",
-    "language": "Python",
-    "gravatar": "https://avatars2.githubusercontent.com/u/1277154?v=3&s=400",
-    "followers": 2,
+    "language": "Matlab",
+    "gravatar": "https://avatars2.githubusercontent.com/u/4123661?v=3&s=400",
+    "followers": 3,
     "organizations": [],
-    "contributions": 4,
-    "contributionsStreak": 2,
+    "contributions": 5,
+    "contributionsStreak": 1,
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "stringparser",
-    "login": "javiermsi",
-    "location": "Granada, Spain",
-    "language": "CSS",
-    "gravatar": "https://avatars0.githubusercontent.com/u/3058712?v=3&s=400",
+    "name": "Andrés Gallardo",
+    "login": "Maverick94",
+    "location": "Spain, Granada",
+    "language": "PHP",
+    "gravatar": "https://avatars0.githubusercontent.com/u/8240032?v=3&s=400",
     "followers": 1,
     "organizations": [],
-    "contributions": 4,
+    "contributions": 5,
     "contributionsStreak": 1,
     "contributionsCurrentStreak": 0
   },
@@ -1731,47 +1719,35 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Benoit Rat",
-    "login": "neub",
-    "location": "Granada",
-    "language": "Python",
-    "gravatar": "https://avatars1.githubusercontent.com/u/1737009?v=3&s=400",
-    "followers": 5,
-    "organizations": [],
-    "contributions": 3,
-    "contributionsStreak": 1,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Pablo Martin",
-    "login": "aW4KeNiNG",
+    "name": "stringparser",
+    "login": "javiermsi",
     "location": "Granada, Spain",
-    "language": "ActionScript",
-    "gravatar": "https://avatars3.githubusercontent.com/u/1063719?v=3&s=400",
-    "followers": 3,
-    "organizations": [],
-    "contributions": 3,
-    "contributionsStreak": 1,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Pablo Navarro",
-    "login": "Skeptor",
-    "location": "Granada",
-    "language": "C++ and Java",
-    "gravatar": "https://avatars2.githubusercontent.com/u/9034923?v=3&s=400",
+    "language": "CSS",
+    "gravatar": "https://avatars0.githubusercontent.com/u/3058712?v=3&s=400",
     "followers": 1,
     "organizations": [],
-    "contributions": 3,
+    "contributions": 4,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "JM Robles",
+    "login": "jmrobles",
+    "location": "Granada",
+    "language": "Python",
+    "gravatar": "https://avatars2.githubusercontent.com/u/1277154?v=3&s=400",
+    "followers": 2,
+    "organizations": [],
+    "contributions": 4,
     "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Pascual Pérez Abella",
-    "login": "gomio",
-    "location": "Granada, Spain",
-    "language": "Lua",
-    "gravatar": "https://avatars2.githubusercontent.com/u/5903124?v=3&s=400",
+    "name": "Ramón Pérez",
+    "login": "rperezperez",
+    "location": "Granada",
+    "language": "Ruby",
+    "gravatar": "https://avatars0.githubusercontent.com/u/39814?v=3&s=400",
     "followers": 1,
     "organizations": [],
     "contributions": 3,
@@ -1791,15 +1767,39 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Ramón Pérez",
-    "login": "rperezperez",
+    "name": "Benoit Rat",
+    "login": "neub",
     "location": "Granada",
-    "language": "Ruby",
-    "gravatar": "https://avatars0.githubusercontent.com/u/39814?v=3&s=400",
+    "language": "Python",
+    "gravatar": "https://avatars1.githubusercontent.com/u/1737009?v=3&s=400",
+    "followers": 5,
+    "organizations": [],
+    "contributions": 3,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Pascual Pérez Abella",
+    "login": "gomio",
+    "location": "Granada, Spain",
+    "language": "Lua",
+    "gravatar": "https://avatars2.githubusercontent.com/u/5903124?v=3&s=400",
     "followers": 1,
     "organizations": [],
     "contributions": 3,
     "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Pablo Navarro",
+    "login": "Skeptor",
+    "location": "Granada",
+    "language": "C++ and Java",
+    "gravatar": "https://avatars2.githubusercontent.com/u/9034923?v=3&s=400",
+    "followers": 1,
+    "organizations": [],
+    "contributions": 3,
+    "contributionsStreak": 2,
     "contributionsCurrentStreak": 0
   },
   {
@@ -1815,11 +1815,23 @@
     "contributionsCurrentStreak": 0
   },
   {
-    "name": "Andrés Gallardo",
-    "login": "Maverick94",
-    "location": "Spain, Granada",
-    "language": "Java",
-    "gravatar": "https://avatars0.githubusercontent.com/u/8240032?v=3&s=400",
+    "name": "Pablo Martin",
+    "login": "aW4KeNiNG",
+    "location": "Granada, Spain",
+    "language": "ActionScript",
+    "gravatar": "https://avatars3.githubusercontent.com/u/1063719?v=3&s=400",
+    "followers": 3,
+    "organizations": [],
+    "contributions": 3,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Mer Alba",
+    "login": "MercAddons",
+    "location": "Granada",
+    "language": "",
+    "gravatar": "https://avatars3.githubusercontent.com/u/7121033?v=3&s=400",
     "followers": 1,
     "organizations": [],
     "contributions": 2,
@@ -1833,18 +1845,6 @@
     "language": "TeX",
     "gravatar": "https://avatars0.githubusercontent.com/u/2777458?v=3&s=400",
     "followers": 4,
-    "organizations": [],
-    "contributions": 2,
-    "contributionsStreak": 1,
-    "contributionsCurrentStreak": 0
-  },
-  {
-    "name": "Mer Alba",
-    "login": "MercAddons",
-    "location": "Granada",
-    "language": "",
-    "gravatar": "https://avatars3.githubusercontent.com/u/7121033?v=3&s=400",
-    "followers": 1,
     "organizations": [],
     "contributions": 2,
     "contributionsStreak": 1,
