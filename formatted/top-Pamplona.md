@@ -6,7 +6,7 @@
 
 | Tables   |      Are      |  Cool | Yes | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|-----|----------|:-------------:|------:|
-|  | karlosgliberal | 617 | 20 | JavaScript | pamplona/iruña | ![u.name](https://avatars3.githubusercontent.com/u/200922?v=3&s=400) | 
+| 1 | karlosgliberal | 617 | 20 | JavaScript | pamplona/iruña | ![Karlos](https://avatars3.githubusercontent.com/u/200922?v=3&s=400) | 
 
-|  | aitoroses | 165 | 151 | JavaScript | Pamplona, Spain | ![u.name](https://avatars0.githubusercontent.com/u/1699368?v=3&s=400) | 
+| 2 | aitoroses | 165 | 151 | JavaScript | Pamplona, Spain | ![Alguien](https://avatars0.githubusercontent.com/u/1699368?v=3&s=400) | 
 
