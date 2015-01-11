@@ -1,0 +1,28 @@
+{
+  "name": "top-github-users-data",
+  "version": "0.0.2",
+  "description": "Data for GitHub city rankings",
+  "main": "collect-AND.js",
+  "dependencies": {
+    "csv": "^0.4.1",
+    "csv-parse": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JJ/top-github-users-data.git"
+  },
+  "keywords": [
+    "github",
+    "metrics"
+  ],
+  "author": "JJ Merelo",
+  "license": "Artistic",
+  "bugs": {
+    "url": "https://github.com/JJ/top-github-users-data/issues"
+  },
+  "homepage": "https://github.com/JJ/top-github-users-data"
+}
