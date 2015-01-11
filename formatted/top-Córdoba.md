@@ -1,6 +1,6 @@
 # Usuarios de GitHub más activos en Córdoba ([http://git.io/top-gh](http://git.io/top-gh))
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 11 Jan 2014 09:53:53 GMT** hasta **Sun, 11 Jan 2015 09:53:53 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 11 Jan 2014 16:54:30 GMT** hasta **Sun, 11 Jan 2015 16:54:30 GMT**.
 
   Hecho usando el API de GitHub.com ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io). Actualizado de vez en cuando.
 
@@ -11,7 +11,7 @@
 | 3 | [fbobbio](https://github.com/fbobbio) | 261 | 1 | JavaScript | Córdoba | ![Federico Bobbio](https://avatars3.githubusercontent.com/u/5701629?v=3&s=64) |
 | 4 | [sgomez](https://github.com/sgomez) | 209 | 15 | PHP | Córdoba, Spain | ![Sergio Gómez](https://avatars3.githubusercontent.com/u/580701?v=3&s=64) |
 | 5 | [danigm](https://github.com/danigm) | 198 | 71 | Python | Córdoba (España) | ![danigm](https://avatars0.githubusercontent.com/u/50350?v=3&s=64) |
-| 6 | [victor1995mv](https://github.com/victor1995mv) | 173 | 0 | CSS and JavaScript | Córdoba, Spain | ![Víctor Monserrat Villatoro](https://avatars1.githubusercontent.com/u/9074569?v=3&s=64) |
+| 6 | [victor1995mv](https://github.com/victor1995mv) | 179 | 0 | CSS and JavaScript | Córdoba, Spain | ![Víctor Monserrat Villatoro](https://avatars1.githubusercontent.com/u/9074569?v=3&s=64) |
 | 7 | [LuqueDaniel](https://github.com/LuqueDaniel) | 141 | 22 | Python | Córdoba - Spain | ![Daniel Luque](https://avatars3.githubusercontent.com/u/1286535?v=3&s=64) |
 | 8 | [dongrego89](https://github.com/dongrego89) | 129 | 0 | C | Córdoba | ![Grego Corpas](https://avatars2.githubusercontent.com/u/9352874?v=3&s=64) |
 | 9 | [joscani](https://github.com/joscani) | 120 | 0 | R | Córdoba, Spain | ![José L. Cañadas-Reche](https://avatars3.githubusercontent.com/u/1321194?v=3&s=64) |
@@ -25,8 +25,8 @@
 | 17 | [dariomolina](https://github.com/dariomolina) | 56 | 0 | Python | Cordoba | ![Dario Molina](https://avatars3.githubusercontent.com/u/7349981?v=3&s=64) |
 | 18 | [arandaio](https://github.com/arandaio) | 55 | 0 | JavaScript | Córdoba, España | ![Javier Aranda](https://avatars2.githubusercontent.com/u/99700?v=3&s=64) |
 | 19 | [i32petoj](https://github.com/i32petoj) | 54 | 0 | Makefile | Córdoba, Spain | ![Jose Perez-Parras Toledano](https://avatars2.githubusercontent.com/u/7397474?v=3&s=64) |
-| 20 | [jmjurado23](https://github.com/jmjurado23) | 49 | 3 | Java | Córdoba | ![Juanma jurado](https://avatars2.githubusercontent.com/u/2104220?v=3&s=64) |
-| 21 | [pedroparra](https://github.com/pedroparra) | 48 | 0 | JavaScript and CSS | Cordoba | ![Pedro Jesús Parra Canteo](https://avatars2.githubusercontent.com/u/3930607?v=3&s=64) |
+| 20 | [pedroparra](https://github.com/pedroparra) | 49 | 0 | JavaScript and CSS | Cordoba | ![Pedro Jesús Parra Canteo](https://avatars2.githubusercontent.com/u/3930607?v=3&s=64) |
+| 21 | [jmjurado23](https://github.com/jmjurado23) | 49 | 3 | Java | Córdoba | ![Juanma jurado](https://avatars2.githubusercontent.com/u/2104220?v=3&s=64) |
 | 22 | [sjcazzol](https://github.com/sjcazzol) | 48 | 0 | Python | Córdoba | ![Sergio Cazzolato](https://avatars0.githubusercontent.com/u/5382983?v=3&s=64) |
 | 23 | [ivanportillo](https://github.com/ivanportillo) | 45 | 0 | CSS and JavaScript | Córdoba, Spain | ![Iván Portillo](https://avatars2.githubusercontent.com/u/6381225?v=3&s=64) |
 | 24 | [grhs](https://github.com/grhs) | 43 | 0 | JavaScript | Córdoba Spain | ![Francisco Javier Jiménez Urbano](https://avatars1.githubusercontent.com/u/2565114?v=3&s=64) |
@@ -52,21 +52,21 @@
 | 44 | [sergiogomez](https://github.com/sergiogomez) | 11 | 19 | Ruby | Córdoba | ![Sergio Gómez](https://avatars3.githubusercontent.com/u/36518?v=3&s=64) |
 | 45 | [m92moalj](https://github.com/m92moalj) | 9 | 3 | C | Córdoba | ![Jorge](https://avatars2.githubusercontent.com/u/9365745?v=3&s=64) |
 | 46 | [hcentelles](https://github.com/hcentelles) | 8 | 0 | JavaScript | Córdoba | ![Hiram Centelles Rodríguez](https://avatars1.githubusercontent.com/u/26359?v=3&s=64) |
-| 47 | [oscardiazolivares](https://github.com/oscardiazolivares) | 8 | 2 | Java | Córdoba (Spain) | ![Óscar Díaz Olivares](https://avatars1.githubusercontent.com/u/608528?v=3&s=64) |
-| 48 | [javivelasco](https://github.com/javivelasco) | 8 | 9 | JavaScript | Córdoba, Spain | ![Javi Velasco](https://avatars0.githubusercontent.com/u/1634922?v=3&s=64) |
-| 49 | [ejimenez](https://github.com/ejimenez) | 7 | 1 | JavaScript | Córdoba | ![Emilio Jiménez](https://avatars3.githubusercontent.com/u/309359?v=3&s=64) |
-| 50 | [mialto](https://github.com/mialto) | 7 | 2 | CSS | Córdoba España | ![Miguel Ángel López Torralba](https://avatars1.githubusercontent.com/u/4123166?v=3&s=64) |
-| 51 | [rjgarciadelpino](https://github.com/rjgarciadelpino) | 7 | 1 | JavaScript | Córdoba | ![Rafael Garcia](https://avatars2.githubusercontent.com/u/453697?v=3&s=64) |
+| 47 | [javivelasco](https://github.com/javivelasco) | 8 | 9 | JavaScript | Córdoba, Spain | ![Javi Velasco](https://avatars0.githubusercontent.com/u/1634922?v=3&s=64) |
+| 48 | [oscardiazolivares](https://github.com/oscardiazolivares) | 8 | 2 | Java | Córdoba (Spain) | ![Óscar Díaz Olivares](https://avatars1.githubusercontent.com/u/608528?v=3&s=64) |
+| 49 | [mialto](https://github.com/mialto) | 7 | 2 | CSS | Córdoba España | ![Miguel Ángel López Torralba](https://avatars1.githubusercontent.com/u/4123166?v=3&s=64) |
+| 50 | [rjgarciadelpino](https://github.com/rjgarciadelpino) | 7 | 1 | JavaScript | Córdoba | ![Rafael Garcia](https://avatars2.githubusercontent.com/u/453697?v=3&s=64) |
+| 51 | [jmherruzo](https://github.com/jmherruzo) | 7 | 0 | C and Shell | Añora, Córdoba | ![José Manuel Herruzo Ruiz](https://avatars0.githubusercontent.com/u/1583515?v=3&s=64) |
 | 52 | [emorenopamos](https://github.com/emorenopamos) | 7 | 0 | Java | Torredonjimeno (Jaén)// Córdoba | ![Estefanía Moreno Pamos](https://avatars2.githubusercontent.com/u/7520581?v=3&s=64) |
-| 53 | [jmherruzo](https://github.com/jmherruzo) | 7 | 0 | C and Shell | Añora, Córdoba | ![José Manuel Herruzo Ruiz](https://avatars0.githubusercontent.com/u/1583515?v=3&s=64) |
+| 53 | [ejimenez](https://github.com/ejimenez) | 7 | 1 | JavaScript | Córdoba | ![Emilio Jiménez](https://avatars3.githubusercontent.com/u/309359?v=3&s=64) |
 | 54 | [dariopalminio](https://github.com/dariopalminio) | 6 | 2 | Java | Córdoba | ![Dario Palminio](https://avatars3.githubusercontent.com/u/1761208?v=3&s=64) |
-| 55 | [d13sasap](https://github.com/d13sasap) | 5 | 0 | Java and CSS | Córdoba | ![Pablo](https://avatars3.githubusercontent.com/u/7520614?v=3&s=64) |
-| 56 | [PetterKun](https://github.com/PetterKun) | 5 | 4 | CSS | Córdoba | ![Pedro Daniel](https://avatars3.githubusercontent.com/u/1713234?v=3&s=64) |
-| 57 | [rafasalas](https://github.com/rafasalas) | 5 | 0 | Processing | Córdoba (Spain) | ![Rafael Salas Solís](https://avatars1.githubusercontent.com/u/3912518?v=3&s=64) |
-| 58 | [lbertalot](https://github.com/lbertalot) | 5 | 0 | PHP | Córdoba | ![Leandro Bertalot](https://avatars0.githubusercontent.com/u/3768857?v=3&s=64) |
+| 55 | [rafasalas](https://github.com/rafasalas) | 5 | 0 | Processing | Córdoba (Spain) | ![Rafael Salas Solís](https://avatars1.githubusercontent.com/u/3912518?v=3&s=64) |
+| 56 | [d13sasap](https://github.com/d13sasap) | 5 | 0 | Java and CSS | Córdoba | ![Pablo](https://avatars3.githubusercontent.com/u/7520614?v=3&s=64) |
+| 57 | [lbertalot](https://github.com/lbertalot) | 5 | 0 | PHP | Córdoba | ![Leandro Bertalot](https://avatars0.githubusercontent.com/u/3768857?v=3&s=64) |
+| 58 | [PetterKun](https://github.com/PetterKun) | 5 | 4 | CSS | Córdoba | ![Pedro Daniel](https://avatars3.githubusercontent.com/u/1713234?v=3&s=64) |
 | 59 | [eme1980](https://github.com/eme1980) | 4 | 0 | JavaScript and CoffeeScript | Córdoba | ![Miguel Pérez García](https://avatars1.githubusercontent.com/u/770132?v=3&s=64) |
 | 60 | [davidmerinas](https://github.com/davidmerinas) | 3 | 2 | PHP | Córdoba (Spain) | ![David Merinas](https://avatars0.githubusercontent.com/u/2000145?v=3&s=64) |
 | 61 | [shokimc](https://github.com/shokimc) | 3 | 0 | PHP | Córdoba, España | ![Laura López Burgos](https://avatars3.githubusercontent.com/u/7115021?v=3&s=64) |
-| 62 | [sergiormb](https://github.com/sergiormb) | 1 | 0 | CSS and JavaScript | Córdoba | ![Sergio Pino Márquez](https://avatars1.githubusercontent.com/u/5666748?v=3&s=64) |
-| 63 | [diegojmaldonado](https://github.com/diegojmaldonado) | 1 | 0 | CSS | Córdoba | ![Diego](https://avatars1.githubusercontent.com/u/2761838?v=3&s=64) |
-| 64 | [PascualArroyo](https://github.com/PascualArroyo) | 1 | 0 | Objective-C and Arduino | Córdoba | ![Pascual](https://avatars2.githubusercontent.com/u/3986317?v=3&s=64) |
+| 62 | [diegojmaldonado](https://github.com/diegojmaldonado) | 1 | 0 | CSS | Córdoba | ![Diego](https://avatars1.githubusercontent.com/u/2761838?v=3&s=64) |
+| 63 | [PascualArroyo](https://github.com/PascualArroyo) | 1 | 0 | Objective-C and Arduino | Córdoba | ![Pascual](https://avatars2.githubusercontent.com/u/3986317?v=3&s=64) |
+| 64 | [sergiormb](https://github.com/sergiormb) | 1 | 0 | CSS and JavaScript | Córdoba | ![Sergio Pino Márquez](https://avatars1.githubusercontent.com/u/5666748?v=3&s=64) |
