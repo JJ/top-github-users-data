@@ -10,9 +10,10 @@ This has been done using the GitHub API ([data directory](https://github.com/JJ/
 
 ==Index==
 
+* [alt-Spain.md](formatted/top-alt-Spain.md)
+
 * [Alicante.md](formatted/top-Alicante.md)
 * [Almería.md](formatted/top-Almería.md)
-* [alt-Spain.md](formatted/top-alt-Spain.md)
 * [Asturias.md](formatted/top-Asturias.md)
 * [Baleares.md](formatted/top-Baleares.md)
 * [Barcelona.md](formatted/top-Barcelona.md)
