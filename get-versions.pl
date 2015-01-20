@@ -50,7 +50,6 @@ sub extract_data {
     for my $column ( @columns ) {
       ( $totals->{$column} += $u->{$column} ) if $u->{$column};
     }
-    say "$u->{login} $totals->{stars}";
   }
   my @row = ( $users );
   for my $column ( @columns ) {
