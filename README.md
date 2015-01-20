@@ -8,7 +8,8 @@ Hecho usando el API de GitHub ([datos en otro directorio](https://github.com/JJ/
 
 This has been done using the GitHub API ([data directory](https://github.com/JJ/top-github-users-data/tree/master/data), [script project](https://github.com/JJ/top-github-users)) adapted from [@paulmillr](http://twitter.com/paulmillr) work with contributions from [@lifesinger](http://twitter.com/) and adaptation by JJ with contributions from [Benito Palacios @pleonex](http://twitter.com/pleonex). Updated from time to time.
 
-==Index==
+Index
+-----
 
 * [alt-Spain.md](formatted/top-alt-Spain.md)
 
