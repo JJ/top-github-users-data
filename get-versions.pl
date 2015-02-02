@@ -9,12 +9,11 @@ use JSON;
 use Git;
 use File::Slurp::Tiny qw(read_file);
 
-my $file = shift || die "Uso: $0 <fichero>\n";
+my $file = shift || die "Usage: $0 <fichero> [git directory] [Baseline file (not in repo)]\n";
 my $dir = shift || ".";
 my $baseline = shift; 
 
 my $repo = Git->repository (Directory => $dir);
-
 
 my @revs = $repo->command('rev-list', '--all', '--', $file);
 my @data;
