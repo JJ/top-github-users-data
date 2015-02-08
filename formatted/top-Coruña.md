@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Mon, 03 Feb 2014 07:14:22 GMT** hasta **Tue, 03 Feb 2015 07:14:22 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 08 Feb 2014 10:06:31 GMT** hasta **Sun, 08 Feb 2015 10:06:31 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
 
@@ -11,63 +11,96 @@
 
 | Puesto   |      Usuario      |  Contribuciones | Stars | Lenguajes   |      Lugar      |  Avatar |
 |----------|:-----------------:|----------------:|-------|-------------|:---------------:|---------|
-| 1 | [ctemescw](https://github.com/ctemescw) | 447 | 7 | CSS | A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/7196387?v=3&s=64' width='64' height='64' title='Carlos Temes'> |
-| 2 | [kewelinho](https://github.com/kewelinho) | 359 | 1 | JavaScript | A coruña | <img src='https://avatars1.githubusercontent.com/u/4988013?v=3&s=64' width='64' height='64' title='Adrian'> |
+| 1 | [ctemescw](https://github.com/ctemescw) | 452 | 7 | CSS | A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/7196387?v=3&s=64' width='64' height='64' title='Carlos Temes'> |
+| 2 | [kewelinho](https://github.com/kewelinho) | 361 | 1 | JavaScript | A coruña | <img src='https://avatars1.githubusercontent.com/u/4988013?v=3&s=64' width='64' height='64' title='Adrian'> |
 | 3 | [chavaone](https://github.com/chavaone) | 348 | 17 | JavaScript | A Coruña, Galiza | <img src='https://avatars2.githubusercontent.com/u/944290?v=3&s=64' width='64' height='64' title='Marcos Chavarría Teijeiro'> |
 | 4 | [moreda](https://github.com/moreda) | 338 | 5 | Scheme | A Coruña, Spain | <img src='https://avatars1.githubusercontent.com/u/3899078?v=3&s=64' width='64' height='64' title='Roberto Moreda'> |
-| 5 | [jesusprubio](https://github.com/jesusprubio) | 261 | 99 | JavaScript | A Coruña | <img src='https://avatars2.githubusercontent.com/u/2753855?v=3&s=64' width='64' height='64' title='Jesús Pérez'> |
+| 5 | [jesusprubio](https://github.com/jesusprubio) | 263 | 99 | JavaScript | A Coruña | <img src='https://avatars2.githubusercontent.com/u/2753855?v=3&s=64' width='64' height='64' title='Jesús Pérez'> |
 | 6 | [dalareo](https://github.com/dalareo) | 226 | 0 | Python | A Coruña (Galiza) | <img src='https://avatars1.githubusercontent.com/u/919861?v=3&s=64' width='64' height='64' title='David A. Lareo'> |
 | 7 | [rcoedo](https://github.com/rcoedo) | 193 | 1 | Shell | A Coruña | <img src='https://avatars0.githubusercontent.com/u/6409659?v=3&s=64' width='64' height='64' title='Roman Coedo'> |
-| 8 | [carlosabalde](https://github.com/carlosabalde) | 149 | 22 | Shell | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/342614?v=3&s=64' width='64' height='64' title='Carlos Abalde'> |
-| 9 | [pabloformoso](https://github.com/pabloformoso) | 149 | 24 | Java | Oleiros, Coruña (España) | <img src='https://avatars3.githubusercontent.com/u/10286?v=3&s=64' width='64' height='64' title='Pablo Formoso Estrada'> |
-| 10 | [joedicastro](https://github.com/joedicastro) | 144 | 528 | Python | A Coruña, Spain | <img src='https://avatars1.githubusercontent.com/u/390964?v=3&s=64' width='64' height='64' title='joe di castro'> |
-| 11 | [mandrewcito](https://github.com/mandrewcito) | 142 | 0 | Python | A coruña | <img src='https://avatars3.githubusercontent.com/u/5717177?v=3&s=64' width='64' height='64' title='mandrewcito'> |
-| 12 | [jbgutierrez](https://github.com/jbgutierrez) | 139 | 55 | Ruby | A Coruña, Galicia, España | <img src='https://avatars3.githubusercontent.com/u/24221?v=3&s=64' width='64' height='64' title='Javier Blanco Gutiérrez'> |
-| 13 | [nosolosw](https://github.com/nosolosw) | 118 | 4 | JavaScript | Lugo / A Coruña | <img src='https://avatars3.githubusercontent.com/u/583546?v=3&s=64' width='64' height='64' title='Andrés Maneiro'> |
-| 14 | [tak30](https://github.com/tak30) | 105 | 0 | Python | A Coruña | <img src='https://avatars2.githubusercontent.com/u/5324370?v=3&s=64' width='64' height='64' title='Pablo López'> |
-| 15 | [nakome](https://github.com/nakome) | 102 | 3 | JavaScript | La Coruña | <img src='https://avatars3.githubusercontent.com/u/1788655?v=3&s=64' width='64' height='64' title='Moncho Varela'> |
-| 16 | [davidgf](https://github.com/davidgf) | 90 | 1 | JavaScript | A Coruña | <img src='https://avatars1.githubusercontent.com/u/1116005?v=3&s=64' width='64' height='64' title='David García'> |
-| 17 | [adrycerdeiro](https://github.com/adrycerdeiro) | 88 | 1 | Python | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/6393293?v=3&s=64' width='64' height='64' title='Adrián Cerdeiro'> |
-| 18 | [clopez](https://github.com/clopez) | 87 | 19 | Shell | A Coruña | <img src='https://avatars1.githubusercontent.com/u/221181?v=3&s=64' width='64' height='64' title='Carlos Alberto Lopez Perez'> |
-| 19 | [dvalcarce](https://github.com/dvalcarce) | 86 | 5 | Python | A Coruña, Spain | <img src='https://avatars1.githubusercontent.com/u/2798631?v=3&s=64' width='64' height='64' title='Daniel Valcarce'> |
-| 20 | [asis](https://github.com/asis) | 83 | 11 | CSS | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/10604?v=3&s=64' width='64' height='64' title='Asís García'> |
-| 21 | [castrinho8](https://github.com/castrinho8) | 82 | 1 | C | A Coruña | <img src='https://avatars2.githubusercontent.com/u/4258001?v=3&s=64' width='64' height='64' title='Pablo Castro'> |
-| 22 | [lauramcastro](https://github.com/lauramcastro) | 61 | 6 | Erlang | A Coruña, Spain | <img src='https://avatars1.githubusercontent.com/u/430933?v=3&s=64' width='64' height='64' title=''> |
-| 23 | [muntisa](https://github.com/muntisa) | 59 | 1 | Python and R | A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/6866303?v=3&s=64' width='64' height='64' title='Cristian R Munteanu'> |
-| 24 | [ssaavedra](https://github.com/ssaavedra) | 53 | 10 | Shell | A Coruña, Spain | <img src='https://avatars1.githubusercontent.com/u/581152?v=3&s=64' width='64' height='64' title='Santiago Saavedra'> |
-| 25 | [mmontes11](https://github.com/mmontes11) | 51 | 13 | CSS | A Coruña | <img src='https://avatars2.githubusercontent.com/u/4168911?v=3&s=64' width='64' height='64' title='Martín Montes'> |
-| 26 | [davidbarral](https://github.com/davidbarral) | 51 | 11 | Ruby | A Coruña, Spain | <img src='https://avatars0.githubusercontent.com/u/8909?v=3&s=64' width='64' height='64' title='David Barral'> |
-| 27 | [DaniMunin](https://github.com/DaniMunin) | 51 | 0 | Python | A Coruña / Pontevedra | <img src='https://avatars1.githubusercontent.com/u/1942991?v=3&s=64' width='64' height='64' title='Daniel Munín González'> |
-| 28 | [adriannovegil](https://github.com/adriannovegil) | 50 | 1 | Java | A Coruña | <img src='https://avatars0.githubusercontent.com/u/2421793?v=3&s=64' width='64' height='64' title='Adrian'> |
-| 29 | [nbarreira](https://github.com/nbarreira) | 43 | 2 | Python | Coruña | <img src='https://avatars0.githubusercontent.com/u/5663245?v=3&s=64' width='64' height='64' title='Noelia'> |
-| 30 | [donmik](https://github.com/donmik) | 40 | 18 | JavaScript | A Coruña | <img src='https://avatars3.githubusercontent.com/u/771108?v=3&s=64' width='64' height='64' title='Miguel'> |
-| 31 | [xoan](https://github.com/xoan) | 36 | 38 | JavaScript | A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/288246?v=3&s=64' width='64' height='64' title='Xoan Sampaiño'> |
-| 32 | [ivangsa](https://github.com/ivangsa) | 30 | 8 | Java | A Coruña, Galicia, Spain (GMT+1) | <img src='https://avatars3.githubusercontent.com/u/1246876?v=3&s=64' width='64' height='64' title='Iván García Sainz-Aja'> |
-| 33 | [megalomono](https://github.com/megalomono) | 30 | 0 | Ruby | A Coruña | <img src='https://avatars1.githubusercontent.com/u/2573476?v=3&s=64' width='64' height='64' title='Fonso'> |
-| 34 | [juanfont](https://github.com/juanfont) | 29 | 3 | Python | A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/181059?v=3&s=64' width='64' height='64' title='Juan Font'> |
-| 35 | [andion](https://github.com/andion) | 29 | 8 | Ruby | A Coruña, España | <img src='https://avatars0.githubusercontent.com/u/20295?v=3&s=64' width='64' height='64' title='Lucas Andión Montáns'> |
-| 36 | [danidiaz](https://github.com/danidiaz) | 27 | 22 | Haskell | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/1136927?v=3&s=64' width='64' height='64' title='Daniel Díaz Carrete'> |
-| 37 | [brainsqueezer](https://github.com/brainsqueezer) | 27 | 44 | PHP | Coruña, Spain | <img src='https://avatars0.githubusercontent.com/u/154789?v=3&s=64' width='64' height='64' title='Ramon Antonio Parada'> |
-| 38 | [oslcixug](https://github.com/oslcixug) | 24 | 7 | Shell | Santiago de Compostela, A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/7313377?v=3&s=64' width='64' height='64' title='Oficina de software libre'> |
-| 39 | [javifernandez](https://github.com/javifernandez) | 22 | 15 | JavaScript | A Coruña | <img src='https://avatars2.githubusercontent.com/u/2230241?v=3&s=64' width='64' height='64' title='Javier Fernandez Garcia-Boente'> |
-| 40 | [rafbermudez](https://github.com/rafbermudez) | 21 | 0 | JavaScript | Arteixo ( A Coruña ) | <img src='https://avatars1.githubusercontent.com/u/3406424?v=3&s=64' width='64' height='64' title='Rafael Bermúdez Míguez'> |
-| 41 | [maciaslopez](https://github.com/maciaslopez) | 16 | 1 | Erlang | A Coruña (Galiza) | <img src='https://avatars3.githubusercontent.com/u/4182653?v=3&s=64' width='64' height='64' title='Macías López'> |
-| 42 | [calvaris](https://github.com/calvaris) | 15 | 0 | Shell | A Coruña | <img src='https://avatars0.githubusercontent.com/u/1021526?v=3&s=64' width='64' height='64' title='Xabier Rodríguez'> |
-| 43 | [edupoch](https://github.com/edupoch) | 13 | 2 | JavaScript and PHP | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/905452?v=3&s=64' width='64' height='64' title='Edu Poch'> |
-| 44 | [sonxurxo](https://github.com/sonxurxo) | 13 | 1 | Objective-C | A Coruña | <img src='https://avatars2.githubusercontent.com/u/66216?v=3&s=64' width='64' height='64' title='Xurxo Méndez Pérez'> |
-| 45 | [jesusropi](https://github.com/jesusropi) | 11 | 0 | JavaScript | Coruña | <img src='https://avatars3.githubusercontent.com/u/2021412?v=3&s=64' width='64' height='64' title='Jesús'> |
-| 46 | [mdaguete](https://github.com/mdaguete) | 9 | 86 | Erlang | A Coruña (Spain) | <img src='https://avatars3.githubusercontent.com/u/95497?v=3&s=64' width='64' height='64' title='Manuel Durán Aguete'> |
-| 47 | [javierev](https://github.com/javierev) | 7 | 2 | Java | A Coruña | <img src='https://avatars3.githubusercontent.com/u/941525?v=3&s=64' width='64' height='64' title='Javier Estévez'> |
-| 48 | [erubio](https://github.com/erubio) | 6 | 2 | JavaScript | Coruña | <img src='https://avatars3.githubusercontent.com/u/485760?v=3&s=64' width='64' height='64' title='Ezequiel Rubio'> |
-| 49 | [txenoo](https://github.com/txenoo) | 5 | 0 |  | Coruña | <img src='https://avatars1.githubusercontent.com/u/5470067?v=3&s=64' width='64' height='64' title='Chema Casanova'> |
-| 50 | [alopezvillaverde](https://github.com/alopezvillaverde) | 5 | 0 |  | A Coruña | <img src='https://avatars3.githubusercontent.com/u/4717569?v=3&s=64' width='64' height='64' title='Adrián'> |
-| 51 | [Juanflu](https://github.com/Juanflu) | 5 | 0 | C# | A Coruña | <img src='https://avatars1.githubusercontent.com/u/2237408?v=3&s=64' width='64' height='64' title='Juan Flores'> |
-| 52 | [Feantury](https://github.com/Feantury) | 4 | 1 | Java | A Coruña | <img src='https://avatars1.githubusercontent.com/u/2143931?v=3&s=64' width='64' height='64' title='Javier'> |
-| 53 | [rene15009](https://github.com/rene15009) | 4 | 0 | JavaScript | A Coruña | <img src='https://avatars0.githubusercontent.com/u/3912951?v=3&s=64' width='64' height='64' title='René Pacios'> |
-| 54 | [anxinho](https://github.com/anxinho) | 4 | 0 | Java | A Coruña | <img src='https://avatars1.githubusercontent.com/u/8818204?v=3&s=64' width='64' height='64' title='Anxo Varela'> |
-| 55 | [jorgemarey](https://github.com/jorgemarey) | 4 | 0 | Python | A Coruña | <img src='https://avatars2.githubusercontent.com/u/6938602?v=3&s=64' width='64' height='64' title='Jorge Marey'> |
-| 56 | [juanjoseixas](https://github.com/juanjoseixas) | 3 | 0 | Ruby | A Coruña, Spain | <img src='https://avatars0.githubusercontent.com/u/228141?v=3&s=64' width='64' height='64' title='Juanjo Seixas'> |
-| 57 | [mglbranco](https://github.com/mglbranco) | 3 | 0 |  | A Coruña | <img src='https://avatars1.githubusercontent.com/u/3002362?v=3&s=64' width='64' height='64' title='Miguel Branco'> |
-| 58 | [staticboards](https://github.com/staticboards) | 3 | 0 | C++ | Malpica de Bergantiños, Coruña | <img src='https://avatars3.githubusercontent.com/u/2271746?v=3&s=64' width='64' height='64' title='StaticBoards'> |
-| 59 | [elizechea](https://github.com/elizechea) | 1 | 0 | JavaScript | A Coruña | <img src='https://avatars3.githubusercontent.com/u/461857?v=3&s=64' width='64' height='64' title='Iago Elizechea'> |
-| 60 | [jfreire](https://github.com/jfreire) | 1 | 3 | Java and CSS | A Coruña | <img src='https://avatars1.githubusercontent.com/u/731254?v=3&s=64' width='64' height='64' title='Javier Freire Riobo'> |
+| 8 | [mandrewcito](https://github.com/mandrewcito) | 167 | 0 | Python | A coruña | <img src='https://avatars3.githubusercontent.com/u/5717177?v=3&s=64' width='64' height='64' title='mandrewcito'> |
+| 9 | [carlosabalde](https://github.com/carlosabalde) | 155 | 22 | Shell | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/342614?v=3&s=64' width='64' height='64' title='Carlos Abalde'> |
+| 10 | [muntisa](https://github.com/muntisa) | 155 | 1 | Python and R | A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/6866303?v=3&s=64' width='64' height='64' title='Cristian R Munteanu'> |
+| 11 | [jbgutierrez](https://github.com/jbgutierrez) | 150 | 56 | Ruby | A Coruña, Galicia, España | <img src='https://avatars3.githubusercontent.com/u/24221?v=3&s=64' width='64' height='64' title='Javier Blanco Gutiérrez'> |
+| 12 | [pabloformoso](https://github.com/pabloformoso) | 149 | 24 | Java | Oleiros, Coruña (España) | <img src='https://avatars3.githubusercontent.com/u/10286?v=3&s=64' width='64' height='64' title='Pablo Formoso Estrada'> |
+| 13 | [joedicastro](https://github.com/joedicastro) | 132 | 530 | Python | A Coruña, Spain | <img src='https://avatars1.githubusercontent.com/u/390964?v=3&s=64' width='64' height='64' title='joe di castro'> |
+| 14 | [nosolosw](https://github.com/nosolosw) | 118 | 4 | JavaScript | Lugo / A Coruña | <img src='https://avatars3.githubusercontent.com/u/583546?v=3&s=64' width='64' height='64' title='Andrés Maneiro'> |
+| 15 | [tak30](https://github.com/tak30) | 105 | 0 | Python | A Coruña | <img src='https://avatars2.githubusercontent.com/u/5324370?v=3&s=64' width='64' height='64' title='Pablo López'> |
+| 16 | [nakome](https://github.com/nakome) | 102 | 3 | JavaScript | La Coruña | <img src='https://avatars3.githubusercontent.com/u/1788655?v=3&s=64' width='64' height='64' title='Moncho Varela'> |
+| 17 | [davidgf](https://github.com/davidgf) | 91 | 1 | JavaScript | A Coruña | <img src='https://avatars1.githubusercontent.com/u/1116005?v=3&s=64' width='64' height='64' title='David García'> |
+| 18 | [adrycerdeiro](https://github.com/adrycerdeiro) | 88 | 1 | Python | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/6393293?v=3&s=64' width='64' height='64' title='Adrián Cerdeiro'> |
+| 19 | [clopez](https://github.com/clopez) | 88 | 19 | Shell | A Coruña | <img src='https://avatars1.githubusercontent.com/u/221181?v=3&s=64' width='64' height='64' title='Carlos Alberto Lopez Perez'> |
+| 20 | [asis](https://github.com/asis) | 87 | 11 | CSS | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/10604?v=3&s=64' width='64' height='64' title='Asís García'> |
+| 21 | [dvalcarce](https://github.com/dvalcarce) | 86 | 5 | Python | A Coruña, Spain | <img src='https://avatars1.githubusercontent.com/u/2798631?v=3&s=64' width='64' height='64' title='Daniel Valcarce'> |
+| 22 | [castrinho8](https://github.com/castrinho8) | 82 | 1 | C | A Coruña | <img src='https://avatars2.githubusercontent.com/u/4258001?v=3&s=64' width='64' height='64' title='Pablo Castro'> |
+| 23 | [jjbier](https://github.com/jjbier) | 74 | 0 | PHP | A Coruña | <img src='https://avatars1.githubusercontent.com/u/1135220?v=3&s=64' width='64' height='64' title='xabier'> |
+| 24 | [lauramcastro](https://github.com/lauramcastro) | 64 | 6 | Erlang | A Coruña, Spain | <img src='https://avatars1.githubusercontent.com/u/430933?v=3&s=64' width='64' height='64' title=''> |
+| 25 | [franissen](https://github.com/franissen) | 53 | 0 | R | A Coruña (Spain) | <img src='https://avatars0.githubusercontent.com/u/5950140?v=3&s=64' width='64' height='64' title=''> |
+| 26 | [ssaavedra](https://github.com/ssaavedra) | 53 | 10 | Shell | A Coruña, Spain | <img src='https://avatars1.githubusercontent.com/u/581152?v=3&s=64' width='64' height='64' title='Santiago Saavedra'> |
+| 27 | [davidbarral](https://github.com/davidbarral) | 51 | 11 | Ruby | A Coruña, Spain | <img src='https://avatars0.githubusercontent.com/u/8909?v=3&s=64' width='64' height='64' title='David Barral'> |
+| 28 | [DaniMunin](https://github.com/DaniMunin) | 51 | 0 | Python | A Coruña / Pontevedra | <img src='https://avatars1.githubusercontent.com/u/1942991?v=3&s=64' width='64' height='64' title='Daniel Munín González'> |
+| 29 | [adriannovegil](https://github.com/adriannovegil) | 50 | 1 | Java | A Coruña | <img src='https://avatars0.githubusercontent.com/u/2421793?v=3&s=64' width='64' height='64' title='Adrian'> |
+| 30 | [mmontes11](https://github.com/mmontes11) | 49 | 13 | CSS | A Coruña | <img src='https://avatars2.githubusercontent.com/u/4168911?v=3&s=64' width='64' height='64' title='Martín Montes'> |
+| 31 | [donmik](https://github.com/donmik) | 45 | 19 | PHP | A Coruña | <img src='https://avatars3.githubusercontent.com/u/771108?v=3&s=64' width='64' height='64' title='Miguel'> |
+| 32 | [nbarreira](https://github.com/nbarreira) | 43 | 2 | Python | Coruña | <img src='https://avatars0.githubusercontent.com/u/5663245?v=3&s=64' width='64' height='64' title='Noelia'> |
+| 33 | [andion](https://github.com/andion) | 39 | 8 | JavaScript | A Coruña, España | <img src='https://avatars0.githubusercontent.com/u/20295?v=3&s=64' width='64' height='64' title='Lucas Andión Montáns'> |
+| 34 | [xoan](https://github.com/xoan) | 37 | 38 | JavaScript | A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/288246?v=3&s=64' width='64' height='64' title='Xoan Sampaiño'> |
+| 35 | [magomez](https://github.com/magomez) | 32 | 0 | C++ | A Coruña, Spain | <img src='https://avatars1.githubusercontent.com/u/1577053?v=3&s=64' width='64' height='64' title='Miguel Gómez'> |
+| 36 | [megalomono](https://github.com/megalomono) | 30 | 0 | Ruby | A Coruña | <img src='https://avatars1.githubusercontent.com/u/2573476?v=3&s=64' width='64' height='64' title='Fonso'> |
+| 37 | [ivangsa](https://github.com/ivangsa) | 30 | 8 | Java | A Coruña, Galicia, Spain (GMT+1) | <img src='https://avatars3.githubusercontent.com/u/1246876?v=3&s=64' width='64' height='64' title='Iván García Sainz-Aja'> |
+| 38 | [juanfont](https://github.com/juanfont) | 29 | 3 | Python | A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/181059?v=3&s=64' width='64' height='64' title='Juan Font'> |
+| 39 | [danidiaz](https://github.com/danidiaz) | 27 | 22 | Haskell | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/1136927?v=3&s=64' width='64' height='64' title='Daniel Díaz Carrete'> |
+| 40 | [brainsqueezer](https://github.com/brainsqueezer) | 27 | 44 | PHP | Coruña, Spain | <img src='https://avatars0.githubusercontent.com/u/154789?v=3&s=64' width='64' height='64' title='Ramon Antonio Parada'> |
+| 41 | [josevavia](https://github.com/josevavia) | 26 | 3 | PHP | A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/2239846?v=3&s=64' width='64' height='64' title=''> |
+| 42 | [oslcixug](https://github.com/oslcixug) | 24 | 7 | Shell | Santiago de Compostela, A Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/7313377?v=3&s=64' width='64' height='64' title='Oficina de software libre'> |
+| 43 | [javifernandez](https://github.com/javifernandez) | 22 | 16 | JavaScript | A Coruña | <img src='https://avatars2.githubusercontent.com/u/2230241?v=3&s=64' width='64' height='64' title='Javier Fernandez Garcia-Boente'> |
+| 44 | [manullanes](https://github.com/manullanes) | 22 | 0 | R | A Coruña | <img src='https://avatars0.githubusercontent.com/u/9756111?v=3&s=64' width='64' height='64' title='Manuel Illanes'> |
+| 45 | [davidfb](https://github.com/davidfb) | 21 | 7 | Ruby | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/201677?v=3&s=64' width='64' height='64' title='David Fuentes Baldomir'> |
+| 46 | [rafbermudez](https://github.com/rafbermudez) | 21 | 0 | JavaScript | Arteixo ( A Coruña ) | <img src='https://avatars1.githubusercontent.com/u/3406424?v=3&s=64' width='64' height='64' title='Rafael Bermúdez Míguez'> |
+| 47 | [delabit](https://github.com/delabit) | 18 | 0 | Python | Ferrol (A Coruña) | <img src='https://avatars0.githubusercontent.com/u/5254211?v=3&s=64' width='64' height='64' title='Rafael de la Piñera Vázquez'> |
+| 48 | [antiapuentes](https://github.com/antiapuentes) | 17 | 0 | Erlang and Python | A Coruña | <img src='https://avatars1.githubusercontent.com/u/1685056?v=3&s=64' width='64' height='64' title='Antía Puentes'> |
+| 49 | [maciaslopez](https://github.com/maciaslopez) | 16 | 1 | Erlang | A Coruña (Galiza) | <img src='https://avatars3.githubusercontent.com/u/4182653?v=3&s=64' width='64' height='64' title='Macías López'> |
+| 50 | [misterpulpo](https://github.com/misterpulpo) | 16 | 1 | PHP | A Coruña | <img src='https://avatars2.githubusercontent.com/u/1696402?v=3&s=64' width='64' height='64' title='Sergio Sánchez Álvarez'> |
+| 51 | [jnovos](https://github.com/jnovos) | 16 | 0 | Shell | A Coruña | <img src='https://avatars2.githubusercontent.com/u/7501778?v=3&s=64' width='64' height='64' title='Jorge Novo'> |
+| 52 | [calvaris](https://github.com/calvaris) | 15 | 0 | Shell | A Coruña | <img src='https://avatars0.githubusercontent.com/u/1021526?v=3&s=64' width='64' height='64' title='Xabier Rodríguez'> |
+| 53 | [AlejandroFortes](https://github.com/AlejandroFortes) | 15 | 0 | JavaScript and CSS | A Coruña | <img src='https://avatars2.githubusercontent.com/u/7241210?v=3&s=64' width='64' height='64' title='Alejandro Fortes Lopes'> |
+| 54 | [fabianlema](https://github.com/fabianlema) | 14 | 0 | C | A Coruña | <img src='https://avatars1.githubusercontent.com/u/6422177?v=3&s=64' width='64' height='64' title='Fabián Lema Pérez'> |
+| 55 | [edupoch](https://github.com/edupoch) | 13 | 2 | JavaScript and PHP | A Coruña, Spain | <img src='https://avatars2.githubusercontent.com/u/905452?v=3&s=64' width='64' height='64' title='Edu Poch'> |
+| 56 | [sonxurxo](https://github.com/sonxurxo) | 13 | 1 | Objective-C | A Coruña | <img src='https://avatars2.githubusercontent.com/u/66216?v=3&s=64' width='64' height='64' title='Xurxo Méndez Pérez'> |
+| 57 | [javierev](https://github.com/javierev) | 11 | 2 | Java | A Coruña | <img src='https://avatars3.githubusercontent.com/u/941525?v=3&s=64' width='64' height='64' title='Javier Estévez'> |
+| 58 | [mdaguete](https://github.com/mdaguete) | 11 | 86 | Erlang | A Coruña (Spain) | <img src='https://avatars3.githubusercontent.com/u/95497?v=3&s=64' width='64' height='64' title='Manuel Durán Aguete'> |
+| 59 | [jesusropi](https://github.com/jesusropi) | 11 | 0 | JavaScript | Coruña | <img src='https://avatars3.githubusercontent.com/u/2021412?v=3&s=64' width='64' height='64' title='Jesús'> |
+| 60 | [alejandroperezlopez](https://github.com/alejandroperezlopez) | 10 | 0 | Python | Ferrol (A Coruña) | <img src='https://avatars0.githubusercontent.com/u/1321052?v=3&s=64' width='64' height='64' title='Alejandro Pérez López'> |
+| 61 | [johnanderpalma](https://github.com/johnanderpalma) | 7 | 0 | Ruby | A Coruña | <img src='https://avatars1.githubusercontent.com/u/4179361?v=3&s=64' width='64' height='64' title='John Ander'> |
+| 62 | [acandaldev](https://github.com/acandaldev) | 6 | 1 | C# | La Coruña | <img src='https://avatars1.githubusercontent.com/u/1519872?v=3&s=64' width='64' height='64' title='@acandaldev'> |
+| 63 | [erubio](https://github.com/erubio) | 6 | 2 | JavaScript | Coruña | <img src='https://avatars3.githubusercontent.com/u/485760?v=3&s=64' width='64' height='64' title='Ezequiel Rubio'> |
+| 64 | [cafernandezlo](https://github.com/cafernandezlo) | 6 | 0 |  | A Coruña, Spain | <img src='https://avatars0.githubusercontent.com/u/7374352?v=3&s=64' width='64' height='64' title='Carlos Fernandez-Lozano'> |
+| 65 | [Juanflu](https://github.com/Juanflu) | 5 | 0 | C# | A Coruña | <img src='https://avatars1.githubusercontent.com/u/2237408?v=3&s=64' width='64' height='64' title='Juan Flores'> |
+| 66 | [txenoo](https://github.com/txenoo) | 5 | 0 |  | Coruña | <img src='https://avatars1.githubusercontent.com/u/5470067?v=3&s=64' width='64' height='64' title='Chema Casanova'> |
+| 67 | [yisus82](https://github.com/yisus82) | 5 | 0 | R | A Coruña | <img src='https://avatars3.githubusercontent.com/u/7774855?v=3&s=64' width='64' height='64' title='Jesús Ángel Pérez-Roca Fernández'> |
+| 68 | [alopezvillaverde](https://github.com/alopezvillaverde) | 5 | 0 |  | A Coruña | <img src='https://avatars3.githubusercontent.com/u/4717569?v=3&s=64' width='64' height='64' title='Adrián'> |
+| 69 | [anxinho](https://github.com/anxinho) | 4 | 0 | Java | A Coruña | <img src='https://avatars1.githubusercontent.com/u/8818204?v=3&s=64' width='64' height='64' title='Anxo Varela'> |
+| 70 | [Feantury](https://github.com/Feantury) | 4 | 1 | Java | A Coruña | <img src='https://avatars1.githubusercontent.com/u/2143931?v=3&s=64' width='64' height='64' title='Javier'> |
+| 71 | [easanles](https://github.com/easanles) | 4 | 0 | PHP and CSS | A Coruña | <img src='https://avatars0.githubusercontent.com/u/5759744?v=3&s=64' width='64' height='64' title='Eduardo Alonso'> |
+| 72 | [dtubio](https://github.com/dtubio) | 4 | 0 | PHP | A Coruña | <img src='https://avatars3.githubusercontent.com/u/1099162?v=3&s=64' width='64' height='64' title='David'> |
+| 73 | [rene15009](https://github.com/rene15009) | 4 | 0 | JavaScript | A Coruña | <img src='https://avatars0.githubusercontent.com/u/3912951?v=3&s=64' width='64' height='64' title='René Pacios'> |
+| 74 | [dtenreiroarcos](https://github.com/dtenreiroarcos) | 4 | 0 | Java | A Coruña | <img src='https://avatars2.githubusercontent.com/u/7141866?v=3&s=64' width='64' height='64' title='Daniel Tenreiro'> |
+| 75 | [jorgemarey](https://github.com/jorgemarey) | 4 | 0 | Python | A Coruña | <img src='https://avatars2.githubusercontent.com/u/6938602?v=3&s=64' width='64' height='64' title='Jorge Marey'> |
+| 76 | [juanjoseixas](https://github.com/juanjoseixas) | 3 | 0 | Ruby | A Coruña, Spain | <img src='https://avatars0.githubusercontent.com/u/228141?v=3&s=64' width='64' height='64' title='Juanjo Seixas'> |
+| 77 | [rmontes13](https://github.com/rmontes13) | 3 | 0 | JavaScript and CSS | A Coruña | <img src='https://avatars3.githubusercontent.com/u/5115144?v=3&s=64' width='64' height='64' title='Ruben'> |
+| 78 | [mglbranco](https://github.com/mglbranco) | 3 | 0 |  | A Coruña | <img src='https://avatars1.githubusercontent.com/u/3002362?v=3&s=64' width='64' height='64' title='Miguel Branco'> |
+| 79 | [dsotovazquez](https://github.com/dsotovazquez) | 3 | 0 | Java | A Coruña | <img src='https://avatars1.githubusercontent.com/u/6489533?v=3&s=64' width='64' height='64' title='Daniel Soto'> |
+| 80 | [martapaz](https://github.com/martapaz) | 3 | 0 | PHP | A Coruña | <img src='https://avatars0.githubusercontent.com/u/6163178?v=3&s=64' width='64' height='64' title='Marta'> |
+| 81 | [staticboards](https://github.com/staticboards) | 3 | 0 | C++ | Malpica de Bergantiños, Coruña | <img src='https://avatars3.githubusercontent.com/u/2271746?v=3&s=64' width='64' height='64' title='StaticBoards'> |
+| 82 | [bmanteiga](https://github.com/bmanteiga) | 2 | 0 | R | A Coruña | <img src='https://avatars3.githubusercontent.com/u/7272094?v=3&s=64' width='64' height='64' title='Bernardo'> |
+| 83 | [arbernardez](https://github.com/arbernardez) | 2 | 0 |  | A Coruña | <img src='https://avatars2.githubusercontent.com/u/2199863?v=3&s=64' width='64' height='64' title='Alberto Rodríguez'> |
+| 84 | [oscarcv](https://github.com/oscarcv) | 2 | 0 | Objective-C and Ruby | A Coruña | <img src='https://avatars2.githubusercontent.com/u/45519?v=3&s=64' width='64' height='64' title='Oscar Costoya Vidal'> |
+| 85 | [tinopf](https://github.com/tinopf) | 2 | 0 |  | Coruña, Spain | <img src='https://avatars0.githubusercontent.com/u/4425619?v=3&s=64' width='64' height='64' title='Tino'> |
+| 86 | [GuillermoCouceiro](https://github.com/GuillermoCouceiro) | 2 | 0 | Java | A Coruña | <img src='https://avatars2.githubusercontent.com/u/3851757?v=3&s=64' width='64' height='64' title='Guillermo Couceiro'> |
+| 87 | [pabloroca](https://github.com/pabloroca) | 2 | 0 | Ruby | La Coruña, Spain | <img src='https://avatars3.githubusercontent.com/u/1104554?v=3&s=64' width='64' height='64' title=''> |
+| 88 | [xoseotero](https://github.com/xoseotero) | 2 | 0 | Shell | Fene, A Coruña (Spain) | <img src='https://avatars1.githubusercontent.com/u/5917051?v=3&s=64' width='64' height='64' title='Xosé Antón Otero Ferreira'> |
+| 89 | [jlobeiras](https://github.com/jlobeiras) | 1 | 0 |  | A Coruña, Spain | <img src='https://avatars0.githubusercontent.com/u/9753593?v=3&s=64' width='64' height='64' title='Jacobo Lobeiras'> |
+| 90 | [elizechea](https://github.com/elizechea) | 1 | 0 | JavaScript | A Coruña | <img src='https://avatars3.githubusercontent.com/u/461857?v=3&s=64' width='64' height='64' title='Iago Elizechea'> |
+| 91 | [canayag](https://github.com/canayag) | 1 | 0 |  | A Coruña (Spain) | <img src='https://avatars2.githubusercontent.com/u/589847?v=3&s=64' width='64' height='64' title='Carlos Alberto Naya Guzmán'> |
+| 92 | [pedrogarciafranco](https://github.com/pedrogarciafranco) | 1 | 0 |  | A Coruña | <img src='https://avatars2.githubusercontent.com/u/5910585?v=3&s=64' width='64' height='64' title='pedrogarciafranco'> |
+| 93 | [jfreire](https://github.com/jfreire) | 1 | 3 | Java and CSS | A Coruña | <img src='https://avatars1.githubusercontent.com/u/731254?v=3&s=64' width='64' height='64' title='Javier Freire Riobo'> |

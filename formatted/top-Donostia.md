@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Tue, 04 Feb 2014 16:53:04 GMT** hasta **Wed, 04 Feb 2015 16:53:04 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 08 Feb 2014 10:21:37 GMT** hasta **Sun, 08 Feb 2015 10:21:37 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
 
@@ -11,29 +11,46 @@
 
 | Puesto   |      Usuario      |  Contribuciones | Stars | Lenguajes   |      Lugar      |  Avatar |
 |----------|:-----------------:|----------------:|-------|-------------|:---------------:|---------|
-| 1 | [erral](https://github.com/erral) | 1361 | 16 | Python | Eibar, Gipuzkoa | <img src='https://avatars1.githubusercontent.com/u/817365?v=3&s=64' width='64' height='64' title='Mikel Larreategi'> |
-| 2 | [ragerri](https://github.com/ragerri) | 787 | 1 | Java and Python | Donostia-San Sebastian | <img src='https://avatars3.githubusercontent.com/u/419327?v=3&s=64' width='64' height='64' title='Rodrigo Agerri'> |
-| 3 | [alexsavio](https://github.com/alexsavio) | 619 | 4 | Python | San Sebastián, Spain | <img src='https://avatars0.githubusercontent.com/u/2472076?v=3&s=64' width='64' height='64' title='Alexandre M. S.'> |
-| 4 | [arkaitzgarro](https://github.com/arkaitzgarro) | 556 | 1 | PHP | Donostia | <img src='https://avatars1.githubusercontent.com/u/1712467?v=3&s=64' width='64' height='64' title='Arkaitz Garro'> |
+| 1 | [erral](https://github.com/erral) | 1344 | 16 | Python | Eibar, Gipuzkoa | <img src='https://avatars1.githubusercontent.com/u/817365?v=3&s=64' width='64' height='64' title='Mikel Larreategi'> |
+| 2 | [ragerri](https://github.com/ragerri) | 785 | 1 | Java and Python | Donostia-San Sebastian | <img src='https://avatars3.githubusercontent.com/u/419327?v=3&s=64' width='64' height='64' title='Rodrigo Agerri'> |
+| 3 | [alexsavio](https://github.com/alexsavio) | 642 | 4 | Python | San Sebastián, Spain | <img src='https://avatars0.githubusercontent.com/u/2472076?v=3&s=64' width='64' height='64' title='Alexandre M. S.'> |
+| 4 | [arkaitzgarro](https://github.com/arkaitzgarro) | 562 | 1 | PHP | Donostia | <img src='https://avatars1.githubusercontent.com/u/1712467?v=3&s=64' width='64' height='64' title='Arkaitz Garro'> |
 | 5 | [rmhdev](https://github.com/rmhdev) | 510 | 21 | PHP | Donostia | <img src='https://avatars3.githubusercontent.com/u/593433?v=3&s=64' width='64' height='64' title='Rober Martín H'> |
-| 6 | [uesteibar](https://github.com/uesteibar) | 412 | 1 | JavaScript | Donosti | <img src='https://avatars3.githubusercontent.com/u/7823996?v=3&s=64' width='64' height='64' title='uesteibar'> |
-| 7 | [anajuaristi](https://github.com/anajuaristi) | 212 | 0 |  | Gipuzkoa (spain) | <img src='https://avatars0.githubusercontent.com/u/186591?v=3&s=64' width='64' height='64' title='Ana Juaristi'> |
-| 8 | [ojoven](https://github.com/ojoven) | 108 | 8 | PHP | Donostia - San Sebastián | <img src='https://avatars2.githubusercontent.com/u/772734?v=3&s=64' width='64' height='64' title='Mikel Torres Ugarte'> |
-| 9 | [Sulley38](https://github.com/Sulley38) | 52 | 1 | C++ | Pasaia, Gipuzkoa | <img src='https://avatars0.githubusercontent.com/u/1562410?v=3&s=64' width='64' height='64' title='Iván Matellanes'> |
-| 10 | [sheilapbi](https://github.com/sheilapbi) | 44 | 0 | PHP | San Sebastián | <img src='https://avatars1.githubusercontent.com/u/8705852?v=3&s=64' width='64' height='64' title='Sheila'> |
-| 11 | [ggalmazor](https://github.com/ggalmazor) | 42 | 93 | JavaScript | Donostia | <img src='https://avatars2.githubusercontent.com/u/205913?v=3&s=64' width='64' height='64' title='Guillermo Gutérrez'> |
-| 12 | [frecio](https://github.com/frecio) | 28 | 0 | CSS | San Sebastián | <img src='https://avatars0.githubusercontent.com/u/6748227?v=3&s=64' width='64' height='64' title='Francisco Recio Lecuona'> |
-| 13 | [rjgarciam](https://github.com/rjgarciam) | 26 | 0 | CSS | San Sebastián/Seville, Spain | <img src='https://avatars2.githubusercontent.com/u/1446890?v=3&s=64' width='64' height='64' title='Ricardo'> |
-| 14 | [bgamecho](https://github.com/bgamecho) | 22 | 1 | Arduino | Donostia-San Sebastián | <img src='https://avatars2.githubusercontent.com/u/7313057?v=3&s=64' width='64' height='64' title='bgamecho'> |
-| 15 | [olatz87](https://github.com/olatz87) | 21 | 0 | Perl and C | Donostia, Euskal Herria | <img src='https://avatars2.githubusercontent.com/u/1233180?v=3&s=64' width='64' height='64' title='Olatz Perez-de-Vinaspre'> |
-| 16 | [jmakazaga](https://github.com/jmakazaga) | 19 | 0 | Perl and C | Donostia - Basque Country | <img src='https://avatars0.githubusercontent.com/u/5956999?v=3&s=64' width='64' height='64' title='Joseba Makazaga'> |
-| 17 | [edurne-larraza](https://github.com/edurne-larraza) | 17 | 0 | Perl | Donostia | <img src='https://avatars3.githubusercontent.com/u/8189319?v=3&s=64' width='64' height='64' title='Edurne Larraza Mendiluze'> |
-| 18 | [blizarazu](https://github.com/blizarazu) | 17 | 2 | JavaScript | Donostia | <img src='https://avatars2.githubusercontent.com/u/304059?v=3&s=64' width='64' height='64' title='Beñat Lizarazu'> |
-| 19 | [audiolab](https://github.com/audiolab) | 9 | 3 | PHP | Donostia - San Sebastian | <img src='https://avatars3.githubusercontent.com/u/948316?v=3&s=64' width='64' height='64' title='Audiolab Elkartea'> |
-| 20 | [utolosa002](https://github.com/utolosa002) | 8 | 0 | Java | Lezo, Gipuzkoa | <img src='https://avatars2.githubusercontent.com/u/1595841?v=3&s=64' width='64' height='64' title='Unai Tolosa'> |
-| 21 | [Joseba84](https://github.com/Joseba84) | 7 | 0 | Java | San Sebastián | <img src='https://avatars3.githubusercontent.com/u/5579257?v=3&s=64' width='64' height='64' title='Joseba Bello'> |
-| 22 | [lopezator](https://github.com/lopezator) | 5 | 2 | JavaScript | Donostia | <img src='https://avatars3.githubusercontent.com/u/5780637?v=3&s=64' width='64' height='64' title='David'> |
-| 23 | [ander2](https://github.com/ander2) | 4 | 1 | JavaScript | Donostia | <img src='https://avatars0.githubusercontent.com/u/4135033?v=3&s=64' width='64' height='64' title='Ander'> |
-| 24 | [aitiba](https://github.com/aitiba) | 3 | 4 | PHP | Donostia - San Sebastián | <img src='https://avatars1.githubusercontent.com/u/1209012?v=3&s=64' width='64' height='64' title='Aitor Ibañez'> |
-| 25 | [janogarcia](https://github.com/janogarcia) | 3 | 3 | JavaScript and PHP | San Sebastián, Spain. | <img src='https://avatars2.githubusercontent.com/u/60790?v=3&s=64' width='64' height='64' title='Alejandro García'> |
-| 26 | [jatniel](https://github.com/jatniel) | 2 | 0 |  | Donostia - Gipuzkoa | <img src='https://avatars3.githubusercontent.com/u/1070744?v=3&s=64' width='64' height='64' title='Jatniel Guzmán'> |
+| 6 | [uesteibar](https://github.com/uesteibar) | 422 | 1 | JavaScript | Donosti | <img src='https://avatars3.githubusercontent.com/u/7823996?v=3&s=64' width='64' height='64' title='uesteibar'> |
+| 7 | [anajuaristi](https://github.com/anajuaristi) | 216 | 0 |  | Gipuzkoa (spain) | <img src='https://avatars0.githubusercontent.com/u/186591?v=3&s=64' width='64' height='64' title='Ana Juaristi'> |
+| 8 | [ojoven](https://github.com/ojoven) | 116 | 8 | PHP | Donostia - San Sebastián | <img src='https://avatars2.githubusercontent.com/u/772734?v=3&s=64' width='64' height='64' title='Mikel Torres Ugarte'> |
+| 9 | [juananpe](https://github.com/juananpe) | 61 | 3 | R | Irún, Gipuzkoa | <img src='https://avatars0.githubusercontent.com/u/1078305?v=3&s=64' width='64' height='64' title=''> |
+| 10 | [aitor-garcia-p](https://github.com/aitor-garcia-p) | 57 | 0 | Java | Donostia - San Sebastián | <img src='https://avatars0.githubusercontent.com/u/2588285?v=3&s=64' width='64' height='64' title='Aitor García Pablos'> |
+| 11 | [Sulley38](https://github.com/Sulley38) | 52 | 1 | C++ | Pasaia, Gipuzkoa | <img src='https://avatars0.githubusercontent.com/u/1562410?v=3&s=64' width='64' height='64' title='Iván Matellanes'> |
+| 12 | [sheilapbi](https://github.com/sheilapbi) | 44 | 0 | PHP | San Sebastián | <img src='https://avatars1.githubusercontent.com/u/8705852?v=3&s=64' width='64' height='64' title='Sheila'> |
+| 13 | [ggalmazor](https://github.com/ggalmazor) | 42 | 93 | JavaScript | Donostia | <img src='https://avatars2.githubusercontent.com/u/205913?v=3&s=64' width='64' height='64' title='Guillermo Gutérrez'> |
+| 14 | [jmartinezot](https://github.com/jmartinezot) | 40 | 0 | R | Donostia | <img src='https://avatars0.githubusercontent.com/u/8225215?v=3&s=64' width='64' height='64' title=''> |
+| 15 | [frecio](https://github.com/frecio) | 28 | 0 | CSS | San Sebastián | <img src='https://avatars0.githubusercontent.com/u/6748227?v=3&s=64' width='64' height='64' title='Francisco Recio Lecuona'> |
+| 16 | [rjgarciam](https://github.com/rjgarciam) | 26 | 0 | CSS | San Sebastián/Seville, Spain | <img src='https://avatars2.githubusercontent.com/u/1446890?v=3&s=64' width='64' height='64' title='Ricardo'> |
+| 17 | [ivantxoo](https://github.com/ivantxoo) | 26 | 0 |  | Donostia | <img src='https://avatars1.githubusercontent.com/u/7113217?v=3&s=64' width='64' height='64' title='Iván'> |
+| 18 | [ipuntom](https://github.com/ipuntom) | 26 | 0 |  | Donostia - San Sebastián | <img src='https://avatars1.githubusercontent.com/u/5646501?v=3&s=64' width='64' height='64' title='Iñaki'> |
+| 19 | [bgamecho](https://github.com/bgamecho) | 22 | 1 | Arduino | Donostia-San Sebastián | <img src='https://avatars2.githubusercontent.com/u/7313057?v=3&s=64' width='64' height='64' title='bgamecho'> |
+| 20 | [olatz87](https://github.com/olatz87) | 21 | 0 | Perl and C | Donostia, Euskal Herria | <img src='https://avatars2.githubusercontent.com/u/1233180?v=3&s=64' width='64' height='64' title='Olatz Perez-de-Vinaspre'> |
+| 21 | [jmakazaga](https://github.com/jmakazaga) | 19 | 0 | Perl and C | Donostia - Basque Country | <img src='https://avatars0.githubusercontent.com/u/5956999?v=3&s=64' width='64' height='64' title='Joseba Makazaga'> |
+| 22 | [blizarazu](https://github.com/blizarazu) | 17 | 2 | JavaScript | Donostia | <img src='https://avatars2.githubusercontent.com/u/304059?v=3&s=64' width='64' height='64' title='Beñat Lizarazu'> |
+| 23 | [edurne-larraza](https://github.com/edurne-larraza) | 17 | 0 | Perl | Donostia | <img src='https://avatars3.githubusercontent.com/u/8189319?v=3&s=64' width='64' height='64' title='Edurne Larraza Mendiluze'> |
+| 24 | [StrongeLeeroy](https://github.com/StrongeLeeroy) | 16 | 3 | JavaScript | Donostia - San Sebastián | <img src='https://avatars3.githubusercontent.com/u/828457?v=3&s=64' width='64' height='64' title='Gorka Hernández'> |
+| 25 | [audiolab](https://github.com/audiolab) | 9 | 3 | PHP | Donostia - San Sebastian | <img src='https://avatars3.githubusercontent.com/u/948316?v=3&s=64' width='64' height='64' title='Audiolab Elkartea'> |
+| 26 | [neelravi](https://github.com/neelravi) | 9 | 0 | Perl | Donostia San Sebastian, Spain | <img src='https://avatars0.githubusercontent.com/u/10193084?v=3&s=64' width='64' height='64' title='Ravindra Shinde'> |
+| 27 | [mberasategi](https://github.com/mberasategi) | 9 | 2 | JavaScript | Donostia | <img src='https://avatars3.githubusercontent.com/u/738823?v=3&s=64' width='64' height='64' title='Miren Berasategi'> |
+| 28 | [smallafre](https://github.com/smallafre) | 8 | 0 |  | Donostia - San Sebastián | <img src='https://avatars3.githubusercontent.com/u/7466999?v=3&s=64' width='64' height='64' title='Sergio Mallafré Navarro'> |
+| 29 | [utolosa002](https://github.com/utolosa002) | 8 | 0 | Java | Lezo, Gipuzkoa | <img src='https://avatars2.githubusercontent.com/u/1595841?v=3&s=64' width='64' height='64' title='Unai Tolosa'> |
+| 30 | [cluster28](https://github.com/cluster28) | 8 | 0 | PHP | San Sebastián | <img src='https://avatars0.githubusercontent.com/u/5039840?v=3&s=64' width='64' height='64' title='Jordi Rejas'> |
+| 31 | [Joseba84](https://github.com/Joseba84) | 7 | 0 | Java | San Sebastián | <img src='https://avatars3.githubusercontent.com/u/5579257?v=3&s=64' width='64' height='64' title='Joseba Bello'> |
+| 32 | [miguelprada](https://github.com/miguelprada) | 6 | 0 |  | San Sebastián | <img src='https://avatars3.githubusercontent.com/u/678580?v=3&s=64' width='64' height='64' title='Miguel Prada'> |
+| 33 | [koldoartola](https://github.com/koldoartola) | 5 | 0 | C | Donostia - San Sebastián | <img src='https://avatars0.githubusercontent.com/u/7279421?v=3&s=64' width='64' height='64' title='Koldo Artola'> |
+| 34 | [fernandopr](https://github.com/fernandopr) | 5 | 0 | CSS | Donostia-San Sebastián | <img src='https://avatars2.githubusercontent.com/u/8049397?v=3&s=64' width='64' height='64' title='Fernando Perez'> |
+| 35 | [ander2](https://github.com/ander2) | 4 | 1 | JavaScript | Donostia | <img src='https://avatars0.githubusercontent.com/u/4135033?v=3&s=64' width='64' height='64' title='Ander'> |
+| 36 | [lopezator](https://github.com/lopezator) | 4 | 2 | JavaScript | Donostia | <img src='https://avatars3.githubusercontent.com/u/5780637?v=3&s=64' width='64' height='64' title='David'> |
+| 37 | [YEIZON](https://github.com/YEIZON) | 3 | 2 | JavaScript | DONOSTIA SAN SEBASTIAN | <img src='https://avatars2.githubusercontent.com/u/6946326?v=3&s=64' width='64' height='64' title='YEIZON'> |
+| 38 | [aitiba](https://github.com/aitiba) | 3 | 4 | PHP | Donostia - San Sebastián | <img src='https://avatars1.githubusercontent.com/u/1209012?v=3&s=64' width='64' height='64' title='Aitor Ibañez'> |
+| 39 | [janogarcia](https://github.com/janogarcia) | 3 | 3 | JavaScript and PHP | San Sebastián, Spain. | <img src='https://avatars2.githubusercontent.com/u/60790?v=3&s=64' width='64' height='64' title='Alejandro García'> |
+| 40 | [borjalanseros](https://github.com/borjalanseros) | 3 | 0 |  | Donostia-San Sebastian | <img src='https://avatars2.githubusercontent.com/u/6699461?v=3&s=64' width='64' height='64' title='Borja Lanseros'> |
+| 41 | [jatniel](https://github.com/jatniel) | 2 | 0 |  | Donostia - Gipuzkoa | <img src='https://avatars3.githubusercontent.com/u/1070744?v=3&s=64' width='64' height='64' title='Jatniel Guzmán'> |
+| 42 | [JeremiasPerez](https://github.com/JeremiasPerez) | 1 | 0 | JavaScript | Donostia - San Sebastián | <img src='https://avatars3.githubusercontent.com/u/5751342?v=3&s=64' width='64' height='64' title='Jeremías Pérez'> |
+| 43 | [jonathanSS](https://github.com/jonathanSS) | 1 | 0 | R | Donostia-San Sebastián, Gipuzkoa, Spain. | <img src='https://avatars0.githubusercontent.com/u/5776656?v=3&s=64' width='64' height='64' title='Jonathan Ortigosa-Hernández'> |
