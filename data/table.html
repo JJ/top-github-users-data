@@ -14,6 +14,11 @@ th {
   padding: 8px;
   font-weight: bold;
 }
+
+thead th {
+  cursor: s-resize;
+}
+
 td {
   padding: 8px;
   border-top: 1px solid #ddd;
@@ -33,7 +38,6 @@ td {
 <script>
 
 var rows = []
-var formatdate = d3.time.format("%b %d %Y");
 
 var dsv = d3.dsv(";", "text/plain");
 
@@ -48,18 +52,25 @@ dsv("all-users-data.csv", function(error, csv) {
 
   thead.append("th").text("User");
   thead.append("th").text("Province");
-  thead.append("th").text("Contributions");
-  thead.append("th").text("Stars");
-  thead.append("th").text("Followers");
+  thead.append("th").text("Contributions").on("click", function() {
+    tr.sort(function(a, b) { return b.contributions - a.contributions; });
+  });
+  thead.append("th").text("Stars").on("click", function() {
+    tr.sort(function(a, b) { return b.stars - a.stars; });
+  });
+  thead.append("th").text("Followers").on("click", function() {
+    tr.sort(function(a, b) { return b.followers - a.followers; });
+  });
 
   var tr = tbody.selectAll("tr")
-      .data(rows)
-      .enter().append("tr");
+		.data(rows)
+	 .enter()
+	 .append("tr");
 
   var td = tr.selectAll("td")
-        .data(function(d) { return [d.user,d.province, d.contributions, d.stars, d.followers]; })
-      .enter().append("td")
-        .text(function(d) { return d; });
+             .data(function(d) { return [d.user,d.province, d.contributions, d.stars, d.followers]; })
+	     .enter().append("td")
+             .text(function(d) { return d; });
 
   var width = 80,
       height = d3.select("table")[0][0].clientHeight,
