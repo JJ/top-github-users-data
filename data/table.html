@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<!-- Taken from http://bl.ocks.org/llimllib/841dd138e429bb0545df -->
+<html>
+  <meta charset="utf-8">
+  <head>
+    <title>Aggregated results in a table</title>
+    <script src="d3.min.js"></script>
+    <style>
+table {
+  border-collapse: collapse;
+}
+th {
+  border-bottom: 2px solid #ddd;
+  padding: 8px;
+  font-weight: bold;
+}
+td {
+  padding: 8px;
+  border-top: 1px solid #ddd;
+}
+#chart {
+  padding: 0px;
+}
+.xaxislabel {
+  font-size: 9px;
+}
+</style>
+</head>
+<body>
+
+<div id="datatable"></div>
+
+<script>
+
+var rows = []
+var formatdate = d3.time.format("%b %d %Y");
+
+var dsv = d3.dsv(";", "text/plain");
+
+dsv("all-users-data.csv", function(error, csv) {
+  csv.forEach(function(row) {
+    rows.push(row);
+  });
+
+  var table = d3.select("#datatable").append("table");
+      thead = table.append("thead");
+      tbody = table.append("tbody");
+
+  thead.append("th").text("User");
+  thead.append("th").text("Province");
+  thead.append("th").text("Contributions");
+  thead.append("th").text("Stars");
+  thead.append("th").text("Followers");
+
+  var tr = tbody.selectAll("tr")
+      .data(rows)
+      .enter().append("tr");
+
+  var td = tr.selectAll("td")
+        .data(function(d) { return [d.user,d.province, d.contributions, d.stars, d.followers]; })
+      .enter().append("td")
+        .text(function(d) { return d; });
+
+  var width = 80,
+      height = d3.select("table")[0][0].clientHeight,
+      mx = 10,
+      radius = 2;
+
+  // Now add the chart column
+  d3.select("#datatable tbody tr").append("td")
+    .attr("id", "chart")
+    .attr("width", width + "px")
+    .attr("rowspan", rows.length);
+
+  var chart = d3.select("#chart").append("svg")
+      .attr("class", "chart")
+      .attr("width", width)
+      .attr("height", height);
+
+  var maxContrib = 0;
+  var minContrib = Number.MAX_VALUE;
+  for (i=0; i < rows.length; i++) {
+    if (rows[i].contributions > maxContrib) { maxContrib = rows[i].contributions; }
+    if (rows[i].contributions < minContrib) { minContrib = rows[i].contributions; }
+  }
+
+  var i = 0;
+  var rank = rows.map(function(t) { return i++; });
+  console.log(rank);
+
+  var xscale = d3.scale.linear()
+    .domain([minContrib, maxContrib])
+    .range([mx, width-mx])
+    .nice();
+
+  
+  var yscale = d3.scale.ordinal()
+    .domain(rank)
+    .rangeBands([0, height]);
+
+  chart.selectAll(".xaxislabel")
+      .data(xscale.ticks(2))
+    .enter().append("text")
+      .attr("class", "xaxislabel")
+      .attr("x", function(d) { return xscale(d); })
+      .attr("y", 10)
+      .attr("text-anchor", "middle")
+      .text(String)
+
+  chart.selectAll(".xaxistick")
+      .data(xscale.ticks(2))
+    .enter().append("line")
+      .attr("x1", function(d) { return xscale(d); })
+      .attr("x2", function(d) { return xscale(d); })
+      .attr("y1", 10)
+      .attr("y2", height)
+      .attr("stroke", "#eee")
+      .attr("stroke-width", 1);
+
+  i = 1;
+  chart.selectAll(".line")
+      .data(rows)
+    .enter().append("line")
+      .attr("x1", function(d) { return xscale(d.contributions); })
+      .attr("y1", function(d) { return yscale(i++) + yscale.rangeBand()/2; })
+      .attr("x2", function(d,i) { return rows[i+1] ? xscale(rows[i+1].contributions) : xscale(d.contributions); })
+      .attr("y2", function(d,i) { return rows[i+1] ? yscale(i) + yscale.rangeBand()/2 : yscale(i-1) + yscale.rangeBand()/2; })
+      .attr("stroke", "#777")
+      .attr("stroke-width", 1);
+
+  i = 1;
+  var pt = chart.selectAll(".pt")
+      .data(rows)
+    .enter().append("g")
+      .attr("class", "pt")
+      .attr("transform", function(d) { return "translate(" + xscale(d.contributions) + "," + (yscale(i++) + yscale.rangeBand()/2) + ")"; });
+
+  pt.append("circle")
+      .attr("cx", 0)
+      .attr("cy", 0)
+      .attr("r", radius)
+      .attr("opacity", .5)
+      .attr("fill", "#ff0000");
+
+});
+</script>
+</body>
+</html>
+
+
