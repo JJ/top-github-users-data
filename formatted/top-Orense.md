@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 09 Feb 2014 19:39:31 GMT** hasta **Mon, 09 Feb 2015 19:39:31 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 15 Feb 2014 10:49:35 GMT** hasta **Sun, 15 Feb 2015 10:49:35 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
 
@@ -11,23 +11,23 @@
 
 | Puesto   |      Usuario      |  Contribuciones | Stars | Lenguajes   |      Lugar      |  Avatar |
 |----------|:-----------------:|----------------:|-------|-------------|:---------------:|---------|
-| 1 | [Reimashi](https://github.com/Reimashi) | 344 | 0 | C# | Ourense, Spain | <img src='https://avatars0.githubusercontent.com/u/5956659?v=3&s=64' width='64' height='64' title='Aitor González Fernández'> |
-| 2 | [Beluki](https://github.com/Beluki) | 250 | 14 | Python | Orense, Spain | <img src='https://avatars3.githubusercontent.com/u/6313150?v=3&s=64' width='64' height='64' title='Carlos'> |
-| 3 | [agjacome](https://github.com/agjacome) | 235 | 4 | Scala | Ourense, Spain | <img src='https://avatars0.githubusercontent.com/u/470432?v=3&s=64' width='64' height='64' title='Alberto G. Jácome'> |
+| 1 | [Reimashi](https://github.com/Reimashi) | 351 | 0 | C# | Ourense, Spain | <img src='https://avatars0.githubusercontent.com/u/5956659?v=3&s=64' width='64' height='64' title='Aitor González Fernández'> |
+| 2 | [Beluki](https://github.com/Beluki) | 248 | 14 | Python | Orense, Spain | <img src='https://avatars3.githubusercontent.com/u/6313150?v=3&s=64' width='64' height='64' title='Carlos'> |
+| 3 | [agjacome](https://github.com/agjacome) | 230 | 4 | Scala | Ourense, Spain | <img src='https://avatars0.githubusercontent.com/u/470432?v=3&s=64' width='64' height='64' title='Alberto G. Jácome'> |
 | 4 | [ndrs92](https://github.com/ndrs92) | 188 | 0 | PHP | Ourense | <img src='https://avatars2.githubusercontent.com/u/6155245?v=3&s=64' width='64' height='64' title='Andrés Vieira'> |
 | 5 | [agonbar](https://github.com/agonbar) | 176 | 0 | PHP | Ourense, Spain | <img src='https://avatars2.githubusercontent.com/u/1553211?v=3&s=64' width='64' height='64' title='Adrián González Barbosa'> |
 | 6 | [tonimc](https://github.com/tonimc) | 128 | 0 | Java | Ourense | <img src='https://avatars1.githubusercontent.com/u/750002?v=3&s=64' width='64' height='64' title='Toni Martínez'> |
-| 7 | [michada](https://github.com/michada) | 106 | 4 | Java | Ourense, Spain | <img src='https://avatars3.githubusercontent.com/u/3437005?v=3&s=64' width='64' height='64' title='Miguel Reboiro Jato'> |
-| 8 | [hlfernandez](https://github.com/hlfernandez) | 101 | 0 | Java | Ourense | <img src='https://avatars0.githubusercontent.com/u/3440230?v=3&s=64' width='64' height='64' title='Hugo'> |
-| 9 | [oknalv](https://github.com/oknalv) | 99 | 0 | PHP | Ourense | <img src='https://avatars3.githubusercontent.com/u/10089519?v=3&s=64' width='64' height='64' title='Eliot'> |
+| 7 | [oknalv](https://github.com/oknalv) | 104 | 0 | PHP | Ourense | <img src='https://avatars3.githubusercontent.com/u/10089519?v=3&s=64' width='64' height='64' title='Eliot'> |
+| 8 | [michada](https://github.com/michada) | 103 | 4 | Java | Ourense, Spain | <img src='https://avatars3.githubusercontent.com/u/3437005?v=3&s=64' width='64' height='64' title='Miguel Reboiro Jato'> |
+| 9 | [hlfernandez](https://github.com/hlfernandez) | 101 | 0 | Java | Ourense | <img src='https://avatars0.githubusercontent.com/u/3440230?v=3&s=64' width='64' height='64' title='Hugo'> |
 | 10 | [msantanagonzalez](https://github.com/msantanagonzalez) | 88 | 1 | PHP | Ourense,Spain | <img src='https://avatars1.githubusercontent.com/u/8866635?v=3&s=64' width='64' height='64' title='Marco Santana González'> |
 | 11 | [Mascalerino](https://github.com/Mascalerino) | 76 | 0 |  | Ourense | <img src='https://avatars3.githubusercontent.com/u/10086067?v=3&s=64' width='64' height='64' title='Manuel Lorenzo Tallón'> |
 | 12 | [diegodelemos](https://github.com/diegodelemos) | 67 | 0 | PHP | Ourense, Spain | <img src='https://avatars0.githubusercontent.com/u/9035606?v=3&s=64' width='64' height='64' title='Diego'> |
 | 13 | [jjimenezg93](https://github.com/jjimenezg93) | 47 | 0 | PHP | Ourense | <img src='https://avatars1.githubusercontent.com/u/6595611?v=3&s=64' width='64' height='64' title='Julián Jiménez'> |
-| 14 | [DaniCamba](https://github.com/DaniCamba) | 39 | 0 | D | Ourense | <img src='https://avatars1.githubusercontent.com/u/4914858?v=3&s=64' width='64' height='64' title='Daniel Camba'> |
-| 15 | [edelperi](https://github.com/edelperi) | 39 | 3 | Awk | Ourense (Spain) | <img src='https://avatars0.githubusercontent.com/u/8928588?v=3&s=64' width='64' height='64' title='José Eugenio López Periago'> |
+| 14 | [edelperi](https://github.com/edelperi) | 39 | 3 | Awk | Ourense (Spain) | <img src='https://avatars0.githubusercontent.com/u/8928588?v=3&s=64' width='64' height='64' title='José Eugenio López Periago'> |
+| 15 | [DaniCamba](https://github.com/DaniCamba) | 39 | 0 | CSS | Ourense | <img src='https://avatars1.githubusercontent.com/u/4914858?v=3&s=64' width='64' height='64' title='Daniel Camba'> |
 | 16 | [mcvendrell](https://github.com/mcvendrell) | 36 | 17 | JavaScript | Ourense (Spain) | <img src='https://avatars2.githubusercontent.com/u/1863001?v=3&s=64' width='64' height='64' title='Manuel Conde Vendrell'> |
-| 17 | [braisNQ](https://github.com/braisNQ) | 31 | 0 | PHP | Ourense | <img src='https://avatars3.githubusercontent.com/u/6281857?v=3&s=64' width='64' height='64' title='Brais Carrión'> |
+| 17 | [braisNQ](https://github.com/braisNQ) | 35 | 0 | PHP | Ourense | <img src='https://avatars3.githubusercontent.com/u/6281857?v=3&s=64' width='64' height='64' title='Brais Carrión'> |
 | 18 | [mdgomez](https://github.com/mdgomez) | 26 | 0 |  | Ourense | <img src='https://avatars2.githubusercontent.com/u/9967701?v=3&s=64' width='64' height='64' title='Miguel Dominguez Gomez'> |
 | 19 | [antoniovazquezaraujo](https://github.com/antoniovazquezaraujo) | 17 | 7 | C++ | Ourense, Spain | <img src='https://avatars3.githubusercontent.com/u/987077?v=3&s=64' width='64' height='64' title='Antonio Vazquez Araujo'> |
 | 20 | [mmanum](https://github.com/mmanum) | 11 | 0 | CSS | Ourense | <img src='https://avatars3.githubusercontent.com/u/9893867?v=3&s=64' width='64' height='64' title='Manuel Montesinos Miguélez'> |

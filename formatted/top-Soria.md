@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Mon, 10 Feb 2014 06:29:17 GMT** hasta **Tue, 10 Feb 2015 06:29:17 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 15 Feb 2014 11:00:54 GMT** hasta **Sun, 15 Feb 2015 11:00:54 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
 
@@ -11,5 +11,5 @@
 
 | Puesto   |      Usuario      |  Contribuciones | Stars | Lenguajes   |      Lugar      |  Avatar |
 |----------|:-----------------:|----------------:|-------|-------------|:---------------:|---------|
-| 1 | [pablomario](https://github.com/pablomario) | 217 | 0 | PHP | Soria, Spain | <img src='https://avatars1.githubusercontent.com/u/4464094?v=3&s=64' width='64' height='64' title='Pablo Mario'> |
+| 1 | [pablomario](https://github.com/pablomario) | 214 | 0 | PHP | Soria, Spain | <img src='https://avatars1.githubusercontent.com/u/4464094?v=3&s=64' width='64' height='64' title='Pablo Mario'> |
 | 2 | [IcuScc](https://github.com/IcuScc) | 12 | 0 | Swift | Soria | <img src='https://avatars3.githubusercontent.com/u/5454095?v=3&s=64' width='64' height='64' title='Sergio'> |
