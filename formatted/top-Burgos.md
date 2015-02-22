@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 15 Feb 2014 10:45:53 GMT** hasta **Sun, 15 Feb 2015 10:45:53 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 22 Feb 2014 20:14:51 GMT** hasta **Sun, 22 Feb 2015 20:14:51 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
 
@@ -11,9 +11,9 @@
 
 | Puesto   |      Usuario      |  Contribuciones | Stars | Lenguajes   |      Lugar      |  Avatar |
 |----------|:-----------------:|----------------:|-------|-------------|:---------------:|---------|
-| 1 | [RobertoIA](https://github.com/RobertoIA) | 388 | 0 | Java | Burgos, Spain | <img src='https://avatars0.githubusercontent.com/u/4304280?v=3&s=64' width='64' height='64' title='Roberto Izquierdo'> |
-| 2 | [sl1pkn07](https://github.com/sl1pkn07) | 111 | 0 | C++ | burgos (Spain) | <img src='https://avatars3.githubusercontent.com/u/462213?v=3&s=64' width='64' height='64' title='Gustavo Alvarez'> |
-| 3 | [naarean](https://github.com/naarean) | 56 | 1 | CSS | Burgos, Spain | <img src='https://avatars3.githubusercontent.com/u/9574895?v=3&s=64' width='64' height='64' title='Sergio Alegre Arribas'> |
+| 1 | [RobertoIA](https://github.com/RobertoIA) | 378 | 0 | Java | Burgos, Spain | <img src='https://avatars0.githubusercontent.com/u/4304280?v=3&s=64' width='64' height='64' title='Roberto Izquierdo'> |
+| 2 | [sl1pkn07](https://github.com/sl1pkn07) | 114 | 0 | Shell | burgos (Spain) | <img src='https://avatars3.githubusercontent.com/u/462213?v=3&s=64' width='64' height='64' title='Gustavo Alvarez'> |
+| 3 | [naarean](https://github.com/naarean) | 58 | 1 | CSS | Burgos, Spain | <img src='https://avatars3.githubusercontent.com/u/9574895?v=3&s=64' width='64' height='64' title='Sergio Alegre Arribas'> |
 | 4 | [rmartico](https://github.com/rmartico) | 28 | 0 | Java and XSLT | Burgos | <img src='https://avatars1.githubusercontent.com/u/2535865?v=3&s=64' width='64' height='64' title='Raúl Marticorena'> |
 | 5 | [Al-Waseem](https://github.com/Al-Waseem) | 22 | 0 | Java | Burgos | <img src='https://avatars2.githubusercontent.com/u/6266689?v=3&s=64' width='64' height='64' title='Waseem ALKHALEL'> |
 | 6 | [clopezno](https://github.com/clopezno) | 16 | 1 | Java and CSS | Burgos | <img src='https://avatars2.githubusercontent.com/u/1453744?v=3&s=64' width='64' height='64' title='Carlos López'> |
