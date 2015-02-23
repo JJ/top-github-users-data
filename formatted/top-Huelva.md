@@ -2,15 +2,15 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 22 Feb 2014 20:09:35 GMT** hasta **Sun, 22 Feb 2015 20:09:35 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 23 Feb 2014 06:41:21 GMT** hasta **Mon, 23 Feb 2015 06:41:21 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
 
   Sugerencias y parches en [`github-city-rankings`](http://github.com/JJ/github-city-rankings)
 
 
-| Puesto   |      Usuario      |  Contribuciones | Stars | Lenguajes   |      Lugar      |  Avatar |
-|----------|:-----------------:|----------------:|-------|-------------|:---------------:|---------|
+| Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
+|----------|:---------:|-------:|-------|-------------|:---------------:|----------|
 | 1 | [antonio](https://github.com/antonio) | 1071 | 20 | Ruby | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/17516?v=3&s=64' width='64' height='64' title='Antonio Santos'> |
 | 2 | [ppcano](https://github.com/ppcano) | 505 | 87 | JavaScript | Huelva (ES), Stockholm (SE) | <img src='https://avatars3.githubusercontent.com/u/825430?v=3&s=64' width='64' height='64' title='Pepe Cano'> |
 | 3 | [jmcerrejon](https://github.com/jmcerrejon) | 148 | 22 | Shell and Python | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/1942431?v=3&s=64' width='64' height='64' title='Jose Cerrejon'> |
