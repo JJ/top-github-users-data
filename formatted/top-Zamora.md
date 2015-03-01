@@ -2,15 +2,15 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 22 Feb 2014 20:25:38 GMT** hasta **Sun, 22 Feb 2015 20:25:38 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 01 Mar 2014 11:04:01 GMT** hasta **Sun, 01 Mar 2015 11:04:01 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
 
   Sugerencias y parches en [`github-city-rankings`](http://github.com/JJ/github-city-rankings)
 
 
-| Puesto   |      Usuario      |  Contribuciones | Stars | Lenguajes   |      Lugar      |  Avatar |
-|----------|:-----------------:|----------------:|-------|-------------|:---------------:|---------|
+| Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
+|----------|:---------:|-------:|-------|-------------|:---------------:|----------|
 | 1 | [arcxyz](https://github.com/arcxyz) | 31 | 2 | JavaScript | Madrid and Zamora (Spain) | <img src='https://avatars0.githubusercontent.com/u/185002?v=3&s=64' width='64' height='64' title='Alejandro Rodríguez'> |
 | 2 | [Roberth1203](https://github.com/Roberth1203) | 9 | 0 | C# and XML | Zamora de Hidalgo, Mich | <img src='https://avatars0.githubusercontent.com/u/10360581?v=3&s=64' width='64' height='64' title='Roberto Arroyo'> |
 | 3 | [Manuel81](https://github.com/Manuel81) | 3 | 0 |  | Zamora (Spain) | <img src='https://avatars2.githubusercontent.com/u/6862437?v=3&s=64' width='64' height='64' title='Manuel'> |
