@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 01 Mar 2014 10:48:21 GMT** hasta **Sun, 01 Mar 2015 10:48:21 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 02 Mar 2014 06:43:09 GMT** hasta **Mon, 02 Mar 2015 06:43:09 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
 
@@ -14,7 +14,7 @@
 | 1 | [antonio](https://github.com/antonio) | 1070 | 20 | Ruby | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/17516?v=3&s=64' width='64' height='64' title='Antonio Santos'> |
 | 2 | [ppcano](https://github.com/ppcano) | 483 | 87 | JavaScript | Huelva (ES), Stockholm (SE) | <img src='https://avatars3.githubusercontent.com/u/825430?v=3&s=64' width='64' height='64' title='Pepe Cano'> |
 | 3 | [jmcerrejon](https://github.com/jmcerrejon) | 148 | 22 | Shell and Python | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/1942431?v=3&s=64' width='64' height='64' title='Jose Cerrejon'> |
-| 4 | [MalGanis2](https://github.com/MalGanis2) | 50 | 0 | Java | Huelva, Spain | <img src='https://avatars1.githubusercontent.com/u/5797868?v=3&s=64' width='64' height='64' title='Ivan'> |
+| 4 | [MalGanis2](https://github.com/MalGanis2) | 51 | 0 | Java | Huelva, Spain | <img src='https://avatars1.githubusercontent.com/u/5797868?v=3&s=64' width='64' height='64' title='Ivan'> |
 | 5 | [currix](https://github.com/currix) | 44 | 3 | Perl | Huelva (Spain) | <img src='https://avatars0.githubusercontent.com/u/6237933?v=3&s=64' width='64' height='64' title='Curro'> |
 | 6 | [frantello](https://github.com/frantello) | 41 | 0 | JavaScript | Huelva, Andalucia, Spain | <img src='https://avatars2.githubusercontent.com/u/6098478?v=3&s=64' width='64' height='64' title='Fran Tello'> |
 | 7 | [sadoza](https://github.com/sadoza) | 9 | 0 | PHP | Huelva | <img src='https://avatars0.githubusercontent.com/u/6042243?v=3&s=64' width='64' height='64' title='Santi'> |
