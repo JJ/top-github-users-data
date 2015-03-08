@@ -2,16 +2,18 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 01 Mar 2014 11:04:01 GMT** hasta **Sun, 01 Mar 2015 11:04:01 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 08 Mar 2014 10:43:51 GMT** hasta **Sun, 08 Mar 2015 10:43:51 GMT**.
 
-  Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
+  Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
-  Sugerencias y parches en [`github-city-rankings`](http://github.com/JJ/github-city-rankings)
+  Los [datos](https://github.com/JJ/top-github-users-data/tree/master/data) tienen una licencia libre y los puedes usar como desees, pero te agradeceríamos que si se usan en alguna publicación, referenciaras [*GitHub rankings and its impact on the local free software development community*](https://thewinnower.com/papers/github-rankings-and-its-impact-on-the-local-free-software-development-community).
+
+  Sugerencias y parches en [`github-city-rankings`](http://github.com/JJ/github-city-rankings).
 
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [arcxyz](https://github.com/arcxyz) | 31 | 2 | JavaScript | Madrid and Zamora (Spain) | <img src='https://avatars0.githubusercontent.com/u/185002?v=3&s=64' width='64' height='64' title='Alejandro Rodríguez'> |
+| 1 | [arcxyz](https://github.com/arcxyz) | 33 | 2 | JavaScript | Madrid and Zamora (Spain) | <img src='https://avatars0.githubusercontent.com/u/185002?v=3&s=64' width='64' height='64' title='Alejandro Rodríguez'> |
 | 2 | [Roberth1203](https://github.com/Roberth1203) | 9 | 0 | C# and XML | Zamora de Hidalgo, Mich | <img src='https://avatars0.githubusercontent.com/u/10360581?v=3&s=64' width='64' height='64' title='Roberto Arroyo'> |
-| 3 | [Manuel81](https://github.com/Manuel81) | 3 | 0 |  | Zamora (Spain) | <img src='https://avatars2.githubusercontent.com/u/6862437?v=3&s=64' width='64' height='64' title='Manuel'> |
-| 4 | [yucar](https://github.com/yucar) | 2 | 0 | Java | Zamora, Spain | <img src='https://avatars1.githubusercontent.com/u/9248297?v=3&s=64' width='64' height='64' title='Rodrigo'> |
+| 3 | [yucar](https://github.com/yucar) | 2 | 0 | Java | Zamora, Spain | <img src='https://avatars1.githubusercontent.com/u/9248297?v=3&s=64' width='64' height='64' title='Rodrigo'> |
+| 4 | [Manuel81](https://github.com/Manuel81) | 1 | 0 |  | Zamora (Spain) | <img src='https://avatars2.githubusercontent.com/u/6862437?v=3&s=64' width='64' height='64' title='Manuel'> |

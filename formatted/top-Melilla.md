@@ -2,11 +2,13 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 01 Mar 2014 11:11:48 GMT** hasta **Sun, 01 Mar 2015 11:11:48 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 08 Mar 2014 10:51:19 GMT** hasta **Sun, 08 Mar 2015 10:51:19 GMT**.
 
-  Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
+  Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
-  Sugerencias y parches en [`github-city-rankings`](http://github.com/JJ/github-city-rankings)
+  Los [datos](https://github.com/JJ/top-github-users-data/tree/master/data) tienen una licencia libre y los puedes usar como desees, pero te agradeceríamos que si se usan en alguna publicación, referenciaras [*GitHub rankings and its impact on the local free software development community*](https://thewinnower.com/papers/github-rankings-and-its-impact-on-the-local-free-software-development-community).
+
+  Sugerencias y parches en [`github-city-rankings`](http://github.com/JJ/github-city-rankings).
 
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |

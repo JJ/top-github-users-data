@@ -2,28 +2,30 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 01 Mar 2014 10:58:53 GMT** hasta **Sun, 01 Mar 2015 10:58:53 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 08 Mar 2014 10:38:55 GMT** hasta **Sun, 08 Mar 2015 10:38:55 GMT**.
 
-  Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado de vez en cuando. 
+  Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
-  Sugerencias y parches en [`github-city-rankings`](http://github.com/JJ/github-city-rankings)
+  Los [datos](https://github.com/JJ/top-github-users-data/tree/master/data) tienen una licencia libre y los puedes usar como desees, pero te agradeceríamos que si se usan en alguna publicación, referenciaras [*GitHub rankings and its impact on the local free software development community*](https://thewinnower.com/papers/github-rankings-and-its-impact-on-the-local-free-software-development-community).
+
+  Sugerencias y parches en [`github-city-rankings`](http://github.com/JJ/github-city-rankings).
 
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [stronk7](https://github.com/stronk7) | 504 | 25 | PHP | Navarrete, La Rioja, Spain | <img src='https://avatars0.githubusercontent.com/u/167147?v=3&s=64' width='64' height='64' title='Eloy Lafuente (stronk7)'> |
-| 2 | [iderioja](https://github.com/iderioja) | 177 | 10 | HTML | Logroño (España) | <img src='https://avatars0.githubusercontent.com/u/5090808?v=3&s=64' width='64' height='64' title='iderioja'> |
-| 3 | [rgo](https://github.com/rgo) | 170 | 87 | Ruby | La Rioja - Spain | <img src='https://avatars2.githubusercontent.com/u/47124?v=3&s=64' width='64' height='64' title='Rafa García'> |
-| 4 | [Brianholl](https://github.com/Brianholl) | 63 | 0 |  | La Rioja | <img src='https://avatars0.githubusercontent.com/u/1537906?v=3&s=64' width='64' height='64' title='Brian'> |
+| 1 | [stronk7](https://github.com/stronk7) | 516 | 25 | PHP | Navarrete, La Rioja, Spain | <img src='https://avatars0.githubusercontent.com/u/167147?v=3&s=64' width='64' height='64' title='Eloy Lafuente (stronk7)'> |
+| 2 | [iderioja](https://github.com/iderioja) | 175 | 10 | HTML | Logroño (España) | <img src='https://avatars0.githubusercontent.com/u/5090808?v=3&s=64' width='64' height='64' title='iderioja'> |
+| 3 | [rgo](https://github.com/rgo) | 157 | 87 | Ruby | La Rioja - Spain | <img src='https://avatars2.githubusercontent.com/u/47124?v=3&s=64' width='64' height='64' title='Rafa García'> |
+| 4 | [Brianholl](https://github.com/Brianholl) | 62 | 0 |  | La Rioja | <img src='https://avatars0.githubusercontent.com/u/1537906?v=3&s=64' width='64' height='64' title='Brian'> |
 | 5 | [Puigcerber](https://github.com/Puigcerber) | 43 | 10 | JavaScript | Logroño , Bratislava | <img src='https://avatars1.githubusercontent.com/u/866808?v=3&s=64' width='64' height='64' title='Pablo Villoslada'> |
 | 6 | [maryano](https://github.com/maryano) | 26 | 0 |  | Logroño, La Rioja | <img src='https://avatars3.githubusercontent.com/u/6717699?v=3&s=64' width='64' height='64' title='Mariano Pop'> |
 | 7 | [babelsistemas](https://github.com/babelsistemas) | 25 | 0 |  | Najera (La Rioja) - Spain | <img src='https://avatars3.githubusercontent.com/u/1954631?v=3&s=64' width='64' height='64' title='Santiago Garcia Peña'> |
-| 8 | [davidru85](https://github.com/davidru85) | 21 | 3 | Java | Logroño, La Rioja, Spain | <img src='https://avatars1.githubusercontent.com/u/472324?v=3&s=64' width='64' height='64' title='David Ruiz'> |
-| 9 | [jecrespo](https://github.com/jecrespo) | 20 | 3 | Arduino | Logroño, Spain | <img src='https://avatars1.githubusercontent.com/u/1539718?v=3&s=64' width='64' height='64' title='Enrique Crespo'> |
-| 10 | [migueljimeno96](https://github.com/migueljimeno96) | 14 | 8 | Python | La Rioja, Spain | <img src='https://avatars1.githubusercontent.com/u/6826244?v=3&s=64' width='64' height='64' title='Miguel Ángel Jimeno'> |
-| 11 | [MontiQt](https://github.com/MontiQt) | 10 | 1 | PHP and CSS | La Rioja | <img src='https://avatars1.githubusercontent.com/u/6886845?v=3&s=64' width='64' height='64' title='Javier'> |
-| 12 | [Txumari](https://github.com/Txumari) | 8 | 3 | JavaScript | Madrid & Logroño | <img src='https://avatars2.githubusercontent.com/u/401963?v=3&s=64' width='64' height='64' title='Jesus Mª'> |
-| 13 | [wbugbofh](https://github.com/wbugbofh) | 6 | 1 | CSS | Logroño Spain | <img src='https://avatars1.githubusercontent.com/u/4250161?v=3&s=64' width='64' height='64' title='Mario'> |
+| 8 | [jecrespo](https://github.com/jecrespo) | 20 | 3 | Arduino | Logroño, Spain | <img src='https://avatars1.githubusercontent.com/u/1539718?v=3&s=64' width='64' height='64' title='Enrique Crespo'> |
+| 9 | [migueljimeno96](https://github.com/migueljimeno96) | 14 | 8 | Python | La Rioja, Spain | <img src='https://avatars1.githubusercontent.com/u/6826244?v=3&s=64' width='64' height='64' title='Miguel Ángel Jimeno'> |
+| 10 | [Txumari](https://github.com/Txumari) | 8 | 3 | JavaScript | Madrid & Logroño | <img src='https://avatars2.githubusercontent.com/u/401963?v=3&s=64' width='64' height='64' title='Jesus Mª'> |
+| 11 | [MontiQt](https://github.com/MontiQt) | 7 | 1 | PHP and CSS | La Rioja | <img src='https://avatars1.githubusercontent.com/u/6886845?v=3&s=64' width='64' height='64' title='Javier'> |
+| 12 | [wbugbofh](https://github.com/wbugbofh) | 6 | 1 | CSS | Logroño Spain | <img src='https://avatars1.githubusercontent.com/u/4250161?v=3&s=64' width='64' height='64' title='Mario'> |
+| 13 | [davidru85](https://github.com/davidru85) | 5 | 3 | Java | Logroño, La Rioja, Spain | <img src='https://avatars1.githubusercontent.com/u/472324?v=3&s=64' width='64' height='64' title='David Ruiz'> |
 | 14 | [chiva](https://github.com/chiva) | 5 | 22 | C | Logroño, Spain | <img src='https://avatars2.githubusercontent.com/u/305333?v=3&s=64' width='64' height='64' title='Santiago Reig'> |
 | 15 | [joseRamonLeon](https://github.com/joseRamonLeon) | 5 | 1 | JavaScript | La Rioja (Spain) | <img src='https://avatars2.githubusercontent.com/u/1682282?v=3&s=64' width='64' height='64' title='José Ramón León'> |
 | 16 | [feantot](https://github.com/feantot) | 5 | 0 |  | Logroño, Spain | <img src='https://avatars3.githubusercontent.com/u/4599973?v=3&s=64' width='64' height='64' title='Fernando Antonanzas-Torres'> |
