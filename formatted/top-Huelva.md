@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 08 Mar 2014 10:28:55 GMT** hasta **Sun, 08 Mar 2015 10:28:55 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 09 Mar 2014 06:41:28 GMT** hasta **Mon, 09 Mar 2015 06:41:28 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -15,8 +15,8 @@
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
 | 1 | [antonio](https://github.com/antonio) | 1018 | 20 | Ruby | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/17516?v=3&s=64' width='64' height='64' title='Antonio Santos'> |
 | 2 | [ppcano](https://github.com/ppcano) | 453 | 86 | JavaScript | Huelva (ES), Stockholm (SE) | <img src='https://avatars3.githubusercontent.com/u/825430?v=3&s=64' width='64' height='64' title='Pepe Cano'> |
-| 3 | [jmcerrejon](https://github.com/jmcerrejon) | 152 | 22 | Shell and Python | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/1942431?v=3&s=64' width='64' height='64' title='Jose Cerrejon'> |
-| 4 | [MalGanis2](https://github.com/MalGanis2) | 55 | 0 | Java | Huelva, Spain | <img src='https://avatars1.githubusercontent.com/u/5797868?v=3&s=64' width='64' height='64' title='Ivan'> |
+| 3 | [jmcerrejon](https://github.com/jmcerrejon) | 153 | 23 | Shell and Python | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/1942431?v=3&s=64' width='64' height='64' title='Jose Cerrejon'> |
+| 4 | [MalGanis2](https://github.com/MalGanis2) | 57 | 0 | Java | Huelva, Spain | <img src='https://avatars1.githubusercontent.com/u/5797868?v=3&s=64' width='64' height='64' title='Ivan'> |
 | 5 | [currix](https://github.com/currix) | 47 | 3 | Perl | Huelva (Spain) | <img src='https://avatars0.githubusercontent.com/u/6237933?v=3&s=64' width='64' height='64' title='Curro'> |
 | 6 | [frantello](https://github.com/frantello) | 38 | 0 | JavaScript | Huelva, Andalucia, Spain | <img src='https://avatars2.githubusercontent.com/u/6098478?v=3&s=64' width='64' height='64' title='Fran Tello'> |
 | 7 | [pedrocoleta](https://github.com/pedrocoleta) | 17 | 0 |  | HUELVA - SPAIN | <img src='https://avatars3.githubusercontent.com/u/9350556?v=3&s=64' width='64' height='64' title='Pedro Fernández Hernández'> |
