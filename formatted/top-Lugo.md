@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 05 Apr 2014 19:27:46 GMT** hasta **Sun, 05 Apr 2015 19:27:46 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 06 Apr 2014 16:18:55 GMT** hasta **Mon, 06 Apr 2015 16:18:55 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,7 +13,7 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [jesusVMayor](https://github.com/jesusVMayor) | 432 | 0 | Python | Lugo | <img src='https://avatars1.githubusercontent.com/u/5393537?v=3&s=64' width='64' height='64' title='Jesús Ventosinos Mayor'> |
+| 1 | [jesusVMayor](https://github.com/jesusVMayor) | 436 | 0 | Python | Lugo | <img src='https://avatars1.githubusercontent.com/u/5393537?v=3&s=64' width='64' height='64' title='Jesús Ventosinos Mayor'> |
 | 2 | [antoniovazquezblanco](https://github.com/antoniovazquezblanco) | 263 | 12 | C | Chantada, Lugo, Spain | <img src='https://avatars2.githubusercontent.com/u/304193?v=3&s=64' width='64' height='64' title='Antonio Vazquez'> |
 | 3 | [santiarg](https://github.com/santiarg) | 242 | 0 | Python | Lugo, Spain | <img src='https://avatars2.githubusercontent.com/u/7600476?v=3&s=64' width='64' height='64' title='Santi Argüeso'> |
 | 4 | [omar7r](https://github.com/omar7r) | 130 | 0 | Python | Lugo, Spain | <img src='https://avatars1.githubusercontent.com/u/637695?v=3&s=64' width='64' height='64' title='omar7r'> |
@@ -30,10 +30,10 @@
 | 15 | [garolard](https://github.com/garolard) | 15 | 0 | Java | Lugo, Spain | <img src='https://avatars2.githubusercontent.com/u/1324904?v=3&s=64' width='64' height='64' title='Gabriel Ferreiro'> |
 | 16 | [palas](https://github.com/palas) | 14 | 0 | Java | Lugo, Spain | <img src='https://avatars1.githubusercontent.com/u/638102?v=3&s=64' width='64' height='64' title='Pablo Lamela'> |
 | 17 | [cartoocm](https://github.com/cartoocm) | 8 | 0 | Python | Lugo de Llanera, Asturias. Spain | <img src='https://avatars3.githubusercontent.com/u/4499445?v=3&s=64' width='64' height='64' title='Oscar Cuadrado Mendez'> |
-| 18 | [kratos95](https://github.com/kratos95) | 7 | 0 | Shell | Lugo | <img src='https://avatars1.githubusercontent.com/u/8512095?v=3&s=64' width='64' height='64' title='Matteo'> |
-| 19 | [RixzZ](https://github.com/RixzZ) | 7 | 0 |  | Lugo | <img src='https://avatars2.githubusercontent.com/u/1339272?v=3&s=64' width='64' height='64' title='Rubén Pérez'> |
+| 18 | [RixzZ](https://github.com/RixzZ) | 7 | 0 |  | Lugo | <img src='https://avatars2.githubusercontent.com/u/1339272?v=3&s=64' width='64' height='64' title='Rubén Pérez'> |
+| 19 | [kratos95](https://github.com/kratos95) | 7 | 0 | Shell | Lugo | <img src='https://avatars1.githubusercontent.com/u/8512095?v=3&s=64' width='64' height='64' title='Matteo'> |
 | 20 | [ainvar2015](https://github.com/ainvar2015) | 6 | 0 | ApacheConf | Lugo | <img src='https://avatars3.githubusercontent.com/u/10366442?v=3&s=64' width='64' height='64' title='Manuel Ruiz-Falcó Couto'> |
 | 21 | [MarcosBL](https://github.com/MarcosBL) | 4 | 7 | Ruby | Lugo, Spain | <img src='https://avatars2.githubusercontent.com/u/389801?v=3&s=64' width='64' height='64' title='MarcosBL'> |
-| 22 | [jmlmontero](https://github.com/jmlmontero) | 2 | 0 | Java | Lugo | <img src='https://avatars1.githubusercontent.com/u/7000336?v=3&s=64' width='64' height='64' title='Miguel'> |
-| 23 | [LucasMontero](https://github.com/LucasMontero) | 2 | 0 | HTML | Lugo, Galicia, Spain | <img src='https://avatars3.githubusercontent.com/u/7733283?v=3&s=64' width='64' height='64' title='Lucas'> |
+| 22 | [LucasMontero](https://github.com/LucasMontero) | 2 | 0 | HTML | Lugo, Galicia, Spain | <img src='https://avatars3.githubusercontent.com/u/7733283?v=3&s=64' width='64' height='64' title='Lucas'> |
+| 23 | [jmlmontero](https://github.com/jmlmontero) | 2 | 0 | Java | Lugo | <img src='https://avatars1.githubusercontent.com/u/7000336?v=3&s=64' width='64' height='64' title='Miguel'> |
 | 24 | [WuShell](https://github.com/WuShell) | 1 | 0 | Python | Lugo, Galicia, Spain | <img src='https://avatars0.githubusercontent.com/u/875005?v=3&s=64' width='64' height='64' title='Francisco de Borja Lopez Rio'> |

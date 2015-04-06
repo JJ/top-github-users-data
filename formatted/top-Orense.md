@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 05 Apr 2014 19:29:01 GMT** hasta **Sun, 05 Apr 2015 19:29:01 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 06 Apr 2014 16:20:08 GMT** hasta **Mon, 06 Apr 2015 16:20:08 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -25,7 +25,7 @@
 | 10 | [msantanagonzalez](https://github.com/msantanagonzalez) | 88 | 1 | PHP | Ourense,Spain | <img src='https://avatars1.githubusercontent.com/u/8866635?v=3&s=64' width='64' height='64' title='Marco Santana González'> |
 | 11 | [Mascalerino](https://github.com/Mascalerino) | 76 | 0 |  | Ourense | <img src='https://avatars3.githubusercontent.com/u/10086067?v=3&s=64' width='64' height='64' title='Manuel Lorenzo Tallón'> |
 | 12 | [diegodelemos](https://github.com/diegodelemos) | 67 | 0 | PHP | Ourense, Spain | <img src='https://avatars0.githubusercontent.com/u/9035606?v=3&s=64' width='64' height='64' title='Diego'> |
-| 13 | [braisNQ](https://github.com/braisNQ) | 62 | 0 | PHP | Ourense | <img src='https://avatars3.githubusercontent.com/u/6281857?v=3&s=64' width='64' height='64' title='Brais Carrión'> |
+| 13 | [braisNQ](https://github.com/braisNQ) | 63 | 0 | PHP | Ourense | <img src='https://avatars3.githubusercontent.com/u/6281857?v=3&s=64' width='64' height='64' title='Brais Carrión'> |
 | 14 | [jjimenezg93](https://github.com/jjimenezg93) | 52 | 0 | Python | Ourense | <img src='https://avatars1.githubusercontent.com/u/6595611?v=3&s=64' width='64' height='64' title='Julián Jiménez'> |
 | 15 | [dcLamas](https://github.com/dcLamas) | 43 | 0 | Shell | Ourense | <img src='https://avatars1.githubusercontent.com/u/4914858?v=3&s=64' width='64' height='64' title='Daniel Camba'> |
 | 16 | [edelperi](https://github.com/edelperi) | 39 | 3 | Awk | Ourense (Spain) | <img src='https://avatars0.githubusercontent.com/u/8928588?v=3&s=64' width='64' height='64' title='José Eugenio López Periago'> |
@@ -40,5 +40,5 @@
 | 25 | [jcastro](https://github.com/jcastro) | 5 | 0 |  | Ourense, Spain | <img src='https://avatars3.githubusercontent.com/u/190036?v=3&s=64' width='64' height='64' title='Jonatan Castro'> |
 | 26 | [bokybanton](https://github.com/bokybanton) | 4 | 1 | CSS and JavaScript | Ourense, Galicia, SPAIN. | <img src='https://avatars2.githubusercontent.com/u/2120773?v=3&s=64' width='64' height='64' title='Francisco Sotelo'> |
 | 27 | [dagss2014](https://github.com/dagss2014) | 3 | 0 | Java and CSS | Ourense | <img src='https://avatars1.githubusercontent.com/u/9696610?v=3&s=64' width='64' height='64' title='DAGSS 2014 (Proyecto Java EE)'> |
-| 28 | [inesortega](https://github.com/inesortega) | 2 | 0 | C | Viana do Bolo (Ourense) & Madrid | <img src='https://avatars3.githubusercontent.com/u/7244869?v=3&s=64' width='64' height='64' title='Inés Ortega'> |
-| 29 | [luisalb](https://github.com/luisalb) | 2 | 0 | PHP | Ourense - Spain | <img src='https://avatars1.githubusercontent.com/u/6916398?v=3&s=64' width='64' height='64' title='Luis'> |
+| 28 | [luisalb](https://github.com/luisalb) | 2 | 0 | PHP | Ourense - Spain | <img src='https://avatars1.githubusercontent.com/u/6916398?v=3&s=64' width='64' height='64' title='Luis'> |
+| 29 | [inesortega](https://github.com/inesortega) | 2 | 0 | C | Viana do Bolo (Ourense) & Madrid | <img src='https://avatars3.githubusercontent.com/u/7244869?v=3&s=64' width='64' height='64' title='Inés Ortega'> |

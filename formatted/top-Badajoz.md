@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 05 Apr 2014 19:09:06 GMT** hasta **Sun, 05 Apr 2015 19:09:06 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 06 Apr 2014 16:00:29 GMT** hasta **Mon, 06 Apr 2015 16:00:29 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -21,7 +21,7 @@
 | 6 | [hazardco](https://github.com/hazardco) | 9 | 2 | JavaScript | Badajoz | <img src='https://avatars0.githubusercontent.com/u/497837?v=3&s=64' width='64' height='64' title='Luis Miguel Cabezas Granado'> |
 | 7 | [garciacarmonaam](https://github.com/garciacarmonaam) | 8 | 0 | C# and C++ | Quintana de la Serena, Badajoz, Spain | <img src='https://avatars0.githubusercontent.com/u/8081322?v=3&s=64' width='64' height='64' title='Ángel Manuel García Carmona'> |
 | 8 | [lmazus](https://github.com/lmazus) | 3 | 0 |  | Jerez de los Caballeros (Badajoz) | <img src='https://avatars3.githubusercontent.com/u/8288319?v=3&s=64' width='64' height='64' title='Luis Mazuecos'> |
-| 9 | [sirym](https://github.com/sirym) | 3 | 0 |  | Badajoz | <img src='https://avatars3.githubusercontent.com/u/8791586?v=3&s=64' width='64' height='64' title='SIRYM'> |
-| 10 | [albertocabello](https://github.com/albertocabello) | 3 | 0 | JavaScript | Badajoz, Spain | <img src='https://avatars1.githubusercontent.com/u/3274653?v=3&s=64' width='64' height='64' title='Alberto Cabello Sánchez'> |
+| 9 | [albertocabello](https://github.com/albertocabello) | 3 | 0 | JavaScript | Badajoz, Spain | <img src='https://avatars1.githubusercontent.com/u/3274653?v=3&s=64' width='64' height='64' title='Alberto Cabello Sánchez'> |
+| 10 | [sirym](https://github.com/sirym) | 3 | 0 |  | Badajoz | <img src='https://avatars3.githubusercontent.com/u/8791586?v=3&s=64' width='64' height='64' title='SIRYM'> |
 | 11 | [KurroCantos](https://github.com/KurroCantos) | 2 | 0 | Objective-C | Badajoz (Spain) | <img src='https://avatars0.githubusercontent.com/u/8928294?v=3&s=64' width='64' height='64' title='Kurro'> |
 | 12 | [davidvalverde](https://github.com/davidvalverde) | 1 | 0 | ActionScript | Badajoz | <img src='https://avatars2.githubusercontent.com/u/1055256?v=3&s=64' width='64' height='64' title='David Valverde'> |

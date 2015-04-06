@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 05 Apr 2014 19:30:17 GMT** hasta **Sun, 05 Apr 2015 19:30:17 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 06 Apr 2014 16:21:22 GMT** hasta **Mon, 06 Apr 2015 16:21:22 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,7 +13,7 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [stronk7](https://github.com/stronk7) | 525 | 25 | PHP | Navarrete, La Rioja, Spain | <img src='https://avatars0.githubusercontent.com/u/167147?v=3&s=64' width='64' height='64' title='Eloy Lafuente (stronk7)'> |
+| 1 | [stronk7](https://github.com/stronk7) | 527 | 25 | PHP | Navarrete, La Rioja, Spain | <img src='https://avatars0.githubusercontent.com/u/167147?v=3&s=64' width='64' height='64' title='Eloy Lafuente (stronk7)'> |
 | 2 | [iderioja](https://github.com/iderioja) | 162 | 10 | HTML | Logroño (España) | <img src='https://avatars0.githubusercontent.com/u/5090808?v=3&s=64' width='64' height='64' title='iderioja'> |
 | 3 | [rgo](https://github.com/rgo) | 158 | 87 | Ruby | La Rioja - Spain | <img src='https://avatars2.githubusercontent.com/u/47124?v=3&s=64' width='64' height='64' title='Rafa García'> |
 | 4 | [Brianholl](https://github.com/Brianholl) | 53 | 0 |  | La Rioja | <img src='https://avatars0.githubusercontent.com/u/1537906?v=3&s=64' width='64' height='64' title='Brian'> |
@@ -22,7 +22,7 @@
 | 7 | [jecrespo](https://github.com/jecrespo) | 22 | 3 | C++ | Logroño, Spain | <img src='https://avatars1.githubusercontent.com/u/1539718?v=3&s=64' width='64' height='64' title='Enrique Crespo'> |
 | 8 | [maryano](https://github.com/maryano) | 16 | 0 |  | Logroño, La Rioja | <img src='https://avatars3.githubusercontent.com/u/6717699?v=3&s=64' width='64' height='64' title='Mariano Pop'> |
 | 9 | [feantot](https://github.com/feantot) | 9 | 0 |  | Logroño, Spain | <img src='https://avatars3.githubusercontent.com/u/4599973?v=3&s=64' width='64' height='64' title='Fernando Antonanzas-Torres'> |
-| 10 | [Txumari](https://github.com/Txumari) | 8 | 3 | JavaScript | Madrid & Logroño | <img src='https://avatars2.githubusercontent.com/u/401963?v=3&s=64' width='64' height='64' title='Jesus Mª'> |
+| 10 | [Txumari](https://github.com/Txumari) | 7 | 3 | JavaScript | Madrid & Logroño | <img src='https://avatars2.githubusercontent.com/u/401963?v=3&s=64' width='64' height='64' title='Jesus Mª'> |
 | 11 | [wbugbofh](https://github.com/wbugbofh) | 6 | 1 | CSS | Logroño Spain | <img src='https://avatars1.githubusercontent.com/u/4250161?v=3&s=64' width='64' height='64' title='Mario'> |
 | 12 | [MontiQt](https://github.com/MontiQt) | 5 | 1 | PHP and CSS | La Rioja | <img src='https://avatars1.githubusercontent.com/u/6886845?v=3&s=64' width='64' height='64' title='Javier'> |
 | 13 | [chiva](https://github.com/chiva) | 5 | 22 | C | Logroño, Spain | <img src='https://avatars2.githubusercontent.com/u/305333?v=3&s=64' width='64' height='64' title='Santiago Reig'> |
