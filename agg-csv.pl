@@ -25,7 +25,7 @@ my %new_names = ( "Alicante/Alacant" => "Alicante",
 		  "Palmas" => "Las Palmas",
 		  "Valencia/València" => "Valencia");
 
-my @columns =  qw( contributions stars followers );
+my @columns =  qw( contributions stars user_stars followers );
 
 say "province;population;users;",join(";",@columns);
 for my $p ( @prov_names ) {
@@ -44,7 +44,12 @@ for my $p ( @prov_names ) {
   for my $u (@$p_data ) {
     $users++;
     for my $column ( @columns ) {
-      ( $totals->{$column} += $u->{$column} ) if $u->{$column};
+	if ($u->{$column} ) {
+	    if ( $u->{$column} =~ /(\S+)k/ ) {
+		$u->{$column} = $1*1000;
+	    }
+	    $totals->{$column} += $u->{$column};
+	}
     }
   }
   my @row = ( $name, $population, $users );
