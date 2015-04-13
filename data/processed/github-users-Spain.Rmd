@@ -1,0 +1,58 @@
+---
+title: 'GitHub users in Spain: an initial analysis'
+author: "JJ Merelo"
+date: "13/04/2015"
+output: html_document
+---
+
+```{r, echo=FALSE, message=FALSE,results='hide',warning=FALSE}
+data.province <- read.csv('data-per-province.csv',sep=';')
+data.province$usersrel <- data.province$users / data.province$population
+data.province$contribrel <- data.province$contributions / data.province$population
+data.province$followersrel <- data.province$followers / data.province$population
+data.province$starsrel <- data.province$stars / data.province$population
+data.province$userstarsrel <- data.province$user_stars / data.province$population
+data.province.rel <- data.frame( province=data.province$province, users=data.province$usersrel, contrib=data.province$contribrel, stars=data.province$starsrel, userstars=data.province$userstarsrel )
+
+library(ggplot2)
+library(mclust)
+library(MASS)
+data.province.clust <- Mclust(data.province.rel)
+data.province$CLUST <- data.province.clust$classification
+
+d <- dist(data.province.rel)
+scaling <- isoMDS(d, k=2)
+data.province$scaledx = scaling$points[,1]
+data.province$scaledy = scaling$points[,2]
+
+```
+
+
+
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(data.province, aes(x=reorder(province,population),y=users))+geom_bar(stat='identity')+coord_flip()
+```
+
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(data.province, aes(x=reorder(province,usersrel),y=usersrel))+geom_bar(stat='identity')+coord_flip()
+```
+
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(data.province, aes(x=reorder(province,contribrel),y=contribrel))+geom_bar(stat='identity')+coord_flip()
+```
+
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(data.province, aes(x=reorder(province,followersrel),y=followersrel))+geom_bar(stat='identity')+coord_flip()
+```
+
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(data.province, aes(x=reorder(province,starsrel),y=starsrel))+geom_bar(stat='identity')+coord_flip()
+```
+
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(data.province, aes(x=reorder(province,userstarsrel),y=userstarsrel))+geom_bar(stat='identity')+coord_flip()
+```
+
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(data.province, aes(x=scaledx, y=scaledy, colour=factor(CLUST),shape=factor(CLUST)))+geom_point()+ geom_text(aes(label=province,angle=45,hjust=0))
+```
