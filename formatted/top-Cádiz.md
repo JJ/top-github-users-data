@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Mon, 14 Apr 2014 05:42:29 GMT** hasta **Tue, 14 Apr 2015 05:42:29 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Mon, 14 Apr 2014 05:45:13 GMT** hasta **Tue, 14 Apr 2015 05:45:13 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -42,8 +42,8 @@
 | 27 | [ignaciofatou](https://github.com/ignaciofatou) | 43 | 0 | Java | Ubrique | <img src='https://avatars3.githubusercontent.com/u/9566788?v=3&s=64' width='64' height='64' title='Ignacio'> |
 | 28 | [villamany](https://github.com/villamany) | 42 | 5 | C# | Cadiz, Spain | <img src='https://avatars3.githubusercontent.com/u/551642?v=3&s=400' width='64' height='64' title=''> |
 | 29 | [vengador](https://github.com/vengador) | 39 | 1 | JavaScript | Jerez de la Frontera | <img src='https://avatars3.githubusercontent.com/u/433632?v=3&s=64' width='64' height='64' title='Moisés Rodríguez Carmona'> |
-| 30 | [danmarcab](https://github.com/danmarcab) | 37 | 2 | Ruby | Cádiz, Spain | <img src='https://avatars3.githubusercontent.com/u/1517969?v=3&s=64' width='64' height='64' title='Daniel Marín'> |
-| 31 | [ankeberns](https://github.com/ankeberns) | 37 | 0 |  | Cádiz (Spain) | <img src='https://avatars2.githubusercontent.com/u/7302898?v=3&s=64' width='64' height='64' title='Anke Berns'> |
+| 30 | [ankeberns](https://github.com/ankeberns) | 37 | 0 |  | Cádiz (Spain) | <img src='https://avatars2.githubusercontent.com/u/7302898?v=3&s=64' width='64' height='64' title='Anke Berns'> |
+| 31 | [danmarcab](https://github.com/danmarcab) | 37 | 2 | Ruby | Cádiz, Spain | <img src='https://avatars3.githubusercontent.com/u/1517969?v=3&s=64' width='64' height='64' title='Daniel Marín'> |
 | 32 | [hamena](https://github.com/hamena) | 35 | 0 | C++ | Cádiz, Spain | <img src='https://avatars1.githubusercontent.com/u/3215305?v=3&s=64' width='64' height='64' title='José Crespo Guerrero'> |
 | 33 | [16BITBoy](https://github.com/16BITBoy) | 32 | 3 | JavaScript | Cadiz, Los barrios | <img src='https://avatars0.githubusercontent.com/u/278543?v=3&s=64' width='64' height='64' title='A.Perez'> |
 | 34 | [carlosramosgonz](https://github.com/carlosramosgonz) | 31 | 0 | HTML | Cádiz, Spain | <img src='https://avatars3.githubusercontent.com/u/9774617?v=3&s=64' width='64' height='64' title='Carlos Ramos'> |
@@ -59,30 +59,29 @@
 | 44 | [loicginoux](https://github.com/loicginoux) | 19 | 18 | JavaScript | Tarifa, Spain | <img src='https://avatars0.githubusercontent.com/u/824936?v=3&s=64' width='64' height='64' title='Loic'> |
 | 45 | [isrart](https://github.com/isrart) | 19 | 0 | Java | El Puerto de Santa María (Cádiz) | <img src='https://avatars2.githubusercontent.com/u/6737600?v=3&s=64' width='64' height='64' title=''> |
 | 46 | [KevValle](https://github.com/KevValle) | 17 | 0 | Python | San Fernando, Cádiz | <img src='https://avatars0.githubusercontent.com/u/11409600?v=3&s=64' width='64' height='64' title='Kevin Jesús Valle Gómez'> |
-| 47 | [Gamxini](https://github.com/Gamxini) | 16 | 0 | Python and HTML | Jerez de la Frontera | <img src='https://avatars3.githubusercontent.com/u/3842009?v=3&s=64' width='64' height='64' title='Antonio Gambín'> |
-| 48 | [coellomontiel](https://github.com/coellomontiel) | 16 | 0 | JavaScript and Shell | Cádiz | <img src='https://avatars3.githubusercontent.com/u/2495524?v=3&s=64' width='64' height='64' title='Juan Manuel Coello Montiel'> |
-| 49 | [nerviozzo](https://github.com/nerviozzo) | 16 | 2 | CSS | Chipiona | <img src='https://avatars3.githubusercontent.com/u/10176967?v=3&s=64' width='64' height='64' title=''> |
+| 47 | [coellomontiel](https://github.com/coellomontiel) | 16 | 0 | JavaScript and Shell | Cádiz | <img src='https://avatars3.githubusercontent.com/u/2495524?v=3&s=64' width='64' height='64' title='Juan Manuel Coello Montiel'> |
+| 48 | [nerviozzo](https://github.com/nerviozzo) | 16 | 2 | CSS | Chipiona | <img src='https://avatars3.githubusercontent.com/u/10176967?v=3&s=64' width='64' height='64' title=''> |
+| 49 | [Gamxini](https://github.com/Gamxini) | 16 | 0 | Python and HTML | Jerez de la Frontera | <img src='https://avatars3.githubusercontent.com/u/3842009?v=3&s=64' width='64' height='64' title='Antonio Gambín'> |
 | 50 | [jorgegalindocruces](https://github.com/jorgegalindocruces) | 15 | 0 |  | San Fernando, Cadiz, España | <img src='https://avatars3.githubusercontent.com/u/105974?v=3&s=64' width='64' height='64' title='Jorge Galindo Cruces'> |
 | 51 | [danigonlinea](https://github.com/danigonlinea) | 11 | 2 | CSS | Conil (Cádiz), España | <img src='https://avatars3.githubusercontent.com/u/1208620?v=3&s=64' width='64' height='64' title='Dani González'> |
 | 52 | [fldrog](https://github.com/fldrog) | 11 | 0 | Java | Spain, Cadiz, La Linea | <img src='https://avatars2.githubusercontent.com/u/1549438?v=3&s=64' width='64' height='64' title='Florin Botis'> |
-| 53 | [almome](https://github.com/almome) | 10 | 0 | Python and HTML | El Puerto de Santa María, Cádiz | <img src='https://avatars1.githubusercontent.com/u/11409639?v=3&s=64' width='64' height='64' title='Alexandra M.Méndez'> |
-| 54 | [AntonioPerezRivera](https://github.com/AntonioPerezRivera) | 10 | 0 | Python | Jerez de la Frontera, Cádiz | <img src='https://avatars0.githubusercontent.com/u/11405793?v=3&s=64' width='64' height='64' title='Antonio Miguel Pérez Rivera'> |
+| 53 | [AntonioPerezRivera](https://github.com/AntonioPerezRivera) | 10 | 0 | Python | Jerez de la Frontera, Cádiz | <img src='https://avatars0.githubusercontent.com/u/11405793?v=3&s=64' width='64' height='64' title='Antonio Miguel Pérez Rivera'> |
+| 54 | [almome](https://github.com/almome) | 10 | 0 | Python and HTML | El Puerto de Santa María, Cádiz | <img src='https://avatars1.githubusercontent.com/u/11409639?v=3&s=64' width='64' height='64' title='Alexandra M.Méndez'> |
 | 55 | [oldlastman](https://github.com/oldlastman) | 9 | 2 | JavaScript | cádiz | <img src='https://avatars1.githubusercontent.com/u/479544?v=3&s=64' width='64' height='64' title='José Pardo Barceló'> |
 | 56 | [jmmateos](https://github.com/jmmateos) | 8 | 0 | JavaScript | Jerez, Spain | <img src='https://avatars1.githubusercontent.com/u/8809292?v=3&s=64' width='64' height='64' title='Jose Manuel Mateos'> |
 | 57 | [PepeAleu](https://github.com/PepeAleu) | 7 | 0 | PHP | Cádiz | <img src='https://avatars0.githubusercontent.com/u/3289338?v=3&s=64' width='64' height='64' title='Pepe'> |
 | 58 | [GanemosCadiz](https://github.com/GanemosCadiz) | 5 | 0 | JavaScript | Cádiz | <img src='https://avatars0.githubusercontent.com/u/11867345?v=3&s=64' width='64' height='64' title='Ganemos Cádiz'> |
 | 59 | [danramirez](https://github.com/danramirez) | 5 | 0 | Java | Cádiz (Spain) | <img src='https://avatars2.githubusercontent.com/u/4130214?v=3&s=64' width='64' height='64' title='Daniel Ramírez Otero'> |
-| 60 | [eurodev](https://github.com/eurodev) | 4 | 11 | Shell | Jerez de la Frontera | <img src='https://avatars0.githubusercontent.com/u/854310?v=3&s=64' width='64' height='64' title='Javier Carranza'> |
-| 61 | [drwaky](https://github.com/drwaky) | 4 | 1 | Arduino | Madrid - Jerez de la Frontera | <img src='https://avatars0.githubusercontent.com/u/158688?v=3&s=64' width='64' height='64' title='Joaquín López'> |
+| 60 | [drwaky](https://github.com/drwaky) | 4 | 1 | Arduino | Madrid - Jerez de la Frontera | <img src='https://avatars0.githubusercontent.com/u/158688?v=3&s=64' width='64' height='64' title='Joaquín López'> |
+| 61 | [eurodev](https://github.com/eurodev) | 4 | 11 | Shell | Jerez de la Frontera | <img src='https://avatars0.githubusercontent.com/u/854310?v=3&s=64' width='64' height='64' title='Javier Carranza'> |
 | 62 | [morgothz](https://github.com/morgothz) | 4 | 0 |  | Chiclana de la Frontera | <img src='https://avatars0.githubusercontent.com/u/1357851?v=3&s=64' width='64' height='64' title='David Langarica Lorenzo'> |
-| 63 | [lmazus](https://github.com/lmazus) | 3 | 0 |  | Jerez de los Caballeros (Badajoz) | <img src='https://avatars3.githubusercontent.com/u/8288319?v=3&s=64' width='64' height='64' title='Luis Mazuecos'> |
-| 64 | [josergb](https://github.com/josergb) | 3 | 6 | JavaScript and Python | Jerez de la Frontera | <img src='https://avatars3.githubusercontent.com/u/498261?v=3&s=64' width='64' height='64' title='Lole Román'> |
-| 65 | [DanijoeyPK](https://github.com/DanijoeyPK) | 2 | 0 | Java | cadiz (España) | <img src='https://avatars0.githubusercontent.com/u/9863602?v=3&s=64' width='64' height='64' title='Dani'> |
-| 66 | [gibney](https://github.com/gibney) | 1 | 0 | JavaScript | Cádiz | <img src='https://avatars2.githubusercontent.com/u/303572?v=3&s=64' width='64' height='64' title='andy clark'> |
-| 67 | [fcerezo](https://github.com/fcerezo) | 1 | 2 | PHP | Chiclana de la Frontera | <img src='https://avatars3.githubusercontent.com/u/895858?v=3&s=64' width='64' height='64' title='Francisco Cerezo Leal'> |
-| 68 | [webifish](https://github.com/webifish) | 1 | 5 | PHP | Vejer de la Frontera, Spain | <img src='https://avatars3.githubusercontent.com/u/2052457?v=3&s=64' width='64' height='64' title='Amit Kvint'> |
+| 63 | [josergb](https://github.com/josergb) | 3 | 6 | JavaScript and Python | Jerez de la Frontera | <img src='https://avatars3.githubusercontent.com/u/498261?v=3&s=64' width='64' height='64' title='Lole Román'> |
+| 64 | [DanijoeyPK](https://github.com/DanijoeyPK) | 2 | 0 | Java | cadiz (España) | <img src='https://avatars0.githubusercontent.com/u/9863602?v=3&s=64' width='64' height='64' title='Dani'> |
+| 65 | [webifish](https://github.com/webifish) | 1 | 5 | PHP | Vejer de la Frontera, Spain | <img src='https://avatars3.githubusercontent.com/u/2052457?v=3&s=64' width='64' height='64' title='Amit Kvint'> |
+| 66 | [IvanD3](https://github.com/IvanD3) | 1 | 0 | C++ | Jerez de la frontera | <img src='https://avatars3.githubusercontent.com/u/3024764?v=3&s=64' width='64' height='64' title='Iván'> |
+| 67 | [efoncubierta](https://github.com/efoncubierta) | 1 | 0 | Java | Cádiz | <img src='https://avatars2.githubusercontent.com/u/610961?v=3&s=64' width='64' height='64' title='Ezequiel Foncubierta'> |
+| 68 | [fcerezo](https://github.com/fcerezo) | 1 | 2 | PHP | Chiclana de la Frontera | <img src='https://avatars3.githubusercontent.com/u/895858?v=3&s=64' width='64' height='64' title='Francisco Cerezo Leal'> |
 | 69 | [jacintocapote](https://github.com/jacintocapote) | 1 | 0 | PHP | jerez de la frontera | <img src='https://avatars2.githubusercontent.com/u/838381?v=3&s=64' width='64' height='64' title='Jacinto'> |
 | 70 | [ignaciogs](https://github.com/ignaciogs) | 1 | 6 | Java and Racket | Cádiz | <img src='https://avatars1.githubusercontent.com/u/708659?v=3&s=64' width='64' height='64' title='Ignacio'> |
-| 71 | [IvanD3](https://github.com/IvanD3) | 1 | 0 | C++ | Jerez de la frontera | <img src='https://avatars3.githubusercontent.com/u/3024764?v=3&s=64' width='64' height='64' title='Iván'> |
-| 72 | [26horas](https://github.com/26horas) | 1 | 0 |  | Cádiz | <img src='https://avatars0.githubusercontent.com/u/11883898?v=3&s=64' width='64' height='64' title='Pablo Fernandez'> |
-| 73 | [efoncubierta](https://github.com/efoncubierta) | 1 | 0 | Java | Cádiz | <img src='https://avatars2.githubusercontent.com/u/610961?v=3&s=64' width='64' height='64' title='Ezequiel Foncubierta'> |
+| 71 | [26horas](https://github.com/26horas) | 1 | 0 |  | Cádiz | <img src='https://avatars0.githubusercontent.com/u/11883898?v=3&s=64' width='64' height='64' title='Pablo Fernandez'> |
+| 72 | [gibney](https://github.com/gibney) | 1 | 0 | JavaScript | Cádiz | <img src='https://avatars2.githubusercontent.com/u/303572?v=3&s=64' width='64' height='64' title='andy clark'> |
