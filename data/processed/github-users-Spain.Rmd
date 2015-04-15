@@ -27,6 +27,10 @@ data.province$scaledy = scaling$points[,2]
 
 ```
 
+##Abstract
+
+>Measuring and ranking the free software developers in a particular geographical space is a way of knowing the existing community and also allows assessing the impact of certain policies in the dynamics of such a community. Besides, it is interesting to try and find out why there are differences from one place to the next and how these differences evolve with time. 
+>In this paper, our main interest is to measure and rank the community of free software developers in Spain. This paper is an initial assessment, and measures differences by province, providing a classification of provinces according to the number and type of developers present in each place. 
 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
