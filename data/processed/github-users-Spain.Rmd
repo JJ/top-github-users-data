@@ -3,6 +3,7 @@ title: 'GitHub users in Spain: an initial analysis'
 author: "JJ Merelo"
 date: "13/04/2015"
 output: html_document
+bibliography: gh-rankings.bib
 ---
 
 ```{r, echo=FALSE, message=FALSE,results='hide',warning=FALSE}
@@ -32,31 +33,57 @@ data.province$scaledy = scaling$points[,2]
 >Measuring and ranking the free software developers in a particular geographical space is a way of knowing the existing community and also allows assessing the impact of certain policies in the dynamics of such a community. Besides, it is interesting to try and find out why there are differences from one place to the next and how these differences evolve with time. 
 >In this paper, our main interest is to measure and rank the community of free software developers in Spain. This paper is an initial assessment, and measures differences by province, providing a classification of provinces according to the number and type of developers present in each place. 
 
+# Introduction and methodology
+
+The initial motive behind this paper was to check the health of the free software developer community in Spain. With that target in mind, we elaborated some initial national rankings which were published @winnower. The main problem with those rankings is that in many cases and specially in the big cities, there was no attempt to exhaustively search all active users. Since the [GitHub search API](https://developer.github.com/v3/search/#search-users) just returns 1000 results and, in the case of Madrid and Barcelona, there were more than that, the script that downloads user data had to be modified so that, through partition of the search space, it was able to perform searches that returned less than 1000 results until all users were covered. It still does not cover users that *do not* declare their city/province in their profile, or use provincial towns thar are not explicitly searched. In one case, Guadalajara, it was impossible to make out which users where actually from Guadalajara, Spain and not from Guadalajara, Mexico and thus was explicitly excluded. In general, it can be said that all users that *declare* their province or provincial capital are included, although the quantity of those that are there and do not do it is unknown, and hopefully uniform for all provinces involved.
+
+
+#Results
+
+After downloading all users, scraping was performed over the user profiles to extract the following information: number of followers, stars given by the user, stars given to the projects in which the user participates, and raw number of users. This number of users in each province is shown below. Obviously, the provinces with the biggest population do have the bigger number of users.
+
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,population),y=users))+geom_bar(stat='identity')+coord_flip()
 ```
 
+However, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics institute), the situation is somewhat different, with Granada emerging as the province with the highest number of GitHub active developers per capita, followed by Barcelona and Madrid and then by Seville and Saragossa.
+
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,usersrel),y=usersrel))+geom_bar(stat='identity')+coord_flip()
 ```
+
+The situation is similar if we take into account the aggregated contributions by all province users. Once again, Granada emerges as the winner but the position of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five.
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,contribrel),y=contribrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
+The aggregated number of followers is a bit less surprising, with Madrid and Barcelona on top, but Álava and Bilbao entering the top 5. If we delve into data this is mainly due to a single user in each case. 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,followersrel),y=followersrel))+geom_bar(stat='identity')+coord_flip()
 ```
+
+The stars given to projects, which is a proxy for popularity, is correlated (but it remains to be seen exactly how) to the number of followers, with Álava again on the top 5 and two completely new provinces, Salamanca and Pontevedra, getting to the top. 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,starsrel),y=starsrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
+Finally, if we consider the number of stars given by users, a new one, Tenerife, gets into the top 5.
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,userstarsrel),y=userstarsrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
+The graphs above imply that there are differen classes in the provinces in Spain. We have performed clustering using mclust (@mclust,@mclustmanual) using as representation for each province the relative values plotted above and obtained this division into four clusters.
+
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=scaledx, y=scaledy, colour=factor(CLUST),shape=factor(CLUST)))+geom_point()+ geom_text(aes(label=province,angle=45,hjust=0))
 ```
+
+Apparently, one cluster includes the provinces with the highest productivity: Madrid, Barcelona and Granada. A second cluster, in purple, includes Valencia, Sevilla, Zaragoza and Valencia, which consistently score in the top 10 in every ranking and in some cases the top 5. The following cluster includes many provinces like Álava or Navarra which show up in some cases in the top 5 for some reason, but not always. The rest of the provinces are grouped in the remaining cluster, shown in green.
+
+#Conclusions
+This paper measures and ranks Spanish provinces by the number of users and other quantities related to productivity (contributions) and popularity (stars, followers). It is a first approximation to community metrics in Spain and it is mainly intended as a reference for future use. It is also an indication of a particular point in time. Future versions will probably change this scenario and it is an interesting line of work to delve on the reason for these changes.
+
+# References
