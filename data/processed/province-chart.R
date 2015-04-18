@@ -1,5 +1,10 @@
 library('ggplot2')
 github.user.data <- read.csv('aggregated-top-Spain.csv',sep=';')
 github.user.data$place <- reorder(github.user.data$place, X=github.user.data$place, FUN= function(x) -length(x))
-ggplot( data=github.user.data, aes( x=factor(1), fill=factor(place)))+ geom_bar(width = 1,color='black')+coord_polar(theta="y")+guides(fill=guide_legend(ncol=2))
+province.table <- table(github.user.data$place)
+province.table.acc <- head(province.table,n=10)
+province.table.acc['Others'] = sum(as.vector(tail(province.table,n=-10)))
+province.table.df <- data.frame( province=names(province.table.acc),users= as.vector(province.table.acc))
+ggplot( data=province.table.df, aes(x="",y=users,fill=factor(province)))+ geom_bar(width=1,stat='identity') + coord_polar(theta='y')
+ggsave( 'province-stacked-chart.png')
 
