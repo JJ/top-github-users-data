@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 12 Apr 2014 09:54:20 GMT** hasta **Sun, 12 Apr 2015 09:54:20 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 19 Apr 2014 09:54:59 GMT** hasta **Sun, 19 Apr 2015 09:54:59 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -18,7 +18,7 @@
 | 3 | [robertobermejo](https://github.com/robertobermejo) | 40 | 3 | PHP | Segovia | <img src='https://avatars2.githubusercontent.com/u/221931?v=3&s=64' width='64' height='64' title='Roberto Bermejo Martinez'> |
 | 4 | [migumar2](https://github.com/migumar2) | 19 | 4 | C++ | Segovia, Spain | <img src='https://avatars1.githubusercontent.com/u/819947?v=3&s=64' width='64' height='64' title='Miguel A. Martínez-Prieto'> |
 | 5 | [guiyens](https://github.com/guiyens) | 8 | 3 | JavaScript | Segovia | <img src='https://avatars2.githubusercontent.com/u/1494204?v=3&s=64' width='64' height='64' title='Guillermo Ramos Vega'> |
-| 6 | [t00m](https://github.com/t00m) | 5 | 3 | Visual Basic and Python | Segovia, España | <img src='https://avatars1.githubusercontent.com/u/386662?v=3&s=64' width='64' height='64' title='Tomás Vírseda'> |
-| 7 | [carlosdelucas92](https://github.com/carlosdelucas92) | 5 | 0 |  | Segovia City | <img src='https://avatars2.githubusercontent.com/u/10717935?v=3&s=64' width='64' height='64' title='Carlos de Lucas Sanz'> |
+| 6 | [carlosdelucas92](https://github.com/carlosdelucas92) | 5 | 0 |  | Segovia City | <img src='https://avatars2.githubusercontent.com/u/10717935?v=3&s=64' width='64' height='64' title='Carlos de Lucas Sanz'> |
+| 7 | [t00m](https://github.com/t00m) | 5 | 3 | Visual Basic and Python | Segovia, España | <img src='https://avatars1.githubusercontent.com/u/386662?v=3&s=64' width='64' height='64' title='Tomás Vírseda'> |
 | 8 | [sergioortegagomez](https://github.com/sergioortegagomez) | 4 | 0 |  | Segovia | <img src='https://avatars1.githubusercontent.com/u/8767128?v=3&s=64' width='64' height='64' title='Sergio'> |
 | 9 | [moipcr](https://github.com/moipcr) | 2 | 0 |  | Segovia (Spain) | <img src='https://avatars3.githubusercontent.com/u/10281984?v=3&s=64' width='64' height='64' title='Moi'> |
