@@ -23,19 +23,20 @@ my %column_row =  ( followers => 2,
 		    contributions => 3,
 		    stars => 4 );
 
-say join(";",@columns);
+say "users;",join(";",@columns);
 
 #For files not in repo
 if ($baseline) {
       my @file_contents = read_lines( $baseline );
       my @row = extract_data( @file_contents);
-      say join(";",@row);
+      say scalar @file_contents,";",join(";",@row);
 }
 
 for my $commit ( reverse @revs ) {
   my $file_contents = $repo->command('show',"$commit:$file" );
-  my @row = extract_data( split("\n",$file_contents));
-  say join(";",@row);
+  my @file_lines = split("\n",$file_contents);
+  my @row = extract_data(@file_lines );
+  say scalar @file_lines,";",join(";",@row);
 }
 
 
