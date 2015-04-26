@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 19 Apr 2014 09:56:04 GMT** hasta **Sun, 19 Apr 2015 09:56:04 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 26 Apr 2014 09:56:31 GMT** hasta **Sun, 26 Apr 2015 09:56:31 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,6 +13,6 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [alazuga](https://github.com/alazuga) | 84 | 0 | Java | Teruel-Zaragoza (Spain) | <img src='https://avatars3.githubusercontent.com/u/6850099?v=3&s=64' width='64' height='64' title='Alberto Azuara'> |
+| 1 | [alazuga](https://github.com/alazuga) | 93 | 0 | Java and C | Teruel-Zaragoza (Spain) | <img src='https://avatars3.githubusercontent.com/u/6850099?v=3&s=64' width='64' height='64' title='Alberto Azuara'> |
 | 2 | [rochesto](https://github.com/rochesto) | 13 | 0 | PHP | Teruel | <img src='https://avatars1.githubusercontent.com/u/4068052?v=3&s=64' width='64' height='64' title='Roberto Espinosa Gomez'> |
 | 3 | [luisguillenc](https://github.com/luisguillenc) | 2 | 0 | Shell | Teruel | <img src='https://avatars0.githubusercontent.com/u/7115793?v=3&s=64' width='64' height='64' title='Luis Guillén Civera'> |
