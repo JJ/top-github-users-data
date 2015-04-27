@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 26 Apr 2014 09:26:47 GMT** hasta **Sun, 26 Apr 2015 09:26:47 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 27 Apr 2014 05:45:54 GMT** hasta **Mon, 27 Apr 2015 05:45:54 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,25 +13,25 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [bameda](https://github.com/bameda) | 1371 | 6 | Python | Madrid, Jaén, Spain, España | <img src='https://avatars2.githubusercontent.com/u/877218?v=3&s=64' width='64' height='64' title='David Barragán Merino'> |
+| 1 | [bameda](https://github.com/bameda) | 1372 | 6 | Python | Madrid, Jaén, Spain, España | <img src='https://avatars2.githubusercontent.com/u/877218?v=3&s=64' width='64' height='64' title='David Barragán Merino'> |
 | 2 | [javacasm](https://github.com/javacasm) | 674 | 5 | Arduino | Granada, Jaén (Spain) | <img src='https://avatars3.githubusercontent.com/u/3841695?v=3&s=64' width='64' height='64' title='Jose Antonio Vacas'> |
 | 3 | [fcharte](https://github.com/fcharte) | 582 | 14 | R | Jaén, Granada, Spain | <img src='https://avatars3.githubusercontent.com/u/8365501?v=3&s=64' width='64' height='64' title='Francisco Charte Ojeda'> |
 | 4 | [ivanortegaalba](https://github.com/ivanortegaalba) | 517 | 4 | Shell | Granada, Jaén, Spain | <img src='https://avatars0.githubusercontent.com/u/5699976?v=3&s=64' width='64' height='64' title='Ivan Ortega Alba'> |
 | 5 | [lrlopez](https://github.com/lrlopez) | 492 | 4 | PHP | Linares (Jaén) | <img src='https://avatars0.githubusercontent.com/u/547387?v=3&s=64' width='64' height='64' title='Luis Ramón López'> |
 | 6 | [JCristobal](https://github.com/JCristobal) | 266 | 3 | CSS | Jaén, Granada | <img src='https://avatars0.githubusercontent.com/u/8878426?v=3&s=64' width='64' height='64' title='J. Cristóbal López'> |
 | 7 | [acharluk](https://github.com/acharluk) | 171 | 0 | Java | Jaén, Granada, Spain | <img src='https://avatars3.githubusercontent.com/u/5154281?v=3&s=64' width='64' height='64' title='ACharLuk'> |
-| 8 | [vrivas](https://github.com/vrivas) | 153 | 0 | CSS | Jaen, Jaén, Granada, Spain | <img src='https://avatars0.githubusercontent.com/u/3046042?v=3&s=64' width='64' height='64' title='Víctor Manuel Rivas Santos'> |
-| 9 | [guillermochica](https://github.com/guillermochica) | 140 | 1 | JavaScript | Granada, de Jaén | <img src='https://avatars0.githubusercontent.com/u/9317092?v=3&s=64' width='64' height='64' title='Guillermo Chica Sabariego'> |
+| 8 | [vrivas](https://github.com/vrivas) | 159 | 0 | CSS | Jaen, Jaén, Granada, Spain | <img src='https://avatars0.githubusercontent.com/u/3046042?v=3&s=64' width='64' height='64' title='Víctor Manuel Rivas Santos'> |
+| 9 | [guillermochica](https://github.com/guillermochica) | 141 | 1 | JavaScript | Granada, de Jaén | <img src='https://avatars0.githubusercontent.com/u/9317092?v=3&s=64' width='64' height='64' title='Guillermo Chica Sabariego'> |
 | 10 | [pedropena](https://github.com/pedropena) | 126 | 12 | C | Jaén, Spain | <img src='https://avatars3.githubusercontent.com/u/834583?v=3&s=64' width='64' height='64' title='Pedro Peña Pérez'> |
 | 11 | [jesusr](https://github.com/jesusr) | 107 | 0 | CSS | Madrid/Jaén, Spain | <img src='https://avatars2.githubusercontent.com/u/1256168?v=3&s=64' width='64' height='64' title='Jesús R Peinado'> |
-| 12 | [OdeiRZ](https://github.com/OdeiRZ) | 70 | 0 | PHP | Linares | <img src='https://avatars0.githubusercontent.com/u/8981290?v=3&s=64' width='64' height='64' title='Odei Riveiro Zafra'> |
+| 12 | [OdeiRZ](https://github.com/OdeiRZ) | 71 | 0 | PHP | Linares | <img src='https://avatars0.githubusercontent.com/u/8981290?v=3&s=64' width='64' height='64' title='Odei Riveiro Zafra'> |
 | 13 | [felmoltor](https://github.com/felmoltor) | 54 | 26 | Ruby | Madrid / Jaén | <img src='https://avatars1.githubusercontent.com/u/846513?v=3&s=64' width='64' height='64' title='Felipe Molina de la Torre'> |
 | 14 | [Mangulomx](https://github.com/Mangulomx) | 53 | 0 | PHP | Linares | <img src='https://avatars2.githubusercontent.com/u/5888094?v=3&s=64' width='64' height='64' title='Miguel Angulo Martínez'> |
 | 15 | [nono9119](https://github.com/nono9119) | 41 | 0 | Java | Andújar | <img src='https://avatars3.githubusercontent.com/u/3900430?v=3&s=64' width='64' height='64' title='Antonio Martínez'> |
 | 16 | [Ciorraga](https://github.com/Ciorraga) | 23 | 1 | JavaScript | Jaén, Andalucía, España | <img src='https://avatars2.githubusercontent.com/u/5888071?v=3&s=64' width='64' height='64' title='Miguel Ángel Ciórraga'> |
 | 17 | [Kirbo92](https://github.com/Kirbo92) | 23 | 5 | CSS | Jaén | <img src='https://avatars1.githubusercontent.com/u/559575?v=3&s=64' width='64' height='64' title='Miguel Angel'> |
-| 18 | [checa](https://github.com/checa) | 21 | 0 | PHP | Linares | <img src='https://avatars0.githubusercontent.com/u/5888087?v=3&s=64' width='64' height='64' title='Carlos A. Jurado Checa'> |
-| 19 | [skuark](https://github.com/skuark) | 21 | 0 | Ruby | Jaén, Spain | <img src='https://avatars0.githubusercontent.com/u/454382?v=3&s=64' width='64' height='64' title='Jesús Manuel García Muñoz'> |
+| 18 | [skuark](https://github.com/skuark) | 21 | 0 | Ruby | Jaén, Spain | <img src='https://avatars0.githubusercontent.com/u/454382?v=3&s=64' width='64' height='64' title='Jesús Manuel García Muñoz'> |
+| 19 | [checa](https://github.com/checa) | 21 | 0 | PHP | Linares | <img src='https://avatars0.githubusercontent.com/u/5888087?v=3&s=64' width='64' height='64' title='Carlos A. Jurado Checa'> |
 | 20 | [algm](https://github.com/algm) | 20 | 1 | JavaScript | Linares | <img src='https://avatars0.githubusercontent.com/u/146385?v=3&s=64' width='64' height='64' title='Antonio Gázquez'> |
 | 21 | [maxcosworth](https://github.com/maxcosworth) | 16 | 3 | Ruby | Jaén | <img src='https://avatars2.githubusercontent.com/u/389437?v=3&s=64' width='64' height='64' title='Miguel Á. Arroyo'> |
 | 22 | [jjlopezg](https://github.com/jjlopezg) | 15 | 0 | Shell | Jaen | <img src='https://avatars2.githubusercontent.com/u/7646375?v=3&s=64' width='64' height='64' title='Juan Jose Lopez Garcia'> |
@@ -41,10 +41,10 @@
 | 26 | [manuelpancorbo](https://github.com/manuelpancorbo) | 11 | 1 | Java and Groovy | Jaén, Spain | <img src='https://avatars2.githubusercontent.com/u/9550738?v=3&s=64' width='64' height='64' title='Manuel Pancorbo'> |
 | 27 | [jrbalsas](https://github.com/jrbalsas) | 10 | 4 | Java | Jaén - Spain | <img src='https://avatars2.githubusercontent.com/u/356995?v=3&s=64' width='64' height='64' title='José Ramón Balsas'> |
 | 28 | [genimarca](https://github.com/genimarca) | 9 | 0 |  | Jaén, Spain | <img src='https://avatars0.githubusercontent.com/u/6276927?v=3&s=64' width='64' height='64' title='Eugenio'> |
-| 29 | [emorenopamos](https://github.com/emorenopamos) | 7 | 0 | Java | Torredonjimeno (Jaén)// Córdoba | <img src='https://avatars2.githubusercontent.com/u/7520581?v=3&s=64' width='64' height='64' title='Estefanía Moreno Pamos'> |
-| 30 | [ivanmunozt](https://github.com/ivanmunozt) | 7 | 0 | Java | Martos (Jaén) | <img src='https://avatars2.githubusercontent.com/u/6499436?v=3&s=64' width='64' height='64' title='Iván Muñoz'> |
-| 31 | [menudoproblema](https://github.com/menudoproblema) | 6 | 69 | Python | Jaén, Spain | <img src='https://avatars0.githubusercontent.com/u/976187?v=3&s=64' width='64' height='64' title='Vicente Ruiz'> |
-| 32 | [alejandrocq](https://github.com/alejandrocq) | 6 | 0 | Java | Jaén/Granada - España | <img src='https://avatars1.githubusercontent.com/u/282431?v=3&s=64' width='64' height='64' title='Alejandro Castilla Quesada'> |
+| 29 | [ivanmunozt](https://github.com/ivanmunozt) | 7 | 0 | Java | Martos (Jaén) | <img src='https://avatars2.githubusercontent.com/u/6499436?v=3&s=64' width='64' height='64' title='Iván Muñoz'> |
+| 30 | [emorenopamos](https://github.com/emorenopamos) | 7 | 0 | Java | Torredonjimeno (Jaén)// Córdoba | <img src='https://avatars2.githubusercontent.com/u/7520581?v=3&s=64' width='64' height='64' title='Estefanía Moreno Pamos'> |
+| 31 | [alejandrocq](https://github.com/alejandrocq) | 6 | 0 | Java | Jaén/Granada - España | <img src='https://avatars1.githubusercontent.com/u/282431?v=3&s=64' width='64' height='64' title='Alejandro Castilla Quesada'> |
+| 32 | [menudoproblema](https://github.com/menudoproblema) | 6 | 69 | Python | Jaén, Spain | <img src='https://avatars0.githubusercontent.com/u/976187?v=3&s=64' width='64' height='64' title='Vicente Ruiz'> |
 | 33 | [Menda](https://github.com/Menda) | 6 | 6 | Python | Jaén, Spain | <img src='https://avatars2.githubusercontent.com/u/23944?v=3&s=64' width='64' height='64' title='Rafa Muñoz'> |
 | 34 | [manuChinaski](https://github.com/manuChinaski) | 5 | 0 | JavaScript and CSS | jaen | <img src='https://avatars1.githubusercontent.com/u/7119886?v=3&s=64' width='64' height='64' title='manu'> |
 | 35 | [infernape763](https://github.com/infernape763) | 4 | 0 | C | Jaen, España | <img src='https://avatars3.githubusercontent.com/u/5140558?v=3&s=64' width='64' height='64' title='Pedro Garau Martinez'> |
