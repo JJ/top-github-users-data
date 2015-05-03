@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 27 Apr 2014 05:44:29 GMT** hasta **Mon, 27 Apr 2015 05:44:29 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 03 May 2014 10:39:48 GMT** hasta **Sun, 03 May 2015 10:39:48 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,12 +13,12 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [antonio](https://github.com/antonio) | 845 | 20 | Ruby | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/17516?v=3&s=64' width='64' height='64' title='Antonio Santos'> |
-| 2 | [jmcerrejon](https://github.com/jmcerrejon) | 247 | 30 | Shell and Python | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/1942431?v=3&s=64' width='64' height='64' title='Jose Cerrejon'> |
-| 3 | [ppcano](https://github.com/ppcano) | 225 | 86 | JavaScript | Huelva (ES), Stockholm (SE) | <img src='https://avatars3.githubusercontent.com/u/825430?v=3&s=64' width='64' height='64' title='Pepe Cano'> |
-| 4 | [MalGanis2](https://github.com/MalGanis2) | 92 | 0 | Java | Huelva, Spain | <img src='https://avatars1.githubusercontent.com/u/5797868?v=3&s=64' width='64' height='64' title='Ivan'> |
+| 1 | [antonio](https://github.com/antonio) | 831 | 20 | Ruby | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/17516?v=3&s=64' width='64' height='64' title='Antonio Santos'> |
+| 2 | [jmcerrejon](https://github.com/jmcerrejon) | 252 | 30 | Shell and Python | Huelva, Spain | <img src='https://avatars2.githubusercontent.com/u/1942431?v=3&s=64' width='64' height='64' title='Jose Cerrejon'> |
+| 3 | [ppcano](https://github.com/ppcano) | 208 | 86 | JavaScript | Huelva (ES), Stockholm (SE) | <img src='https://avatars3.githubusercontent.com/u/825430?v=3&s=64' width='64' height='64' title='Pepe Cano'> |
+| 4 | [MalGanis2](https://github.com/MalGanis2) | 99 | 0 | Java | Huelva, Spain | <img src='https://avatars1.githubusercontent.com/u/5797868?v=3&s=64' width='64' height='64' title='Ivan'> |
 | 5 | [currix](https://github.com/currix) | 60 | 3 | Perl | Huelva (Spain) | <img src='https://avatars0.githubusercontent.com/u/6237933?v=3&s=64' width='64' height='64' title='Curro'> |
-| 6 | [Neniah](https://github.com/Neniah) | 56 | 0 | CSS | Huelva, Spain | <img src='https://avatars0.githubusercontent.com/u/1144759?v=3&s=64' width='64' height='64' title='maria_lobillo'> |
+| 6 | [Neniah](https://github.com/Neniah) | 60 | 0 | CSS | Huelva, Spain | <img src='https://avatars0.githubusercontent.com/u/1144759?v=3&s=64' width='64' height='64' title='maria_lobillo'> |
 | 7 | [frantello](https://github.com/frantello) | 38 | 0 | JavaScript | Huelva, Andalucia, Spain | <img src='https://avatars2.githubusercontent.com/u/6098478?v=3&s=64' width='64' height='64' title='Fran Tello'> |
 | 8 | [pedrocoleta](https://github.com/pedrocoleta) | 17 | 0 |  | HUELVA - SPAIN | <img src='https://avatars3.githubusercontent.com/u/9350556?v=3&s=64' width='64' height='64' title='Pedro Fernández Hernández'> |
 | 9 | [borjacampina](https://github.com/borjacampina) | 7 | 0 | CSS | Huelva, España | <img src='https://avatars2.githubusercontent.com/u/514025?v=3&s=64' width='64' height='64' title='Borja Campina'> |
@@ -26,4 +26,3 @@
 | 11 | [sadoza](https://github.com/sadoza) | 5 | 0 | PHP | Huelva | <img src='https://avatars0.githubusercontent.com/u/6042243?v=3&s=64' width='64' height='64' title='Santi'> |
 | 12 | [huelva3d](https://github.com/huelva3d) | 3 | 0 |  | huelva | <img src='https://avatars0.githubusercontent.com/u/12024691?v=3&s=64' width='64' height='64' title='huelva3d'> |
 | 13 | [dacmail](https://github.com/dacmail) | 2 | 12 | PHP | Huelva-Málaga | <img src='https://avatars1.githubusercontent.com/u/11754?v=3&s=64' width='64' height='64' title='Daniel Aguilar'> |
-| 14 | [EasyticSL](https://github.com/EasyticSL) | 1 | 0 |  | Huelva | <img src='https://avatars0.githubusercontent.com/u/4528437?v=3&s=64' width='64' height='64' title='Easytic'> |

@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 26 Apr 2014 09:49:48 GMT** hasta **Sun, 26 Apr 2015 09:49:48 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 03 May 2014 10:52:45 GMT** hasta **Sun, 03 May 2015 10:52:45 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,7 +13,7 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [jmendiara](https://github.com/jmendiara) | 155 | 72 | JavaScript | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/851359?v=3&s=64' width='64' height='64' title='Javier Mendiara'> |
+| 1 | [jmendiara](https://github.com/jmendiara) | 188 | 73 | JavaScript | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/851359?v=3&s=64' width='64' height='64' title='Javier Mendiara'> |
 | 2 | [fernand0](https://github.com/fernand0) | 125 | 5 | Python | Huesca-Zaragoza, Spain | <img src='https://avatars3.githubusercontent.com/u/2467?v=3&s=64' width='64' height='64' title='Fernando Tricas García'> |
 | 3 | [fgarcialainez](https://github.com/fgarcialainez) | 74 | 39 | Java | Huesca (Spain) | <img src='https://avatars0.githubusercontent.com/u/1755561?v=3&s=64' width='64' height='64' title='Felix Garcia Lainez'> |
 | 4 | [lopezmuzas](https://github.com/lopezmuzas) | 65 | 1 | PHP | Barbastro. Huesca. Spain. | <img src='https://avatars3.githubusercontent.com/u/1397384?v=3&s=64' width='64' height='64' title='Antonio López Muzás'> |
@@ -24,4 +24,4 @@
 | 9 | [jcalejero](https://github.com/jcalejero) | 6 | 1 | R | Huesca | <img src='https://avatars3.githubusercontent.com/u/3702479?v=3&s=64' width='64' height='64' title='Jesus Armand Calejero Roman'> |
 | 10 | [maikel112233](https://github.com/maikel112233) | 5 | 0 | CSS | huesca | <img src='https://avatars1.githubusercontent.com/u/3323392?v=3&s=64' width='64' height='64' title='maikel112233'> |
 | 11 | [isaiasanchez](https://github.com/isaiasanchez) | 2 | 0 |  | Huesca - Spain | <img src='https://avatars2.githubusercontent.com/u/8542819?v=3&s=64' width='64' height='64' title='Isaias Sanchez'> |
-| 12 | [FRIGINAL](https://github.com/FRIGINAL) | 1 | 0 |  | Huesca (Spain) | <img src='https://avatars2.githubusercontent.com/u/4588205?v=3&s=64' width='64' height='64' title='Moises Friginal'> |
+| 12 | [FRIGINAL](https://github.com/FRIGINAL) | 1 | 0 | Swift | Huesca (Spain) | <img src='https://avatars2.githubusercontent.com/u/4588205?v=3&s=64' width='64' height='64' title='Moises Friginal'> |

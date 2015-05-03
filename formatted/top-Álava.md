@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 26 Apr 2014 09:48:39 GMT** hasta **Sun, 26 Apr 2015 09:48:39 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 03 May 2014 10:51:36 GMT** hasta **Sun, 03 May 2015 10:51:36 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,21 +13,21 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [javiereguiluz](https://github.com/javiereguiluz) | 1365 | 1467 | PHP | Vitoria-Gasteiz (Spain) | <img src='https://avatars0.githubusercontent.com/u/73419?v=3&s=64' width='64' height='64' title='Javier Eguiluz'> |
-| 2 | [Achifaifa](https://github.com/Achifaifa) | 307 | 4 | Python | Vitoria, Spain | <img src='https://avatars1.githubusercontent.com/u/5968349?v=3&s=64' width='64' height='64' title='Yuri Numerov'> |
+| 1 | [javiereguiluz](https://github.com/javiereguiluz) | 1425 | 1474 | PHP | Vitoria-Gasteiz (Spain) | <img src='https://avatars0.githubusercontent.com/u/73419?v=3&s=64' width='64' height='64' title='Javier Eguiluz'> |
+| 2 | [Achifaifa](https://github.com/Achifaifa) | 297 | 4 | Python | Vitoria, Spain | <img src='https://avatars1.githubusercontent.com/u/5968349?v=3&s=64' width='64' height='64' title='Yuri Numerov'> |
 | 3 | [Rubentxu](https://github.com/Rubentxu) | 255 | 17 | Java | Vitoria (Alava, Spain) | <img src='https://avatars0.githubusercontent.com/u/604924?v=3&s=64' width='64' height='64' title='Ruben Dario'> |
-| 4 | [jonabasque](https://github.com/jonabasque) | 234 | 3 | JavaScript | Vitoria-Gasteiz (Basque Country) | <img src='https://avatars3.githubusercontent.com/u/1707606?v=3&s=64' width='64' height='64' title='Jona'> |
-| 5 | [jmescuderojustel](https://github.com/jmescuderojustel) | 160 | 2 | JavaScript | Vitoria-Gasteiz | <img src='https://avatars3.githubusercontent.com/u/4746474?v=3&s=64' width='64' height='64' title='Jesús María Escudero'> |
+| 4 | [jonabasque](https://github.com/jonabasque) | 236 | 3 | PHP | Vitoria-Gasteiz (Basque Country) | <img src='https://avatars3.githubusercontent.com/u/1707606?v=3&s=64' width='64' height='64' title='Jona'> |
+| 5 | [jmescuderojustel](https://github.com/jmescuderojustel) | 151 | 2 | JavaScript | Vitoria-Gasteiz | <img src='https://avatars3.githubusercontent.com/u/4746474?v=3&s=64' width='64' height='64' title='Jesús María Escudero'> |
 | 6 | [OmairaF](https://github.com/OmairaF) | 47 | 0 |  | Vitoria-Gasteiz | <img src='https://avatars2.githubusercontent.com/u/10741516?v=3&s=64' width='64' height='64' title='Omaira'> |
-| 7 | [inesgn](https://github.com/inesgn) | 42 | 0 | R | Vitoria-Gasteiz, Spain | <img src='https://avatars2.githubusercontent.com/u/7416721?v=3&s=64' width='64' height='64' title='Ines'> |
-| 8 | [arturios](https://github.com/arturios) | 25 | 4 | PHP | Vitoria-Gasteiz | <img src='https://avatars3.githubusercontent.com/u/1016176?v=3&s=64' width='64' height='64' title='Arturo Ríos'> |
+| 7 | [inesgn](https://github.com/inesgn) | 40 | 0 | R | Vitoria-Gasteiz, Spain | <img src='https://avatars2.githubusercontent.com/u/7416721?v=3&s=64' width='64' height='64' title='Ines'> |
+| 8 | [raultic](https://github.com/raultic) | 28 | 0 |  | Vitoria-Gasteiz | <img src='https://avatars1.githubusercontent.com/u/9990426?v=3&s=64' width='64' height='64' title='Raúl Pérez'> |
 | 9 | [dmarchena](https://github.com/dmarchena) | 25 | 0 | CSS | Vitoria-Gasteiz, Spain | <img src='https://avatars0.githubusercontent.com/u/3629385?v=3&s=64' width='64' height='64' title='David Marchena'> |
-| 10 | [raultic](https://github.com/raultic) | 25 | 0 |  | Vitoria-Gasteiz | <img src='https://avatars1.githubusercontent.com/u/9990426?v=3&s=64' width='64' height='64' title='Raúl Pérez'> |
-| 11 | [patxitron](https://github.com/patxitron) | 22 | 0 | C++ | Vitoria-Gasteiz | <img src='https://avatars2.githubusercontent.com/u/6142948?v=3&s=64' width='64' height='64' title='Francisco José Lazur'> |
-| 12 | [juanriaza](https://github.com/juanriaza) | 21 | 221 | Python | Vitoria-Gasteiz | <img src='https://avatars2.githubusercontent.com/u/554079?v=3&s=64' width='64' height='64' title='Juan Riaza'> |
+| 10 | [arturios](https://github.com/arturios) | 23 | 4 | PHP | Vitoria-Gasteiz | <img src='https://avatars3.githubusercontent.com/u/1016176?v=3&s=64' width='64' height='64' title='Arturo Ríos'> |
+| 11 | [juanriaza](https://github.com/juanriaza) | 22 | 222 | Python | Vitoria-Gasteiz | <img src='https://avatars2.githubusercontent.com/u/554079?v=3&s=64' width='64' height='64' title='Juan Riaza'> |
+| 12 | [patxitron](https://github.com/patxitron) | 22 | 0 | C++ | Vitoria-Gasteiz | <img src='https://avatars2.githubusercontent.com/u/6142948?v=3&s=64' width='64' height='64' title='Francisco José Lazur'> |
 | 13 | [miguelgr](https://github.com/miguelgr) | 15 | 5 | JavaScript | Vitoria/Madrid | <img src='https://avatars3.githubusercontent.com/u/1484589?v=3&s=64' width='64' height='64' title='Miguel García'> |
 | 14 | [javipaur](https://github.com/javipaur) | 14 | 0 | PHP | vitoria | <img src='https://avatars1.githubusercontent.com/u/3490928?v=3&s=64' width='64' height='64' title='Javier Palacio'> |
-| 15 | [eagj](https://github.com/eagj) | 8 | 0 | CSS | Vitoria-Gasteiz | <img src='https://avatars0.githubusercontent.com/u/6786414?v=3&s=64' width='64' height='64' title='Enrique Alejandro García Jiménez'> |
+| 15 | [eagj](https://github.com/eagj) | 7 | 0 | CSS | Vitoria-Gasteiz | <img src='https://avatars0.githubusercontent.com/u/6786414?v=3&s=64' width='64' height='64' title='Enrique Alejandro García Jiménez'> |
 | 16 | [MaiderMateos](https://github.com/MaiderMateos) | 7 | 0 | R and HTML | Vitoria, Spain | <img src='https://avatars1.githubusercontent.com/u/10981227?v=3&s=64' width='64' height='64' title='Maider Mateos'> |
 | 17 | [pepesan](https://github.com/pepesan) | 7 | 1 | Java | Vitoria-Gazteiz | <img src='https://avatars2.githubusercontent.com/u/917451?v=3&s=64' width='64' height='64' title='David Vaquero'> |
 | 18 | [Viroide](https://github.com/Viroide) | 5 | 2 | Shell | vitoria, spain | <img src='https://avatars3.githubusercontent.com/u/713362?v=3&s=64' width='64' height='64' title='Viroide'> |
