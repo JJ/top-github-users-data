@@ -1,12 +1,15 @@
 ---
-title: 'GitHub users in Spain: an geospatial analysis'
+title: 'GitHub users in Spain'
 author: "JJ Merelo"
 date: "18/04/2015"
-output: html_document
+output: pdf_document
 bibliography: gh-rankings.bib
 ---
 
 ```{r, echo=FALSE, message=FALSE,results='hide',warning=FALSE}
+# Remember to run first 
+# ./agg-csv.pl > data/processed/data-per-province.csv               
+
 data.province <- read.csv('data-per-province.csv',sep=';')
 data.province$usersrel <- data.province$users / data.province$population
 data.province$contribrel <- data.province$contributions / data.province$population
@@ -26,6 +29,8 @@ scaling <- isoMDS(d, k=2)
 data.province$scaledx = scaling$points[,1]
 data.province$scaledy = scaling$points[,2]
 
+# Remember to run first
+# merge-city.coffee
 github.user.data <- read.csv('aggregated-top-Spain.csv',sep=';')
 github.user.data$place <- reorder(github.user.data$place, X=github.user.data$place, FUN= function(x) -length(x))
 province.table <- table(github.user.data$place)
@@ -104,7 +109,7 @@ The graphs above imply that there are different classes in the provinces in Spai
 ggplot(data.province, aes(x=scaledx, y=scaledy, colour=factor(CLUST),shape=factor(CLUST)))+geom_point()+ geom_text(aes(label=province,angle=45,hjust=0))
 ```
 
-Apparently, one cluster includes the provinces with the highest productivity: Madrid, Barcelona and Granada. A second cluster, in purple, includes Valencia, Seville, Zaragoza and Valladolid, which consistently score in the top 10 in every ranking and in some cases the top 5. The following cluster includes many provinces like Álava or Navarra which show up in some cases in the top 5 for some reason, but not always. The rest of the provinces are grouped in the remaining cluster, shown in green.
+Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Álava, Salamanca and Granada. A second cluster, in purple, includes Valencia, Seville, Zaragoza and Valladolid, which consistently score in the top 10 in every ranking and in some cases the top 5. The following cluster includes many provinces like Jaén or Asturias which do not have anything special to show, but not always and are grouped in the remaining cluster, shown in red.
 
 #Conclusions
 This paper measures and ranks Spanish provinces by the number of users and other quantities related to productivity (contributions) and popularity (stars, followers). It is a first approximation to community metrics in Spain and it is mainly intended as a reference for future use. It is also an indication of a particular point in time. Future versions will probably change this scenario and it is an interesting line of work to delve on the reason for these changes.
