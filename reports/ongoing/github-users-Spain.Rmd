@@ -1,7 +1,7 @@
 ---
 title: 'GitHub users in Spain'
 author: "JJ Merelo"
-date: "18/04/2015"
+date: "3/1/2015"
 output: pdf_document
 bibliography: gh-rankings.bib
 ---
@@ -10,7 +10,7 @@ bibliography: gh-rankings.bib
 # Remember to run first 
 # ./agg-csv.pl > data/processed/data-per-province.csv               
 
-data.province <- read.csv('data-per-province.csv',sep=';')
+data.province <- read.csv('../../data/processed/data-per-province.csv',sep=';')
 data.province$usersrel <- data.province$users / data.province$population
 data.province$contribrel <- data.province$contributions / data.province$population
 data.province$followersrel <- data.province$followers / data.province$population
@@ -31,7 +31,7 @@ data.province$scaledy = scaling$points[,2]
 
 # Remember to run first
 # merge-city.coffee
-github.user.data <- read.csv('aggregated-top-Spain.csv',sep=';')
+github.user.data <- read.csv('../../data/processed/aggregated-top-Spain.csv',sep=';')
 github.user.data$place <- reorder(github.user.data$place, X=github.user.data$place, FUN= function(x) -length(x))
 province.table <- table(github.user.data$place)
 province.table.acc <- head(province.table,n=10)
