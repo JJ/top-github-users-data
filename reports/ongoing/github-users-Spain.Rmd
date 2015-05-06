@@ -1,12 +1,18 @@
 ---
-title: 'GitHub users in Spain'
+title: "GitHub users in Spain"
 author: "JJ Merelo"
 date: "3/1/2015"
-output: pdf_document
+output: html_document
 bibliography: gh-rankings.bib
 ---
 
 ```{r, echo=FALSE, message=FALSE,results='hide',warning=FALSE}
+
+#load libraries
+library(ggplot2)
+library(mclust)
+library(MASS)
+
 # Remember to run first 
 # ./agg-csv.pl > data/processed/data-per-province.csv               
 
@@ -16,18 +22,6 @@ data.province$contribrel <- data.province$contributions / data.province$populati
 data.province$followersrel <- data.province$followers / data.province$population
 data.province$starsrel <- data.province$stars / data.province$population
 data.province$userstarsrel <- data.province$user_stars / data.province$population
-data.province.rel <- data.frame( province=data.province$province, users=data.province$usersrel, contrib=data.province$contribrel, stars=data.province$starsrel, userstars=data.province$userstarsrel )
-
-library(ggplot2)
-library(mclust)
-library(MASS)
-data.province.clust <- Mclust(data.province.rel)
-data.province$CLUST <- data.province.clust$classification
-
-d <- dist(data.province.rel)
-scaling <- isoMDS(d, k=2)
-data.province$scaledx = scaling$points[,1]
-data.province$scaledy = scaling$points[,2]
 
 # Remember to run first
 # merge-city.coffee
@@ -105,8 +99,19 @@ ggplot(data.province, aes(x=reorder(province,userstarsrel),y=userstarsrel))+geom
 
 The graphs above imply that there are different classes in the provinces in Spain. We have performed clustering using mclust (@mclust,@mclustmanual) using as representation for each province the relative values plotted above and obtained this division into four clusters.
 
-```{r, echo=FALSE,fig.width=10,fig.height=8}
-ggplot(data.province, aes(x=scaledx, y=scaledy, colour=factor(CLUST),shape=factor(CLUST)))+geom_point()+ geom_text(aes(label=province,angle=45,hjust=0))
+```{r cluster, echo=FALSE,fig.width=10,fig.height=8}
+data.province.rel <- data.frame(users=data.province$usersrel, contrib=data.province$contribrel, stars=data.province$starsrel, userstars=data.province$userstarsrel )
+data.province.rel <- scale(data.province.rel) #scale for correct clustering
+
+data.province.clust <- Mclust(data.province.rel)
+data.province$CLUST <- data.province.clust$classification
+
+d <- dist(data.province.rel)
+scaling <- isoMDS(d, k=2)
+data.province$scaledx = scaling$points[,1]
+data.province$scaledy = scaling$points[,2]
+
+ggplot(data.province, aes(x=scaledx, y=scaledy, colour=factor(CLUST),shape=factor(CLUST)))+geom_point()+ geom_text(aes(label=province,angle=315,hjust=0))
 ```
 
 Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Álava, Salamanca and Granada. A second cluster, in purple, includes Valencia, Seville, Zaragoza and Valladolid, which consistently score in the top 10 in every ranking and in some cases the top 5. The following cluster includes many provinces like Jaén or Asturias which do not have anything special to show, but not always and are grouped in the remaining cluster, shown in red.
