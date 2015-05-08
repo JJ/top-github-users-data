@@ -1,7 +1,7 @@
 ---
-title: "GitHub users in Spain"
+title: "GitHub users in Spain; May 2015"
 author: "JJ Merelo"
-date: "3/1/2015"
+date: "6/5/2015"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -68,7 +68,7 @@ ggplot( data=province.table.df, aes(x="",y=users,fill=factor(province)))+ geom_b
 
 The users without a declared province form the biggest slice of the pie, with around one quarter of the total number of users. They are followed by Madrid, Barcelona, Valencia, Seville, Málaga and Granada. These provinces, by themselves, host more than half the total community of GitHub users in Spain. 
 
-Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Granada emerging as the province with the highest number of GitHub active developers per capita, followed by Barcelona and Madrid and then by Seville and Saragossa.
+Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Barcelona emerging as the province with the highest number of GitHub active developers per capita, followed by Granada and Madrid and then by Seville and Saragossa.
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,usersrel),y=usersrel))+geom_bar(stat='identity')+coord_flip()
@@ -101,7 +101,6 @@ The graphs above imply that there are different classes in the provinces in Spai
 
 ```{r cluster, echo=FALSE,fig.width=10,fig.height=8}
 data.province.rel <- data.frame(users=data.province$usersrel, contrib=data.province$contribrel, stars=data.province$starsrel, userstars=data.province$userstarsrel )
-data.province.rel <- scale(data.province.rel) #scale for correct clustering
 
 data.province.clust <- Mclust(data.province.rel)
 data.province$CLUST <- data.province.clust$classification
@@ -114,7 +113,9 @@ data.province$scaledy = scaling$points[,2]
 ggplot(data.province, aes(x=scaledx, y=scaledy, colour=factor(CLUST),shape=factor(CLUST)))+geom_point()+ geom_text(aes(label=province,angle=315,hjust=0))
 ```
 
-Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Álava, Salamanca and Granada. A second cluster, in purple, includes Valencia, Seville, Zaragoza and Valladolid, which consistently score in the top 10 in every ranking and in some cases the top 5. The following cluster includes many provinces like Jaén or Asturias which do not have anything special to show, but not always and are grouped in the remaining cluster, shown in red.
+Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Zaragoza and Granada. A second cluster, in turquoise, includes Sevilla, Tenerife, Bilbao and Álava, which consistently score in the top 10 in every ranking and in some cases the top 5. The following cluster includes  provinces like Salamanca or Pontevedra with some scores in the top, and vinally the red cluster which does not have anything special to show.
+
+This clustering varies each week, however, although Barcelona, Madrid and Granada are almost always placed in the top cluster, and most provinces grouped in a single cluster. Clusters vary between 3 and 4, depending on the week.
 
 #Conclusions
 This paper measures and ranks Spanish provinces by the number of users and other quantities related to productivity (contributions) and popularity (stars, followers). It is a first approximation to community metrics in Spain and it is mainly intended as a reference for future use. It is also an indication of a particular point in time. Future versions will probably change this scenario and it is an interesting line of work to delve on the reason for these changes.
