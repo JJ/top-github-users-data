@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 03 May 2014 10:52:45 GMT** hasta **Sun, 03 May 2015 10:52:45 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 10 May 2014 09:26:21 GMT** hasta **Sun, 10 May 2015 09:26:21 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,8 +13,8 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [jmendiara](https://github.com/jmendiara) | 188 | 73 | JavaScript | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/851359?v=3&s=64' width='64' height='64' title='Javier Mendiara'> |
-| 2 | [fernand0](https://github.com/fernand0) | 125 | 5 | Python | Huesca-Zaragoza, Spain | <img src='https://avatars3.githubusercontent.com/u/2467?v=3&s=64' width='64' height='64' title='Fernando Tricas García'> |
+| 1 | [jmendiara](https://github.com/jmendiara) | 189 | 73 | JavaScript | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/851359?v=3&s=64' width='64' height='64' title='Javier Mendiara'> |
+| 2 | [fernand0](https://github.com/fernand0) | 108 | 5 | Python | Huesca-Zaragoza, Spain | <img src='https://avatars3.githubusercontent.com/u/2467?v=3&s=64' width='64' height='64' title='Fernando Tricas García'> |
 | 3 | [fgarcialainez](https://github.com/fgarcialainez) | 74 | 39 | Java | Huesca (Spain) | <img src='https://avatars0.githubusercontent.com/u/1755561?v=3&s=64' width='64' height='64' title='Felix Garcia Lainez'> |
 | 4 | [lopezmuzas](https://github.com/lopezmuzas) | 65 | 1 | PHP | Barbastro. Huesca. Spain. | <img src='https://avatars3.githubusercontent.com/u/1397384?v=3&s=64' width='64' height='64' title='Antonio López Muzás'> |
 | 5 | [hbiarge](https://github.com/hbiarge) | 41 | 16 | C# | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/473010?v=3&s=64' width='64' height='64' title='Hugo Biarge'> |
