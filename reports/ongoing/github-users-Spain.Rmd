@@ -92,7 +92,7 @@ The stars given to projects, which is a proxy for popularity, is correlated (but
 ggplot(data.province, aes(x=reorder(province,starsrel),y=starsrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
-Finally, if we consider the number of stars given by users, a new one, Tenerife, gets into the top 5.
+Finally, if we consider the number of stars given by users, a new one, Tenerife, gets into the top 10.
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,userstarsrel),y=userstarsrel))+geom_bar(stat='identity')+coord_flip()
 ```
@@ -113,7 +113,7 @@ data.province$scaledy = scaling$points[,2]
 ggplot(data.province, aes(x=scaledx, y=scaledy, colour=factor(CLUST),shape=factor(CLUST)))+geom_point()+ geom_text(aes(label=province,angle=315,hjust=0))
 ```
 
-Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Zaragoza and Granada. A second cluster, in turquoise, includes Sevilla, Tenerife, Bilbao and Álava, which consistently score in the top 10 in every ranking and in some cases the top 5. The following cluster includes  provinces like Salamanca or Pontevedra with some scores in the top, and vinally the red cluster which does not have anything special to show.
+Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Zaragoza and Granada. A second cluster, in turquoise, includes Sevilla, Navarra, Bilbao and Álava, which some times score in the top 10 in every ranking and in some cases the top 5. The following cluster includes  provinces like Salamanca or Pontevedra with some scores in the top, and vinally the red cluster which does not have anything special to show.
 
 This clustering varies each week, however, although Barcelona, Madrid and Granada are almost always placed in the top cluster, and most provinces grouped in a single cluster. Clusters vary between 3 and 4, depending on the week.
 
