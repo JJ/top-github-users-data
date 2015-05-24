@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 10 May 2014 09:30:53 GMT** hasta **Sun, 10 May 2015 09:30:53 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 24 May 2014 20:27:53 GMT** hasta **Sun, 24 May 2015 20:27:53 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,8 +13,8 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [garciparedes](https://github.com/garciparedes) | 348 | 15 | Java | Palencia, Spain | <img src='https://avatars1.githubusercontent.com/u/5640366?v=3&s=64' width='64' height='64' title='Sergio García'> |
-| 2 | [lrodero](https://github.com/lrodero) | 42 | 3 | Java and HTML | Palencia, Spain | <img src='https://avatars3.githubusercontent.com/u/4410434?v=3&s=64' width='64' height='64' title='Luis Rodero-Merino'> |
+| 1 | [garciparedes](https://github.com/garciparedes) | 340 | 15 | Java | Palencia, Spain | <img src='https://avatars1.githubusercontent.com/u/5640366?v=3&s=64' width='64' height='64' title='Sergio García'> |
+| 2 | [lrodero](https://github.com/lrodero) | 43 | 3 | Java | Palencia, Spain | <img src='https://avatars3.githubusercontent.com/u/4410434?v=3&s=64' width='64' height='64' title='Luis Rodero-Merino'> |
 | 3 | [adrianetete](https://github.com/adrianetete) | 37 | 6 | Java | Palencia | <img src='https://avatars1.githubusercontent.com/u/6943237?v=3&s=64' width='64' height='64' title='Adrian Calvo'> |
 | 4 | [jota-mon3](https://github.com/jota-mon3) | 14 | 0 | OpenSCAD and Shell | Palencia, Spain | <img src='https://avatars3.githubusercontent.com/u/10927068?v=3&s=64' width='64' height='64' title='José Montes Moreno'> |
 | 5 | [mines](https://github.com/mines) | 7 | 48 | Ruby | Palencia, Spain | <img src='https://avatars1.githubusercontent.com/u/655278?v=3&s=64' width='64' height='64' title='Borja'> |
