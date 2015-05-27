@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Wed, 21 May 2014 05:42:51 GMT** hasta **Thu, 21 May 2015 05:42:51 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Tue, 27 May 2014 05:33:04 GMT** hasta **Wed, 27 May 2015 05:33:04 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,6 +13,6 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [ljmanso](https://github.com/ljmanso) | 797 | 1 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width='64' height='64' title='Luis J. Manso'> |
+| 1 | [ljmanso](https://github.com/ljmanso) | 783 | 1 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width='64' height='64' title='Luis J. Manso'> |
 | 2 | [team-ecos](https://github.com/team-ecos) | 45 | 0 | CSS | Extremadura | <img src='https://avatars3.githubusercontent.com/u/9051594?v=3&s=64' width='64' height='64' title='Ecos'> |
 | 3 | [SolEpcc](https://github.com/SolEpcc) | 2 | 0 |  | Cáceres, Extremadura, Spain | <img src='https://avatars3.githubusercontent.com/u/9723722?v=3&s=64' width='64' height='64' title='Smart Open Lab Epcc'> |
