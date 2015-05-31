@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 24 May 2014 20:00:59 GMT** hasta **Sun, 24 May 2015 20:00:59 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 31 May 2014 09:10:54 GMT** hasta **Sun, 31 May 2015 09:10:54 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,11 +13,11 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [tombatossals](https://github.com/tombatossals) | 952 | 1070 | JavaScript | Castelló de la Plana | <img src='https://avatars1.githubusercontent.com/u/124169?v=3&s=64' width='64' height='64' title='David Rubert'> |
+| 1 | [tombatossals](https://github.com/tombatossals) | 948 | 1086 | JavaScript | Castelló de la Plana | <img src='https://avatars1.githubusercontent.com/u/124169?v=3&s=64' width='64' height='64' title='David Rubert'> |
 | 2 | [xvallspl](https://github.com/xvallspl) | 138 | 1 | Python | Castelló de La Plana | <img src='https://avatars0.githubusercontent.com/u/867299?v=3&s=64' width='64' height='64' title='Xavier'> |
-| 3 | [OscardR](https://github.com/OscardR) | 102 | 0 | Java | Castellón de la Plana | <img src='https://avatars3.githubusercontent.com/u/1676200?v=3&s=64' width='64' height='64' title='Óscar Gómez'> |
-| 4 | [nachomiralles](https://github.com/nachomiralles) | 61 | 0 | JavaScript | Castellón, Spain. | <img src='https://avatars1.githubusercontent.com/u/4831513?v=3&s=64' width='64' height='64' title='Nacho Miralles'> |
-| 5 | [jcgarsan](https://github.com/jcgarsan) | 60 | 0 | C++ | Castellón (Spain) | <img src='https://avatars0.githubusercontent.com/u/5547857?v=3&s=64' width='64' height='64' title='Juan Carlos García'> |
+| 3 | [OscardR](https://github.com/OscardR) | 75 | 0 | Java | Castellón de la Plana | <img src='https://avatars3.githubusercontent.com/u/1676200?v=3&s=64' width='64' height='64' title='Óscar Gómez'> |
+| 4 | [jcgarsan](https://github.com/jcgarsan) | 70 | 0 | C++ | Castellón (Spain) | <img src='https://avatars0.githubusercontent.com/u/5547857?v=3&s=64' width='64' height='64' title='Juan Carlos García'> |
+| 5 | [nachomiralles](https://github.com/nachomiralles) | 65 | 0 | JavaScript | Castellón, Spain. | <img src='https://avatars1.githubusercontent.com/u/4831513?v=3&s=64' width='64' height='64' title='Nacho Miralles'> |
 | 6 | [rmngrc](https://github.com/rmngrc) | 50 | 0 | JavaScript and CSS | Castellón (Spain) | <img src='https://avatars3.githubusercontent.com/u/1866422?v=3&s=64' width='64' height='64' title='Ramón García'> |
 | 7 | [chrbongardt](https://github.com/chrbongardt) | 43 | 1 | Objective-C and Ruby | Castellón | <img src='https://avatars0.githubusercontent.com/u/2834466?v=3&s=64' width='64' height='64' title='Christian Bongardt'> |
 | 8 | [oscarbelmon](https://github.com/oscarbelmon) | 33 | 0 | Java | Castellón de la Plana | <img src='https://avatars3.githubusercontent.com/u/4066452?v=3&s=64' width='64' height='64' title='Óscar Belmonte Fernández'> |

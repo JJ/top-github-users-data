@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 24 May 2014 20:26:44 GMT** hasta **Sun, 24 May 2015 20:26:44 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 31 May 2014 09:33:39 GMT** hasta **Sun, 31 May 2015 09:33:39 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,7 +13,7 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [runi22](https://github.com/runi22) | 7 | 1 |  | Ávila (Spain) | <img src='https://avatars3.githubusercontent.com/u/5673015?v=3&s=64' width='64' height='64' title='Rubén'> |
-| 2 | [jmperezra](https://github.com/jmperezra) | 4 | 0 | Java | Ávila | <img src='https://avatars2.githubusercontent.com/u/2276963?v=3&s=64' width='64' height='64' title='José María Pérez Ramos'> |
+| 1 | [jmperezra](https://github.com/jmperezra) | 7 | 0 | Java | Ávila | <img src='https://avatars2.githubusercontent.com/u/2276963?v=3&s=64' width='64' height='64' title='José María Pérez Ramos'> |
+| 2 | [runi22](https://github.com/runi22) | 7 | 1 |  | Ávila (Spain) | <img src='https://avatars3.githubusercontent.com/u/5673015?v=3&s=64' width='64' height='64' title='Rubén'> |
 | 3 | [manumuve](https://github.com/manumuve) | 3 | 0 | Java and CSS | Ávila | <img src='https://avatars3.githubusercontent.com/u/3774853?v=3&s=64' width='64' height='64' title='Manu'> |
 | 4 | [mariomka](https://github.com/mariomka) | 2 | 2 | PHP | Ávila (Spain) | <img src='https://avatars3.githubusercontent.com/u/1822472?v=3&s=64' width='64' height='64' title='Mario Juárez'> |
