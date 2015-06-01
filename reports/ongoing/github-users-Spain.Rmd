@@ -1,7 +1,7 @@
 ---
-title: "GitHub users in Spain; May 2015"
+title: "GitHub users in Spain; May 31st 2015"
 author: "JJ Merelo"
-date: "6/5/2015"
+date: "31/5/2015"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -66,7 +66,7 @@ This graph does not include the non-provincial users, that, is, those whose prov
 ggplot( data=province.table.df, aes(x="",y=users,fill=factor(province)))+ geom_bar(width=1,stat='identity') + coord_polar(theta='y')
 ```
 
-The users without a declared province form the biggest slice of the pie, with around one quarter of the total number of users. They are followed by Madrid, Barcelona, Valencia, Seville, Málaga and Granada. These provinces, by themselves, host more than half the total community of GitHub users in Spain. 
+The users without a declared province form the biggest slice of the pie, with around one quarter of the total number of users. They are followed by Madrid, Barcelona, Valencia, Seville, Granada and Málaga. These provinces, by themselves, host more than half the total community of GitHub users in Spain. 
 
 Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Barcelona emerging as the province with the highest number of GitHub active developers per capita, followed by Granada and Madrid and then by Seville and Saragossa.
 
@@ -74,13 +74,13 @@ Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the
 ggplot(data.province, aes(x=reorder(province,usersrel),y=usersrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
-The situation is similar if we take into account the aggregated contributions by all province users. Once again, Granada emerges as the winner but the position of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five.
+The situation is similar if we take into account the aggregated contributions by all province users. Once again, Granada emerges as the winner but the position of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. Navarra, due to a single user with more than 20000 contributions, has managed to enter that ranking too.
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,contribrel),y=contribrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
-The aggregated number of followers is a bit less surprising, with Madrid and Barcelona on top, but Álava and Bilbao entering the top 5. If we delve into data this is mainly due to a single user in each case. 
+The aggregated number of followers is a bit less surprising, with Madrid and Barcelona on top, but Álava and Bilbao entering the top 5. If we delve into the data this is mainly due to a single user in both cases. 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,followersrel),y=followersrel))+geom_bar(stat='identity')+coord_flip()
