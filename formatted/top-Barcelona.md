@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Mon, 26 May 2014 06:14:43 GMT** hasta **Tue, 26 May 2015 06:14:43 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Mon, 09 Jun 2014 06:19:16 GMT** hasta **Tue, 09 Jun 2015 06:19:16 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,1984 +13,2003 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [mmoreram](https://github.com/mmoreram) | 6784 | 378 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/521409?v=3&s=64' width='64' height='64' title='Marc Morera'> |
-| 2 | [gavinking](https://github.com/gavinking) | 4867 | 6 | Ceylon | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/579974?v=3&s=64' width='64' height='64' title='Gavin King'> |
-| 3 | [rnowm](https://github.com/rnowm) | 3731 | 27 | JavaScript | Sitges, Barcelona | <img src='https://avatars2.githubusercontent.com/u/1416057?v=3&s=64' width='64' height='64' title='Arnau'> |
-| 4 | [leplatrem](https://github.com/leplatrem) | 3585 | 89 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/546692?v=3&s=64' width='64' height='64' title='Mathieu Leplatre'> |
-| 5 | [opalenzuela](https://github.com/opalenzuela) | 2906 | 63 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4427630?v=3&s=64' width='64' height='64' title='Oriol Palenzuela'> |
-| 6 | [neo22s](https://github.com/neo22s) | 1487 | 9 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/241725?v=3&s=64' width='64' height='64' title='Chema'> |
-| 7 | [sneridagh](https://github.com/sneridagh) | 1410 | 43 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/486927?v=3&s=64' width='64' height='64' title='Víctor Fernández de Alba'> |
-| 8 | [areski](https://github.com/areski) | 1293 | 826 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/53455?v=3&s=64' width='64' height='64' title='Areski Belaid'> |
-| 9 | [christkv](https://github.com/christkv) | 1248 | 799 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5569?v=3&s=64' width='64' height='64' title='Christian Amor Kvalheim'> |
-| 10 | [jaeandersson](https://github.com/jaeandersson) | 1219 | 6 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2487645?v=3&s=64' width='64' height='64' title='Joel Andersson'> |
-| 11 | [nilopc](https://github.com/nilopc) | 1206 | 16 | PHP | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/550948?v=3&s=64' width='64' height='64' title='Nil Portugués Calderó'> |
-| 12 | [tonipinel](https://github.com/tonipinel) | 1201 | 1 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/998987?v=3&s=64' width='64' height='64' title='Toni'> |
-| 13 | [xphere](https://github.com/xphere) | 1198 | 7 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/170968?v=3&s=64' width='64' height='64' title='Berny Cantos'> |
-| 14 | [h0tbird](https://github.com/h0tbird) | 1177 | 19 | Puppet | Barcelona | <img src='https://avatars0.githubusercontent.com/u/417440?v=3&s=64' width='64' height='64' title='Marc Villacorta'> |
-| 15 | [pditommaso](https://github.com/pditommaso) | 1170 | 26 | Java | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/816968?v=3&s=64' width='64' height='64' title='Paolo Di Tommaso'> |
-| 16 | [connollyst](https://github.com/connollyst) | 1151 | 9 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/521747?v=3&s=64' width='64' height='64' title='Sean Connolly'> |
-| 17 | [ManfredKarrer](https://github.com/ManfredKarrer) | 1049 | 7 | ActionScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1449498?v=3&s=64' width='64' height='64' title='Manfred Karrer'> |
-| 18 | [karasu](https://github.com/karasu) | 1017 | 9 | C | Barcelona, Catalunya | <img src='https://avatars2.githubusercontent.com/u/175797?v=3&s=64' width='64' height='64' title='karasu'> |
-| 19 | [RamonGilabert](https://github.com/RamonGilabert) | 1015 | 41 | Swift | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6138120?v=3&s=64' width='64' height='64' title='Ramon Gilabert'> |
-| 20 | [alorma](https://github.com/alorma) | 993 | 42 | Java | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/887462?v=3&s=64' width='64' height='64' title='Bernat Borrás Paronella'> |
-| 21 | [rcnavarro](https://github.com/rcnavarro) | 984 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2663930?v=3&s=64' width='64' height='64' title='Ricardo Navarro'> |
-| 22 | [toniher](https://github.com/toniher) | 972 | 2 | JavaScript | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/535539?v=3&s=64' width='64' height='64' title='Toni Hermoso Pulido'> |
-| 23 | [lluisgerard](https://github.com/lluisgerard) | 923 | 8 | Objective-C | Mataro, Barcelona | <img src='https://avatars2.githubusercontent.com/u/1152968?v=3&s=64' width='64' height='64' title='Lluis Gerard'> |
-| 24 | [fnva](https://github.com/fnva) | 919 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8384895?v=3&s=64' width='64' height='64' title='Ferran Vilà Conesa'> |
-| 25 | [clintongormley](https://github.com/clintongormley) | 875 | 92 | Perl | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/56599?v=3&s=64' width='64' height='64' title='Clinton Gormley'> |
-| 26 | [toniginard](https://github.com/toniginard) | 852 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1027378?v=3&s=64' width='64' height='64' title='Toni Ginard'> |
-| 27 | [pepibumur](https://github.com/pepibumur) | 847 | 999 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/663605?v=3&s=64' width='64' height='64' title='Pedro Piñera Buendía'> |
-| 28 | [trikitrok](https://github.com/trikitrok) | 841 | 17 | Clojure | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2502164?v=3&s=64' width='64' height='64' title='Manuel Rivero'> |
-| 29 | [xexiu](https://github.com/xexiu) | 812 | 2 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7423607?v=3&s=64' width='64' height='64' title='Sergio Mironescu'> |
-| 30 | [rogergros](https://github.com/rogergros) | 805 | 0 | PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/2053670?v=3&s=64' width='64' height='64' title='Roger Gros'> |
-| 31 | [xispa](https://github.com/xispa) | 791 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/832627?v=3&s=64' width='64' height='64' title='Jordi Puiggené'> |
-| 32 | [freecates](https://github.com/freecates) | 782 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4909094?v=3&s=64' width='64' height='64' title='Ramon'> |
-| 33 | [slluis](https://github.com/slluis) | 734 | 41 | C# | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/260349?v=3&s=64' width='64' height='64' title='Lluis Sanchez'> |
-| 34 | [danielguillan](https://github.com/danielguillan) | 733 | 530 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/175638?v=3&s=64' width='64' height='64' title='Daniel Guillan'> |
-| 35 | [mikz](https://github.com/mikz) | 700 | 146 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/154571?v=3&s=64' width='64' height='64' title='Michal Cichra'> |
-| 36 | [sennett](https://github.com/sennett) | 676 | 2 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3783198?v=3&s=64' width='64' height='64' title='Anthony Sennett'> |
-| 37 | [vHanda](https://github.com/vHanda) | 669 | 4 | C++ | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/426467?v=3&s=64' width='64' height='64' title='Vishesh Handa'> |
-| 38 | [joaonrb](https://github.com/joaonrb) | 664 | 0 | Go | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2837356?v=3&s=64' width='64' height='64' title='João Nuno'> |
-| 39 | [Pafcholini](https://github.com/Pafcholini) | 660 | 2 | C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4403218?v=3&s=64' width='64' height='64' title='Pavel'> |
-| 40 | [adrian-rosello](https://github.com/adrian-rosello) | 648 | 2 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1423469?v=3&s=64' width='64' height='64' title='Adrian Rosello'> |
-| 41 | [NadirZenith](https://github.com/NadirZenith) | 644 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5464337?v=3&s=64' width='64' height='64' title=''> |
-| 42 | [srvaroa](https://github.com/srvaroa) | 642 | 3 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/346110?v=3&s=64' width='64' height='64' title='Galo Navarro'> |
-| 43 | [ruben1](https://github.com/ruben1) | 641 | 15 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4315770?v=3&s=64' width='64' height='64' title='Ruben Vicario Gonzalez'> |
-| 44 | [plungerman](https://github.com/plungerman) | 629 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/137031?v=3&s=64' width='64' height='64' title='Bender Rodríguez'> |
-| 45 | [ctubio](https://github.com/ctubio) | 619 | 0 | HTML | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/1634027?v=3&s=64' width='64' height='64' title='Carles Tubio'> |
-| 46 | [romartin](https://github.com/romartin) | 615 | 1 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4602417?v=3&s=64' width='64' height='64' title='Roger Martínez'> |
-| 47 | [alvaroabascar](https://github.com/alvaroabascar) | 612 | 2 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7307772?v=3&s=64' width='64' height='64' title='Álvaro Abella Bascarán'> |
-| 48 | [MortI2C](https://github.com/MortI2C) | 607 | 0 | CSS | Barcelona, Catalunya | <img src='https://avatars0.githubusercontent.com/u/3726370?v=3&s=64' width='64' height='64' title='Aaron Call'> |
-| 49 | [rubiojr](https://github.com/rubiojr) | 601 | 442 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/10998?v=3&s=64' width='64' height='64' title='Sergio Rubio'> |
-| 50 | [hiromipaw](https://github.com/hiromipaw) | 592 | 1 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1177650?v=3&s=64' width='64' height='64' title='Silvia'> |
-| 51 | [reskit](https://github.com/reskit) | 588 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/440486?v=3&s=64' width='64' height='64' title='Marc Català'> |
-| 52 | [alastair](https://github.com/alastair) | 582 | 238 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/19217?v=3&s=64' width='64' height='64' title='Alastair Porter'> |
-| 53 | [alch](https://github.com/alch) | 582 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/682515?v=3&s=64' width='64' height='64' title='Aldo Chiecchia'> |
-| 54 | [markets](https://github.com/markets) | 578 | 164 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/576701?v=3&s=64' width='64' height='64' title='Marc Anguera Insa'> |
-| 55 | [sephirot47](https://github.com/sephirot47) | 565 | 15 | C++ | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8834560?v=3&s=64' width='64' height='64' title='Victor Anton Dominguez'> |
-| 56 | [pauek](https://github.com/pauek) | 547 | 67 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/4069?v=3&s=64' width='64' height='64' title='Pau Fernández'> |
-| 57 | [dgutierr](https://github.com/dgutierr) | 545 | 1 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2429839?v=3&s=64' width='64' height='64' title='David Gutierrez'> |
-| 58 | [mayhem](https://github.com/mayhem) | 537 | 28 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/49745?v=3&s=64' width='64' height='64' title='Robert Kaye'> |
-| 59 | [SirArslaan](https://github.com/SirArslaan) | 536 | 3 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7632185?v=3&s=64' width='64' height='64' title='Arslaan'> |
-| 60 | [Theadd](https://github.com/Theadd) | 525 | 52 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/78041?v=3&s=64' width='64' height='64' title='R. Beltran'> |
-| 61 | [lordofthejars](https://github.com/lordofthejars) | 522 | 246 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1517153?v=3&s=64' width='64' height='64' title='Alex Soto'> |
-| 62 | [agustincl](https://github.com/agustincl) | 519 | 23 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1106813?v=3&s=64' width='64' height='64' title=''> |
-| 63 | [markbain](https://github.com/markbain) | 508 | 1 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1516105?v=3&s=64' width='64' height='64' title='Mark Bain'> |
-| 64 | [rubencaro](https://github.com/rubencaro) | 507 | 35 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/472823?v=3&s=64' width='64' height='64' title='Rubén Caro'> |
-| 65 | [emi80](https://github.com/emi80) | 496 | 1 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2760700?v=3&s=64' width='64' height='64' title='Emilio Palumbo'> |
-| 66 | [xavier-fernandez](https://github.com/xavier-fernandez) | 488 | 0 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/10242025?v=3&s=64' width='64' height='64' title='Xavier Fernández Salas'> |
-| 67 | [poliva](https://github.com/poliva) | 487 | 416 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1238981?v=3&s=64' width='64' height='64' title='Pau Oliva'> |
-| 68 | [palaumarc](https://github.com/palaumarc) | 485 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6428809?v=3&s=64' width='64' height='64' title='Palau'> |
-| 69 | [nacx](https://github.com/nacx) | 482 | 16 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/446705?v=3&s=64' width='64' height='64' title='Ignasi Barrera'> |
-| 70 | [jbatalle](https://github.com/jbatalle) | 478 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3229230?v=3&s=64' width='64' height='64' title='Josep Batalle'> |
-| 71 | [CKGrafico](https://github.com/CKGrafico) | 478 | 105 | JavaScript | Madrid, Barcelona | <img src='https://avatars1.githubusercontent.com/u/2048511?v=3&s=64' width='64' height='64' title='Quique Fdez Guerra'> |
-| 72 | [dpcat237](https://github.com/dpcat237) | 450 | 1 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/388031?v=3&s=64' width='64' height='64' title='Denys Pasishnyi'> |
-| 73 | [albarralnunez](https://github.com/albarralnunez) | 448 | 1 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3451448?v=3&s=64' width='64' height='64' title='Daniel Albarral Nuñez'> |
-| 74 | [josepllberral](https://github.com/josepllberral) | 447 | 0 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7936095?v=3&s=64' width='64' height='64' title='Josep Ll. Berral-García'> |
-| 75 | [amatiasq](https://github.com/amatiasq) | 446 | 29 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1533589?v=3&s=64' width='64' height='64' title='A. Matías Quezada'> |
-| 76 | [pplu](https://github.com/pplu) | 445 | 50 | Perl | Barcelona | <img src='https://avatars3.githubusercontent.com/u/53034?v=3&s=64' width='64' height='64' title='Jose Luis Martinez'> |
-| 77 | [xsimov](https://github.com/xsimov) | 435 | 3 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7680830?v=3&s=64' width='64' height='64' title='xsimov'> |
-| 78 | [jmeler](https://github.com/jmeler) | 434 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5380649?v=3&s=64' width='64' height='64' title='Xavier Meler'> |
-| 79 | [duarten](https://github.com/duarten) | 430 | 15 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/501746?v=3&s=64' width='64' height='64' title='Duarte Nunes'> |
-| 80 | [ivmartel](https://github.com/ivmartel) | 426 | 154 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/398905?v=3&s=64' width='64' height='64' title=''> |
-| 81 | [hcosta](https://github.com/hcosta) | 421 | 5 | JavaScript | Súria, Barcelona | <img src='https://avatars1.githubusercontent.com/u/748822?v=3&s=64' width='64' height='64' title='Hector Costa Guzman'> |
-| 82 | [placiano](https://github.com/placiano) | 418 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7937420?v=3&s=64' width='64' height='64' title='Ángel'> |
-| 83 | [ferranpm](https://github.com/ferranpm) | 418 | 41 | VimL | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2128606?v=3&s=64' width='64' height='64' title='Ferran Pelayo Monfort'> |
-| 84 | [spiddy](https://github.com/spiddy) | 415 | 6 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/367397?v=3&s=64' width='64' height='64' title='spiddy'> |
-| 85 | [awesomebytes](https://github.com/awesomebytes) | 414 | 45 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1721716?v=3&s=64' width='64' height='64' title='Sammy Pfeiffer'> |
-| 86 | [sbartek](https://github.com/sbartek) | 413 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/4888741?v=3&s=64' width='64' height='64' title='Bartek'> |
-| 87 | [zzarcon](https://github.com/zzarcon) | 412 | 117 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1194982?v=3&s=64' width='64' height='64' title='Hector Leon Zarco Garcia'> |
-| 88 | [aroig](https://github.com/aroig) | 408 | 30 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1743143?v=3&s=64' width='64' height='64' title='Abdó Roig-Maranges'> |
-| 89 | [fxn](https://github.com/fxn) | 408 | 1084 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3387?v=3&s=64' width='64' height='64' title='Xavier Noria'> |
-| 90 | [Galbar](https://github.com/Galbar) | 407 | 13 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3595851?v=3&s=64' width='64' height='64' title='Alessio Linares'> |
-| 91 | [juandp77](https://github.com/juandp77) | 400 | 0 | TeX | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1690401?v=3&s=64' width='64' height='64' title='Juan Diego'> |
-| 92 | [cokoso](https://github.com/cokoso) | 393 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6398326?v=3&s=64' width='64' height='64' title='Octavio Glorio'> |
-| 93 | [rcsole](https://github.com/rcsole) | 390 | 20 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3116474?v=3&s=64' width='64' height='64' title='Ricard Solé Casas'> |
-| 94 | [fransua](https://github.com/fransua) | 388 | 9 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/106498?v=3&s=64' width='64' height='64' title='Francois Serra'> |
-| 95 | [hecrj](https://github.com/hecrj) | 383 | 14 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/518289?v=3&s=64' width='64' height='64' title='Héctor Ramón'> |
-| 96 | [albertopq](https://github.com/albertopq) | 382 | 118 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/368225?v=3&s=64' width='64' height='64' title='albertopq'> |
-| 97 | [jsegura](https://github.com/jsegura) | 370 | 5 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8453?v=3&s=64' width='64' height='64' title='Javier Segura'> |
-| 98 | [oscarfonts](https://github.com/oscarfonts) | 367 | 13 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/485651?v=3&s=64' width='64' height='64' title='Oscar Fonts'> |
-| 99 | [jondeandres](https://github.com/jondeandres) | 363 | 13 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/122581?v=3&s=64' width='64' height='64' title='Jon'> |
-| 100 | [PatrickHeneise](https://github.com/PatrickHeneise) | 360 | 216 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/74390?v=3&s=64' width='64' height='64' title='Patrick Heneise'> |
-| 101 | [Towerthousand](https://github.com/Towerthousand) | 360 | 23 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3587309?v=3&s=64' width='64' height='64' title='Dani Torramilans'> |
-| 102 | [logoff](https://github.com/logoff) | 359 | 5 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1023895?v=3&s=64' width='64' height='64' title='Julio Carlos Barrera Juez'> |
-| 103 | [albertofem](https://github.com/albertofem) | 347 | 44 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/409472?v=3&s=64' width='64' height='64' title='Alberto Fernández'> |
-| 104 | [marklar](https://github.com/marklar) | 346 | 22 | Ruby | Barcelona, España | <img src='https://avatars1.githubusercontent.com/u/237483?v=3&s=64' width='64' height='64' title='Mark Wong-VanHaren'> |
-| 105 | [lbergesio](https://github.com/lbergesio) | 345 | 1 | C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1797884?v=3&s=64' width='64' height='64' title='Leonardo Bergesio'> |
-| 106 | [fesplugas](https://github.com/fesplugas) | 344 | 98 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2720?v=3&s=64' width='64' height='64' title='Francesc Esplugas'> |
-| 107 | [jordimas](https://github.com/jordimas) | 342 | 0 | C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/309265?v=3&s=64' width='64' height='64' title='Jordi Mas'> |
-| 108 | [jcanell4](https://github.com/jcanell4) | 342 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3582801?v=3&s=64' width='64' height='64' title='Josep Cañellas Bornas'> |
-| 109 | [d2tstudio](https://github.com/d2tstudio) | 340 | 2 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/991100?v=3&s=64' width='64' height='64' title='Derry Birkett'> |
-| 110 | [mudasobwa](https://github.com/mudasobwa) | 335 | 36 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1567503?v=3&s=64' width='64' height='64' title='Alexei Matyushkin'> |
-| 111 | [VictorBjelkholm](https://github.com/VictorBjelkholm) | 331 | 9 | JavaScript | Barcelona, Catalunya | <img src='https://avatars0.githubusercontent.com/u/459764?v=3&s=64' width='64' height='64' title='Victor Bjelkholm'> |
-| 112 | [mrcasals](https://github.com/mrcasals) | 330 | 39 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/491891?v=3&s=64' width='64' height='64' title='Marc Riera'> |
-| 113 | [Gawyn](https://github.com/Gawyn) | 330 | 37 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/279106?v=3&s=64' width='64' height='64' title='Cristian Planas'> |
-| 114 | [Satyam](https://github.com/Satyam) | 330 | 27 | JavaScript | Sitges, Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/47507?v=3&s=64' width='64' height='64' title='Daniel Barreiro'> |
-| 115 | [drslump](https://github.com/drslump) | 327 | 414 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/110784?v=3&s=64' width='64' height='64' title='DrSlump'> |
-| 116 | [AgustiBelloc](https://github.com/AgustiBelloc) | 324 | 6 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/210216?v=3&s=64' width='64' height='64' title='Agusti Belloc'> |
-| 117 | [castarco](https://github.com/castarco) | 321 | 11 | Shell | Cubelles, Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/251364?v=3&s=64' width='64' height='64' title='Andreu Correa Casablanca'> |
-| 118 | [vdel26](https://github.com/vdel26) | 316 | 92 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/850057?v=3&s=64' width='64' height='64' title='Victor Delgado'> |
-| 119 | [adolfo-rt](https://github.com/adolfo-rt) | 316 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1128028?v=3&s=64' width='64' height='64' title='Adolfo Rodriguez Tsouroukdissian'> |
-| 120 | [jasonlint](https://github.com/jasonlint) | 314 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4974122?v=3&s=64' width='64' height='64' title='Jordan Wellington Lint'> |
-| 121 | [suy](https://github.com/suy) | 310 | 18 | VimL | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1200609?v=3&s=64' width='64' height='64' title='Alejandro Exojo'> |
-| 122 | [ggrandes](https://github.com/ggrandes) | 309 | 54 | Java | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2364301?v=3&s=64' width='64' height='64' title='G.Grandes'> |
-| 123 | [iariasleon](https://github.com/iariasleon) | 307 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4330098?v=3&s=64' width='64' height='64' title='Ivan Arias Leon'> |
-| 124 | [ianharrigan](https://github.com/ianharrigan) | 305 | 339 | Haxe | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3024242?v=3&s=64' width='64' height='64' title='Ian Harrigan'> |
-| 125 | [josornoc](https://github.com/josornoc) | 300 | 0 | CSS | Barcelona, Catalunya | <img src='https://avatars0.githubusercontent.com/u/10073472?v=3&s=64' width='64' height='64' title='Jose Osorno'> |
-| 126 | [TheAnswer](https://github.com/TheAnswer) | 294 | 6 | C | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/557049?v=3&s=64' width='64' height='64' title='Victor Popovici'> |
-| 127 | [Dirbaio](https://github.com/Dirbaio) | 294 | 28 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1247578?v=3&s=64' width='64' height='64' title='Dario Nieuwenhuis'> |
-| 128 | [spite](https://github.com/spite) | 292 | 1612 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/731885?v=3&s=64' width='64' height='64' title='Jaume Sanchez'> |
-| 129 | [mtbtiago](https://github.com/mtbtiago) | 290 | 0 | JavaScript | Menorca and Barcelona | <img src='https://avatars0.githubusercontent.com/u/10105692?v=3&s=64' width='64' height='64' title='Tiago Ameller'> |
-| 130 | [gsprenger](https://github.com/gsprenger) | 289 | 0 | CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/5487174?v=3&s=64' width='64' height='64' title='Gabriel Sprenger'> |
-| 131 | [griba2001](https://github.com/griba2001) | 289 | 1 | Haskell | Tiana (near Barcelona) Catalonia - Spain | <img src='https://avatars0.githubusercontent.com/u/3755863?v=3&s=64' width='64' height='64' title='Gabriel Riba Faura'> |
-| 132 | [acroca](https://github.com/acroca) | 286 | 22 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/16717?v=3&s=64' width='64' height='64' title='Albert Callarisa'> |
-| 133 | [MarcosSegovia](https://github.com/MarcosSegovia) | 286 | 1 | CSS | Barcelona, España | <img src='https://avatars2.githubusercontent.com/u/7728566?v=3&s=64' width='64' height='64' title='Marcos Segovia'> |
-| 134 | [txels](https://github.com/txels) | 282 | 202 | Python | Reykjavik & Barcelona | <img src='https://avatars1.githubusercontent.com/u/874958?v=3&s=64' width='64' height='64' title='Carles Barrobés i Meix'> |
-| 135 | [ygneo](https://github.com/ygneo) | 280 | 13 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/845437?v=3&s=64' width='64' height='64' title='ygneo'> |
-| 136 | [jbeficent](https://github.com/jbeficent) | 276 | 0 | Makefile | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7683926?v=3&s=64' width='64' height='64' title='Jordi Ballester Alomar'> |
-| 137 | [rgalindo33](https://github.com/rgalindo33) | 276 | 1 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/340759?v=3&s=64' width='64' height='64' title='Raul Galindo'> |
-| 138 | [joanromano](https://github.com/joanromano) | 276 | 1 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1227808?v=3&s=64' width='64' height='64' title='Joan Romano'> |
-| 139 | [carlosbuenosvinos](https://github.com/carlosbuenosvinos) | 275 | 164 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/351553?v=3&s=64' width='64' height='64' title='Carlos Buenosvinos'> |
-| 140 | [elboletaire](https://github.com/elboletaire) | 272 | 80 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/153305?v=3&s=64' width='64' height='64' title='Òscar Casajuana'> |
-| 141 | [rpau](https://github.com/rpau) | 272 | 36 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1483433?v=3&s=64' width='64' height='64' title='Raquel Pau'> |
-| 142 | [andresbravog](https://github.com/andresbravog) | 271 | 114 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/363321?v=3&s=64' width='64' height='64' title='Andrés Bravo'> |
-| 143 | [christhomas](https://github.com/christhomas) | 271 | 6 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/827996?v=3&s=64' width='64' height='64' title='Christopher Thomas'> |
-| 144 | [salvadorgascon](https://github.com/salvadorgascon) | 268 | 0 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1319515?v=3&s=64' width='64' height='64' title='Salvador Gascon'> |
-| 145 | [skolodyazhnyy](https://github.com/skolodyazhnyy) | 266 | 19 | PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/576301?v=3&s=64' width='64' height='64' title='Sergey Kolodyazhnyy'> |
-| 146 | [currycat](https://github.com/currycat) | 265 | 1 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/947532?v=3&s=64' width='64' height='64' title='Jose Luis Campaña'> |
-| 147 | [Anaibi](https://github.com/Anaibi) | 263 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2066022?v=3&s=64' width='64' height='64' title='Tatiana'> |
-| 148 | [fcsonline](https://github.com/fcsonline) | 262 | 62 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/135988?v=3&s=64' width='64' height='64' title='Ferran Basora'> |
-| 149 | [luckyshot](https://github.com/luckyshot) | 262 | 153 | PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/141241?v=3&s=64' width='64' height='64' title='Xavi'> |
-| 150 | [edugrasa](https://github.com/edugrasa) | 260 | 1 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/325005?v=3&s=64' width='64' height='64' title='Eduard Grasa'> |
-| 151 | [bpedro](https://github.com/bpedro) | 257 | 91 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/56472?v=3&s=64' width='64' height='64' title='Bruno Pedro'> |
-| 152 | [necavit](https://github.com/necavit) | 257 | 1 | TeX | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5918792?v=3&s=64' width='64' height='64' title='David Martínez Rodríguez'> |
-| 153 | [javifr](https://github.com/javifr) | 255 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/353755?v=3&s=64' width='64' height='64' title='javifr'> |
-| 154 | [robdayz](https://github.com/robdayz) | 254 | 1 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/506444?v=3&s=64' width='64' height='64' title='Roberto Diaz'> |
-| 155 | [gtrias](https://github.com/gtrias) | 251 | 3 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4225298?v=3&s=64' width='64' height='64' title='Genar Trias Ortiz'> |
-| 156 | [jrenaat](https://github.com/jrenaat) | 250 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2429919?v=3&s=64' width='64' height='64' title='Jan Schatteman'> |
-| 157 | [acperez](https://github.com/acperez) | 246 | 4 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1265745?v=3&s=64' width='64' height='64' title='Albert'> |
-| 158 | [chrisekelley](https://github.com/chrisekelley) | 245 | 128 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/861535?v=3&s=64' width='64' height='64' title='Chris E. Kelley'> |
-| 159 | [don-reba](https://github.com/don-reba) | 243 | 1 | CSS | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1193302?v=3&s=64' width='64' height='64' title='Alexey Badalov'> |
-| 160 | [davidllanos22](https://github.com/davidllanos22) | 242 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2172628?v=3&s=64' width='64' height='64' title='David Llanos'> |
-| 161 | [bmagyar](https://github.com/bmagyar) | 241 | 3 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3524577?v=3&s=64' width='64' height='64' title='Bence Magyar'> |
-| 162 | [philipp-germann](https://github.com/philipp-germann) | 241 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8821566?v=3&s=64' width='64' height='64' title='Philipp Germann'> |
-| 163 | [enricostano](https://github.com/enricostano) | 240 | 9 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/748971?v=3&s=64' width='64' height='64' title='Enrico Stano'> |
-| 164 | [mariomac](https://github.com/mariomac) | 239 | 6 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/939550?v=3&s=64' width='64' height='64' title='Mario Macías'> |
-| 165 | [XescuGC](https://github.com/XescuGC) | 234 | 41 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1532900?v=3&s=64' width='64' height='64' title='Francesc Gil'> |
-| 166 | [jordic](https://github.com/jordic) | 234 | 56 | Go | Barcelona | <img src='https://avatars3.githubusercontent.com/u/64216?v=3&s=64' width='64' height='64' title='Jordi Collell'> |
-| 167 | [andresgutgon](https://github.com/andresgutgon) | 234 | 26 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/49499?v=3&s=64' width='64' height='64' title='Andrés'> |
-| 168 | [AngelVillanueva](https://github.com/AngelVillanueva) | 233 | 2 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/571039?v=3&s=64' width='64' height='64' title='Angel Villanueva'> |
-| 169 | [miguelibero](https://github.com/miguelibero) | 232 | 14 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/20177?v=3&s=64' width='64' height='64' title='Miguel Ibero'> |
-| 170 | [sxubach](https://github.com/sxubach) | 232 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6159637?v=3&s=64' width='64' height='64' title='Sergi Xavier Ubach Pallàs'> |
-| 171 | [poolqf](https://github.com/poolqf) | 231 | 578 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7887319?v=3&s=64' width='64' height='64' title='Pol Quintana'> |
-| 172 | [victorsauri](https://github.com/victorsauri) | 229 | 2 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8926084?v=3&s=64' width='64' height='64' title='Víctor Sauri Santacreu'> |
-| 173 | [changlongzj](https://github.com/changlongzj) | 229 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5863449?v=3&s=64' width='64' height='64' title='Chang Long Zhu Jin'> |
-| 174 | [andresperezlopez](https://github.com/andresperezlopez) | 229 | 22 | SuperCollider | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1895237?v=3&s=64' width='64' height='64' title='Andrés Pérez López'> |
-| 175 | [twinone](https://github.com/twinone) | 228 | 66 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/4309591?v=3&s=64' width='64' height='64' title='Twinone'> |
-| 176 | [martgnz](https://github.com/martgnz) | 224 | 6 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1236790?v=3&s=64' width='64' height='64' title='Martín González'> |
-| 177 | [ovicin](https://github.com/ovicin) | 222 | 10 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2742653?v=3&s=64' width='64' height='64' title='Ovidiu Cincheza'> |
-| 178 | [jdevesa](https://github.com/jdevesa) | 221 | 42 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/67581?v=3&s=64' width='64' height='64' title='Jaume Devesa'> |
-| 179 | [pacoorozco](https://github.com/pacoorozco) | 220 | 1 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2443200?v=3&s=64' width='64' height='64' title='Paco Orozco'> |
-| 180 | [mpguerra](https://github.com/mpguerra) | 220 | 4 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1311133?v=3&s=64' width='64' height='64' title='Maria Pilar Guerra Arias'> |
-| 181 | [pau-minoves](https://github.com/pau-minoves) | 220 | 3 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/966251?v=3&s=64' width='64' height='64' title='Pau Minoves'> |
-| 182 | [ezorita](https://github.com/ezorita) | 220 | 5 | C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3889419?v=3&s=64' width='64' height='64' title='eduard valera i zorita'> |
-| 183 | [scastlara](https://github.com/scastlara) | 220 | 1 | Perl | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7606872?v=3&s=64' width='64' height='64' title='Sergio Castillo Lara'> |
-| 184 | [svarvel](https://github.com/svarvel) | 219 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/8823313?v=3&s=64' width='64' height='64' title='Matteo Varvello'> |
-| 185 | [undeadpixel](https://github.com/undeadpixel) | 219 | 3 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/568654?v=3&s=64' width='64' height='64' title='Josep Arús'> |
-| 186 | [jmcarbo](https://github.com/jmcarbo) | 215 | 50 | Go | Barcelona (SPAIN) | <img src='https://avatars2.githubusercontent.com/u/31098?v=3&s=64' width='64' height='64' title='Joan Marc Carbo'> |
-| 187 | [Fonserbc](https://github.com/Fonserbc) | 215 | 8 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2042586?v=3&s=64' width='64' height='64' title='Ferran Bertomeu'> |
-| 188 | [Samitier](https://github.com/Samitier) | 214 | 2 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4160121?v=3&s=64' width='64' height='64' title='Blai Samitier'> |
-| 189 | [jmendeth](https://github.com/jmendeth) | 213 | 115 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1177304?v=3&s=64' width='64' height='64' title='Xavier Mendez'> |
-| 190 | [sertansenturk](https://github.com/sertansenturk) | 212 | 1 | Matlab and Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/4540641?v=3&s=64' width='64' height='64' title='Sertan Senturk'> |
-| 191 | [areina](https://github.com/areina) | 211 | 189 | Ruby | barcelona | <img src='https://avatars1.githubusercontent.com/u/10852?v=3&s=64' width='64' height='64' title='Toni Reina'> |
-| 192 | [tcorral](https://github.com/tcorral) | 210 | 1180 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/802081?v=3&s=64' width='64' height='64' title='Tomás Corral Casas'> |
-| 193 | [ulisescontreras](https://github.com/ulisescontreras) | 209 | 3 | CSS | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/7679792?v=3&s=64' width='64' height='64' title='Ulises Contreras'> |
-| 194 | [rveciana](https://github.com/rveciana) | 209 | 36 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2832885?v=3&s=64' width='64' height='64' title='Roger Veciana i Rovira'> |
-| 195 | [r2bapps](https://github.com/r2bapps) | 208 | 6 | Java | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/7606778?v=3&s=64' width='64' height='64' title='R2B Apps'> |
-| 196 | [jamaga](https://github.com/jamaga) | 208 | 1 | Ruby | barcelona | <img src='https://avatars3.githubusercontent.com/u/5446136?v=3&s=64' width='64' height='64' title='jamaga'> |
-| 197 | [atrandafir](https://github.com/atrandafir) | 208 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3097251?v=3&s=64' width='64' height='64' title='Alexandru Trandafir Catalin'> |
-| 198 | [CarlosButron](https://github.com/CarlosButron) | 207 | 470 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8502419?v=3&s=64' width='64' height='64' title='Carlos Butron'> |
-| 199 | [andrewdavidmackenzie](https://github.com/andrewdavidmackenzie) | 206 | 2 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5529132?v=3&s=64' width='64' height='64' title='Andrew Mackenzie'> |
-| 200 | [cumus](https://github.com/cumus) | 206 | 1 | C++ and C | Barcelona, Espanya | <img src='https://avatars3.githubusercontent.com/u/9050447?v=3&s=64' width='64' height='64' title='Ruben Sardon'> |
-| 201 | [bejar](https://github.com/bejar) | 206 | 0 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/6221479?v=3&s=64' width='64' height='64' title='Javier Bejar'> |
-| 202 | [enriclluelles](https://github.com/enriclluelles) | 201 | 182 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/79768?v=3&s=64' width='64' height='64' title='Enric Lluelles'> |
-| 203 | [davidor](https://github.com/davidor) | 200 | 29 | HTML | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/907223?v=3&s=64' width='64' height='64' title='David Ortiz'> |
-| 204 | [MrBrownser](https://github.com/MrBrownser) | 200 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7208851?v=3&s=64' width='64' height='64' title='Adrià'> |
-| 205 | [miljan-aleksic](https://github.com/miljan-aleksic) | 199 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/513275?v=3&s=64' width='64' height='64' title='Miljan'> |
-| 206 | [albertbellonch](https://github.com/albertbellonch) | 197 | 139 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/289651?v=3&s=64' width='64' height='64' title='Albert Bellonch Llargués'> |
-| 207 | [knoopx](https://github.com/knoopx) | 196 | 49 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/100993?v=3&s=64' width='64' height='64' title='Víctor Martínez'> |
-| 208 | [xrubio](https://github.com/xrubio) | 196 | 16 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1416266?v=3&s=64' width='64' height='64' title='Xavier Rubio-Campillo'> |
-| 209 | [artivis](https://github.com/artivis) | 193 | 1 | C++ | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6572747?v=3&s=64' width='64' height='64' title='Jeremie Deray'> |
-| 210 | [rewritten](https://github.com/rewritten) | 191 | 28 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/476895?v=3&s=64' width='64' height='64' title='Saverio Trioni'> |
-| 211 | [nosolopau](https://github.com/nosolopau) | 191 | 11 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/206331?v=3&s=64' width='64' height='64' title='Pablo Torrecilla'> |
-| 212 | [adrianolatorre](https://github.com/adrianolatorre) | 189 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/759356?v=3&s=64' width='64' height='64' title='Adriano Latorre'> |
-| 213 | [cor9003](https://github.com/cor9003) | 189 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6442086?v=3&s=64' width='64' height='64' title='David'> |
-| 214 | [natzar](https://github.com/natzar) | 189 | 7 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1593064?v=3&s=64' width='64' height='64' title='Beto'> |
-| 215 | [gchaincl](https://github.com/gchaincl) | 188 | 193 | Go | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1288313?v=3&s=64' width='64' height='64' title='Gustavo Chaín'> |
-| 216 | [carlosvillu](https://github.com/carlosvillu) | 188 | 78 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/179462?v=3&s=64' width='64' height='64' title='Carlos Villuendas Zambrana'> |
-| 217 | [albertcasado](https://github.com/albertcasado) | 187 | 1 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2922449?v=3&s=64' width='64' height='64' title='Albert Casado'> |
-| 218 | [gorkapitarch](https://github.com/gorkapitarch) | 187 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4787906?v=3&s=64' width='64' height='64' title='Gorka'> |
-| 219 | [cfenollosa](https://github.com/cfenollosa) | 185 | 481 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2249551?v=3&s=64' width='64' height='64' title='Carlos Fenollosa'> |
-| 220 | [dixso](https://github.com/dixso) | 185 | 327 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1495899?v=3&s=64' width='64' height='64' title='Julio de la Calle'> |
-| 221 | [simo163](https://github.com/simo163) | 185 | 1 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3654076?v=3&s=64' width='64' height='64' title='Gharbi Mohammed'> |
-| 222 | [acamps](https://github.com/acamps) | 184 | 1 | HTML | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5006841?v=3&s=64' width='64' height='64' title='Albert Camps'> |
-| 223 | [BraisGabin](https://github.com/BraisGabin) | 184 | 1 | Java | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/721244?v=3&s=64' width='64' height='64' title='Brais Gabín'> |
-| 224 | [xdurana](https://github.com/xdurana) | 184 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/443851?v=3&s=64' width='64' height='64' title='Xavi Duran'> |
-| 225 | [jantn](https://github.com/jantn) | 184 | 2 | C++ | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/11560497?v=3&s=64' width='64' height='64' title='Joan Anton Viñals'> |
-| 226 | [facundofarias](https://github.com/facundofarias) | 183 | 19 | JavaScript | Barcelona, Catalunya | <img src='https://avatars0.githubusercontent.com/u/2700564?v=3&s=64' width='64' height='64' title='Facundo Farias'> |
-| 227 | [jaor](https://github.com/jaor) | 180 | 338 | Emacs Lisp | Barcelona | <img src='https://avatars0.githubusercontent.com/u/80719?v=3&s=64' width='64' height='64' title='jao'> |
-| 228 | [martincalsyn](https://github.com/martincalsyn) | 180 | 1 | C# | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/2230497?v=3&s=64' width='64' height='64' title='Martin Calsyn'> |
-| 229 | [sharnik](https://github.com/sharnik) | 178 | 18 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/987?v=3&s=64' width='64' height='64' title='Wojciech Ogrodowczyk'> |
-| 230 | [rubennorte](https://github.com/rubennorte) | 177 | 7 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/117921?v=3&s=64' width='64' height='64' title='Rubén Norte'> |
-| 231 | [PauCodina](https://github.com/PauCodina) | 177 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/85646?v=3&s=400' width='64' height='64' title='Pau Codina'> |
-| 232 | [edrevo](https://github.com/edrevo) | 176 | 2 | Scala | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1845771?v=3&s=64' width='64' height='64' title='Ximo Guanter'> |
-| 233 | [vieron](https://github.com/vieron) | 174 | 83 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/43971?v=3&s=64' width='64' height='64' title='Javier Sánchez - Marín'> |
-| 234 | [singuerinc](https://github.com/singuerinc) | 174 | 29 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/503676?v=3&s=64' width='64' height='64' title='Nahuel Scotti'> |
-| 235 | [aercolino](https://github.com/aercolino) | 173 | 99 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/172373?v=3&s=64' width='64' height='64' title='Andrea Ercolino'> |
-| 236 | [lukasappelhans](https://github.com/lukasappelhans) | 173 | 2 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/23859?v=3&s=64' width='64' height='64' title='Lukas Appelhans'> |
-| 237 | [tiendan](https://github.com/tiendan) | 173 | 8 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2539785?v=3&s=64' width='64' height='64' title='Onur Ferhat'> |
-| 238 | [danigosa](https://github.com/danigosa) | 173 | 18 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1827475?v=3&s=64' width='64' height='64' title='Danigosa'> |
-| 239 | [dsager](https://github.com/dsager) | 172 | 1 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1056502?v=3&s=64' width='64' height='64' title='Daniel Sager'> |
-| 240 | [cosarara97](https://github.com/cosarara97) | 170 | 8 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1713879?v=3&s=64' width='64' height='64' title='Jaume Delclòs'> |
-| 241 | [yuraksisa](https://github.com/yuraksisa) | 170 | 41 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1453633?v=3&s=64' width='64' height='64' title='Yurak'> |
-| 242 | [philn](https://github.com/philn) | 170 | 25 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/34114?v=3&s=64' width='64' height='64' title='Philippe Normand'> |
-| 243 | [brguez](https://github.com/brguez) | 170 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7858772?v=3&s=64' width='64' height='64' title='Bernardo Rodríguez Martín'> |
-| 244 | [coboshm](https://github.com/coboshm) | 170 | 0 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5605694?v=3&s=64' width='64' height='64' title='Marc Cobos Hernandez'> |
-| 245 | [Palaui](https://github.com/Palaui) | 168 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9482901?v=3&s=64' width='64' height='64' title='Marc Palau'> |
-| 246 | [FelipMarti](https://github.com/FelipMarti) | 166 | 1 | C++ | Lund and Barcelona | <img src='https://avatars2.githubusercontent.com/u/8143121?v=3&s=64' width='64' height='64' title='Felip Martí Carrillo'> |
-| 247 | [mezod](https://github.com/mezod) | 165 | 19 | CSS | Barcelona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/1230963?v=3&s=64' width='64' height='64' title='Joan Boixadós'> |
-| 248 | [adrianortuzar](https://github.com/adrianortuzar) | 165 | 3 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/649600?v=3&s=64' width='64' height='64' title='Adrian'> |
-| 249 | [gui11aume](https://github.com/gui11aume) | 164 | 41 | Python | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/1017195?v=3&s=64' width='64' height='64' title='Guillaume Filion'> |
-| 250 | [kidd](https://github.com/kidd) | 164 | 71 | Emacs Lisp | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/25607?v=3&s=64' width='64' height='64' title='Raimon Grau (rgrau)'> |
-| 251 | [garciademarina](https://github.com/garciademarina) | 164 | 4 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/546607?v=3&s=64' width='64' height='64' title='Carlos'> |
-| 252 | [vilanovi](https://github.com/vilanovi) | 164 | 264 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1830894?v=3&s=64' width='64' height='64' title='Joan Martin'> |
-| 253 | [erenyagdiran](https://github.com/erenyagdiran) | 164 | 11 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1063085?v=3&s=64' width='64' height='64' title='Eren "m00dy" Yagdiran'> |
-| 254 | [LluisRamon](https://github.com/LluisRamon) | 163 | 33 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2566110?v=3&s=64' width='64' height='64' title='Lluís Ramon'> |
-| 255 | [blasoliva](https://github.com/blasoliva) | 163 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4999919?v=3&s=64' width='64' height='64' title='Blas Oliva'> |
-| 256 | [alfred82santa](https://github.com/alfred82santa) | 161 | 7 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/574291?v=3&s=64' width='64' height='64' title='Alfred Santacatalina Gea'> |
-| 257 | [jgrivolla](https://github.com/jgrivolla) | 161 | 2 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1183575?v=3&s=64' width='64' height='64' title='Jens Grivolla'> |
-| 258 | [carlwebdev](https://github.com/carlwebdev) | 160 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2581992?v=3&s=64' width='64' height='64' title='Carl Johansson'> |
-| 259 | [Quadramma](https://github.com/Quadramma) | 159 | 1 | JavaScript | Buenos Aires, Barcelona, Paris | <img src='https://avatars1.githubusercontent.com/u/6563218?v=3&s=64' width='64' height='64' title='Javier Leandro Arancibia'> |
-| 260 | [agile-jordi](https://github.com/agile-jordi) | 158 | 5 | Clojure | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1241236?v=3&s=64' width='64' height='64' title='Jordi'> |
-| 261 | [apalancat](https://github.com/apalancat) | 158 | 106 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/14408?v=3&s=64' width='64' height='64' title='Marc Boquet'> |
-| 262 | [mcornella](https://github.com/mcornella) | 157 | 2 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1441704?v=3&s=64' width='64' height='64' title='Marc Cornellà'> |
-| 263 | [mmasriera](https://github.com/mmasriera) | 156 | 1 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3852517?v=3&s=64' width='64' height='64' title='Miquel Masriera'> |
-| 264 | [angelfaraldo](https://github.com/angelfaraldo) | 155 | 0 | Pure Data | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6861193?v=3&s=64' width='64' height='64' title='Ángel Faraldo'> |
-| 265 | [di36ofp](https://github.com/di36ofp) | 153 | 3 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1537014?v=3&s=64' width='64' height='64' title='Diego P. Suárez'> |
-| 266 | [belen-albeza](https://github.com/belen-albeza) | 152 | 57 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/63681?v=3&s=64' width='64' height='64' title='Belén Albeza'> |
-| 267 | [weapp](https://github.com/weapp) | 152 | 4 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/856974?v=3&s=64' width='64' height='64' title='Manuel Albarran'> |
-| 268 | [xserra](https://github.com/xserra) | 151 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2765483?v=3&s=64' width='64' height='64' title='Xavier Serra'> |
-| 269 | [egiralt](https://github.com/egiralt) | 150 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7782438?v=3&s=64' width='64' height='64' title='Ernesto Giralt'> |
-| 270 | [mparramont](https://github.com/mparramont) | 150 | 60 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/636075?v=3&s=64' width='64' height='64' title='Miguel Parramon'> |
-| 271 | [aurelian](https://github.com/aurelian) | 150 | 233 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/350?v=3&s=64' width='64' height='64' title='Aurelian Oancea'> |
-| 272 | [albert-gonzalez](https://github.com/albert-gonzalez) | 149 | 8 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7250822?v=3&s=64' width='64' height='64' title='Albert González'> |
-| 273 | [slapresta](https://github.com/slapresta) | 149 | 34 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3437734?v=3&s=64' width='64' height='64' title='Santiago Lapresta'> |
-| 274 | [martibosch](https://github.com/martibosch) | 147 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5831581?v=3&s=64' width='64' height='64' title='Martí Bosch'> |
-| 275 | [alemuro](https://github.com/alemuro) | 145 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1413194?v=3&s=64' width='64' height='64' title='Aleix Murtra'> |
-| 276 | [danielmacho72](https://github.com/danielmacho72) | 145 | 0 | Ruby | Barcelona, ES | <img src='https://avatars3.githubusercontent.com/u/8505116?v=3&s=64' width='64' height='64' title='Daniel Macho'> |
-| 277 | [ruskid](https://github.com/ruskid) | 145 | 7 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8279841?v=3&s=64' width='64' height='64' title='Victor Demin'> |
-| 278 | [sailoog](https://github.com/sailoog) | 145 | 3 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8145560?v=3&s=64' width='64' height='64' title='Sailoog'> |
-| 279 | [rogercbe](https://github.com/rogercbe) | 145 | 0 | ApacheConf | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9057214?v=3&s=64' width='64' height='64' title='Roger Cendrós'> |
-| 280 | [pearpages](https://github.com/pearpages) | 143 | 3 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3802915?v=3&s=64' width='64' height='64' title='Pere Pages'> |
-| 281 | [jorix](https://github.com/jorix) | 142 | 60 | JavaScript | Castelldefels (near Barcelona, Spain) | <img src='https://avatars2.githubusercontent.com/u/1099278?v=3&s=64' width='64' height='64' title='Xavier Mamano'> |
-| 282 | [kmruiz](https://github.com/kmruiz) | 142 | 3 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1822138?v=3&s=64' width='64' height='64' title='Kevin Mas Ruiz'> |
-| 283 | [danilinares](https://github.com/danilinares) | 141 | 3 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1897446?v=3&s=64' width='64' height='64' title='Daniel Linares'> |
-| 284 | [dsabalete](https://github.com/dsabalete) | 141 | 1 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2525976?v=3&s=64' width='64' height='64' title='David Sabalete'> |
-| 285 | [jxprat](https://github.com/jxprat) | 141 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9534353?v=3&s=64' width='64' height='64' title='Jordi Xavier'> |
-| 286 | [felixcarmona](https://github.com/felixcarmona) | 141 | 13 | Python | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/1969778?v=3&s=64' width='64' height='64' title='Felix Carmona'> |
-| 287 | [daviderill](https://github.com/daviderill) | 139 | 1 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1317946?v=3&s=64' width='64' height='64' title='David Erill'> |
-| 288 | [bmoix](https://github.com/bmoix) | 139 | 3 | Makefile | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3824169?v=3&s=64' width='64' height='64' title='Bernat Moix'> |
-| 289 | [bichotll](https://github.com/bichotll) | 139 | 133 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/643359?v=3&s=64' width='64' height='64' title='Jaume Tarradas Llort'> |
-| 290 | [ShakMR](https://github.com/ShakMR) | 138 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3437307?v=3&s=64' width='64' height='64' title='Borja Arias'> |
-| 291 | [apuigsech](https://github.com/apuigsech) | 137 | 12 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/2170708?v=3&s=64' width='64' height='64' title='Albert Puigsech Galicia'> |
-| 292 | [rfguri](https://github.com/rfguri) | 137 | 22 | Objective-C | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/1063434?v=3&s=64' width='64' height='64' title='Roger Fernandez Guri'> |
-| 293 | [dalloliogm](https://github.com/dalloliogm) | 136 | 47 | Python | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/14500?v=3&s=64' width='64' height='64' title='Giovanni Dall'Olio'> |
-| 294 | [JuanCarlosM](https://github.com/JuanCarlosM) | 136 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1137572?v=3&s=64' width='64' height='64' title='Juan Carlos Moreno'> |
-| 295 | [Bastien-](https://github.com/Bastien-) | 136 | 2 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/405136?v=3&s=64' width='64' height='64' title='Bastien'> |
-| 296 | [duardito](https://github.com/duardito) | 136 | 1 | Java | barcelona | <img src='https://avatars0.githubusercontent.com/u/5726847?v=3&s=64' width='64' height='64' title='eduard'> |
-| 297 | [chirauki](https://github.com/chirauki) | 135 | 2 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1199619?v=3&s=64' width='64' height='64' title=''> |
-| 298 | [unleashed](https://github.com/unleashed) | 133 | 33 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/201794?v=3&s=64' width='64' height='64' title='Alejandro Martinez'> |
-| 299 | [marcelotena](https://github.com/marcelotena) | 132 | 0 | CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10921026?v=3&s=64' width='64' height='64' title='Marcelo Tena Vicente'> |
-| 300 | [julian-urbano](https://github.com/julian-urbano) | 131 | 11 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6097978?v=3&s=64' width='64' height='64' title='Julián Urbano'> |
-| 301 | [codecoding](https://github.com/codecoding) | 131 | 94 | C# | Barcelona | <img src='https://avatars1.githubusercontent.com/u/696981?v=3&s=64' width='64' height='64' title='Roberto Huertas'> |
-| 302 | [guillermonp](https://github.com/guillermonp) | 130 | 2 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1483218?v=3&s=64' width='64' height='64' title='Guillermo Navas Palencia'> |
-| 303 | [manuelpastor](https://github.com/manuelpastor) | 130 | 1 | Python | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/4942049?v=3&s=64' width='64' height='64' title='Manuel Pastor'> |
-| 304 | [amorenoc](https://github.com/amorenoc) | 130 | 18 | C | Taipei, Barcelona | <img src='https://avatars0.githubusercontent.com/u/3168575?v=3&s=64' width='64' height='64' title='Alex Moreno'> |
-| 305 | [jaumemoral](https://github.com/jaumemoral) | 128 | 3 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6637623?v=3&s=64' width='64' height='64' title='Jaume Moral'> |
-| 306 | [doup](https://github.com/doup) | 127 | 30 | JavaScript | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/188612?v=3&s=64' width='64' height='64' title='Asier Illarramendi'> |
-| 307 | [cagataygurturk](https://github.com/cagataygurturk) | 127 | 2 | JavaScript | Barcelona, España | <img src='https://avatars3.githubusercontent.com/u/963018?v=3&s=64' width='64' height='64' title='Çağatay Gürtürk'> |
-| 308 | [jlopezsi](https://github.com/jlopezsi) | 127 | 0 | CSS | Bellaterra (Cerdanyola del Vallès), Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/4014875?v=3&s=64' width='64' height='64' title='Jordi López'> |
-| 309 | [xmontero](https://github.com/xmontero) | 126 | 1 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5641621?v=3&s=64' width='64' height='64' title='Xavi Montero'> |
-| 310 | [fmvilas](https://github.com/fmvilas) | 126 | 29 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/242119?v=3&s=64' width='64' height='64' title='Francisco'> |
-| 311 | [guiem](https://github.com/guiem) | 124 | 1 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3431628?v=3&s=64' width='64' height='64' title='Guiem'> |
-| 312 | [eduRivera](https://github.com/eduRivera) | 124 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8111369?v=3&s=64' width='64' height='64' title='Eduard Rivera'> |
-| 313 | [adnam](https://github.com/adnam) | 124 | 35 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/221198?v=3&s=64' width='64' height='64' title='Adam Hayward'> |
-| 314 | [budsan](https://github.com/budsan) | 123 | 18 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/859028?v=3&s=64' width='64' height='64' title='Jordi Santiago Provencio'> |
-| 315 | [lagunex](https://github.com/lagunex) | 123 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2749314?v=3&s=64' width='64' height='64' title='Carlos A. Henríquez Q.'> |
-| 316 | [Bestion](https://github.com/Bestion) | 123 | 0 | C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6674534?v=3&s=64' width='64' height='64' title='Iván Álvarez Ferreiro'> |
-| 317 | [virgiligarcia](https://github.com/virgiligarcia) | 122 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1129335?v=3&s=64' width='64' height='64' title='Virgili Garcia'> |
-| 318 | [marcos-sb](https://github.com/marcos-sb) | 122 | 0 | Scala | Sant Cugat del Vallés, Barcelona | <img src='https://avatars3.githubusercontent.com/u/5045778?v=3&s=64' width='64' height='64' title='Marcos Salgueiro Balsa'> |
-| 319 | [lemonzi](https://github.com/lemonzi) | 122 | 14 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3180006?v=3&s=64' width='64' height='64' title='Quim Llimona'> |
-| 320 | [jordicenzano](https://github.com/jordicenzano) | 122 | 4 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5102646?v=3&s=64' width='64' height='64' title='Jordi Cenzano'> |
-| 321 | [MiguelHervias](https://github.com/MiguelHervias) | 121 | 1 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6371006?v=3&s=64' width='64' height='64' title='Miguel Hervias'> |
-| 322 | [pral2a](https://github.com/pral2a) | 121 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/74249?v=3&s=64' width='64' height='64' title='Pral2a'> |
-| 323 | [dominguezcelada](https://github.com/dominguezcelada) | 120 | 1 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2574275?v=3&s=64' width='64' height='64' title='Oscar'> |
-| 324 | [jordeu](https://github.com/jordeu) | 119 | 2 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1315429?v=3&s=64' width='64' height='64' title='Jordi Deu-Pons'> |
-| 325 | [abelsromero](https://github.com/abelsromero) | 119 | 3 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5781153?v=3&s=64' width='64' height='64' title='Abel Salgado Romero'> |
-| 326 | [eskerda](https://github.com/eskerda) | 118 | 123 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/208952?v=3&s=64' width='64' height='64' title=''> |
-| 327 | [pchiwan](https://github.com/pchiwan) | 118 | 4 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/4695856?v=3&s=64' width='64' height='64' title='Sílvia Mur Blanch'> |
-| 328 | [nicolas-fricke](https://github.com/nicolas-fricke) | 118 | 12 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1423331?v=3&s=64' width='64' height='64' title='Nicolas Fricke'> |
-| 329 | [jaspermdegroot](https://github.com/jaspermdegroot) | 118 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1296793?v=3&s=64' width='64' height='64' title='Jasper de Groot'> |
-| 330 | [sonoro1234](https://github.com/sonoro1234) | 118 | 19 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1795930?v=3&s=64' width='64' height='64' title='Victor Bombi'> |
-| 331 | [SanabriaRusso](https://github.com/SanabriaRusso) | 117 | 3 | C++ | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1539420?v=3&s=64' width='64' height='64' title='SanabriaRusso'> |
-| 332 | [hcarreras](https://github.com/hcarreras) | 117 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1467096?v=3&s=64' width='64' height='64' title='Hari'> |
-| 333 | [JuanJoseFajardo](https://github.com/JuanJoseFajardo) | 117 | 0 | CSS | Sabadell (Barcelona) | <img src='https://avatars2.githubusercontent.com/u/7580526?v=3&s=64' width='64' height='64' title='Juan José Fajardo'> |
-| 334 | [sarjona](https://github.com/sarjona) | 116 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/900389?v=3&s=64' width='64' height='64' title='Sara Arjona'> |
-| 335 | [jruz](https://github.com/jruz) | 116 | 1 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8890?v=3&s=64' width='64' height='64' title='Javier Ruz'> |
-| 336 | [risdevs](https://github.com/risdevs) | 116 | 2 | C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/660240?v=3&s=64' width='64' height='64' title='Sergi Vélez'> |
-| 337 | [victorBaro](https://github.com/victorBaro) | 116 | 845 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/994334?v=3&s=64' width='64' height='64' title='Victor Baro'> |
-| 338 | [badshark](https://github.com/badshark) | 116 | 8 | Ruby | New York , Barcelona | <img src='https://avatars0.githubusercontent.com/u/762608?v=3&s=64' width='64' height='64' title='Marco'> |
-| 339 | [jherranzm](https://github.com/jherranzm) | 116 | 9 | Java | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/949475?v=3&s=64' width='64' height='64' title='José Luis Herranz'> |
-| 340 | [apuratepp](https://github.com/apuratepp) | 116 | 19 | Ruby | Berlin ,, Barcelona | <img src='https://avatars3.githubusercontent.com/u/529840?v=3&s=64' width='64' height='64' title='Josep'> |
-| 341 | [OscarDoc](https://github.com/OscarDoc) | 115 | 10 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8439728?v=3&s=64' width='64' height='64' title='Oscar'> |
-| 342 | [rboldu](https://github.com/rboldu) | 115 | 0 | C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6159669?v=3&s=64' width='64' height='64' title='Roger Boldu'> |
-| 343 | [gfrances](https://github.com/gfrances) | 114 | 2 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1112014?v=3&s=64' width='64' height='64' title='Guillem Francès'> |
-| 344 | [kpacha](https://github.com/kpacha) | 114 | 18 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1307694?v=3&s=64' width='64' height='64' title=''> |
-| 345 | [valermor](https://github.com/valermor) | 113 | 2 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2091621?v=3&s=64' width='64' height='64' title='Valerio Morsella'> |
-| 346 | [danicomas](https://github.com/danicomas) | 113 | 37 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4038192?v=3&s=64' width='64' height='64' title='Daniel Comas Fernández'> |
-| 347 | [chopsuey5000](https://github.com/chopsuey5000) | 113 | 1 | Arduino | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6077966?v=3&s=64' width='64' height='64' title='Angel Muñoz'> |
-| 348 | [osagarra](https://github.com/osagarra) | 112 | 4 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3216049?v=3&s=64' width='64' height='64' title='Oleguer'> |
-| 349 | [martinezjavier](https://github.com/martinezjavier) | 112 | 231 | C | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/498974?v=3&s=64' width='64' height='64' title='Javier Martinez Canillas'> |
-| 350 | [marcosQuesada](https://github.com/marcosQuesada) | 111 | 37 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/810704?v=3&s=64' width='64' height='64' title='Marcos Quesada'> |
-| 351 | [Arau](https://github.com/Arau) | 111 | 4 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1422556?v=3&s=64' width='64' height='64' title='Ferran Arau'> |
-| 352 | [naoisegolden](https://github.com/naoisegolden) | 111 | 18 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/250892?v=3&s=64' width='64' height='64' title='Naoise Golden Santos'> |
-| 353 | [aleixpellicer](https://github.com/aleixpellicer) | 111 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8926015?v=3&s=64' width='64' height='64' title='Aleix'> |
-| 354 | [MariaFdez](https://github.com/MariaFdez) | 109 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9429467?v=3&s=64' width='64' height='64' title='Maria Fernandez'> |
-| 355 | [Ale-](https://github.com/Ale-) | 109 | 3 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2896040?v=3&s=64' width='64' height='64' title='ale'> |
-| 356 | [seaniechaos](https://github.com/seaniechaos) | 109 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8274948?v=3&s=64' width='64' height='64' title='Sean Ring'> |
-| 357 | [aramirez-es](https://github.com/aramirez-es) | 109 | 23 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/345555?v=3&s=64' width='64' height='64' title='Alberto Ramírez'> |
-| 358 | [lluisgomez](https://github.com/lluisgomez) | 109 | 56 | C++ | Universitat Autonoma de Barcelona | <img src='https://avatars1.githubusercontent.com/u/3308194?v=3&s=64' width='64' height='64' title='Lluis Gomez i Bigorda'> |
-| 359 | [jig](https://github.com/jig) | 108 | 10 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/167911?v=3&s=64' width='64' height='64' title='Jordi Íñigo'> |
-| 360 | [albarin](https://github.com/albarin) | 107 | 2 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/186112?v=3&s=64' width='64' height='64' title='Alba'> |
-| 361 | [carthach](https://github.com/carthach) | 106 | 2 | C++ | Barcelona, Catalonia, Spain. | <img src='https://avatars1.githubusercontent.com/u/6017385?v=3&s=64' width='64' height='64' title='Cárthach Ó Nuanáin'> |
-| 362 | [rocboronat](https://github.com/rocboronat) | 106 | 12 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/456499?v=3&s=64' width='64' height='64' title='Roc Boronat'> |
-| 363 | [Markcial](https://github.com/Markcial) | 106 | 15 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/208523?v=3&s=64' width='64' height='64' title='Marc'> |
-| 364 | [pervouchine](https://github.com/pervouchine) | 106 | 10 | C | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2036802?v=3&s=64' width='64' height='64' title='Dmitri Pervouchine'> |
-| 365 | [jarandaf](https://github.com/jarandaf) | 106 | 5 | Scala | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2277398?v=3&s=64' width='64' height='64' title='Jordi Aranda'> |
-| 366 | [Atinux](https://github.com/Atinux) | 105 | 382 | JavaScript | Spain, Barcelona | <img src='https://avatars2.githubusercontent.com/u/904724?v=3&s=64' width='64' height='64' title='Sébastien Chopin'> |
-| 367 | [AnguloB](https://github.com/AnguloB) | 105 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8128625?v=3&s=64' width='64' height='64' title='Ariadna'> |
-| 368 | [AlbertServen](https://github.com/AlbertServen) | 104 | 2 | TeX | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4257816?v=3&s=64' width='64' height='64' title='Albert'> |
-| 369 | [carlessanagustin](https://github.com/carlessanagustin) | 103 | 4 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3442765?v=3&s=64' width='64' height='64' title='carles san agustin'> |
-| 370 | [eduperez](https://github.com/eduperez) | 103 | 0 | C++ | Barcelona, SPAIN | <img src='https://avatars0.githubusercontent.com/u/11459398?v=3&s=64' width='64' height='64' title='Eduardo Pérez'> |
-| 371 | [acasquete](https://github.com/acasquete) | 102 | 1 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1281072?v=3&s=64' width='64' height='64' title='Alex Casquete'> |
-| 372 | [mcamara](https://github.com/mcamara) | 101 | 546 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/887052?v=3&s=64' width='64' height='64' title='Marc Cámara'> |
-| 373 | [ajimix](https://github.com/ajimix) | 100 | 158 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/30565?v=3&s=64' width='64' height='64' title='Adria Jimenez'> |
-| 374 | [alminyana](https://github.com/alminyana) | 99 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6729240?v=3&s=64' width='64' height='64' title='Enric Almiñana'> |
-| 375 | [bthemad](https://github.com/bthemad) | 99 | 5 | VimL | Barcelona | <img src='https://avatars1.githubusercontent.com/u/138513?v=3&s=64' width='64' height='64' title='Alexander Kudryashov'> |
-| 376 | [jjtortosa](https://github.com/jjtortosa) | 99 | 2 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/460441?v=3&s=64' width='64' height='64' title='Juanjo Tortosa'> |
-| 377 | [joanpc](https://github.com/joanpc) | 99 | 54 | Python | Seattle, Barcelona | <img src='https://avatars0.githubusercontent.com/u/244801?v=3&s=64' width='64' height='64' title='Joanpc'> |
-| 378 | [sdruix](https://github.com/sdruix) | 99 | 5 | Makefile | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9801546?v=3&s=64' width='64' height='64' title='Albert Saà-Garriga'> |
-| 379 | [zareone](https://github.com/zareone) | 99 | 1 | Go | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1835906?v=3&s=64' width='64' height='64' title='Daniel Blanco'> |
-| 380 | [PCASME](https://github.com/PCASME) | 98 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2333951?v=3&s=64' width='64' height='64' title='Pedro Castro Mellado'> |
-| 381 | [blaiprat](https://github.com/blaiprat) | 98 | 64 | JavaScript | London & Barcelona | <img src='https://avatars2.githubusercontent.com/u/723386?v=3&s=64' width='64' height='64' title='Blai Pratdesaba'> |
-| 382 | [pitarch](https://github.com/pitarch) | 98 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8017066?v=3&s=64' width='64' height='64' title=''> |
-| 383 | [naulacambra](https://github.com/naulacambra) | 98 | 1 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4325510?v=3&s=64' width='64' height='64' title='Arnau Lacambra'> |
-| 384 | [sp-carles-amigo](https://github.com/sp-carles-amigo) | 97 | 0 | Ruby and Puppet | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5636031?v=3&s=64' width='64' height='64' title='Carles Amigó'> |
-| 385 | [jguille2](https://github.com/jguille2) | 97 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2926315?v=3&s=64' width='64' height='64' title='Joan Guillén i Pelegay'> |
-| 386 | [joseprl89](https://github.com/joseprl89) | 96 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2854936?v=3&s=64' width='64' height='64' title='Josep'> |
-| 387 | [oriolgual](https://github.com/oriolgual) | 96 | 13 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/5254?v=3&s=64' width='64' height='64' title='Oriol Gual'> |
-| 388 | [Deseaus](https://github.com/Deseaus) | 95 | 1 | Shell | Barcelona / Göteborg | <img src='https://avatars0.githubusercontent.com/u/6504048?v=3&s=64' width='64' height='64' title='Daniel Vidal'> |
-| 389 | [jbaylina](https://github.com/jbaylina) | 95 | 7 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4180156?v=3&s=64' width='64' height='64' title='Jordi Baylina'> |
-| 390 | [sergigp](https://github.com/sergigp) | 94 | 18 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/764056?v=3&s=64' width='64' height='64' title='Sergi GP'> |
-| 391 | [davesnx](https://github.com/davesnx) | 94 | 3 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3763599?v=3&s=64' width='64' height='64' title='David Sancho'> |
-| 392 | [javocsoft](https://github.com/javocsoft) | 94 | 2 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1159510?v=3&s=64' width='64' height='64' title='JavocSoft'> |
-| 393 | [mcagigas](https://github.com/mcagigas) | 94 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1992455?v=3&s=64' width='64' height='64' title='Manuel Cagigas'> |
-| 394 | [Xelit3](https://github.com/Xelit3) | 93 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3220297?v=3&s=64' width='64' height='64' title='Xavi Rueda'> |
-| 395 | [hmeza](https://github.com/hmeza) | 93 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1008398?v=3&s=64' width='64' height='64' title=''> |
-| 396 | [ainformatico](https://github.com/ainformatico) | 92 | 87 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/161387?v=3&s=64' width='64' height='64' title='Alejandro Dev.'> |
-| 397 | [adchsm](https://github.com/adchsm) | 92 | 907 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5276939?v=3&s=64' width='64' height='64' title='Adam Smith'> |
-| 398 | [arturictus](https://github.com/arturictus) | 92 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1930175?v=3&s=64' width='64' height='64' title='Artur'> |
-| 399 | [rogercampos](https://github.com/rogercampos) | 92 | 74 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/275992?v=3&s=64' width='64' height='64' title='Roger Campos'> |
-| 400 | [pauarge](https://github.com/pauarge) | 92 | 1 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7188409?v=3&s=64' width='64' height='64' title='Pau Argelaguet'> |
-| 401 | [jordimarinvalle](https://github.com/jordimarinvalle) | 92 | 7 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/351100?v=3&s=64' width='64' height='64' title='Jordi Marín Valle'> |
-| 402 | [laurent-RP](https://github.com/laurent-RP) | 91 | 0 | Shell and PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8491200?v=3&s=64' width='64' height='64' title='Laurent'> |
-| 403 | [juandebravo](https://github.com/juandebravo) | 91 | 40 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/367029?v=3&s=64' width='64' height='64' title='Juan'> |
-| 404 | [joanvila](https://github.com/joanvila) | 91 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9008887?v=3&s=64' width='64' height='64' title='Joan Vilà Cuñat'> |
-| 405 | [nixelsolutions](https://github.com/nixelsolutions) | 91 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1949094?v=3&s=64' width='64' height='64' title=''> |
-| 406 | [graredcr](https://github.com/graredcr) | 91 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1648964?v=3&s=64' width='64' height='64' title='Cristian Grañó'> |
-| 407 | [jmoraleda](https://github.com/jmoraleda) | 90 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4456749?v=3&s=64' width='64' height='64' title='Jordi Moraleda'> |
-| 408 | [SamLeach](https://github.com/SamLeach) | 90 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1624047?v=3&s=64' width='64' height='64' title='Sam Leach'> |
-| 409 | [joseparnau](https://github.com/joseparnau) | 89 | 0 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1410625?v=3&s=64' width='64' height='64' title='joseparnau'> |
-| 410 | [amorshanty](https://github.com/amorshanty) | 89 | 0 | JavaScript | Barcelona - España | <img src='https://avatars3.githubusercontent.com/u/10118709?v=3&s=64' width='64' height='64' title='Amor'> |
-| 411 | [joseconti](https://github.com/joseconti) | 89 | 12 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3383562?v=3&s=64' width='64' height='64' title='José Conti'> |
-| 412 | [ececilla](https://github.com/ececilla) | 89 | 5 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1896752?v=3&s=64' width='64' height='64' title='Enric Cecilla Real'> |
-| 413 | [hugozaragoza](https://github.com/hugozaragoza) | 89 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/382557?v=3&s=64' width='64' height='64' title='Hugo Zaragoza'> |
-| 414 | [DavidVazGuijarro](https://github.com/DavidVazGuijarro) | 88 | 3 | Makefile | Badalona, Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/4998613?v=3&s=64' width='64' height='64' title='David Vaz Guijarro'> |
-| 415 | [davidpich](https://github.com/davidpich) | 88 | 5 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1545345?v=3&s=64' width='64' height='64' title='David Pich Canes'> |
-| 416 | [sgimeno](https://github.com/sgimeno) | 88 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/946661?v=3&s=64' width='64' height='64' title='Sergio Gimeno'> |
-| 417 | [q2dg](https://github.com/q2dg) | 87 | 0 |  | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/7274874?v=3&s=64' width='64' height='64' title='Osqui LittleRiver'> |
-| 418 | [artefactop](https://github.com/artefactop) | 87 | 52 | Erlang | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1199371?v=3&s=64' width='64' height='64' title='Jose Luis Navarro'> |
-| 419 | [kbsali](https://github.com/kbsali) | 87 | 230 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/53676?v=3&s=64' width='64' height='64' title='Kevin Saliou'> |
-| 420 | [Naimikan](https://github.com/Naimikan) | 87 | 0 | JavaScript | Barcelona, Barcelona | <img src='https://avatars3.githubusercontent.com/u/6245958?v=3&s=64' width='64' height='64' title='Guillem'> |
-| 421 | [tokland](https://github.com/tokland) | 87 | 188 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/24643?v=3&s=64' width='64' height='64' title='Arnau Sanchez'> |
-| 422 | [piercifani](https://github.com/piercifani) | 87 | 18 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/869981?v=3&s=64' width='64' height='64' title='Pierluigi Cifani'> |
-| 423 | [aasensiog](https://github.com/aasensiog) | 87 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/164931?v=3&s=400' width='64' height='64' title='Albert'> |
-| 424 | [GerardSoleCa](https://github.com/GerardSoleCa) | 86 | 14 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2593956?v=3&s=64' width='64' height='64' title='Gerard'> |
-| 425 | [msonsona](https://github.com/msonsona) | 86 | 1 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/236218?v=3&s=64' width='64' height='64' title='Miquel Sonsona'> |
-| 426 | [xbelanch](https://github.com/xbelanch) | 86 | 21 | Haxe | Barcelona | <img src='https://avatars3.githubusercontent.com/u/23429?v=3&s=64' width='64' height='64' title='Xavier Belanche Alonso'> |
-| 427 | [xpadro](https://github.com/xpadro) | 85 | 65 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3349731?v=3&s=64' width='64' height='64' title='Xavier Padro'> |
-| 428 | [felixramos](https://github.com/felixramos) | 85 | 0 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7602193?v=3&s=64' width='64' height='64' title=''> |
-| 429 | [asilvestre](https://github.com/asilvestre) | 85 | 7 | Haskell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1436882?v=3&s=64' width='64' height='64' title='Antoni Silvestre'> |
-| 430 | [John-Lluch](https://github.com/John-Lluch) | 85 | 388 | Objective-C and Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1282248?v=3&s=64' width='64' height='64' title='John Lluch Zorrilla'> |
-| 431 | [GerardGarcia](https://github.com/GerardGarcia) | 85 | 1 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4532364?v=3&s=64' width='64' height='64' title='Gerard Garcia'> |
-| 432 | [hacknug](https://github.com/hacknug) | 85 | 1 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1107521?v=3&s=64' width='64' height='64' title='Nestor Vera Ramos'> |
-| 433 | [rossf7](https://github.com/rossf7) | 84 | 25 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/311527?v=3&s=64' width='64' height='64' title='Ross Fairbanks'> |
-| 434 | [pedrobenedicte](https://github.com/pedrobenedicte) | 84 | 1 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/4212623?v=3&s=64' width='64' height='64' title='Pedro Benedicte'> |
-| 435 | [liopic](https://github.com/liopic) | 83 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/594458?v=3&s=64' width='64' height='64' title='Julio Martinez'> |
-| 436 | [mleemaree](https://github.com/mleemaree) | 83 | 0 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/9319534?v=3&s=64' width='64' height='64' title='Lee MaRee'> |
-| 437 | [miquelruiz](https://github.com/miquelruiz) | 82 | 22 | Perl | Barcelona | <img src='https://avatars1.githubusercontent.com/u/433636?v=3&s=64' width='64' height='64' title='Miquel Ruiz'> |
-| 438 | [cicampemu](https://github.com/cicampemu) | 82 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6782521?v=3&s=64' width='64' height='64' title='Etienne Toriello'> |
-| 439 | [hectr](https://github.com/hectr) | 82 | 94 | Objective-C | Barcelona, ES | <img src='https://avatars2.githubusercontent.com/u/3621110?v=3&s=64' width='64' height='64' title=''> |
-| 440 | [mikesimons](https://github.com/mikesimons) | 82 | 26 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/188544?v=3&s=64' width='64' height='64' title='Mike Simons'> |
-| 441 | [acrespillo](https://github.com/acrespillo) | 81 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3340106?v=3&s=64' width='64' height='64' title='Albert Crespillo'> |
-| 442 | [p3drosola](https://github.com/p3drosola) | 81 | 193 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/520550?v=3&s=64' width='64' height='64' title='Pedro Solá'> |
-| 443 | [alexpdp7](https://github.com/alexpdp7) | 81 | 1 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1150630?v=3&s=64' width='64' height='64' title=''> |
-| 444 | [dhuertas](https://github.com/dhuertas) | 80 | 24 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1814281?v=3&s=64' width='64' height='64' title='Dani Huertas'> |
-| 445 | [claudefa](https://github.com/claudefa) | 79 | 1 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10628856?v=3&s=64' width='64' height='64' title='Clàudia Fontserè'> |
-| 446 | [tamarinda](https://github.com/tamarinda) | 79 | 1 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/621226?v=3&s=64' width='64' height='64' title='Tamara'> |
-| 447 | [albertcalv](https://github.com/albertcalv) | 79 | 1 | C++ | Barcelona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/7923468?v=3&s=64' width='64' height='64' title='Albert'> |
-| 448 | [oscar-raig](https://github.com/oscar-raig) | 79 | 3 | Java | Barcelona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/537656?v=3&s=64' width='64' height='64' title='Oscar Raig Colon'> |
-| 449 | [quicoto](https://github.com/quicoto) | 79 | 3 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1976516?v=3&s=64' width='64' height='64' title='Ricard Torres'> |
-| 450 | [dimaslz](https://github.com/dimaslz) | 79 | 5 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1536936?v=3&s=64' width='64' height='64' title='Dimas López'> |
-| 451 | [mediafinger](https://github.com/mediafinger) | 79 | 15 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/457782?v=3&s=64' width='64' height='64' title='Andreas Finger'> |
-| 452 | [jordillonch](https://github.com/jordillonch) | 78 | 153 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/601782?v=3&s=64' width='64' height='64' title='Jordi Llonch'> |
-| 453 | [vitovalov](https://github.com/vitovalov) | 78 | 7 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7696194?v=3&s=64' width='64' height='64' title='Vitaliy Konovalov'> |
-| 454 | [yukideluxe](https://github.com/yukideluxe) | 78 | 5 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/792820?v=3&s=64' width='64' height='64' title='Julia'> |
-| 455 | [joseppla](https://github.com/joseppla) | 78 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4288326?v=3&s=64' width='64' height='64' title='Josep Pla'> |
-| 456 | [solilokiam](https://github.com/solilokiam) | 78 | 10 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/650592?v=3&s=64' width='64' height='64' title='Miquel Company Rodriguez'> |
-| 457 | [alamillac](https://github.com/alamillac) | 77 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8580491?v=3&s=64' width='64' height='64' title='Andres Lamilla'> |
-| 458 | [griera](https://github.com/griera) | 77 | 1 | Shell | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/6828019?v=3&s=64' width='64' height='64' title='Genís Riera Pérez'> |
-| 459 | [david1983xtc](https://github.com/david1983xtc) | 76 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9379663?v=3&s=64' width='64' height='64' title='David'> |
-| 460 | [ecentinela](https://github.com/ecentinela) | 76 | 37 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/13818?v=3&s=64' width='64' height='64' title='Javier Martinez Fernandez'> |
-| 461 | [andreaperazzi](https://github.com/andreaperazzi) | 76 | 0 | Swift | Barcelona | <img src='https://avatars3.githubusercontent.com/u/645649?v=3&s=64' width='64' height='64' title='Andrea Perazzi'> |
-| 462 | [agseco](https://github.com/agseco) | 75 | 0 | CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7592823?v=3&s=64' width='64' height='64' title='Alejandro Garcia Seco'> |
-| 463 | [freeart](https://github.com/freeart) | 75 | 12 | JavaScript | Spain, Barcelona | <img src='https://avatars2.githubusercontent.com/u/261560?v=3&s=64' width='64' height='64' title='Nekrasov Paul'> |
-| 464 | [marclop](https://github.com/marclop) | 75 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7286993?v=3&s=64' width='64' height='64' title='Marc Lopez Rubio'> |
-| 465 | [Yeagob54](https://github.com/Yeagob54) | 75 | 0 | C# | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9213673?v=3&s=64' width='64' height='64' title='Santiago Dopazo Hilario'> |
-| 466 | [vikgilmuc](https://github.com/vikgilmuc) | 75 | 0 | CSS | Barcelona- Wien- München | <img src='https://avatars0.githubusercontent.com/u/5129649?v=3&s=64' width='64' height='64' title='Victor Gil'> |
-| 467 | [nicoSWD](https://github.com/nicoSWD) | 74 | 128 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/205852?v=3&s=64' width='64' height='64' title='Nico Oelgart'> |
-| 468 | [PedroEscudero](https://github.com/PedroEscudero) | 74 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10882300?v=3&s=64' width='64' height='64' title='Pedro Escudero'> |
-| 469 | [CarlesLlobet](https://github.com/CarlesLlobet) | 74 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6575422?v=3&s=64' width='64' height='64' title='Carles Llobet Pons'> |
-| 470 | [alombarte](https://github.com/alombarte) | 74 | 41 | Puppet | Barcelona | <img src='https://avatars1.githubusercontent.com/u/338451?v=3&s=64' width='64' height='64' title='Albert Lombarte'> |
-| 471 | [dmiro](https://github.com/dmiro) | 74 | 1 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3485533?v=3&s=64' width='64' height='64' title='David Miró'> |
-| 472 | [davebcn87](https://github.com/davebcn87) | 74 | 13 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/477473?v=3&s=64' width='64' height='64' title='David Cortés'> |
-| 473 | [gabriprat](https://github.com/gabriprat) | 74 | 2 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/302792?v=3&s=64' width='64' height='64' title='Gabriel Prat Masramon'> |
-| 474 | [doblebjp](https://github.com/doblebjp) | 74 | 3 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3216800?v=3&s=64' width='64' height='64' title='Benedict'> |
-| 475 | [ivankelly](https://github.com/ivankelly) | 74 | 36 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/54955?v=3&s=64' width='64' height='64' title='Ivan Kelly'> |
-| 476 | [theUniC](https://github.com/theUniC) | 73 | 30 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/318014?v=3&s=64' width='64' height='64' title='tλeUniC'> |
-| 477 | [orestes](https://github.com/orestes) | 73 | 5 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/618107?v=3&s=64' width='64' height='64' title='Orestes Carracedo'> |
-| 478 | [josepjaume](https://github.com/josepjaume) | 73 | 24 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/111746?v=3&s=64' width='64' height='64' title='Josep Jaume Rey'> |
-| 479 | [magarcia](https://github.com/magarcia) | 73 | 22 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/651610?v=3&s=64' width='64' height='64' title='Martin Prins'> |
-| 480 | [renderdani](https://github.com/renderdani) | 73 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2365229?v=3&s=64' width='64' height='64' title='Dani'> |
-| 481 | [fgui](https://github.com/fgui) | 73 | 5 | Clojure | Barcelona | <img src='https://avatars1.githubusercontent.com/u/509963?v=3&s=64' width='64' height='64' title='Francesc'> |
-| 482 | [angelcj](https://github.com/angelcj) | 73 | 0 | CSS | Barcelona, Catalonia, Spain | <img src='https://avatars0.githubusercontent.com/u/6699644?v=3&s=64' width='64' height='64' title='Angel C.J.'> |
-| 483 | [rgomezcasas](https://github.com/rgomezcasas) | 72 | 3 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1331435?v=3&s=64' width='64' height='64' title='Rafa Gómez'> |
-| 484 | [fredfigueiredo](https://github.com/fredfigueiredo) | 71 | 4 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2227607?v=3&s=64' width='64' height='64' title='Frederico Figueiredo'> |
-| 485 | [itrascastro](https://github.com/itrascastro) | 71 | 22 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3638437?v=3&s=64' width='64' height='64' title='Ismael Trascastro'> |
-| 486 | [gdfm](https://github.com/gdfm) | 70 | 7 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/703859?v=3&s=64' width='64' height='64' title='Gianmarco De Francisci Morales'> |
-| 487 | [nbanguiano](https://github.com/nbanguiano) | 70 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1795619?v=3&s=64' width='64' height='64' title='Nicolas Anguiano'> |
-| 488 | [JRodrigoTech](https://github.com/JRodrigoTech) | 69 | 52 | C++ | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/1735665?v=3&s=64' width='64' height='64' title='J.Rodrigo'> |
-| 489 | [BBerastegui](https://github.com/BBerastegui) | 69 | 0 | Go | Bilbao - Barcelona - Anywhere | <img src='https://avatars3.githubusercontent.com/u/3830238?v=3&s=64' width='64' height='64' title='Borja Berastegui'> |
-| 490 | [fariasweb](https://github.com/fariasweb) | 69 | 6 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1078014?v=3&s=64' width='64' height='64' title='Francisco Javier Arias'> |
-| 491 | [dpujadas](https://github.com/dpujadas) | 69 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4488855?v=3&s=64' width='64' height='64' title='David Pujadas'> |
-| 492 | [iconpin](https://github.com/iconpin) | 68 | 13 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1223705?v=3&s=64' width='64' height='64' title='Ignacio Contreras Pinilla'> |
-| 493 | [eloipoch](https://github.com/eloipoch) | 68 | 3 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/159255?v=3&s=64' width='64' height='64' title='Eloi'> |
-| 494 | [fiunchinho](https://github.com/fiunchinho) | 68 | 58 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/627038?v=3&s=64' width='64' height='64' title='Jose Armesto'> |
-| 495 | [raulferras](https://github.com/raulferras) | 68 | 58 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1103977?v=3&s=64' width='64' height='64' title='Raúl Ferràs'> |
-| 496 | [javilumbrales](https://github.com/javilumbrales) | 68 | 4 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2026597?v=3&s=64' width='64' height='64' title='Javier'> |
-| 497 | [natxo-kodify](https://github.com/natxo-kodify) | 67 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3061986?v=3&s=64' width='64' height='64' title='Natxo'> |
-| 498 | [germanrcuriel](https://github.com/germanrcuriel) | 66 | 77 | CoffeeScript and JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/706729?v=3&s=64' width='64' height='64' title='Germán Robledo'> |
-| 499 | [tonilap](https://github.com/tonilap) | 66 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1983536?v=3&s=64' width='64' height='64' title='Toni'> |
-| 500 | [wefner](https://github.com/wefner) | 66 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/966235?v=3&s=64' width='64' height='64' title='oriolfb'> |
-| 501 | [vpascual](https://github.com/vpascual) | 66 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/895256?v=3&s=64' width='64' height='64' title='Víctor'> |
-| 502 | [franrodalg](https://github.com/franrodalg) | 66 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7487122?v=3&s=64' width='64' height='64' title='Francisco Rodríguez Algarra'> |
-| 503 | [gopalkoduri](https://github.com/gopalkoduri) | 66 | 9 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/435274?v=3&s=64' width='64' height='64' title='Gopala Krishna Koduri'> |
-| 504 | [josgilmo](https://github.com/josgilmo) | 65 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/773565?v=3&s=64' width='64' height='64' title='Jose Gil'> |
-| 505 | [yeradis](https://github.com/yeradis) | 65 | 6 | Python | Barcelona,Spain | <img src='https://avatars3.githubusercontent.com/u/666944?v=3&s=64' width='64' height='64' title='Yeradis P. Barbosa Marrero'> |
-| 506 | [MoralAlberto](https://github.com/MoralAlberto) | 65 | 4 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/931211?v=3&s=64' width='64' height='64' title='Alberto'> |
-| 507 | [jlopezr](https://github.com/jlopezr) | 65 | 4 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/665801?v=3&s=64' width='64' height='64' title='Juan López Rubio'> |
-| 508 | [arojascastro](https://github.com/arojascastro) | 64 | 2 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7340111?v=3&s=64' width='64' height='64' title='Antonio'> |
-| 509 | [hds](https://github.com/hds) | 64 | 8 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/89589?v=3&s=64' width='64' height='64' title='Hayden Stainsby'> |
-| 510 | [elmarco](https://github.com/elmarco) | 64 | 9 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9381?v=3&s=64' width='64' height='64' title='Marc-Andre Lureau'> |
-| 511 | [henrydm](https://github.com/henrydm) | 64 | 8 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5873130?v=3&s=64' width='64' height='64' title='Enric del Molino'> |
-| 512 | [jtorrents](https://github.com/jtorrents) | 64 | 2 | Python | Barcelona (Catalonia) | <img src='https://avatars2.githubusercontent.com/u/1184374?v=3&s=64' width='64' height='64' title='Jordi Torrents'> |
-| 513 | [jfalguera](https://github.com/jfalguera) | 64 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/6295398?v=3&s=64' width='64' height='64' title='Jordi Falguera'> |
-| 514 | [tonibagur](https://github.com/tonibagur) | 64 | 3 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3865473?v=3&s=64' width='64' height='64' title='Toni Bagur'> |
-| 515 | [zhuangsc](https://github.com/zhuangsc) | 64 | 4 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5256159?v=3&s=64' width='64' height='64' title=''> |
-| 516 | [DawnAngel](https://github.com/DawnAngel) | 63 | 5 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1183757?v=3&s=64' width='64' height='64' title='Eric Pinto'> |
-| 517 | [hakudoshi23](https://github.com/hakudoshi23) | 63 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3799306?v=3&s=64' width='64' height='64' title='Aleix Valls Pérez'> |
-| 518 | [llogaricasas](https://github.com/llogaricasas) | 63 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/11215505?v=3&s=64' width='64' height='64' title='Llogari Casas'> |
-| 519 | [desko27](https://github.com/desko27) | 63 | 1 | Python | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/4168389?v=3&s=64' width='64' height='64' title='Ismael Ramón Barcones'> |
-| 520 | [edutec](https://github.com/edutec) | 63 | 24 | JavaScript | Cornellà (Barcelona) | <img src='https://avatars3.githubusercontent.com/u/5485297?v=3&s=64' width='64' height='64' title='Edutec'> |
-| 521 | [RocAlayo](https://github.com/RocAlayo) | 62 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2017006?v=3&s=64' width='64' height='64' title='Roc'> |
-| 522 | [ddcesare](https://github.com/ddcesare) | 62 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4183971?v=3&s=64' width='64' height='64' title='dd di cesare'> |
-| 523 | [rafelmm](https://github.com/rafelmm) | 62 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8425827?v=3&s=64' width='64' height='64' title='Rafel Mormeneo Melich'> |
-| 524 | [Narfss](https://github.com/Narfss) | 62 | 368 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3855019?v=3&s=64' width='64' height='64' title='fmSirvent'> |
-| 525 | [matteosistisette](https://github.com/matteosistisette) | 62 | 1 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7966615?v=3&s=64' width='64' height='64' title='Matteo Sisti Sette'> |
-| 526 | [lienbcn](https://github.com/lienbcn) | 61 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2737199?v=3&s=64' width='64' height='64' title='Neil'> |
-| 527 | [darkunito](https://github.com/darkunito) | 61 | 0 | Java | Castelldefels, Barcelona | <img src='https://avatars2.githubusercontent.com/u/11021134?v=3&s=64' width='64' height='64' title='Oriol Castaño'> |
-| 528 | [hipertextos](https://github.com/hipertextos) | 60 | 1 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/66055?v=3&s=64' width='64' height='64' title='Hipertextos'> |
-| 529 | [maxigas](https://github.com/maxigas) | 60 | 3 | Python | Barcelona / Calafou | <img src='https://avatars2.githubusercontent.com/u/287700?v=3&s=64' width='64' height='64' title='maxigas'> |
-| 530 | [XavierGimenez](https://github.com/XavierGimenez) | 60 | 3 | JavaScript | Barcelona, Catalonia | <img src='https://avatars1.githubusercontent.com/u/5372293?v=3&s=64' width='64' height='64' title='Xavi Gimenez'> |
-| 531 | [FerCa](https://github.com/FerCa) | 60 | 6 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1258773?v=3&s=64' width='64' height='64' title='FerCa'> |
-| 532 | [giuband](https://github.com/giuband) | 60 | 0 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8309413?v=3&s=64' width='64' height='64' title='Giuseppe Bandiera'> |
-| 533 | [orobitg](https://github.com/orobitg) | 60 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4988737?v=3&s=64' width='64' height='64' title='Miquel Orobitg'> |
-| 534 | [bcndanos](https://github.com/bcndanos) | 60 | 5 | Rust | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1188664?v=3&s=400' width='64' height='64' title='Mike'> |
-| 535 | [nx0](https://github.com/nx0) | 59 | 2 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1718265?v=3&s=64' width='64' height='64' title='Francis'> |
-| 536 | [zguillez](https://github.com/zguillez) | 59 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2631152?v=3&s=64' width='64' height='64' title='Guillermo de la Iglesia'> |
-| 537 | [hanirok](https://github.com/hanirok) | 58 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1064771?v=3&s=64' width='64' height='64' title='Corina Riba'> |
-| 538 | [enricruiz](https://github.com/enricruiz) | 58 | 7 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/65518?v=3&s=64' width='64' height='64' title='Enric Ruiz'> |
-| 539 | [rodrigoaguilera](https://github.com/rodrigoaguilera) | 58 | 1 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/655187?v=3&s=64' width='64' height='64' title='Rodrigo'> |
-| 540 | [sp-oriol-manya](https://github.com/sp-oriol-manya) | 58 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4599235?v=3&s=64' width='64' height='64' title='Oriol Manyà'> |
-| 541 | [edubxb](https://github.com/edubxb) | 58 | 1 | Shell | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1192339?v=3&s=64' width='64' height='64' title='Eduardo Bellido Bellido'> |
-| 542 | [tranchis](https://github.com/tranchis) | 57 | 49 | Clojure | Barcelona | <img src='https://avatars0.githubusercontent.com/u/160790?v=3&s=64' width='64' height='64' title='Sergio Alvarez-Napagao'> |
-| 543 | [mllobet](https://github.com/mllobet) | 57 | 2 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/868837?v=3&s=64' width='64' height='64' title='Miquel'> |
-| 544 | [TeddyEngel](https://github.com/TeddyEngel) | 57 | 10 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5671969?v=3&s=64' width='64' height='64' title='Teddy Engel'> |
-| 545 | [diegok](https://github.com/diegok) | 57 | 128 | Perl | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/50365?v=3&s=64' width='64' height='64' title='Diego Kuperman'> |
-| 546 | [albertboada](https://github.com/albertboada) | 57 | 8 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1840284?v=3&s=64' width='64' height='64' title='Albert Boada'> |
-| 547 | [danielcestrella](https://github.com/danielcestrella) | 56 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9904952?v=3&s=64' width='64' height='64' title='Daniel Castaño Estrella'> |
-| 548 | [manuel-munoz-aguirre](https://github.com/manuel-munoz-aguirre) | 56 | 1 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/5576458?v=3&s=64' width='64' height='64' title='Manuel Muñoz Aguirre'> |
-| 549 | [ChrisFernandez](https://github.com/ChrisFernandez) | 56 | 25 | Ruby | Barcelona, San Francisco, Boston | <img src='https://avatars2.githubusercontent.com/u/5316229?v=3&s=64' width='64' height='64' title='Christian Fernandez'> |
-| 550 | [sp-marc-canaleta](https://github.com/sp-marc-canaleta) | 56 | 4 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/659892?v=3&s=64' width='64' height='64' title='Marc Canaleta'> |
-| 551 | [rafaduran](https://github.com/rafaduran) | 56 | 33 | Python | Barcelona, Catalonia, Spain | <img src='https://avatars0.githubusercontent.com/u/867469?v=3&s=64' width='64' height='64' title='Rafael Durán Castañeda'> |
-| 552 | [pvhee](https://github.com/pvhee) | 56 | 40 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/119355?v=3&s=64' width='64' height='64' title='Peter Vanhee'> |
-| 553 | [ronggong](https://github.com/ronggong) | 56 | 0 | Objective-C | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/9578307?v=3&s=64' width='64' height='64' title='Rong GONG'> |
-| 554 | [Codessus](https://github.com/Codessus) | 56 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1783609?v=3&s=64' width='64' height='64' title='Álex García'> |
-| 555 | [rickyah](https://github.com/rickyah) | 56 | 92 | C# | Barcelona | <img src='https://avatars3.githubusercontent.com/u/68188?v=3&s=64' width='64' height='64' title='Ricardo Amores Hernández'> |
-| 556 | [igormilla](https://github.com/igormilla) | 55 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/622954?v=3&s=64' width='64' height='64' title='igor milla'> |
-| 557 | [alexandresaiz](https://github.com/alexandresaiz) | 55 | 7 | Python and PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/239624?v=3&s=64' width='64' height='64' title='Alexandre Saiz Verdaguer'> |
-| 558 | [jessicafndez](https://github.com/jessicafndez) | 55 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5329069?v=3&s=64' width='64' height='64' title='Jessica'> |
-| 559 | [miceno](https://github.com/miceno) | 55 | 13 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/315830?v=3&s=64' width='64' height='64' title='Orestes Sanchez'> |
-| 560 | [gpawlik](https://github.com/gpawlik) | 55 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6296883?v=3&s=64' width='64' height='64' title='Grzegorz Pawlik'> |
-| 561 | [Skyrpex](https://github.com/Skyrpex) | 54 | 37 | JavaScript | Barcelona, España | <img src='https://avatars2.githubusercontent.com/u/1077520?v=3&s=64' width='64' height='64' title='Cristian Pallarés'> |
-| 562 | [xavireig](https://github.com/xavireig) | 54 | 1 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7260744?v=3&s=64' width='64' height='64' title='Xavier Reig'> |
-| 563 | [mrzard](https://github.com/mrzard) | 54 | 8 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1557869?v=3&s=64' width='64' height='64' title='Gonzalo Míguez'> |
-| 564 | [ipalaus](https://github.com/ipalaus) | 53 | 36 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/248183?v=3&s=64' width='64' height='64' title='Isern Palaus'> |
-| 565 | [planadecu](https://github.com/planadecu) | 53 | 2 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1212662?v=3&s=64' width='64' height='64' title='Jordi P.S.'> |
-| 566 | [juansalvatella](https://github.com/juansalvatella) | 53 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4377347?v=3&s=64' width='64' height='64' title='Joan'> |
-| 567 | [peregraum](https://github.com/peregraum) | 53 | 1 | PHP | Teià, Barcelona | <img src='https://avatars0.githubusercontent.com/u/6589559?v=3&s=64' width='64' height='64' title='Pere Grau'> |
-| 568 | [ferreret](https://github.com/ferreret) | 53 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9048159?v=3&s=64' width='64' height='64' title='Nicolás Barceló'> |
-| 569 | [albhilazo](https://github.com/albhilazo) | 53 | 1 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3046604?v=3&s=64' width='64' height='64' title='Albert Hilazo'> |
-| 570 | [polcolomer](https://github.com/polcolomer) | 53 | 3 | Makefile | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8222770?v=3&s=64' width='64' height='64' title='Pol Colomer'> |
-| 571 | [ianmartorell](https://github.com/ianmartorell) | 53 | 73 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/318800?v=3&s=64' width='64' height='64' title='Ian Martorell'> |
-| 572 | [pinkbigmacmedia](https://github.com/pinkbigmacmedia) | 53 | 6 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9844253?v=3&s=64' width='64' height='64' title='pinkbigmacmedia'> |
-| 573 | [mbgg](https://github.com/mbgg) | 52 | 7 | C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/259494?v=3&s=64' width='64' height='64' title='Matthias Brugger'> |
-| 574 | [Indor](https://github.com/Indor) | 52 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1013464?v=3&s=400' width='64' height='64' title='Ignasi'> |
-| 575 | [davidruizrodri](https://github.com/davidruizrodri) | 52 | 1 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1973997?v=3&s=64' width='64' height='64' title='David Ruiz'> |
-| 576 | [Arkalex](https://github.com/Arkalex) | 52 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3116895?v=3&s=64' width='64' height='64' title='Alex Ayllon'> |
-| 577 | [albsala](https://github.com/albsala) | 52 | 0 | Objective-C and Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2789337?v=3&s=64' width='64' height='64' title='Alberto Salas'> |
-| 578 | [mrsimo](https://github.com/mrsimo) | 52 | 44 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/19203?v=3&s=64' width='64' height='64' title='Albert Llop'> |
-| 579 | [alexvijo](https://github.com/alexvijo) | 52 | 0 | CSS | barcelona | <img src='https://avatars3.githubusercontent.com/u/2379155?v=3&s=64' width='64' height='64' title='Alex Vicente'> |
-| 580 | [sief](https://github.com/sief) | 52 | 13 | Scala | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1277638?v=3&s=64' width='64' height='64' title='Simon Effing'> |
-| 581 | [xavicarrillo](https://github.com/xavicarrillo) | 52 | 1 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5337017?v=3&s=64' width='64' height='64' title='Xavi Carrillo'> |
-| 582 | [perellonieto](https://github.com/perellonieto) | 52 | 1 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2480334?v=3&s=64' width='64' height='64' title='Miquel Perelló Nieto'> |
-| 583 | [jogaco](https://github.com/jogaco) | 51 | 2 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1876230?v=3&s=64' width='64' height='64' title='J. Garcia'> |
-| 584 | [marsty5](https://github.com/marsty5) | 51 | 2 | C | London & Barcelona | <img src='https://avatars3.githubusercontent.com/u/2454869?v=3&s=64' width='64' height='64' title='Maria'> |
-| 585 | [sleistner](https://github.com/sleistner) | 51 | 62 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/12568?v=3&s=64' width='64' height='64' title='Steffen Leistner'> |
-| 586 | [abailon](https://github.com/abailon) | 51 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8384392?v=3&s=64' width='64' height='64' title='Alex'> |
-| 587 | [xverges](https://github.com/xverges) | 51 | 29 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/460418?v=3&s=64' width='64' height='64' title='Xavier Vergés'> |
-| 588 | [cesards](https://github.com/cesards) | 50 | 1451 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1536079?v=3&s=64' width='64' height='64' title='César Díez Sánchez'> |
-| 589 | [maurovc](https://github.com/maurovc) | 50 | 10 | Objective-C | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/10012427?v=3&s=64' width='64' height='64' title='Mauro Vime Castillo'> |
-| 590 | [alexcarol](https://github.com/alexcarol) | 50 | 1 | PHP | Barcelona,Spain | <img src='https://avatars3.githubusercontent.com/u/1713440?v=3&s=64' width='64' height='64' title='Alex Carol'> |
-| 591 | [danielrozo](https://github.com/danielrozo) | 50 | 1 | C# | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3877999?v=3&s=64' width='64' height='64' title='Daniel Rozo'> |
-| 592 | [bartsanchez](https://github.com/bartsanchez) | 50 | 0 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/952220?v=3&s=64' width='64' height='64' title='Bartolomé Sánchez Salado'> |
-| 593 | [pherrusa7](https://github.com/pherrusa7) | 50 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8740816?v=3&s=64' width='64' height='64' title='Pedro Herruzo'> |
-| 594 | [arnaugm](https://github.com/arnaugm) | 50 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1050567?v=3&s=64' width='64' height='64' title='Arnau González'> |
-| 595 | [mrfelton](https://github.com/mrfelton) | 50 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/200251?v=3&s=64' width='64' height='64' title='Tom Kirkpatrick'> |
-| 596 | [xaviserrag](https://github.com/xaviserrag) | 50 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7057820?v=3&s=64' width='64' height='64' title='Xavi'> |
-| 597 | [kilburn](https://github.com/kilburn) | 49 | 39 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/116100?v=3&s=64' width='64' height='64' title='Marc Pujol'> |
-| 598 | [bernatmv](https://github.com/bernatmv) | 49 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3183863?v=3&s=64' width='64' height='64' title='Bernat'> |
-| 599 | [ManuLeiva](https://github.com/ManuLeiva) | 49 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8821264?v=3&s=64' width='64' height='64' title='Manuel Leiva'> |
-| 600 | [alessandrod](https://github.com/alessandrod) | 49 | 75 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/62002?v=3&s=64' width='64' height='64' title='Alessandro Decina'> |
-| 601 | [thomedes](https://github.com/thomedes) | 49 | 2 | C | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1986656?v=3&s=64' width='64' height='64' title='Toni Homedes i Saun'> |
-| 602 | [sabatesduran](https://github.com/sabatesduran) | 49 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5699145?v=3&s=64' width='64' height='64' title='Dídac Sabatés'> |
-| 603 | [ixdi](https://github.com/ixdi) | 49 | 3 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3193539?v=3&s=64' width='64' height='64' title='Sergi'> |
-| 604 | [fitigf15](https://github.com/fitigf15) | 48 | 0 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5097362?v=3&s=64' width='64' height='64' title='Víctor'> |
-| 605 | [montes](https://github.com/montes) | 48 | 27 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/389613?v=3&s=64' width='64' height='64' title='Javier Montes'> |
-| 606 | [atno](https://github.com/atno) | 48 | 0 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8301357?v=3&s=64' width='64' height='64' title='Antonio Clavelli'> |
-| 607 | [jsoucheiron](https://github.com/jsoucheiron) | 48 | 3 | Python and Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1830262?v=3&s=64' width='64' height='64' title='Jordi Soucheiron'> |
-| 608 | [ericzon](https://github.com/ericzon) | 47 | 4 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1809508?v=3&s=64' width='64' height='64' title='Eric'> |
-| 609 | [ginsen](https://github.com/ginsen) | 47 | 1 | PHP | Vilanova i la Geltrú, Barcelona | <img src='https://avatars2.githubusercontent.com/u/1165397?v=3&s=64' width='64' height='64' title='José Ginés Hernández Galindo'> |
-| 610 | [subarroca](https://github.com/subarroca) | 47 | 53 | JavaScript | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/1245057?v=3&s=64' width='64' height='64' title='Salvador Subarroca'> |
-| 611 | [vcbr](https://github.com/vcbr) | 47 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7266359?v=3&s=64' width='64' height='64' title='Victor Cabrera'> |
-| 612 | [calinrada](https://github.com/calinrada) | 47 | 211 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/873482?v=3&s=64' width='64' height='64' title='Calin Rada'> |
-| 613 | [Elendow](https://github.com/Elendow) | 47 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5699495?v=3&s=64' width='64' height='64' title='Eric Verdalet'> |
-| 614 | [BadChoice](https://github.com/BadChoice) | 47 | 6 | Objective-C | Manresa (Barcelona, Spain) | <img src='https://avatars1.githubusercontent.com/u/93900?v=3&s=64' width='64' height='64' title='Jordi Puigdellívol'> |
-| 615 | [hborras](https://github.com/hborras) | 46 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2531844?v=3&s=64' width='64' height='64' title='Hector Borras'> |
-| 616 | [landtax](https://github.com/landtax) | 46 | 5 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/14675?v=3&s=64' width='64' height='64' title='Santi Bel'> |
-| 617 | [gridchin](https://github.com/gridchin) | 45 | 2 | JavaScript | Barcelona, España | <img src='https://avatars3.githubusercontent.com/u/521282?v=3&s=64' width='64' height='64' title='Denis'> |
-| 618 | [jsmolina](https://github.com/jsmolina) | 45 | 7 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/447481?v=3&s=64' width='64' height='64' title='Jordi Sesmero'> |
-| 619 | [nleite](https://github.com/nleite) | 45 | 7 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/598339?v=3&s=64' width='64' height='64' title='Norberto'> |
-| 620 | [petrklus](https://github.com/petrklus) | 45 | 5 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1115667?v=3&s=64' width='64' height='64' title='Petr Klus'> |
-| 621 | [ceritium](https://github.com/ceritium) | 45 | 47 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/16633?v=3&s=64' width='64' height='64' title='Jose Galisteo'> |
-| 622 | [adomenech73](https://github.com/adomenech73) | 45 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4040180?v=3&s=64' width='64' height='64' title='Albert Domenech'> |
-| 623 | [Marina42](https://github.com/Marina42) | 45 | 1 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7079891?v=3&s=64' width='64' height='64' title='Marina'> |
-| 624 | [bertotte](https://github.com/bertotte) | 44 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7772906?v=3&s=64' width='64' height='64' title='Bert Otte'> |
-| 625 | [Danziger](https://github.com/Danziger) | 44 | 1 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6564894?v=3&s=64' width='64' height='64' title='Dani Gámez Franco'> |
-| 626 | [gonzaloserrano](https://github.com/gonzaloserrano) | 44 | 23 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/349328?v=3&s=64' width='64' height='64' title='Gonzalo Serrano'> |
-| 627 | [oriolet](https://github.com/oriolet) | 44 | 1 | PHP | Caldes de Montbui, Barcelona | <img src='https://avatars1.githubusercontent.com/u/1323003?v=3&s=64' width='64' height='64' title='Oriol'> |
-| 628 | [mpaulucci](https://github.com/mpaulucci) | 44 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1040971?v=3&s=64' width='64' height='64' title='Martin Paulucci'> |
-| 629 | [jlupox](https://github.com/jlupox) | 43 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3322903?v=3&s=64' width='64' height='64' title='Juan Luis'> |
-| 630 | [betweendays](https://github.com/betweendays) | 43 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3778813?v=3&s=64' width='64' height='64' title='A'> |
-| 631 | [ataberner](https://github.com/ataberner) | 43 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7130249?v=3&s=64' width='64' height='64' title='Arnau'> |
-| 632 | [Epilgrim](https://github.com/Epilgrim) | 43 | 14 | PHP | Barcelona, España | <img src='https://avatars2.githubusercontent.com/u/203349?v=3&s=64' width='64' height='64' title='Juan Peri'> |
-| 633 | [gcasanova](https://github.com/gcasanova) | 43 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1326769?v=3&s=64' width='64' height='64' title='Guillermo Casanova'> |
-| 634 | [drfperez](https://github.com/drfperez) | 43 | 0 | HTML | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5065490?v=3&s=64' width='64' height='64' title='Francisco Pérez García'> |
-| 635 | [nazcahawk](https://github.com/nazcahawk) | 43 | 0 | CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/12375782?v=3&s=64' width='64' height='64' title='Adrian Benavides'> |
-| 636 | [debiatan](https://github.com/debiatan) | 42 | 5 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/129583?v=3&s=64' width='64' height='64' title='Miguel Lechón'> |
-| 637 | [pauca](https://github.com/pauca) | 42 | 0 | R | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2961756?v=3&s=64' width='64' height='64' title='Pau Carrió'> |
-| 638 | [juanmorillios](https://github.com/juanmorillios) | 42 | 0 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4824933?v=3&s=64' width='64' height='64' title='Juan Ml. Morillo'> |
-| 639 | [garoi](https://github.com/garoi) | 42 | 0 | C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5613434?v=3&s=64' width='64' height='64' title='Marc Garcia'> |
-| 640 | [teknopaul](https://github.com/teknopaul) | 42 | 56 | JavaScript | barcelona | <img src='https://avatars2.githubusercontent.com/u/812666?v=3&s=64' width='64' height='64' title='teknopaul'> |
-| 641 | [gyopiazza](https://github.com/gyopiazza) | 42 | 1 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/748898?v=3&s=64' width='64' height='64' title='Giordano Piazza'> |
-| 642 | [Aryslan](https://github.com/Aryslan) | 42 | 0 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1422612?v=3&s=64' width='64' height='64' title='David Barranco'> |
-| 643 | [xabierlegasa](https://github.com/xabierlegasa) | 42 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4048826?v=3&s=64' width='64' height='64' title='Xabier Legasa'> |
-| 644 | [megafounder](https://github.com/megafounder) | 42 | 2 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4767390?v=3&s=64' width='64' height='64' title='Jonathan Garcia'> |
-| 645 | [juanmaorta](https://github.com/juanmaorta) | 42 | 9 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/486079?v=3&s=64' width='64' height='64' title='Juanma Orta'> |
-| 646 | [svalver](https://github.com/svalver) | 42 | 0 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8078036?v=3&s=64' width='64' height='64' title='Sergi Valverde'> |
-| 647 | [sankalpg](https://github.com/sankalpg) | 42 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2221576?v=3&s=64' width='64' height='64' title='Sankalp Gulati'> |
-| 648 | [howna13](https://github.com/howna13) | 42 | 0 | ApacheConf | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5635059?v=3&s=64' width='64' height='64' title='Bru'> |
-| 649 | [jpallares](https://github.com/jpallares) | 42 | 0 | HTML | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1519657?v=3&s=64' width='64' height='64' title='Juan Pallarès'> |
-| 650 | [rogervila](https://github.com/rogervila) | 42 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6053012?v=3&s=64' width='64' height='64' title='Roger Vilà'> |
-| 651 | [sarrufat](https://github.com/sarrufat) | 41 | 0 | Scala | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2477492?v=3&s=64' width='64' height='64' title='Sergi Arrufat'> |
-| 652 | [dieguico](https://github.com/dieguico) | 41 | 0 | HTML | Barcelona,  Spain | <img src='https://avatars2.githubusercontent.com/u/11636439?v=3&s=64' width='64' height='64' title='Diego Villuendas Pellicero'> |
-| 653 | [LasVegasOle](https://github.com/LasVegasOle) | 41 | 7 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/846480?v=3&s=64' width='64' height='64' title='Luis'> |
-| 654 | [david-garcia-garcia](https://github.com/david-garcia-garcia) | 41 | 0 | PHP | Barcelona, Spain , León, México | <img src='https://avatars0.githubusercontent.com/u/9599352?v=3&s=64' width='64' height='64' title='Davvid'> |
-| 655 | [victorcoder](https://github.com/victorcoder) | 41 | 176 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/47026?v=3&s=64' width='64' height='64' title='Victor Castell'> |
-| 656 | [josifovics](https://github.com/josifovics) | 41 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1741590?v=3&s=64' width='64' height='64' title='Slobodan Josifovic'> |
-| 657 | [skilla](https://github.com/skilla) | 41 | 2 | PHP and CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1517293?v=3&s=64' width='64' height='64' title='Sergio Zambrano'> |
-| 658 | [mumas](https://github.com/mumas) | 40 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1714016?v=3&s=64' width='64' height='64' title='Linas'> |
-| 659 | [ChabudaiGitHub](https://github.com/ChabudaiGitHub) | 40 | 0 | CSS | Barcelona (Mataró) | <img src='https://avatars0.githubusercontent.com/u/9642608?v=3&s=64' width='64' height='64' title='Sergio González Garrido'> |
-| 660 | [arnauti](https://github.com/arnauti) | 40 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/62395?v=3&s=64' width='64' height='64' title='Rafa'> |
-| 661 | [rromerogar](https://github.com/rromerogar) | 40 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5557879?v=3&s=64' width='64' height='64' title='Raúl Romero'> |
-| 662 | [not-only-code](https://github.com/not-only-code) | 40 | 57 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/589221?v=3&s=64' width='64' height='64' title='Carlos Sanz García'> |
-| 663 | [miguelSantirso](https://github.com/miguelSantirso) | 40 | 1 | ActionScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/454372?v=3&s=64' width='64' height='64' title='Miguel Santirso'> |
-| 664 | [natxet](https://github.com/natxet) | 40 | 46 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1036236?v=3&s=64' width='64' height='64' title='Nacho'> |
-| 665 | [alexarraiza](https://github.com/alexarraiza) | 40 | 0 | C# | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5226318?v=3&s=64' width='64' height='64' title='Alex Arraiza'> |
-| 666 | [antonienko](https://github.com/antonienko) | 40 | 1 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/186832?v=3&s=64' width='64' height='64' title='Antonio Manuel Hernández Sánchez'> |
-| 667 | [ctbrownlees](https://github.com/ctbrownlees) | 40 | 2 | R | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1633508?v=3&s=64' width='64' height='64' title='Christian Brownlees'> |
-| 668 | [jguillaumes](https://github.com/jguillaumes) | 40 | 8 | R | Barcelona - Catalonia | <img src='https://avatars1.githubusercontent.com/u/1552242?v=3&s=64' width='64' height='64' title='Jordi Guillaumes Pons'> |
-| 669 | [Aljullu](https://github.com/Aljullu) | 40 | 5 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3616980?v=3&s=64' width='64' height='64' title='Albert'> |
-| 670 | [diasjorge](https://github.com/diasjorge) | 40 | 107 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2731?v=3&s=64' width='64' height='64' title='Jorge Dias'> |
-| 671 | [franciscoj](https://github.com/franciscoj) | 40 | 15 | Ruby | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/186087?v=3&s=64' width='64' height='64' title='Fran Casas'> |
-| 672 | [martintsch](https://github.com/martintsch) | 39 | 3 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1516771?v=3&s=64' width='64' height='64' title='Martin Tschischauskas'> |
-| 673 | [jairovadillo](https://github.com/jairovadillo) | 39 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1490216?v=3&s=64' width='64' height='64' title='Jairo Vadillo'> |
-| 674 | [Jautenim](https://github.com/Jautenim) | 39 | 6 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1456708?v=3&s=64' width='64' height='64' title=''> |
-| 675 | [DavidGallardo](https://github.com/DavidGallardo) | 39 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1188314?v=3&s=64' width='64' height='64' title='David'> |
-| 676 | [xDavidLeon](https://github.com/xDavidLeon) | 39 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/467215?v=3&s=64' width='64' height='64' title='David León'> |
-| 677 | [varas](https://github.com/varas) | 38 | 7 | Shell | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1300852?v=3&s=64' width='64' height='64' title='jhvaras'> |
-| 678 | [danigiri](https://github.com/danigiri) | 38 | 29 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1434295?v=3&s=64' width='64' height='64' title='Daniel Giribet'> |
-| 679 | [ixiam](https://github.com/ixiam) | 38 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2589799?v=3&s=64' width='64' height='64' title='iXiam Global Solutions'> |
-| 680 | [zigotica](https://github.com/zigotica) | 38 | 15 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/178855?v=3&s=64' width='64' height='64' title='Sergi Meseguer'> |
-| 681 | [r0uzic](https://github.com/r0uzic) | 38 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/634801?v=3&s=64' width='64' height='64' title='Carlos Cabezas'> |
-| 682 | [davamix](https://github.com/davamix) | 38 | 4 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/581193?v=3&s=64' width='64' height='64' title='Daniel Valcarce'> |
-| 683 | [rcabamo](https://github.com/rcabamo) | 38 | 162 | Objective-C and Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/789161?v=3&s=64' width='64' height='64' title='Ricardo Caballero'> |
-| 684 | [marcpursals](https://github.com/marcpursals) | 38 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4275134?v=3&s=64' width='64' height='64' title='Marc Pursals'> |
-| 685 | [hrysct](https://github.com/hrysct) | 38 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9081983?v=3&s=64' width='64' height='64' title='Harry Escott'> |
-| 686 | [jlopex](https://github.com/jlopex) | 38 | 16 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/693206?v=3&s=64' width='64' height='64' title='Javier López'> |
-| 687 | [acamara](https://github.com/acamara) | 38 | 6 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/593008?v=3&s=64' width='64' height='64' title='Albert Cámara'> |
-| 688 | [arnelmarquez](https://github.com/arnelmarquez) | 38 | 0 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/12570118?v=3&s=64' width='64' height='64' title='arnel marquez'> |
-| 689 | [daisukewi](https://github.com/daisukewi) | 38 | 5 | C# | @Barcelona | <img src='https://avatars2.githubusercontent.com/u/2298419?v=3&s=64' width='64' height='64' title='Dani'> |
-| 690 | [alexgt9](https://github.com/alexgt9) | 37 | 2 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1714476?v=3&s=64' width='64' height='64' title='Alejandro Pérez Batanero'> |
-| 691 | [programarivm](https://github.com/programarivm) | 37 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4062000?v=3&s=64' width='64' height='64' title='Jordi Bassagañas'> |
-| 692 | [lexar93](https://github.com/lexar93) | 37 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9354392?v=3&s=64' width='64' height='64' title='Alex'> |
-| 693 | [cjuan](https://github.com/cjuan) | 37 | 0 | Perl | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/147216?v=3&s=64' width='64' height='64' title='Carlos Juan'> |
-| 694 | [jaschac](https://github.com/jaschac) | 37 | 6 | Python | Barcelona, Catalunya, Spain | <img src='https://avatars3.githubusercontent.com/u/5177604?v=3&s=64' width='64' height='64' title='Jascha Casadio'> |
-| 695 | [davidgnin](https://github.com/davidgnin) | 37 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6491407?v=3&s=64' width='64' height='64' title='davidgnin'> |
-| 696 | [janmyler](https://github.com/janmyler) | 37 | 103 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/718501?v=3&s=64' width='64' height='64' title='Jan Myler'> |
-| 697 | [apxat](https://github.com/apxat) | 37 | 0 | Python | Spain, Barcelona | <img src='https://avatars2.githubusercontent.com/u/8062153?v=3&s=64' width='64' height='64' title='Kachkaiev Illia'> |
-| 698 | [albarral](https://github.com/albarral) | 37 | 0 | Makefile | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/11234094?v=3&s=64' width='64' height='64' title='José Luis Albarral'> |
-| 699 | [mj33chen](https://github.com/mj33chen) | 37 | 0 | C++ | Barcelona Spain | <img src='https://avatars2.githubusercontent.com/u/3289830?v=3&s=64' width='64' height='64' title='Mingjian Chen'> |
-| 700 | [rbngzlv](https://github.com/rbngzlv) | 36 | 1 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2051199?v=3&s=64' width='64' height='64' title='Rubén González'> |
-| 701 | [iZydro](https://github.com/iZydro) | 36 | 1 | Python | Santa Coloma, Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/4706744?v=3&s=64' width='64' height='64' title='Isidro Gilabert'> |
-| 702 | [glopezdetorre](https://github.com/glopezdetorre) | 36 | 5 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4482916?v=3&s=64' width='64' height='64' title='Gorka López de Torre'> |
-| 703 | [rofirrim](https://github.com/rofirrim) | 36 | 10 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1222352?v=3&s=64' width='64' height='64' title='Roger Ferrer Ibáñez'> |
-| 704 | [veralimita](https://github.com/veralimita) | 36 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8584428?v=3&s=64' width='64' height='64' title='Vera Nekrasova'> |
-| 705 | [inesvidal](https://github.com/inesvidal) | 36 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4639686?v=3&s=64' width='64' height='64' title='ines vidal'> |
-| 706 | [SpyRefused](https://github.com/SpyRefused) | 36 | 1 | Go | Barcelona | <img src='https://avatars3.githubusercontent.com/u/588203?v=3&s=64' width='64' height='64' title='Tony'> |
-| 707 | [drpicox](https://github.com/drpicox) | 36 | 6 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2758345?v=3&s=64' width='64' height='64' title='David Rodenas'> |
-| 708 | [juanpescador](https://github.com/juanpescador) | 36 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1808374?v=3&s=64' width='64' height='64' title='John'> |
-| 709 | [mydocumenta](https://github.com/mydocumenta) | 36 | 0 | JavaScript and PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5392779?v=3&s=64' width='64' height='64' title='MYDOCUMENTA'> |
-| 710 | [wandarkaf](https://github.com/wandarkaf) | 36 | 0 | JavaScript | barcelona, spain | <img src='https://avatars1.githubusercontent.com/u/1008469?v=3&s=64' width='64' height='64' title='Alonso'> |
-| 711 | [ewokcillo](https://github.com/ewokcillo) | 36 | 5 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1288150?v=3&s=64' width='64' height='64' title='Diego'> |
-| 712 | [gcq](https://github.com/gcq) | 36 | 11 | Python | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1396111?v=3&s=64' width='64' height='64' title='Guillem Cruz'> |
-| 713 | [AlfredoDD](https://github.com/AlfredoDD) | 36 | 0 | R | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/9695262?v=3&s=64' width='64' height='64' title='Alfredo'> |
-| 714 | [sdjebali](https://github.com/sdjebali) | 36 | 0 | Awk and Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2537985?v=3&s=64' width='64' height='64' title='Sarah Djebali'> |
-| 715 | [galindus](https://github.com/galindus) | 35 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/229595?v=3&s=64' width='64' height='64' title='Victor Galindo'> |
-| 716 | [bertbalcaen](https://github.com/bertbalcaen) | 35 | 4 | PHP | Barcelona, Spain / Ghent, Belgium | <img src='https://avatars0.githubusercontent.com/u/83310?v=3&s=64' width='64' height='64' title='Bert Balcaen'> |
-| 717 | [abelboldu](https://github.com/abelboldu) | 35 | 19 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/254608?v=3&s=64' width='64' height='64' title='Abel Boldú'> |
-| 718 | [mawrkus](https://github.com/mawrkus) | 35 | 93 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/600256?v=3&s=64' width='64' height='64' title='Marc Mignonsin'> |
-| 719 | [rliuzzi](https://github.com/rliuzzi) | 35 | 2 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/971432?v=3&s=64' width='64' height='64' title='Romina Liuzzi'> |
-| 720 | [jhbabon](https://github.com/jhbabon) | 35 | 20 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/280452?v=3&s=64' width='64' height='64' title='Juan Hernández'> |
-| 721 | [exocuted](https://github.com/exocuted) | 35 | 0 | PHP | Rubi, Barcelona | <img src='https://avatars0.githubusercontent.com/u/9355779?v=3&s=64' width='64' height='64' title='Eneko Sarasola'> |
-| 722 | [dbalas](https://github.com/dbalas) | 35 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1343562?v=3&s=64' width='64' height='64' title='Daniel Balastegui'> |
-| 723 | [rgonalo](https://github.com/rgonalo) | 34 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4124491?v=3&s=64' width='64' height='64' title='Rubén González Alonso'> |
-| 724 | [mirimia](https://github.com/mirimia) | 34 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7924525?v=3&s=64' width='64' height='64' title='Manuel Irimia'> |
-| 725 | [erik-landvall](https://github.com/erik-landvall) | 34 | 35 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/839818?v=3&s=64' width='64' height='64' title='Erik Landvall'> |
-| 726 | [cristobalcastilla](https://github.com/cristobalcastilla) | 34 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1233694?v=3&s=64' width='64' height='64' title='cristobalcastilla'> |
-| 727 | [javier-cabezas](https://github.com/javier-cabezas) | 34 | 3 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/8437757?v=3&s=64' width='64' height='64' title='Javier Cabezas'> |
-| 728 | [QuimFerrer](https://github.com/QuimFerrer) | 34 | 7 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3089289?v=3&s=64' width='64' height='64' title='Joaquim Ferrer'> |
-| 729 | [sdepablos](https://github.com/sdepablos) | 34 | 5 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/211364?v=3&s=64' width='64' height='64' title='Sergi de Pablos'> |
-| 730 | [IgnacioRV](https://github.com/IgnacioRV) | 34 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/12169380?v=3&s=64' width='64' height='64' title='Ignacio Rasche'> |
-| 731 | [dracinternet](https://github.com/dracinternet) | 34 | 1 | Swift | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5580224?v=3&s=64' width='64' height='64' title='Eduardo Lozano'> |
-| 732 | [martinciu](https://github.com/martinciu) | 34 | 198 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/34633?v=3&s=64' width='64' height='64' title='Marcin Ciunelis'> |
-| 733 | [nadalsol](https://github.com/nadalsol) | 34 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3439783?v=3&s=64' width='64' height='64' title='Nadal Soler'> |
-| 734 | [txusballesteros](https://github.com/txusballesteros) | 34 | 180 | Java | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8314542?v=3&s=64' width='64' height='64' title='Txus Ballesteros'> |
-| 735 | [tamarart](https://github.com/tamarart) | 34 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10895578?v=3&s=64' width='64' height='64' title='tamara'> |
-| 736 | [rohirrin](https://github.com/rohirrin) | 34 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3709647?v=3&s=64' width='64' height='64' title='Pol Gabarró'> |
-| 737 | [jcabot](https://github.com/jcabot) | 34 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1058925?v=3&s=64' width='64' height='64' title='Jordi Cabot'> |
-| 738 | [aleixpol](https://github.com/aleixpol) | 33 | 2 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1282478?v=3&s=64' width='64' height='64' title='Aleix Pol'> |
-| 739 | [jmendezv](https://github.com/jmendezv) | 33 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5039685?v=3&s=64' width='64' height='64' title='Pep Mendez'> |
-| 740 | [xfornesa](https://github.com/xfornesa) | 33 | 1 | PHP | Mataró, Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/690069?v=3&s=64' width='64' height='64' title='Xavier Fornés'> |
-| 741 | [JordiMontesSanabria](https://github.com/JordiMontesSanabria) | 33 | 1 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3369356?v=3&s=64' width='64' height='64' title='Jordi Montes Sanabria'> |
-| 742 | [ThXou](https://github.com/ThXou) | 33 | 5 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/421954?v=3&s=64' width='64' height='64' title='Luis Cardenas'> |
-| 743 | [jmartin82](https://github.com/jmartin82) | 33 | 44 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/152270?v=3&s=64' width='64' height='64' title='Jordi Martin'> |
-| 744 | [oriolblanc](https://github.com/oriolblanc) | 33 | 38 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/197783?v=3&s=64' width='64' height='64' title='Oriol Blanc'> |
-| 745 | [masylum](https://github.com/masylum) | 33 | 1074 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/28248?v=3&s=64' width='64' height='64' title='Pau Ramon Revilla'> |
-| 746 | [mllocs](https://github.com/mllocs) | 32 | 20 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/935744?v=3&s=64' width='64' height='64' title='Màxim Colls'> |
-| 747 | [brianjimenez](https://github.com/brianjimenez) | 32 | 3 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4330278?v=3&s=64' width='64' height='64' title='Brian Jimenez'> |
-| 748 | [jmprusi](https://github.com/jmprusi) | 32 | 2 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2012568?v=3&s=64' width='64' height='64' title='Joaquim Moreno'> |
-| 749 | [tomvdw](https://github.com/tomvdw) | 32 | 0 | Scala | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4160552?v=3&s=64' width='64' height='64' title=''> |
-| 750 | [adriagil](https://github.com/adriagil) | 32 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/922464?v=3&s=64' width='64' height='64' title='adriàgil'> |
-| 751 | [opentodonet](https://github.com/opentodonet) | 32 | 9 | Perl | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2941144?v=3&s=64' width='64' height='64' title='Ivan Mora Pérez'> |
-| 752 | [elribonazo](https://github.com/elribonazo) | 32 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3359746?v=3&s=64' width='64' height='64' title='Javier Ribó'> |
-| 753 | [simonbcn](https://github.com/simonbcn) | 32 | 0 | Shell | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/428231?v=3&s=64' width='64' height='64' title='Simón'> |
-| 754 | [pcasanellasp](https://github.com/pcasanellasp) | 32 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8070797?v=3&s=64' width='64' height='64' title='Pau Casanellas'> |
-| 755 | [mnothic](https://github.com/mnothic) | 32 | 1 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2339853?v=3&s=64' width='64' height='64' title='theManda'> |
-| 756 | [huorswords](https://github.com/huorswords) | 32 | 0 | C# | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1566221?v=3&s=64' width='64' height='64' title='Ángel García Santos'> |
-| 757 | [stefanacin](https://github.com/stefanacin) | 32 | 0 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1326505?v=3&s=64' width='64' height='64' title='Stefan A'> |
-| 758 | [warrendeleon](https://github.com/warrendeleon) | 31 | 0 | Java and Groovy | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6538899?v=3&s=64' width='64' height='64' title='Warren de León Ofalla'> |
-| 759 | [elmimmo](https://github.com/elmimmo) | 31 | 3 | Objective-C | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/86164?v=3&s=64' width='64' height='64' title=''> |
-| 760 | [gsamuel85](https://github.com/gsamuel85) | 31 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7612249?v=3&s=64' width='64' height='64' title='Guy Samuel'> |
-| 761 | [FernandoMateus](https://github.com/FernandoMateus) | 31 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5619742?v=3&s=64' width='64' height='64' title='Fernando Mateus'> |
-| 762 | [sp-miguel-ibero](https://github.com/sp-miguel-ibero) | 31 | 0 | HTML | Barcelona, Catalunya | <img src='https://avatars2.githubusercontent.com/u/6975808?v=3&s=64' width='64' height='64' title='Miguel Ibero'> |
-| 763 | [joanteixi](https://github.com/joanteixi) | 31 | 23 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/286098?v=3&s=64' width='64' height='64' title='Joan Teixidó'> |
-| 764 | [adriacidre](https://github.com/adriacidre) | 31 | 6 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/593270?v=3&s=64' width='64' height='64' title='Adrià Cidre'> |
-| 765 | [z4m0](https://github.com/z4m0) | 31 | 2 | JavaScript | Barcelona, Catalunya | <img src='https://avatars2.githubusercontent.com/u/476386?v=3&s=64' width='64' height='64' title='Martí Zamora'> |
-| 766 | [alfonsojimenez](https://github.com/alfonsojimenez) | 31 | 17 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/204811?v=3&s=64' width='64' height='64' title='Alfonso Jiménez'> |
-| 767 | [lombartec](https://github.com/lombartec) | 31 | 2 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3073746?v=3&s=64' width='64' height='64' title='Carlos Lombarte'> |
-| 768 | [mvi-](https://github.com/mvi-) | 31 | 1 | Python and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/119638?v=3&s=64' width='64' height='64' title='mvi'> |
-| 769 | [nahuelstatuto](https://github.com/nahuelstatuto) | 31 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8949679?v=3&s=64' width='64' height='64' title='Nahuel Statuto'> |
-| 770 | [e1000i](https://github.com/e1000i) | 31 | 0 | C++ and Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5045830?v=3&s=64' width='64' height='64' title='Emili Boronat Roselló'> |
-| 771 | [MiquelAdell](https://github.com/MiquelAdell) | 31 | 0 | Lua and PHP | Sabadell, Barcelona | <img src='https://avatars2.githubusercontent.com/u/4996457?v=3&s=64' width='64' height='64' title='Miquel Adell'> |
-| 772 | [alexetta](https://github.com/alexetta) | 31 | 0 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11165268?v=3&s=64' width='64' height='64' title=''> |
-| 773 | [frankcortes](https://github.com/frankcortes) | 30 | 28 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1202353?v=3&s=64' width='64' height='64' title='Francisco Cortés'> |
-| 774 | [atrilla](https://github.com/atrilla) | 30 | 109 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1433771?v=3&s=64' width='64' height='64' title='Alexandre Trilla'> |
-| 775 | [weisk](https://github.com/weisk) | 30 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2716537?v=3&s=64' width='64' height='64' title=''> |
-| 776 | [xaviliz](https://github.com/xaviliz) | 30 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4201322?v=3&s=64' width='64' height='64' title='Xavi Lizarraga'> |
-| 777 | [devyanlab](https://github.com/devyanlab) | 30 | 0 | JavaScript and PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/122845?v=3&s=64' width='64' height='64' title='Juan Pablo Lozano'> |
-| 778 | [swapnilgt](https://github.com/swapnilgt) | 30 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5019057?v=3&s=64' width='64' height='64' title='Swapnil Gupta'> |
-| 779 | [keoko](https://github.com/keoko) | 30 | 5 | Clojure | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/167842?v=3&s=64' width='64' height='64' title='Natxo Cabré'> |
-| 780 | [sdesimone](https://github.com/sdesimone) | 30 | 75 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/917131?v=3&s=64' width='64' height='64' title='Sergio'> |
-| 781 | [shadowman](https://github.com/shadowman) | 30 | 11 | Puppet | Barcelona | <img src='https://avatars1.githubusercontent.com/u/121528?v=3&s=64' width='64' height='64' title='Jose E. Rodriguez'> |
-| 782 | [hulehule20](https://github.com/hulehule20) | 30 | 0 | JavaScript | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/1733018?v=3&s=64' width='64' height='64' title='Marc Clascà'> |
-| 783 | [lucacerone](https://github.com/lucacerone) | 30 | 1 | Python | Barcelona, Catalunya, Spain | <img src='https://avatars1.githubusercontent.com/u/754360?v=3&s=64' width='64' height='64' title='Luca Cerone'> |
-| 784 | [pepe84](https://github.com/pepe84) | 29 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/647878?v=3&s=64' width='64' height='64' title='Pepe'> |
-| 785 | [ferranpujolcamins](https://github.com/ferranpujolcamins) | 29 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6429775?v=3&s=64' width='64' height='64' title='Ferran Pujol Camins'> |
-| 786 | [alexgg-developer](https://github.com/alexgg-developer) | 29 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6780880?v=3&s=64' width='64' height='64' title='Alex García Giménez'> |
-| 787 | [orlandi](https://github.com/orlandi) | 29 | 4 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/6039948?v=3&s=64' width='64' height='64' title='Javier G. Orlandi'> |
-| 788 | [Vidimensional](https://github.com/Vidimensional) | 29 | 5 | Shell | Barcelona. Spain | <img src='https://avatars0.githubusercontent.com/u/1213556?v=3&s=64' width='64' height='64' title='Daniel Vidal de la Rubia'> |
-| 789 | [cmirallesp](https://github.com/cmirallesp) | 29 | 4 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1050580?v=3&s=64' width='64' height='64' title='Carles'> |
-| 790 | [danigonza](https://github.com/danigonza) | 29 | 4 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1774953?v=3&s=64' width='64' height='64' title='Daniel Gonzàlez Lareo'> |
-| 791 | [davidpelayo](https://github.com/davidpelayo) | 29 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/84540?v=3&s=64' width='64' height='64' title='David Pelayo'> |
-| 792 | [fraber](https://github.com/fraber) | 29 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/999479?v=3&s=64' width='64' height='64' title='Frank Bergmann'> |
-| 793 | [wicz](https://github.com/wicz) | 29 | 14 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/43020?v=3&s=64' width='64' height='64' title='Vinicius Horewicz'> |
-| 794 | [oskarizu](https://github.com/oskarizu) | 29 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2642704?v=3&s=64' width='64' height='64' title='Oscar García'> |
-| 795 | [marta-coronado](https://github.com/marta-coronado) | 29 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6804523?v=3&s=64' width='64' height='64' title='Marta'> |
-| 796 | [sergi413](https://github.com/sergi413) | 29 | 0 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5948171?v=3&s=64' width='64' height='64' title='Sergi'> |
-| 797 | [Lost-Boy](https://github.com/Lost-Boy) | 29 | 0 | HTML | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11233977?v=3&s=64' width='64' height='64' title='Pablo Valdesoiro'> |
-| 798 | [tonicebrian](https://github.com/tonicebrian) | 28 | 24 | Haskell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/132687?v=3&s=64' width='64' height='64' title='Toni Cebrián'> |
-| 799 | [ivannis](https://github.com/ivannis) | 28 | 1 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/754477?v=3&s=64' width='64' height='64' title='Ivannis Suárez Jérez'> |
-| 800 | [galaxyfeeder](https://github.com/galaxyfeeder) | 28 | 0 | Java | Barcelona, Catalonia | <img src='https://avatars0.githubusercontent.com/u/4520530?v=3&s=64' width='64' height='64' title='Gabriel Esteban'> |
-| 801 | [tiurin](https://github.com/tiurin) | 28 | 0 | CSS | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/650819?v=3&s=64' width='64' height='64' title='Mykhailo Tiurin'> |
-| 802 | [mussegam](https://github.com/mussegam) | 28 | 7 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/96870?v=3&s=64' width='64' height='64' title='Javi Dolcet'> |
-| 803 | [tmdavid](https://github.com/tmdavid) | 28 | 0 | Python and CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5942458?v=3&s=64' width='64' height='64' title='David'> |
-| 804 | [robertobarreda](https://github.com/robertobarreda) | 28 | 6 | Python | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/355196?v=3&s=64' width='64' height='64' title='Roberto Barreda'> |
-| 805 | [bertex](https://github.com/bertex) | 28 | 1 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6428195?v=3&s=64' width='64' height='64' title='Albert Renom'> |
-| 806 | [in2-drupalteam](https://github.com/in2-drupalteam) | 28 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8960661?v=3&s=64' width='64' height='64' title='Drupal Team'> |
-| 807 | [jfeliu](https://github.com/jfeliu) | 28 | 1 | VimL and Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4686781?v=3&s=64' width='64' height='64' title='Jordi Feliu'> |
-| 808 | [martimorta](https://github.com/martimorta) | 27 | 1 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3284973?v=3&s=64' width='64' height='64' title='Martí Morta'> |
-| 809 | [javi-moralesf](https://github.com/javi-moralesf) | 27 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1993678?v=3&s=64' width='64' height='64' title='Javi Morales'> |
-| 810 | [apaytuvi](https://github.com/apaytuvi) | 27 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11228225?v=3&s=64' width='64' height='64' title=''> |
-| 811 | [PauGNU](https://github.com/PauGNU) | 27 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/506393?v=3&s=64' width='64' height='64' title='Pau Iranzo'> |
-| 812 | [SolracDev](https://github.com/SolracDev) | 27 | 0 | Swift | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9626240?v=3&s=64' width='64' height='64' title='Carlos'> |
-| 813 | [albertgrala](https://github.com/albertgrala) | 27 | 7 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/361199?v=3&s=64' width='64' height='64' title='albertgrala'> |
-| 814 | [gherrero](https://github.com/gherrero) | 27 | 2 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6003831?v=3&s=64' width='64' height='64' title='Giacomo Herrero'> |
-| 815 | [albertgasset](https://github.com/albertgasset) | 27 | 8 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/440488?v=3&s=64' width='64' height='64' title='Albert Gasset'> |
-| 816 | [albertvp](https://github.com/albertvp) | 27 | 1 | JavaScript | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/1481710?v=3&s=64' width='64' height='64' title='Albert Vilà Picas'> |
-| 817 | [egogarcia](https://github.com/egogarcia) | 27 | 1 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1496402?v=3&s=64' width='64' height='64' title='Eric Garcia'> |
-| 818 | [ciencia](https://github.com/ciencia) | 27 | 3 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/44133?v=3&s=64' width='64' height='64' title='Jesús Martínez Novo'> |
-| 819 | [javinavarro](https://github.com/javinavarro) | 27 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8946178?v=3&s=64' width='64' height='64' title='Javi Navarro'> |
-| 820 | [ulidev](https://github.com/ulidev) | 27 | 246 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5835107?v=3&s=64' width='64' height='64' title='Joan Molinas'> |
-| 821 | [fleveque](https://github.com/fleveque) | 27 | 217 | Ruby and Shell | Cubelles, Garraf, Barcelona | <img src='https://avatars3.githubusercontent.com/u/568487?v=3&s=64' width='64' height='64' title='Francesc Leveque'> |
-| 822 | [dlogothetis](https://github.com/dlogothetis) | 27 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2071608?v=3&s=64' width='64' height='64' title='Dionysios Logothetis'> |
-| 823 | [vicktor](https://github.com/vicktor) | 27 | 31 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/382114?v=3&s=64' width='64' height='64' title='Victor Bautista'> |
-| 824 | [antoniofelices](https://github.com/antoniofelices) | 26 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3024339?v=3&s=64' width='64' height='64' title='Antonio'> |
-| 825 | [juange87](https://github.com/juange87) | 26 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/623411?v=3&s=64' width='64' height='64' title='Juan Jesús Fernández Madrid'> |
-| 826 | [DavidPombar](https://github.com/DavidPombar) | 26 | 10 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/29462?v=3&s=64' width='64' height='64' title='David Pombar'> |
-| 827 | [Casg23](https://github.com/Casg23) | 26 | 1 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1422512?v=3&s=64' width='64' height='64' title='Carlos Sánchez'> |
-| 828 | [xserra93](https://github.com/xserra93) | 26 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4263434?v=3&s=64' width='64' height='64' title='Xavier Serra'> |
-| 829 | [webkam11](https://github.com/webkam11) | 26 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6817811?v=3&s=64' width='64' height='64' title='Kam Louis'> |
-| 830 | [davizuku](https://github.com/davizuku) | 26 | 0 | R | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8902219?v=3&s=64' width='64' height='64' title='David Álvarez Pons'> |
-| 831 | [bismarkhenao](https://github.com/bismarkhenao) | 26 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2971390?v=3&s=64' width='64' height='64' title='Bismark Henao'> |
-| 832 | [skyme32](https://github.com/skyme32) | 26 | 1 | Java and Swift | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11046488?v=3&s=64' width='64' height='64' title='Marcos'> |
-| 833 | [AlbertGrobas](https://github.com/AlbertGrobas) | 26 | 608 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4267266?v=3&s=64' width='64' height='64' title='Albert Grobas'> |
-| 834 | [franhernandez](https://github.com/franhernandez) | 26 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6776420?v=3&s=64' width='64' height='64' title='Fran Hernandez'> |
-| 835 | [adrianonco](https://github.com/adrianonco) | 26 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8223228?v=3&s=64' width='64' height='64' title='Adrián Onco'> |
-| 836 | [elecay](https://github.com/elecay) | 26 | 47 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1318127?v=3&s=64' width='64' height='64' title='Sebastian Rajo'> |
-| 837 | [padilo](https://github.com/padilo) | 26 | 1 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/783959?v=3&s=64' width='64' height='64' title='Pablo Díaz-López'> |
-| 838 | [dbuendiab](https://github.com/dbuendiab) | 26 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3029862?v=3&s=64' width='64' height='64' title='Diego Buendía'> |
-| 839 | [picazoH](https://github.com/picazoH) | 26 | 1 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1541203?v=3&s=64' width='64' height='64' title='Héctor'> |
-| 840 | [dormi](https://github.com/dormi) | 26 | 6 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/85766?v=3&s=64' width='64' height='64' title='Xavi Vila'> |
-| 841 | [borjavaillo](https://github.com/borjavaillo) | 26 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3165241?v=3&s=64' width='64' height='64' title='Borja Vaillo'> |
-| 842 | [cenobyte](https://github.com/cenobyte) | 25 | 0 | JavaScript and CSS | Sant Boi de Llobregat (Barcelona) | <img src='https://avatars1.githubusercontent.com/u/2094281?v=3&s=64' width='64' height='64' title='Frank'> |
-| 843 | [skal88](https://github.com/skal88) | 25 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7137642?v=3&s=64' width='64' height='64' title='Albert Mulà'> |
-| 844 | [AmenoPh1x](https://github.com/AmenoPh1x) | 25 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1352149?v=3&s=64' width='64' height='64' title='Christian Amenós'> |
-| 845 | [rorutza](https://github.com/rorutza) | 25 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/4557476?v=3&s=64' width='64' height='64' title='Diana Kramer'> |
-| 846 | [gerardpastor](https://github.com/gerardpastor) | 25 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1277383?v=3&s=64' width='64' height='64' title='Gerard Pastor'> |
-| 847 | [jhancarlosmj](https://github.com/jhancarlosmj) | 25 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9062272?v=3&s=64' width='64' height='64' title='JhanCarlos Marte Jimenez'> |
-| 848 | [cugni](https://github.com/cugni) | 25 | 10 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1544874?v=3&s=64' width='64' height='64' title='Cesare Cugnasco'> |
-| 849 | [hectorcanto](https://github.com/hectorcanto) | 25 | 0 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1630319?v=3&s=64' width='64' height='64' title='Héctor Canto'> |
-| 850 | [formap](https://github.com/formap) | 25 | 0 | Shell | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/6923782?v=3&s=64' width='64' height='64' title='Florencia Tarditti'> |
-| 851 | [Nalx](https://github.com/Nalx) | 25 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1858455?v=3&s=64' width='64' height='64' title='Àlex Cordón Vila'> |
-| 852 | [StateX](https://github.com/StateX) | 25 | 2 | Python and Tcl | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4493460?v=3&s=64' width='64' height='64' title='Albert Sanchez Carbonell'> |
-| 853 | [ffaraone](https://github.com/ffaraone) | 25 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1480134?v=3&s=64' width='64' height='64' title='Francesco Faraone'> |
-| 854 | [jordi9](https://github.com/jordi9) | 25 | 2 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/837278?v=3&s=64' width='64' height='64' title='Jordi Gerona'> |
-| 855 | [AndrewBCN](https://github.com/AndrewBCN) | 25 | 0 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/856490?v=3&s=400' width='64' height='64' title='Andrew'> |
-| 856 | [jordipons](https://github.com/jordipons) | 24 | 1 | Matlab | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10962760?v=3&s=64' width='64' height='64' title=''> |
-| 857 | [jlealbernal](https://github.com/jlealbernal) | 24 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9423170?v=3&s=64' width='64' height='64' title='Jéssica Leal'> |
-| 858 | [scapella](https://github.com/scapella) | 24 | 28 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/129159?v=3&s=64' width='64' height='64' title='Salvador Capella'> |
-| 859 | [xavicolomer](https://github.com/xavicolomer) | 24 | 1 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1476272?v=3&s=64' width='64' height='64' title='Xavi Colomer'> |
-| 860 | [fdominguezr](https://github.com/fdominguezr) | 24 | 0 | Arduino | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3350033?v=3&s=64' width='64' height='64' title='Francisco Dominguez'> |
-| 861 | [BlaiMelendezCatalan](https://github.com/BlaiMelendezCatalan) | 24 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/12395799?v=3&s=64' width='64' height='64' title='Blai Meléndez Catalán'> |
-| 862 | [bxdpxndx](https://github.com/bxdpxndx) | 24 | 0 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6361739?v=3&s=64' width='64' height='64' title=''> |
-| 863 | [miqmago](https://github.com/miqmago) | 24 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1849488?v=3&s=64' width='64' height='64' title='Miquel'> |
-| 864 | [aaguilera](https://github.com/aaguilera) | 24 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/290301?v=3&s=64' width='64' height='64' title='Angel Aguilera'> |
-| 865 | [ssedano](https://github.com/ssedano) | 24 | 9 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/708060?v=3&s=64' width='64' height='64' title='Serafín Sedano'> |
-| 866 | [rubiaonrails](https://github.com/rubiaonrails) | 24 | 0 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9682189?v=3&s=64' width='64' height='64' title=''> |
-| 867 | [davidayalas](https://github.com/davidayalas) | 24 | 32 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1037874?v=3&s=64' width='64' height='64' title='David Ayala'> |
-| 868 | [jordimarsal](https://github.com/jordimarsal) | 24 | 0 | Java | Sabadell - Barcelona | <img src='https://avatars0.githubusercontent.com/u/7162023?v=3&s=64' width='64' height='64' title='Jordi Marsal'> |
-| 869 | [marcalj](https://github.com/marcalj) | 24 | 0 | Go | Montseny, Barcelona | <img src='https://avatars2.githubusercontent.com/u/63667?v=3&s=64' width='64' height='64' title='Marçal Juan Llaó'> |
-| 870 | [adriavalles](https://github.com/adriavalles) | 24 | 4 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1738401?v=3&s=64' width='64' height='64' title='Adrià Vallès'> |
-| 871 | [ramonpoca](https://github.com/ramonpoca) | 24 | 46 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/67112?v=3&s=64' width='64' height='64' title='Ramon Poca'> |
-| 872 | [krainet](https://github.com/krainet) | 23 | 2 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4263144?v=3&s=64' width='64' height='64' title='Ramon Alberti Danes'> |
-| 873 | [jordiclariana](https://github.com/jordiclariana) | 23 | 7 | C | Barcelona / Spain | <img src='https://avatars0.githubusercontent.com/u/657626?v=3&s=64' width='64' height='64' title='Jordi Clariana'> |
-| 874 | [Jordira](https://github.com/Jordira) | 23 | 0 | R and HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7924030?v=3&s=64' width='64' height='64' title='Jordi Raso'> |
-| 875 | [albore](https://github.com/albore) | 23 | 0 | C++ and C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2708036?v=3&s=64' width='64' height='64' title='Alexandre Albore'> |
-| 876 | [jrdi](https://github.com/jrdi) | 23 | 24 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/67608?v=3&s=64' width='64' height='64' title='Jordi Villar'> |
-| 877 | [jordiamoros](https://github.com/jordiamoros) | 23 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5918340?v=3&s=64' width='64' height='64' title='Jordi'> |
-| 878 | [celeduc](https://github.com/celeduc) | 23 | 9 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/23334?v=3&s=64' width='64' height='64' title='Chuck LeDuc Díaz'> |
-| 879 | [acasademont](https://github.com/acasademont) | 23 | 11 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/825021?v=3&s=64' width='64' height='64' title='Albert Casademont'> |
-| 880 | [mtskelton](https://github.com/mtskelton) | 23 | 15 | Python | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/533956?v=3&s=64' width='64' height='64' title='Mark Skelton'> |
-| 881 | [samuelnp](https://github.com/samuelnp) | 23 | 1 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1287788?v=3&s=64' width='64' height='64' title='Samuel Navas'> |
-| 882 | [orloxx](https://github.com/orloxx) | 23 | 9 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3470817?v=3&s=64' width='64' height='64' title='Iker Garitaonandia'> |
-| 883 | [Dor3nz](https://github.com/Dor3nz) | 23 | 1 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1962966?v=3&s=64' width='64' height='64' title='Genís Matutes'> |
-| 884 | [CorinaV](https://github.com/CorinaV) | 23 | 0 | CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9862932?v=3&s=64' width='64' height='64' title='Corina Vladut'> |
-| 885 | [lluisi](https://github.com/lluisi) | 23 | 1 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1512453?v=3&s=64' width='64' height='64' title='Lluis Ingles'> |
-| 886 | [uxisready](https://github.com/uxisready) | 23 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5539600?v=3&s=64' width='64' height='64' title='uxisready'> |
-| 887 | [ahharu](https://github.com/ahharu) | 23 | 0 | Python | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/5111626?v=3&s=64' width='64' height='64' title='Alex Ruiz'> |
-| 888 | [meritxellmolas](https://github.com/meritxellmolas) | 22 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4050754?v=3&s=64' width='64' height='64' title='Meritxell Molas Roca'> |
-| 889 | [towanda](https://github.com/towanda) | 22 | 4 | Ruby | Barcelona Spain | <img src='https://avatars1.githubusercontent.com/u/17824?v=3&s=64' width='64' height='64' title='Manu Campos'> |
-| 890 | [gpbonifazi](https://github.com/gpbonifazi) | 22 | 6 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/468654?v=3&s=64' width='64' height='64' title='Giampiero Bonifazi'> |
-| 891 | [rffuste](https://github.com/rffuste) | 22 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5207641?v=3&s=64' width='64' height='64' title='Rubén Fernández Fusté'> |
-| 892 | [mob1970](https://github.com/mob1970) | 22 | 8 | Ruby | Sant Cugat del Vallès (Barcelona) | <img src='https://avatars3.githubusercontent.com/u/385651?v=3&s=64' width='64' height='64' title='Miquel Oliete'> |
-| 893 | [MarcosAguayo](https://github.com/MarcosAguayo) | 22 | 11 | C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1219539?v=3&s=64' width='64' height='64' title='Marcos Aguayo'> |
-| 894 | [toniborrallo](https://github.com/toniborrallo) | 22 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9036810?v=3&s=64' width='64' height='64' title='Toni Borrallo'> |
-| 895 | [memaker](https://github.com/memaker) | 22 | 1 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1029757?v=3&s=64' width='64' height='64' title='Roberto Bartolomé'> |
-| 896 | [hector](https://github.com/hector) | 22 | 9 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/34079?v=3&s=64' width='64' height='64' title='Hector Parra'> |
-| 897 | [xaviermartinezf](https://github.com/xaviermartinezf) | 22 | 1 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3894843?v=3&s=64' width='64' height='64' title='Xavi Martínez'> |
-| 898 | [tcz](https://github.com/tcz) | 22 | 169 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/160008?v=3&s=64' width='64' height='64' title='Zoltan Toth-Czifra'> |
-| 899 | [virfaure](https://github.com/virfaure) | 22 | 4 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2975006?v=3&s=64' width='64' height='64' title='Virginie'> |
-| 900 | [GuiRamirez](https://github.com/GuiRamirez) | 22 | 0 | C++ and Makefile | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9131971?v=3&s=64' width='64' height='64' title='Guillem Ramírez Gargallo'> |
-| 901 | [CarolinaFernandez](https://github.com/CarolinaFernandez) | 22 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2083208?v=3&s=64' width='64' height='64' title='Carolina Fernández'> |
-| 902 | [hhg2288](https://github.com/hhg2288) | 22 | 20 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/725120?v=3&s=64' width='64' height='64' title='Horacio Herrera'> |
-| 903 | [thinkink](https://github.com/thinkink) | 21 | 0 | JavaScript | Monistrol de Montserrat - Barcelona | <img src='https://avatars3.githubusercontent.com/u/3516168?v=3&s=64' width='64' height='64' title='Pere Thinkink'> |
-| 904 | [miquelsoler](https://github.com/miquelsoler) | 21 | 2 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1842840?v=3&s=64' width='64' height='64' title='Miquel A. Soler'> |
-| 905 | [Eudaldca](https://github.com/Eudaldca) | 21 | 0 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/8332105?v=3&s=64' width='64' height='64' title='Eudaldca'> |
-| 906 | [Akamic](https://github.com/Akamic) | 21 | 1 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9696284?v=3&s=64' width='64' height='64' title='Sandra Muñoz'> |
-| 907 | [xavi-reloaded](https://github.com/xavi-reloaded) | 21 | 3 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2360556?v=3&s=64' width='64' height='64' title='Xavier'> |
-| 908 | [jgimenez](https://github.com/jgimenez) | 21 | 3 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/864706?v=3&s=64' width='64' height='64' title='Jordi Giménez Gámez'> |
-| 909 | [rodrigovd](https://github.com/rodrigovd) | 21 | 8 | Swift and Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4619414?v=3&s=64' width='64' height='64' title='Rodrigo Villatoro'> |
-| 910 | [olegmorajko](https://github.com/olegmorajko) | 21 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3327638?v=3&s=64' width='64' height='64' title='Oleg'> |
-| 911 | [manuCervello](https://github.com/manuCervello) | 21 | 0 | Python and Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5089842?v=3&s=64' width='64' height='64' title='Manu'> |
-| 912 | [ivannpaz](https://github.com/ivannpaz) | 21 | 6 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/16879?v=3&s=64' width='64' height='64' title='ivannpaz'> |
-| 913 | [cristinaserrano](https://github.com/cristinaserrano) | 21 | 0 | R | Barcelona (SPAIN) | <img src='https://avatars2.githubusercontent.com/u/9904953?v=3&s=64' width='64' height='64' title='Cristina Serrano'> |
-| 914 | [mcortinas](https://github.com/mcortinas) | 21 | 2 | Python | Barcelona. Spain | <img src='https://avatars2.githubusercontent.com/u/692263?v=3&s=64' width='64' height='64' title='Marc Cortinas'> |
-| 915 | [xvrmallafre](https://github.com/xvrmallafre) | 20 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5164848?v=3&s=64' width='64' height='64' title='Xavier Mallafré'> |
-| 916 | [bvis](https://github.com/bvis) | 20 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/580682?v=3&s=64' width='64' height='64' title='Basi'> |
-| 917 | [AlexBruch](https://github.com/AlexBruch) | 20 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5971556?v=3&s=64' width='64' height='64' title='Àlex'> |
-| 918 | [akira28](https://github.com/akira28) | 20 | 95 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/996257?v=3&s=64' width='64' height='64' title='Andrea De Pirro'> |
-| 919 | [xeviknal](https://github.com/xeviknal) | 20 | 8 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/613814?v=3&s=64' width='64' height='64' title='Xavier Canal i Masjuan'> |
-| 920 | [gcleaves](https://github.com/gcleaves) | 20 | 0 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1041253?v=3&s=64' width='64' height='64' title='Geoffrey Cleaves'> |
-| 921 | [srodrb](https://github.com/srodrb) | 20 | 1 | C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2973566?v=3&s=64' width='64' height='64' title='Samuel'> |
-| 922 | [GuillemGarciaSabate](https://github.com/GuillemGarciaSabate) | 20 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/10881908?v=3&s=64' width='64' height='64' title='Guillem Garcia Sabate'> |
-| 923 | [bcurtu](https://github.com/bcurtu) | 20 | 16 | Python and HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/178029?v=3&s=64' width='64' height='64' title='Bosco Curtu'> |
-| 924 | [xserrat](https://github.com/xserrat) | 20 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5933658?v=3&s=64' width='64' height='64' title='Xavier Serrat Bordas'> |
-| 925 | [jordinebot](https://github.com/jordinebot) | 19 | 0 | JavaScript | Barcelona, CT | <img src='https://avatars2.githubusercontent.com/u/527879?v=3&s=64' width='64' height='64' title='Jordi Nebot'> |
-| 926 | [alextarrago](https://github.com/alextarrago) | 19 | 178 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/658279?v=3&s=64' width='64' height='64' title='Alex Tarragó'> |
-| 927 | [trico](https://github.com/trico) | 19 | 37 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/198066?v=3&s=64' width='64' height='64' title='Eric Ponce'> |
-| 928 | [twiindan](https://github.com/twiindan) | 19 | 3 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4324479?v=3&s=64' width='64' height='64' title='Antonio Robres'> |
-| 929 | [RedRudeBoy](https://github.com/RedRudeBoy) | 19 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1092719?v=3&s=64' width='64' height='64' title='Leninux'> |
-| 930 | [sercomi](https://github.com/sercomi) | 19 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/572363?v=3&s=64' width='64' height='64' title='Sergi'> |
-| 931 | [povmaniaco](https://github.com/povmaniaco) | 19 | 2 | Ruby | Barcelona- Spain | <img src='https://avatars2.githubusercontent.com/u/421372?v=3&s=64' width='64' height='64' title='povmaniaco'> |
-| 932 | [fevsea](https://github.com/fevsea) | 19 | 0 | Makefile | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5895251?v=3&s=64' width='64' height='64' title='Alejandro'> |
-| 933 | [Hopobcn](https://github.com/Hopobcn) | 19 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2794977?v=3&s=64' width='64' height='64' title='Pau Farré'> |
-| 934 | [adeharo9](https://github.com/adeharo9) | 19 | 1 | Matlab | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6698771?v=3&s=64' width='64' height='64' title='Alejandro de Haro'> |
-| 935 | [joangs](https://github.com/joangs) | 18 | 0 | Go and C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10260763?v=3&s=64' width='64' height='64' title='Joan Garcia i Silano'> |
-| 936 | [jorestma](https://github.com/jorestma) | 18 | 0 | JavaScript | Spain, Barcelona | <img src='https://avatars2.githubusercontent.com/u/8530663?v=3&s=64' width='64' height='64' title='Jordi Estrada'> |
-| 937 | [iwokloco](https://github.com/iwokloco) | 18 | 2 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4489885?v=3&s=64' width='64' height='64' title='Ramón Hernández Calvo'> |
-| 938 | [marco-mariotti](https://github.com/marco-mariotti) | 18 | 0 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/10975392?v=3&s=64' width='64' height='64' title='Marco Mariotti'> |
-| 939 | [marciobarrios](https://github.com/marciobarrios) | 18 | 29 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/47644?v=3&s=64' width='64' height='64' title='Marcio Barrios'> |
-| 940 | [spvernet](https://github.com/spvernet) | 18 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7256762?v=3&s=64' width='64' height='64' title='Sergi'> |
-| 941 | [solomonvimal](https://github.com/solomonvimal) | 18 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2102394?v=3&s=64' width='64' height='64' title='Solomon Vimal'> |
-| 942 | [aritztg](https://github.com/aritztg) | 18 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/4686790?v=3&s=64' width='64' height='64' title='Aritz Tusell'> |
-| 943 | [xsb](https://github.com/xsb) | 18 | 10 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/148317?v=3&s=64' width='64' height='64' title='Xavi S.B.'> |
-| 944 | [jurnix](https://github.com/jurnix) | 18 | 6 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1972926?v=3&s=64' width='64' height='64' title='Albert Jornet Puig'> |
-| 945 | [divins](https://github.com/divins) | 18 | 6 | Ruby | Terrassa, Barcelona | <img src='https://avatars2.githubusercontent.com/u/694481?v=3&s=64' width='64' height='64' title='Marc Divins Castellvi'> |
-| 946 | [albertnavas](https://github.com/albertnavas) | 18 | 9 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1312353?v=3&s=64' width='64' height='64' title='Albert Navas'> |
-| 947 | [dberga](https://github.com/dberga) | 18 | 5 | C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6095883?v=3&s=64' width='64' height='64' title='David Berga'> |
-| 948 | [evamichalcak](https://github.com/evamichalcak) | 18 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/712581?v=3&s=64' width='64' height='64' title='Eva Michalcak'> |
-| 949 | [gmoretti](https://github.com/gmoretti) | 17 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7014995?v=3&s=64' width='64' height='64' title='Giuseppe'> |
-| 950 | [jacekd](https://github.com/jacekd) | 17 | 36 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/736948?v=3&s=64' width='64' height='64' title='Jacek Dominiak'> |
-| 951 | [dario1985](https://github.com/dario1985) | 17 | 9 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/495006?v=3&s=64' width='64' height='64' title='Dario'> |
-| 952 | [HenryHey](https://github.com/HenryHey) | 17 | 2 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1101290?v=3&s=64' width='64' height='64' title='Enric Masdeu'> |
-| 953 | [Rafael-Caro](https://github.com/Rafael-Caro) | 17 | 0 | Python and R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6338660?v=3&s=64' width='64' height='64' title='Rafael Caro Repetto'> |
-| 954 | [LucyFerMon](https://github.com/LucyFerMon) | 17 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7171788?v=3&s=64' width='64' height='64' title='Lucía Fernández Montoya'> |
-| 955 | [essenciary](https://github.com/essenciary) | 17 | 1 | Elixir | Sitges, Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/11292378?v=3&s=64' width='64' height='64' title='Adrian Salceanu'> |
-| 956 | [pjmartorell](https://github.com/pjmartorell) | 17 | 9 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/345520?v=3&s=64' width='64' height='64' title='Pere Joan Martorell'> |
-| 957 | [sbanzas](https://github.com/sbanzas) | 17 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7403648?v=3&s=64' width='64' height='64' title='Sebastián Banzas Baró'> |
-| 958 | [doogle](https://github.com/doogle) | 17 | 1 | C | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1585181?v=3&s=64' width='64' height='64' title='David Steinberg'> |
-| 959 | [OrxataEnFartons](https://github.com/OrxataEnFartons) | 17 | 0 | R | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/8195303?v=3&s=64' width='64' height='64' title='Miquel Angel'> |
-| 960 | [miquelbarba](https://github.com/miquelbarba) | 17 | 2 | Clojure | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/685881?v=3&s=64' width='64' height='64' title='Miquel Barba'> |
-| 961 | [llambeau](https://github.com/llambeau) | 17 | 81 | JavaScript | Barcelona, ES | <img src='https://avatars3.githubusercontent.com/u/186090?v=3&s=64' width='64' height='64' title='Louis Lambeau'> |
-| 962 | [ferranfg](https://github.com/ferranfg) | 17 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/195239?v=3&s=64' width='64' height='64' title='Ferran Figueredo'> |
-| 963 | [miguelRivero](https://github.com/miguelRivero) | 17 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3112093?v=3&s=64' width='64' height='64' title='Miguel Rivero'> |
-| 964 | [GA1](https://github.com/GA1) | 17 | 0 | Java and Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7684448?v=3&s=64' width='64' height='64' title='Kamil'> |
-| 965 | [TaVit0](https://github.com/TaVit0) | 17 | 4 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4301416?v=3&s=64' width='64' height='64' title='TaVit0'> |
-| 966 | [marcmr87](https://github.com/marcmr87) | 17 | 2 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3284834?v=3&s=64' width='64' height='64' title='Marc Marcet'> |
-| 967 | [ericpalau](https://github.com/ericpalau) | 16 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2803012?v=3&s=64' width='64' height='64' title='Èric Palau'> |
-| 968 | [dpiscia](https://github.com/dpiscia) | 16 | 5 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2247908?v=3&s=64' width='64' height='64' title='Davide Piscia'> |
-| 969 | [karimhossenbux](https://github.com/karimhossenbux) | 16 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/584224?v=3&s=64' width='64' height='64' title='Karim Hossenbux'> |
-| 970 | [jordigil](https://github.com/jordigil) | 16 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1738216?v=3&s=64' width='64' height='64' title='Jordi Gil'> |
-| 971 | [webeng](https://github.com/webeng) | 16 | 1 | PHP | Barcelona/Edinburgh | <img src='https://avatars0.githubusercontent.com/u/508225?v=3&s=64' width='64' height='64' title='Joan'> |
-| 972 | [martinpuertas](https://github.com/martinpuertas) | 16 | 0 | CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8997623?v=3&s=64' width='64' height='64' title='Martin Puertas'> |
-| 973 | [vteromero](https://github.com/vteromero) | 16 | 3 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4749171?v=3&s=64' width='64' height='64' title='Vicente Romero Calero'> |
-| 974 | [fadado](https://github.com/fadado) | 16 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7008746?v=3&s=64' width='64' height='64' title='Joan Josep Ordinas Rosa'> |
-| 975 | [fraguada](https://github.com/fraguada) | 16 | 21 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1014562?v=3&s=64' width='64' height='64' title='Luis E. Fraguada'> |
-| 976 | [jaranega](https://github.com/jaranega) | 16 | 0 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1898249?v=3&s=64' width='64' height='64' title='Javier Aránega'> |
-| 977 | [colinkingswood](https://github.com/colinkingswood) | 16 | 0 | Python and Perl | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2346088?v=3&s=64' width='64' height='64' title='Colin'> |
-| 978 | [jezuhke](https://github.com/jezuhke) | 16 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2351510?v=3&s=64' width='64' height='64' title='Jesús Herman Marina'> |
-| 979 | [angelnan](https://github.com/angelnan) | 16 | 6 | Python | Sabadell, Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2016654?v=3&s=64' width='64' height='64' title='Àngel Àlvarez Serra'> |
-| 980 | [pratipo](https://github.com/pratipo) | 16 | 6 | C++ | barcelona, spain | <img src='https://avatars2.githubusercontent.com/u/457727?v=3&s=64' width='64' height='64' title='pratipo'> |
-| 981 | [Balillas](https://github.com/Balillas) | 16 | 1 | Ruby | Barcelona - Spain | <img src='https://avatars1.githubusercontent.com/u/7450939?v=3&s=64' width='64' height='64' title='Albert Arredondo'> |
-| 982 | [pereorga](https://github.com/pereorga) | 16 | 28 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/919779?v=3&s=64' width='64' height='64' title='Pere Orga'> |
-| 983 | [ch4lit](https://github.com/ch4lit) | 16 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2900482?v=3&s=64' width='64' height='64' title='Sven Herzing'> |
-| 984 | [joantolos](https://github.com/joantolos) | 15 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9862082?v=3&s=64' width='64' height='64' title='Joan Tolós López'> |
-| 985 | [Siroko](https://github.com/Siroko) | 15 | 0 | CSS | Barcelona Spain | <img src='https://avatars0.githubusercontent.com/u/190785?v=3&s=64' width='64' height='64' title='Siroko'> |
-| 986 | [fergulis](https://github.com/fergulis) | 15 | 0 | Clojure | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9296844?v=3&s=64' width='64' height='64' title='Fernando Blanco Mourenza'> |
-| 987 | [diekus](https://github.com/diekus) | 15 | 1 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3104648?v=3&s=64' width='64' height='64' title='Diego'> |
-| 988 | [eberhm](https://github.com/eberhm) | 15 | 26 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1044082?v=3&s=64' width='64' height='64' title='Eber Herrera'> |
-| 989 | [joseprupi](https://github.com/joseprupi) | 15 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4953512?v=3&s=64' width='64' height='64' title='Josep Rubió'> |
-| 990 | [juolgon](https://github.com/juolgon) | 15 | 1 | Objective-C and Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9367460?v=3&s=64' width='64' height='64' title='Julian Oliver'> |
-| 991 | [vladyslav2](https://github.com/vladyslav2) | 15 | 1 | Python | Spain, Barcelona | <img src='https://avatars2.githubusercontent.com/u/704096?v=3&s=64' width='64' height='64' title='Vladysav Tarasenko'> |
-| 992 | [plmarcelo](https://github.com/plmarcelo) | 15 | 1 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/205708?v=3&s=64' width='64' height='64' title='Pedro de la Lastra'> |
-| 993 | [r01010010](https://github.com/r01010010) | 15 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/698953?v=3&s=64' width='64' height='64' title='Paloma Jiménez'> |
-| 994 | [ureesoriano](https://github.com/ureesoriano) | 15 | 0 | Perl | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2039533?v=3&s=64' width='64' height='64' title='Oriol Soriano'> |
-| 995 | [ngunsu](https://github.com/ngunsu) | 15 | 1 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/6067600?v=3&s=64' width='64' height='64' title='Cristhian Aguilera'> |
-| 996 | [crosasm](https://github.com/crosasm) | 15 | 0 | Shell and Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/5917880?v=3&s=64' width='64' height='64' title='Claudia Rosas'> |
-| 997 | [frommelmak](https://github.com/frommelmak) | 15 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2757148?v=3&s=64' width='64' height='64' title='Marcos Martínez'> |
-| 998 | [tilibom](https://github.com/tilibom) | 15 | 1 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3380662?v=3&s=64' width='64' height='64' title='Artëm Loginov'> |
-| 999 | [danyg](https://github.com/danyg) | 15 | 33 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1834409?v=3&s=64' width='64' height='64' title='Daniel Goberitz'> |
-| 1000 | [kirthar](https://github.com/kirthar) | 15 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2504777?v=3&s=64' width='64' height='64' title='Chris Fuertes'> |
-| 1001 | [ameithor](https://github.com/ameithor) | 15 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5008272?v=3&s=64' width='64' height='64' title='Droideka'> |
-| 1002 | [rafathefull](https://github.com/rafathefull) | 15 | 7 | JavaScript and Python | Bigues i Riells, Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/832794?v=3&s=64' width='64' height='64' title='Rafael Carmona'> |
-| 1003 | [santihbc](https://github.com/santihbc) | 15 | 16 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2404757?v=3&s=64' width='64' height='64' title='Santiago Herrero'> |
-| 1004 | [egouy](https://github.com/egouy) | 15 | 0 | CSS and JavaScript | Barcelona, Paris | <img src='https://avatars2.githubusercontent.com/u/4729996?v=3&s=64' width='64' height='64' title='Ulrich Egouy'> |
-| 1005 | [Sergiojimenez](https://github.com/Sergiojimenez) | 15 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3257459?v=3&s=64' width='64' height='64' title='Sergio Jiménez Corominas'> |
-| 1006 | [nesukun](https://github.com/nesukun) | 15 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/288427?v=3&s=64' width='64' height='64' title='Néstor Hernández Ojeda'> |
-| 1007 | [kalvinarts](https://github.com/kalvinarts) | 15 | 0 | JavaScript | Sabadell, Barcelona | <img src='https://avatars1.githubusercontent.com/u/2036997?v=3&s=64' width='64' height='64' title='Albert Calbet Martinez'> |
-| 1008 | [albertvazquezm](https://github.com/albertvazquezm) | 15 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10158320?v=3&s=64' width='64' height='64' title='Albert Vàzquez'> |
-| 1009 | [carlesgutierrez](https://github.com/carlesgutierrez) | 15 | 4 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/203877?v=3&s=64' width='64' height='64' title='carles'> |
-| 1010 | [gnatok](https://github.com/gnatok) | 15 | 10 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1182933?v=3&s=64' width='64' height='64' title='Alex Gnatishin'> |
-| 1011 | [orioljimenez](https://github.com/orioljimenez) | 15 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/595146?v=3&s=64' width='64' height='64' title='Oriol Jiménez'> |
-| 1012 | [kaikcreator](https://github.com/kaikcreator) | 14 | 0 | Python | Barcelona (SPAIN) | <img src='https://avatars2.githubusercontent.com/u/7058118?v=3&s=64' width='64' height='64' title=''> |
-| 1013 | [skalad](https://github.com/skalad) | 14 | 0 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8101176?v=3&s=64' width='64' height='64' title=''> |
-| 1014 | [alexmera88](https://github.com/alexmera88) | 14 | 0 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10993551?v=3&s=64' width='64' height='64' title='Alex Mera'> |
-| 1015 | [xavi-a-gamedonia](https://github.com/xavi-a-gamedonia) | 14 | 0 | C# | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11676930?v=3&s=64' width='64' height='64' title='Xavi'> |
-| 1016 | [jordi-marsol](https://github.com/jordi-marsol) | 14 | 0 | R | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10536648?v=3&s=64' width='64' height='64' title=''> |
-| 1017 | [mrtxema](https://github.com/mrtxema) | 14 | 0 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2681934?v=3&s=64' width='64' height='64' title='Txema Martinez'> |
-| 1018 | [xaviarias](https://github.com/xaviarias) | 14 | 8 | Java | Barcelona, Catalonia, Spain | <img src='https://avatars0.githubusercontent.com/u/876579?v=3&s=64' width='64' height='64' title='Xavier Arias Seguí'> |
-| 1019 | [sisqbates](https://github.com/sisqbates) | 14 | 0 | Groovy | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3432248?v=3&s=64' width='64' height='64' title='Ferran Puig'> |
-| 1020 | [flegontovna](https://github.com/flegontovna) | 14 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3530857?v=3&s=64' width='64' height='64' title='Polina Flegontovna'> |
-| 1021 | [Rydra](https://github.com/Rydra) | 14 | 3 | C# | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5826108?v=3&s=64' width='64' height='64' title='David Jiménez'> |
-| 1022 | [dtamajon](https://github.com/dtamajon) | 14 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4687336?v=3&s=64' width='64' height='64' title='Daniel Tamajon'> |
-| 1023 | [jsalvata](https://github.com/jsalvata) | 14 | 14 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1059994?v=3&s=64' width='64' height='64' title='Jordi Salvat i Alabart'> |
-| 1024 | [nuriarai](https://github.com/nuriarai) | 14 | 0 | PHP and CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2734143?v=3&s=64' width='64' height='64' title='Núria'> |
-| 1025 | [jantonsg](https://github.com/jantonsg) | 14 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7620951?v=3&s=64' width='64' height='64' title='Joan Anton'> |
-| 1026 | [albert-lopez](https://github.com/albert-lopez) | 14 | 0 | C++ and C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1210511?v=3&s=64' width='64' height='64' title='Albert López Brescó'> |
-| 1027 | [vchoubard](https://github.com/vchoubard) | 14 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1035063?v=3&s=64' width='64' height='64' title='Vincent Choubard'> |
-| 1028 | [rroch](https://github.com/rroch) | 14 | 1 | CSS and JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/319839?v=3&s=64' width='64' height='64' title='Roger Roch'> |
-| 1029 | [rcrehuet](https://github.com/rcrehuet) | 14 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1632372?v=3&s=64' width='64' height='64' title='Ramon Crehuet'> |
-| 1030 | [AlexMnrs](https://github.com/AlexMnrs) | 14 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10886760?v=3&s=64' width='64' height='64' title=''> |
-| 1031 | [Frederic-Barcelone](https://github.com/Frederic-Barcelone) | 14 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2123810?v=3&s=64' width='64' height='64' title='Fred'> |
-| 1032 | [arthurMll](https://github.com/arthurMll) | 14 | 0 |  | Casteldefels (Barcelona) | <img src='https://avatars2.githubusercontent.com/u/10529210?v=3&s=64' width='64' height='64' title='Arturo Mayoral'> |
-| 1033 | [shake729](https://github.com/shake729) | 14 | 0 | Java and C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7774048?v=3&s=64' width='64' height='64' title='Albert'> |
-| 1034 | [jonseg](https://github.com/jonseg) | 14 | 843 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/892373?v=3&s=64' width='64' height='64' title='Jon Segador'> |
-| 1035 | [keyser25bis](https://github.com/keyser25bis) | 14 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2939683?v=3&s=64' width='64' height='64' title='Augusto Mozzetti'> |
-| 1036 | [margabit](https://github.com/margabit) | 14 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/721798?v=3&s=64' width='64' height='64' title='Albert Margarit'> |
-| 1037 | [sbays](https://github.com/sbays) | 14 | 0 | JavaScript and Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2523119?v=3&s=64' width='64' height='64' title='S Bays'> |
-| 1038 | [salmar](https://github.com/salmar) | 14 | 57 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/122109?v=3&s=64' width='64' height='64' title='Sergi Almar'> |
-| 1039 | [farzadhusain](https://github.com/farzadhusain) | 14 | 1 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8905651?v=3&s=64' width='64' height='64' title='Farzad Husain'> |
-| 1040 | [niladell](https://github.com/niladell) | 14 | 0 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11044614?v=3&s=64' width='64' height='64' title='Nil Adell'> |
-| 1041 | [xavileon](https://github.com/xavileon) | 14 | 1 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1135937?v=3&s=64' width='64' height='64' title='Xavier León'> |
-| 1042 | [jmsallan](https://github.com/jmsallan) | 14 | 0 | R | Terrassa - Barcelona | <img src='https://avatars2.githubusercontent.com/u/9519244?v=3&s=64' width='64' height='64' title='Jose M Sallan'> |
-| 1043 | [arnsangra](https://github.com/arnsangra) | 14 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9131261?v=3&s=64' width='64' height='64' title='Arnau Sangrà Rocamora'> |
-| 1044 | [sergiandreplace](https://github.com/sergiandreplace) | 14 | 8 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/541020?v=3&s=64' width='64' height='64' title='Sergi Martínez'> |
-| 1045 | [carlosmartinmari](https://github.com/carlosmartinmari) | 14 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7494065?v=3&s=64' width='64' height='64' title='Carlos Martin'> |
-| 1046 | [slanau](https://github.com/slanau) | 14 | 0 | Java | Barcelona, Catalonia, Spain | <img src='https://avatars0.githubusercontent.com/u/1876358?v=3&s=64' width='64' height='64' title='Sergi Lanau'> |
-| 1047 | [yaneq](https://github.com/yaneq) | 14 | 9 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/453041?v=3&s=64' width='64' height='64' title='Jan Koeppen'> |
-| 1048 | [danielmellado](https://github.com/danielmellado) | 14 | 1 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1313475?v=3&s=64' width='64' height='64' title='Daniel Mellado'> |
-| 1049 | [voxmures](https://github.com/voxmures) | 14 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5038138?v=3&s=64' width='64' height='64' title='Joaquín Campos Colmenarejo'> |
-| 1050 | [paulinagorecka](https://github.com/paulinagorecka) | 14 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9274355?v=3&s=64' width='64' height='64' title='Paulina Gorecka'> |
-| 1051 | [hampld](https://github.com/hampld) | 13 | 0 |  | Zürich, Switzerland // Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3428424?v=3&s=64' width='64' height='64' title='David Hampl'> |
-| 1052 | [jmcordoba](https://github.com/jmcordoba) | 13 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/386218?v=3&s=64' width='64' height='64' title='JuanMa Córdoba'> |
-| 1053 | [quimcalpe](https://github.com/quimcalpe) | 13 | 5 | JavaScript | Granollers, Barcelona | <img src='https://avatars2.githubusercontent.com/u/1057151?v=3&s=64' width='64' height='64' title='Quim Calpe'> |
-| 1054 | [tatygrassini](https://github.com/tatygrassini) | 13 | 44 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/185308?v=3&s=64' width='64' height='64' title='tatygrassini'> |
-| 1055 | [arkeros](https://github.com/arkeros) | 13 | 3 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/991767?v=3&s=64' width='64' height='64' title='Rafael Arquero Gimeno'> |
-| 1056 | [afernandez90](https://github.com/afernandez90) | 13 | 0 | C++ | Martorell (Barcelona) | <img src='https://avatars3.githubusercontent.com/u/5048790?v=3&s=64' width='64' height='64' title='Alejandro Fernández Suárez'> |
-| 1057 | [annasdt](https://github.com/annasdt) | 13 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3008648?v=3&s=64' width='64' height='64' title='Anna Sáez de Tejada'> |
-| 1058 | [ignasi](https://github.com/ignasi) | 13 | 2 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/587050?v=3&s=64' width='64' height='64' title='Ignasi Busquets'> |
-| 1059 | [dacbes](https://github.com/dacbes) | 13 | 0 | Shell and PowerShell | Barberá del valles, Barcelona | <img src='https://avatars2.githubusercontent.com/u/9955658?v=3&s=64' width='64' height='64' title='David Acebes'> |
-| 1060 | [saulbaro](https://github.com/saulbaro) | 13 | 0 | Ruby and Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1497437?v=3&s=64' width='64' height='64' title='Saul Baro'> |
-| 1061 | [jluis](https://github.com/jluis) | 13 | 3 | Perl | Barcelona | <img src='https://avatars1.githubusercontent.com/u/122004?v=3&s=64' width='64' height='64' title='Jose Luis Perez Diez'> |
-| 1062 | [oarnau](https://github.com/oarnau) | 13 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4116252?v=3&s=64' width='64' height='64' title='Oriol Arnau Rubio'> |
-| 1063 | [ganguera](https://github.com/ganguera) | 13 | 4 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/673514?v=3&s=64' width='64' height='64' title='Guillem Anguera'> |
-| 1064 | [marcmora](https://github.com/marcmora) | 13 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1056377?v=3&s=64' width='64' height='64' title='Marc Mora'> |
-| 1065 | [iamjalal](https://github.com/iamjalal) | 13 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8059362?v=3&s=64' width='64' height='64' title='Jalal'> |
-| 1066 | [rafa-aguilar](https://github.com/rafa-aguilar) | 13 | 2 | PHP and Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/594574?v=3&s=64' width='64' height='64' title='Rafa Aguilar'> |
-| 1067 | [tatuguerra](https://github.com/tatuguerra) | 13 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5858686?v=3&s=64' width='64' height='64' title='Tatu Guerra'> |
-| 1068 | [maneta](https://github.com/maneta) | 13 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1528321?v=3&s=64' width='64' height='64' title='H. Daniel Cesario'> |
-| 1069 | [okjake](https://github.com/okjake) | 13 | 4 | C++ | London & Barcelona | <img src='https://avatars0.githubusercontent.com/u/316538?v=3&s=64' width='64' height='64' title='Jake Pyne'> |
-| 1070 | [iEnrico](https://github.com/iEnrico) | 13 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3371214?v=3&s=64' width='64' height='64' title='Enric'> |
-| 1071 | [c990802](https://github.com/c990802) | 13 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6229037?v=3&s=64' width='64' height='64' title='Isaac Mayolas'> |
-| 1072 | [roden0](https://github.com/roden0) | 13 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3738096?v=3&s=64' width='64' height='64' title='Rodrigo Encinas'> |
-| 1073 | [jesusdiez](https://github.com/jesusdiez) | 13 | 7 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/393104?v=3&s=64' width='64' height='64' title='Jesús Díez'> |
-| 1074 | [eballetbo](https://github.com/eballetbo) | 13 | 12 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/128478?v=3&s=64' width='64' height='64' title='Enric Balletbo i Serra'> |
-| 1075 | [emmgfx](https://github.com/emmgfx) | 13 | 3 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1131393?v=3&s=64' width='64' height='64' title='Josep Viciana'> |
-| 1076 | [shierve](https://github.com/shierve) | 13 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10463860?v=3&s=64' width='64' height='64' title='Sergi Canal'> |
-| 1077 | [agustisanchez](https://github.com/agustisanchez) | 12 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1122000?v=3&s=64' width='64' height='64' title='Agustí Sánchez'> |
-| 1078 | [pmphp](https://github.com/pmphp) | 12 | 27 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/931879?v=3&s=64' width='64' height='64' title='Pere Monfort'> |
-| 1079 | [roctoll](https://github.com/roctoll) | 12 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1101454?v=3&s=64' width='64' height='64' title='Roc'> |
-| 1080 | [hugopibernat](https://github.com/hugopibernat) | 12 | 0 | HTML | London/Barcelona | <img src='https://avatars3.githubusercontent.com/u/7289178?v=3&s=64' width='64' height='64' title='Hugo Pibernat'> |
-| 1081 | [neferketer](https://github.com/neferketer) | 12 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5838368?v=3&s=64' width='64' height='64' title='Arnau Garcia'> |
-| 1082 | [rajmeenacse](https://github.com/rajmeenacse) | 12 | 0 | Ruby | Tokyo/Barcelona | <img src='https://avatars3.githubusercontent.com/u/3255087?v=3&s=64' width='64' height='64' title='Raj (Bhoor Meena)'> |
-| 1083 | [Naguissa](https://github.com/Naguissa) | 12 | 2 | C++ and Arduino | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/11961737?v=3&s=64' width='64' height='64' title='Naguissa'> |
-| 1084 | [raohmaru](https://github.com/raohmaru) | 12 | 8 | ActionScript | Cornellà de Llobregat (Barcelona) | <img src='https://avatars0.githubusercontent.com/u/1773839?v=3&s=64' width='64' height='64' title='Raúl Parralejo'> |
-| 1085 | [jgonzalezdr](https://github.com/jgonzalezdr) | 12 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6639296?v=3&s=64' width='64' height='64' title='Jesús González'> |
-| 1086 | [sergiogoro](https://github.com/sergiogoro) | 12 | 0 | Perl | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2668953?v=3&s=64' width='64' height='64' title='Sergio G.'> |
-| 1087 | [arnauorriols](https://github.com/arnauorriols) | 12 | 6 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4871949?v=3&s=64' width='64' height='64' title='Arnau Orriols'> |
-| 1088 | [ppeszko](https://github.com/ppeszko) | 12 | 36 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2364?v=3&s=400' width='64' height='64' title='Patryk Peszko'> |
-| 1089 | [abel-navarro](https://github.com/abel-navarro) | 12 | 0 | Shell and Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1333236?v=3&s=64' width='64' height='64' title='Abel Navarro'> |
-| 1090 | [maariasb](https://github.com/maariasb) | 12 | 0 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/4762708?v=3&s=64' width='64' height='64' title='Marc Arias'> |
-| 1091 | [hgarza](https://github.com/hgarza) | 12 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8323856?v=3&s=64' width='64' height='64' title='Heidi Garza'> |
-| 1092 | [jonathan-roper](https://github.com/jonathan-roper) | 12 | 20 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/492266?v=3&s=64' width='64' height='64' title='Jonathan Roper'> |
-| 1093 | [gratiangaga](https://github.com/gratiangaga) | 12 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11014318?v=3&s=64' width='64' height='64' title='Gratian G'> |
-| 1094 | [hydex86](https://github.com/hydex86) | 12 | 2 | Objective-C | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1034490?v=3&s=64' width='64' height='64' title='Daniel Albert'> |
-| 1095 | [davidgaya](https://github.com/davidgaya) | 12 | 21 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/85780?v=3&s=64' width='64' height='64' title='David Gaya'> |
-| 1096 | [xpujol](https://github.com/xpujol) | 12 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2118097?v=3&s=64' width='64' height='64' title='Xevi Pujol'> |
-| 1097 | [ddgthub](https://github.com/ddgthub) | 12 | 0 | R | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7354253?v=3&s=64' width='64' height='64' title='Radina Matic'> |
-| 1098 | [xlagunas](https://github.com/xlagunas) | 12 | 2 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1460933?v=3&s=64' width='64' height='64' title='Xavier Lagunas Calpe'> |
-| 1099 | [ericmarcos](https://github.com/ericmarcos) | 12 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1058401?v=3&s=64' width='64' height='64' title='Eric Marcos'> |
-| 1100 | [didacs](https://github.com/didacs) | 12 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7119168?v=3&s=64' width='64' height='64' title='Didac Santesmasses'> |
-| 1101 | [acangros](https://github.com/acangros) | 12 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3485224?v=3&s=64' width='64' height='64' title='acangros'> |
-| 1102 | [obendi](https://github.com/obendi) | 12 | 0 | JavaScript and PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2210134?v=3&s=64' width='64' height='64' title='Oscar Bendicho Aylagas'> |
-| 1103 | [alfonsofonso](https://github.com/alfonsofonso) | 12 | 2 | CSS and JavaScript | barcelona | <img src='https://avatars3.githubusercontent.com/u/327723?v=3&s=64' width='64' height='64' title='alfonsofonso'> |
-| 1104 | [jruizcar](https://github.com/jruizcar) | 11 | 0 | Java | Granollers-Barcelona-Spain | <img src='https://avatars0.githubusercontent.com/u/9717598?v=3&s=64' width='64' height='64' title='Jose Ruiz'> |
-| 1105 | [xqueralt](https://github.com/xqueralt) | 11 | 4 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/154096?v=3&s=64' width='64' height='64' title='Xavier Queralt'> |
-| 1106 | [Maycas](https://github.com/Maycas) | 11 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4038706?v=3&s=64' width='64' height='64' title='Marc'> |
-| 1107 | [Ivi94](https://github.com/Ivi94) | 11 | 0 | Processing | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9032651?v=3&s=64' width='64' height='64' title='Iván'> |
-| 1108 | [vfabregat](https://github.com/vfabregat) | 11 | 1 | C# | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6525021?v=3&s=64' width='64' height='64' title='Victor'> |
-| 1109 | [noe6600](https://github.com/noe6600) | 11 | 2 | Java and PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/966167?v=3&s=64' width='64' height='64' title='Noemí Ferrer'> |
-| 1110 | [Warblefly](https://github.com/Warblefly) | 11 | 0 | Shell and Python | Barcelona and Brighton | <img src='https://avatars0.githubusercontent.com/u/9024115?v=3&s=64' width='64' height='64' title='John Warburton'> |
-| 1111 | [itstreamer](https://github.com/itstreamer) | 11 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11567691?v=3&s=64' width='64' height='64' title='Mark'> |
-| 1112 | [juanpablironhack](https://github.com/juanpablironhack) | 11 | 1 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8921918?v=3&s=64' width='64' height='64' title='Juan Pablo'> |
-| 1113 | [manugarciaes](https://github.com/manugarciaes) | 11 | 7 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/522560?v=3&s=64' width='64' height='64' title='Manuel García'> |
-| 1114 | [Jsantive88](https://github.com/Jsantive88) | 11 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2378653?v=3&s=64' width='64' height='64' title='Jorge'> |
-| 1115 | [iz3info](https://github.com/iz3info) | 11 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8439830?v=3&s=64' width='64' height='64' title='iZ3 Info'> |
-| 1116 | [milostu](https://github.com/milostu) | 11 | 0 | HTML and CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/12379587?v=3&s=64' width='64' height='64' title='Camilo Restrepo'> |
-| 1117 | [dasher](https://github.com/dasher) | 11 | 41 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/89955?v=3&s=64' width='64' height='64' title='dasher'> |
-| 1118 | [obarcelonap](https://github.com/obarcelonap) | 11 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8988184?v=3&s=64' width='64' height='64' title='Oriol Barcelona'> |
-| 1119 | [guillaumeparis2000](https://github.com/guillaumeparis2000) | 11 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2109907?v=3&s=64' width='64' height='64' title='Guillaume PARIS'> |
-| 1120 | [chuckleplant](https://github.com/chuckleplant) | 11 | 4 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3345499?v=3&s=64' width='64' height='64' title='Sergio Basurco'> |
-| 1121 | [Solero93](https://github.com/Solero93) | 11 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4397507?v=3&s=64' width='64' height='64' title='Christian'> |
-| 1122 | [jvdelso](https://github.com/jvdelso) | 11 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3066596?v=3&s=64' width='64' height='64' title='Javier Delso'> |
-| 1123 | [jlrobles](https://github.com/jlrobles) | 11 | 0 | JavaScript | El Prat del Llobregat, Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7603999?v=3&s=64' width='64' height='64' title='Juan Luis Robles Vicente'> |
-| 1124 | [jcorrius](https://github.com/jcorrius) | 11 | 3 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/77185?v=3&s=64' width='64' height='64' title='Jesús Corrius'> |
-| 1125 | [santiperez](https://github.com/santiperez) | 11 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1950189?v=3&s=64' width='64' height='64' title='Santi Pérez'> |
-| 1126 | [giron3s](https://github.com/giron3s) | 11 | 0 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/236645?v=3&s=400' width='64' height='64' title='Marc Girones'> |
-| 1127 | [DaniUPC](https://github.com/DaniUPC) | 11 | 0 | Java and Scala | Barcelona, Catalunya | <img src='https://avatars3.githubusercontent.com/u/1104466?v=3&s=64' width='64' height='64' title='Daniel'> |
-| 1128 | [ignasivegas](https://github.com/ignasivegas) | 11 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2070415?v=3&s=64' width='64' height='64' title='Ignasi Vegas'> |
-| 1129 | [territoriocreativo](https://github.com/territoriocreativo) | 11 | 0 | JavaScript and Ruby | Madrid, Barcelona, Bogotá. | <img src='https://avatars3.githubusercontent.com/u/7046923?v=3&s=64' width='64' height='64' title=''> |
-| 1130 | [ascandroli](https://github.com/ascandroli) | 11 | 22 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/449509?v=3&s=64' width='64' height='64' title='Alejandro Scandroli'> |
-| 1131 | [hecspc](https://github.com/hecspc) | 11 | 58 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/34852?v=3&s=64' width='64' height='64' title='Hector Castilla'> |
-| 1132 | [msanroman](https://github.com/msanroman) | 11 | 39 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/720667?v=3&s=64' width='64' height='64' title='Mike San Román'> |
-| 1133 | [MiquelNieto](https://github.com/MiquelNieto) | 11 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8396949?v=3&s=64' width='64' height='64' title='Miquel Nieto'> |
-| 1134 | [iroyo](https://github.com/iroyo) | 11 | 1 | CSS and JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7514175?v=3&s=64' width='64' height='64' title=''> |
-| 1135 | [eduesc](https://github.com/eduesc) | 11 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10939945?v=3&s=64' width='64' height='64' title='Eduard Escalona'> |
-| 1136 | [keur](https://github.com/keur) | 10 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3948492?v=3&s=64' width='64' height='64' title='Félix Axel Gimeno Gil'> |
-| 1137 | [marcgascon](https://github.com/marcgascon) | 10 | 0 | Shell and CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6639530?v=3&s=64' width='64' height='64' title='Marc Gascon'> |
-| 1138 | [dacacioa](https://github.com/dacacioa) | 10 | 0 | Shell and Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2761032?v=3&s=64' width='64' height='64' title='David Acacio'> |
-| 1139 | [bhellin](https://github.com/bhellin) | 10 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4296258?v=3&s=64' width='64' height='64' title='Benito Hellín'> |
-| 1140 | [nealobrien](https://github.com/nealobrien) | 10 | 1 | Scala | London and Barcelona | <img src='https://avatars0.githubusercontent.com/u/2433222?v=3&s=64' width='64' height='64' title='Neal OBrien'> |
-| 1141 | [spejman](https://github.com/spejman) | 10 | 123 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/873?v=3&s=64' width='64' height='64' title='Sergio Espeja'> |
-| 1142 | [gonzalezrichard](https://github.com/gonzalezrichard) | 10 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7264114?v=3&s=64' width='64' height='64' title='Ricardo Mariano González'> |
-| 1143 | [Mahidur](https://github.com/Mahidur) | 10 | 0 | R | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/11369525?v=3&s=64' width='64' height='64' title='M. Mahidur Rahman'> |
-| 1144 | [JuCar](https://github.com/JuCar) | 10 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7748045?v=3&s=64' width='64' height='64' title='Juan Carlos'> |
-| 1145 | [IreneMarin](https://github.com/IreneMarin) | 10 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/12280031?v=3&s=64' width='64' height='64' title=''> |
-| 1146 | [JesConsuegra](https://github.com/JesConsuegra) | 10 | 0 | Assembly and Visual Basic | Olivella, (Barcelona) - SPAIN | <img src='https://avatars3.githubusercontent.com/u/11779140?v=3&s=64' width='64' height='64' title='Jes Consuegra'> |
-| 1147 | [nivariano](https://github.com/nivariano) | 10 | 0 | R | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10911826?v=3&s=64' width='64' height='64' title=''> |
-| 1148 | [jagenjo](https://github.com/jagenjo) | 10 | 48 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/393515?v=3&s=64' width='64' height='64' title='Javi Agenjo'> |
-| 1149 | [jjrumi](https://github.com/jjrumi) | 10 | 1 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/858020?v=3&s=64' width='64' height='64' title='Juan Luis Jimenez'> |
-| 1150 | [targetimc](https://github.com/targetimc) | 10 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8749316?v=3&s=64' width='64' height='64' title='Max'> |
-| 1151 | [carguezu](https://github.com/carguezu) | 10 | 7 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4050713?v=3&s=64' width='64' height='64' title='CarlosGz'> |
-| 1152 | [sourcerebels](https://github.com/sourcerebels) | 10 | 6 | Java | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/198603?v=3&s=64' width='64' height='64' title='Edu Rodríguez Castillo'> |
-| 1153 | [borjarossell](https://github.com/borjarossell) | 10 | 0 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9050044?v=3&s=64' width='64' height='64' title='Borja Rossell'> |
-| 1154 | [kyleh415](https://github.com/kyleh415) | 10 | 0 | Objective-C and Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7959399?v=3&s=64' width='64' height='64' title='Kyle Hardman'> |
-| 1155 | [victorAlvarez](https://github.com/victorAlvarez) | 10 | 0 | Perl | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3252824?v=3&s=64' width='64' height='64' title='Víctor Álvarez Pérez'> |
-| 1156 | [assimovt](https://github.com/assimovt) | 10 | 53 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5113?v=3&s=64' width='64' height='64' title='Tair Assimov'> |
-| 1157 | [JordiCruells](https://github.com/JordiCruells) | 10 | 0 | JavaScript | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/3403865?v=3&s=64' width='64' height='64' title='Jordi Cruells'> |
-| 1158 | [GinesOrtiz](https://github.com/GinesOrtiz) | 10 | 2 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3239559?v=3&s=64' width='64' height='64' title=''> |
-| 1159 | [afeherc](https://github.com/afeherc) | 10 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10830012?v=3&s=64' width='64' height='64' title='Alejandro Feher Canadell'> |
-| 1160 | [richigallego](https://github.com/richigallego) | 10 | 0 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7256123?v=3&s=64' width='64' height='64' title='Richi Gallego'> |
-| 1161 | [David-Gil](https://github.com/David-Gil) | 10 | 0 | Ruby | Barcelona (Catalonia) | <img src='https://avatars0.githubusercontent.com/u/1552663?v=3&s=64' width='64' height='64' title='David Gil'> |
-| 1162 | [jacanales](https://github.com/jacanales) | 10 | 1 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1262919?v=3&s=64' width='64' height='64' title='Jesús Antonio Canales Diez'> |
-| 1163 | [leonkyr](https://github.com/leonkyr) | 10 | 2 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/108253?v=3&s=64' width='64' height='64' title='Leonid Kyrpychenko'> |
-| 1164 | [vicentgodella](https://github.com/vicentgodella) | 10 | 18 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/852745?v=3&s=64' width='64' height='64' title='Vicent Soria'> |
-| 1165 | [u26726](https://github.com/u26726) | 10 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1142572?v=3&s=64' width='64' height='64' title='Juan Manuel'> |
-| 1166 | [planas](https://github.com/planas) | 9 | 13 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1347779?v=3&s=64' width='64' height='64' title='Adrià Planas'> |
-| 1167 | [mromerog](https://github.com/mromerog) | 9 | 0 | FORTRAN and C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9444527?v=3&s=64' width='64' height='64' title='Merce Romero-Gomez'> |
-| 1168 | [srxavi](https://github.com/srxavi) | 9 | 8 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/173510?v=3&s=64' width='64' height='64' title='Xavi Francisco'> |
-| 1169 | [philippebernou](https://github.com/philippebernou) | 9 | 0 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7796776?v=3&s=64' width='64' height='64' title='Philippe Bernou'> |
-| 1170 | [hadeskun](https://github.com/hadeskun) | 9 | 1 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1849915?v=3&s=64' width='64' height='64' title='Julian Diaz'> |
-| 1171 | [maxaldunate](https://github.com/maxaldunate) | 9 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3446330?v=3&s=64' width='64' height='64' title='Max Aldunate'> |
-| 1172 | [brutuscat](https://github.com/brutuscat) | 9 | 34 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/301959?v=3&s=64' width='64' height='64' title='Mauro Asprea'> |
-| 1173 | [etrulls](https://github.com/etrulls) | 9 | 5 | C | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5287643?v=3&s=64' width='64' height='64' title='Eduard Trulls'> |
-| 1174 | [vaguilera](https://github.com/vaguilera) | 9 | 6 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2461943?v=3&s=64' width='64' height='64' title='Victor Aguilera'> |
-| 1175 | [ceymard](https://github.com/ceymard) | 9 | 19 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/737441?v=3&s=64' width='64' height='64' title='Christophe Eymard'> |
-| 1176 | [MarcSalvat](https://github.com/MarcSalvat) | 9 | 1 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1284248?v=3&s=64' width='64' height='64' title='Marc Salvat'> |
-| 1177 | [dani-Tb](https://github.com/dani-Tb) | 9 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5754517?v=3&s=64' width='64' height='64' title='Dani Torrens'> |
-| 1178 | [Eskatrem](https://github.com/Eskatrem) | 9 | 5 | Clojure | Barcelona | <img src='https://avatars1.githubusercontent.com/u/919676?v=3&s=64' width='64' height='64' title='Samuel Lê'> |
-| 1179 | [impalah](https://github.com/impalah) | 9 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9281663?v=3&s=64' width='64' height='64' title='Impalah'> |
-| 1180 | [hades87](https://github.com/hades87) | 9 | 0 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3637919?v=3&s=64' width='64' height='64' title='Sergio'> |
-| 1181 | [sergilazaro](https://github.com/sergilazaro) | 9 | 1 | C# | Barcelona | <img src='https://avatars1.githubusercontent.com/u/969643?v=3&s=64' width='64' height='64' title='Sergi Lázaro'> |
-| 1182 | [luisortizramos](https://github.com/luisortizramos) | 9 | 0 | PHP and Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5518704?v=3&s=64' width='64' height='64' title='Luis Ortiz Ramos'> |
-| 1183 | [dmorinya](https://github.com/dmorinya) | 9 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6972960?v=3&s=64' width='64' height='64' title='David Moriña Soler'> |
-| 1184 | [ovidiubrunet](https://github.com/ovidiubrunet) | 9 | 0 | PHP and ApacheConf | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9217452?v=3&s=64' width='64' height='64' title='Dragoi Ovidiu'> |
-| 1185 | [petrusqui](https://github.com/petrusqui) | 9 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3110483?v=3&s=64' width='64' height='64' title='Petru Rares Sincraian'> |
-| 1186 | [jcxk](https://github.com/jcxk) | 9 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/765101?v=3&s=64' width='64' height='64' title='Juan carlos'> |
-| 1187 | [PerroVerd](https://github.com/PerroVerd) | 9 | 1 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3480633?v=3&s=64' width='64' height='64' title='Celso González'> |
-| 1188 | [casassg](https://github.com/casassg) | 9 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6912589?v=3&s=64' width='64' height='64' title='Gerard Casas'> |
-| 1189 | [noymn](https://github.com/noymn) | 9 | 0 | HTML and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1385463?v=3&s=64' width='64' height='64' title='David Campos'> |
-| 1190 | [sbonoc](https://github.com/sbonoc) | 9 | 0 | Java | Badalona, Barcelona | <img src='https://avatars2.githubusercontent.com/u/913494?v=3&s=64' width='64' height='64' title='Sergi Bono'> |
-| 1191 | [lucas-ez](https://github.com/lucas-ez) | 9 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5967650?v=3&s=64' width='64' height='64' title='Lucas'> |
-| 1192 | [rubenlucena](https://github.com/rubenlucena) | 9 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5638686?v=3&s=64' width='64' height='64' title='Rubén'> |
-| 1193 | [miguel-s](https://github.com/miguel-s) | 9 | 0 | Objective-C | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/7493212?v=3&s=64' width='64' height='64' title='Miguel Serrano'> |
-| 1194 | [celtric](https://github.com/celtric) | 8 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/159156?v=3&s=64' width='64' height='64' title=''> |
-| 1195 | [aldodfm](https://github.com/aldodfm) | 8 | 0 | Java | L'Hospitalet de Llobregat, Barcelona | <img src='https://avatars2.githubusercontent.com/u/907559?v=3&s=64' width='64' height='64' title='Aldo de Feo Martinez'> |
-| 1196 | [tigery](https://github.com/tigery) | 8 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7647211?v=3&s=64' width='64' height='64' title='Roberto Savikko'> |
-| 1197 | [javiercasares](https://github.com/javiercasares) | 8 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/10290686?v=3&s=64' width='64' height='64' title='Javier Casares'> |
-| 1198 | [hmoragrega](https://github.com/hmoragrega) | 8 | 0 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/349641?v=3&s=400' width='64' height='64' title='Hilari Moragrega'> |
-| 1199 | [turbohz](https://github.com/turbohz) | 8 | 4 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/61641?v=3&s=64' width='64' height='64' title='Gerard Ruiz'> |
-| 1200 | [claudix](https://github.com/claudix) | 8 | 0 | C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5880835?v=3&s=64' width='64' height='64' title='Claudi Martinez'> |
-| 1201 | [dliuzzi](https://github.com/dliuzzi) | 8 | 4 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/143884?v=3&s=64' width='64' height='64' title='Daniel Liuzzi'> |
-| 1202 | [joffrey92](https://github.com/joffrey92) | 8 | 0 | Shell | Barcelona,ES | <img src='https://avatars3.githubusercontent.com/u/7384759?v=3&s=64' width='64' height='64' title='Joffrey MICHAIE'> |
-| 1203 | [goda87](https://github.com/goda87) | 8 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2364234?v=3&s=64' width='64' height='64' title='goda87'> |
-| 1204 | [Kaushaya](https://github.com/Kaushaya) | 8 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3813135?v=3&s=64' width='64' height='64' title='Kaushaya Ganguly'> |
-| 1205 | [jmangas](https://github.com/jmangas) | 8 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1798836?v=3&s=64' width='64' height='64' title='Toni Mangas'> |
-| 1206 | [zoraida](https://github.com/zoraida) | 8 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2461902?v=3&s=64' width='64' height='64' title='Zoraida Hidalgo'> |
-| 1207 | [garcialebiere](https://github.com/garcialebiere) | 8 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4761266?v=3&s=64' width='64' height='64' title='Eduardo García Lebière'> |
-| 1208 | [LegaultOs](https://github.com/LegaultOs) | 8 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1413190?v=3&s=64' width='64' height='64' title='Oscar'> |
-| 1209 | [apamo](https://github.com/apamo) | 8 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10588391?v=3&s=64' width='64' height='64' title='Álvaro'> |
-| 1210 | [perrosucio](https://github.com/perrosucio) | 8 | 0 | C++ | Barcelona, España | <img src='https://avatars3.githubusercontent.com/u/10568998?v=3&s=64' width='64' height='64' title='Guillermo Harosteguy'> |
-| 1211 | [ferranpi](https://github.com/ferranpi) | 8 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2451698?v=3&s=64' width='64' height='64' title='Fer'> |
-| 1212 | [martatolos](https://github.com/martatolos) | 8 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2376620?v=3&s=64' width='64' height='64' title='Marta Tolós'> |
-| 1213 | [davidgit](https://github.com/davidgit) | 8 | 13 | Python | Barcelona, Catalonia | <img src='https://avatars1.githubusercontent.com/u/79498?v=3&s=64' width='64' height='64' title='David Gay i Tello'> |
-| 1214 | [dariobarrio](https://github.com/dariobarrio) | 8 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1043741?v=3&s=64' width='64' height='64' title='Darío Barrio'> |
-| 1215 | [martin-azpillaga](https://github.com/martin-azpillaga) | 8 | 3 | TeX | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6147446?v=3&s=64' width='64' height='64' title='Martin Azpillaga Aldalur'> |
-| 1216 | [mgboydcom](https://github.com/mgboydcom) | 8 | 1 | JavaScript | Barcelona, ES | <img src='https://avatars0.githubusercontent.com/u/1239821?v=3&s=64' width='64' height='64' title='Mark Boyd'> |
-| 1217 | [benjamitauler](https://github.com/benjamitauler) | 8 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6003575?v=3&s=64' width='64' height='64' title='Benjamin'> |
-| 1218 | [xhaju](https://github.com/xhaju) | 8 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1023794?v=3&s=64' width='64' height='64' title=''> |
-| 1219 | [jartes](https://github.com/jartes) | 8 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1046943?v=3&s=64' width='64' height='64' title='Joan Artés'> |
-| 1220 | [miguelmossa](https://github.com/miguelmossa) | 8 | 0 | TeX and R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/12451713?v=3&s=64' width='64' height='64' title='MiguelMossa'> |
-| 1221 | [ismaelresp](https://github.com/ismaelresp) | 8 | 0 | Python and C | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7013638?v=3&s=64' width='64' height='64' title='Ismael Rodriguez Espigares'> |
-| 1222 | [nubotica](https://github.com/nubotica) | 8 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/6081182?v=3&s=64' width='64' height='64' title='Nubótica'> |
-| 1223 | [saimonmoore](https://github.com/saimonmoore) | 8 | 162 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/494?v=3&s=64' width='64' height='64' title='Saimon Moore'> |
-| 1224 | [pereferrera](https://github.com/pereferrera) | 8 | 160 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/254208?v=3&s=64' width='64' height='64' title='Pere Ferrera'> |
-| 1225 | [ajaysmurthy](https://github.com/ajaysmurthy) | 8 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1675483?v=3&s=64' width='64' height='64' title='Ajay Srinivasamurthy'> |
-| 1226 | [Miz85](https://github.com/Miz85) | 8 | 2 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/758584?v=3&s=64' width='64' height='64' title='Nazim Saouli'> |
-| 1227 | [TulioDomingos](https://github.com/TulioDomingos) | 8 | 0 | Scala | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5773642?v=3&s=64' width='64' height='64' title='Tulio Domingos'> |
-| 1228 | [aleixdeve](https://github.com/aleixdeve) | 8 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9527519?v=3&s=64' width='64' height='64' title='Aleix Devesa'> |
-| 1229 | [BonteConsulting](https://github.com/BonteConsulting) | 8 | 0 |  | BARCELONA (Spain) | <img src='https://avatars1.githubusercontent.com/u/9585299?v=3&s=64' width='64' height='64' title=''> |
-| 1230 | [DZPM](https://github.com/DZPM) | 8 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/353447?v=3&s=64' width='64' height='64' title='David Arcos'> |
-| 1231 | [gusjavaz](https://github.com/gusjavaz) | 8 | 0 |  | Barcelona, España | <img src='https://avatars1.githubusercontent.com/u/10463166?v=3&s=64' width='64' height='64' title='Gustavo Vázquez Amado'> |
-| 1232 | [starsk62](https://github.com/starsk62) | 8 | 0 | Perl | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4258792?v=3&s=64' width='64' height='64' title='Starsky Lara'> |
-| 1233 | [MiquelT](https://github.com/MiquelT) | 8 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6726536?v=3&s=64' width='64' height='64' title='Miquel'> |
-| 1234 | [dtarda](https://github.com/dtarda) | 8 | 1 | CSS and JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2777904?v=3&s=64' width='64' height='64' title='David'> |
-| 1235 | [roig](https://github.com/roig) | 8 | 5 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/389619?v=3&s=64' width='64' height='64' title='Daniel Guzman'> |
-| 1236 | [lluisgh28](https://github.com/lluisgh28) | 8 | 2 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1053732?v=3&s=64' width='64' height='64' title='Lluís Gómez Hernando'> |
-| 1237 | [legnaleama](https://github.com/legnaleama) | 8 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3636549?v=3&s=64' width='64' height='64' title='legnaleama'> |
-| 1238 | [dmateogarcia](https://github.com/dmateogarcia) | 8 | 0 |  | Barcelona (ESPAÑA) | <img src='https://avatars1.githubusercontent.com/u/10046579?v=3&s=64' width='64' height='64' title='Daniel Mateo Gracía'> |
-| 1239 | [chescales](https://github.com/chescales) | 8 | 2 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3706329?v=3&s=64' width='64' height='64' title='Chesco Igual'> |
-| 1240 | [boyander](https://github.com/boyander) | 8 | 20 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/568638?v=3&s=64' width='64' height='64' title='Marc Pomar Torres'> |
-| 1241 | [vmolina](https://github.com/vmolina) | 7 | 0 | Python and JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2224037?v=3&s=64' width='64' height='64' title='Víctor Manuel'> |
-| 1242 | [xavib](https://github.com/xavib) | 7 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/176698?v=3&s=64' width='64' height='64' title='xavi blanch'> |
-| 1243 | [lhew](https://github.com/lhew) | 7 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1688424?v=3&s=64' width='64' height='64' title='Leonardo Marques'> |
-| 1244 | [iagotomas](https://github.com/iagotomas) | 7 | 2 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3936612?v=3&s=64' width='64' height='64' title='Iago Tomas'> |
-| 1245 | [elmika](https://github.com/elmika) | 7 | 0 | PHP | Barcelona - Spain | <img src='https://avatars3.githubusercontent.com/u/1506612?v=3&s=64' width='64' height='64' title='Mika'> |
-| 1246 | [EduAlberdi](https://github.com/EduAlberdi) | 7 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5593621?v=3&s=64' width='64' height='64' title='Eduard Alberdi Marín'> |
-| 1247 | [kocakafa](https://github.com/kocakafa) | 7 | 4 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/232191?v=3&s=64' width='64' height='64' title='Cemre Kutluay'> |
-| 1248 | [arol](https://github.com/arol) | 7 | 32 | Ruby | Barcelona, Catalunya | <img src='https://avatars0.githubusercontent.com/u/480981?v=3&s=64' width='64' height='64' title='Arol'> |
-| 1249 | [cescobedo](https://github.com/cescobedo) | 7 | 0 | PHP and CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1827228?v=3&s=64' width='64' height='64' title='Carlos'> |
-| 1250 | [alastaire61](https://github.com/alastaire61) | 7 | 0 |  | Barcelona - Spain | <img src='https://avatars3.githubusercontent.com/u/12008374?v=3&s=64' width='64' height='64' title='Adrià Llenas Segura'> |
-| 1251 | [JavierLuengo](https://github.com/JavierLuengo) | 7 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6411036?v=3&s=64' width='64' height='64' title='Javier Luengo'> |
-| 1252 | [andresin87](https://github.com/andresin87) | 7 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1674036?v=3&s=64' width='64' height='64' title='Andrés'> |
-| 1253 | [abertranb](https://github.com/abertranb) | 7 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/854229?v=3&s=64' width='64' height='64' title='Antoni Bertran'> |
-| 1254 | [lhpardos](https://github.com/lhpardos) | 7 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9464707?v=3&s=64' width='64' height='64' title='Laura'> |
-| 1255 | [jamoli](https://github.com/jamoli) | 7 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9107921?v=3&s=64' width='64' height='64' title='Juan Antonio Latorre Molina'> |
-| 1256 | [nkundiushuti](https://github.com/nkundiushuti) | 7 | 3 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1208171?v=3&s=64' width='64' height='64' title='Marius Miron'> |
-| 1257 | [soniacasillas](https://github.com/soniacasillas) | 7 | 0 | C++ and Arduino | Bellaterra, Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/5746269?v=3&s=64' width='64' height='64' title='Sònia Casillas'> |
-| 1258 | [danislav](https://github.com/danislav) | 7 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3686022?v=3&s=64' width='64' height='64' title='Danislav'> |
-| 1259 | [ArnauAregall](https://github.com/ArnauAregall) | 7 | 1 | JavaScript | Barcelona, Catalunya, Spain | <img src='https://avatars2.githubusercontent.com/u/2873901?v=3&s=64' width='64' height='64' title='Arnau Aregall'> |
-| 1260 | [eMMaDevelopment](https://github.com/eMMaDevelopment) | 7 | 0 | Objective-C and Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8125964?v=3&s=64' width='64' height='64' title='eMMa'> |
-| 1261 | [jordisansscmspain](https://github.com/jordisansscmspain) | 7 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8857309?v=3&s=64' width='64' height='64' title='Jordi Sans'> |
-| 1262 | [joscandreu](https://github.com/joscandreu) | 7 | 34 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1180443?v=3&s=64' width='64' height='64' title='José Carlos Andreu'> |
-| 1263 | [xavierllr](https://github.com/xavierllr) | 7 | 0 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4825102?v=3&s=64' width='64' height='64' title='Xavier LLigadas'> |
-| 1264 | [jordinl](https://github.com/jordinl) | 7 | 30 | JavaScript and Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/125248?v=3&s=64' width='64' height='64' title='Jordi Noguera'> |
-| 1265 | [paologambardella](https://github.com/paologambardella) | 7 | 0 | C# | Barcelona | <img src='https://avatars1.githubusercontent.com/u/12030773?v=3&s=64' width='64' height='64' title='Paolo Gambardella'> |
-| 1266 | [ferran-brianso](https://github.com/ferran-brianso) | 7 | 0 | R | Barcelona (Catalonia) | <img src='https://avatars3.githubusercontent.com/u/11822013?v=3&s=64' width='64' height='64' title='Ferran Briansó'> |
-| 1267 | [jdmartinez](https://github.com/jdmartinez) | 7 | 1 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/404719?v=3&s=64' width='64' height='64' title='Juan Diego Martínez'> |
-| 1268 | [gyarmatigina](https://github.com/gyarmatigina) | 7 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9539015?v=3&s=64' width='64' height='64' title='Georgina'> |
-| 1269 | [pgrau](https://github.com/pgrau) | 7 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4202896?v=3&s=64' width='64' height='64' title='Pau'> |
-| 1270 | [ITBrowns](https://github.com/ITBrowns) | 7 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8043862?v=3&s=64' width='64' height='64' title='Carlos Campos'> |
-| 1271 | [nilmm](https://github.com/nilmm) | 7 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/10046581?v=3&s=64' width='64' height='64' title='Nil Mestre Mas'> |
-| 1272 | [Hammandsoul](https://github.com/Hammandsoul) | 7 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/12007732?v=3&s=64' width='64' height='64' title='Amanda Ortega'> |
-| 1273 | [nikospkrk](https://github.com/nikospkrk) | 7 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/5601164?v=3&s=64' width='64' height='64' title='Nicolas'> |
-| 1274 | [openmindsystems](https://github.com/openmindsystems) | 7 | 0 | Python | Mataró, Barcelona | <img src='https://avatars2.githubusercontent.com/u/5708350?v=3&s=64' width='64' height='64' title='Open Mind Systems'> |
-| 1275 | [3-bits](https://github.com/3-bits) | 7 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3742783?v=3&s=64' width='64' height='64' title='3bits'> |
-| 1276 | [Zener](https://github.com/Zener) | 7 | 0 | ActionScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2963692?v=3&s=64' width='64' height='64' title=''> |
-| 1277 | [gerardnll](https://github.com/gerardnll) | 7 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2018022?v=3&s=64' width='64' height='64' title='Gerard Nesta'> |
-| 1278 | [adriancervoni](https://github.com/adriancervoni) | 7 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4679776?v=3&s=64' width='64' height='64' title='Adrián Pérez'> |
-| 1279 | [ronnylt](https://github.com/ronnylt) | 7 | 69 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/24546?v=3&s=64' width='64' height='64' title='Ronny López'> |
-| 1280 | [meniossin](https://github.com/meniossin) | 7 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8300543?v=3&s=64' width='64' height='64' title='Menios Sin'> |
-| 1281 | [cramrov](https://github.com/cramrov) | 7 | 9 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1868162?v=3&s=64' width='64' height='64' title='Marc'> |
-| 1282 | [eloipuertas](https://github.com/eloipuertas) | 7 | 33 | C# | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2512084?v=3&s=64' width='64' height='64' title='Eloi Puertas'> |
-| 1283 | [fvillalbacar](https://github.com/fvillalbacar) | 7 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/582646?v=3&s=400' width='64' height='64' title=''> |
-| 1284 | [casabona](https://github.com/casabona) | 7 | 48 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5827224?v=3&s=64' width='64' height='64' title='Daniel Casabona Gomez'> |
-| 1285 | [jpamies](https://github.com/jpamies) | 6 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1199274?v=3&s=64' width='64' height='64' title='Jordi Pamies'> |
-| 1286 | [marduke182](https://github.com/marduke182) | 6 | 1 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1311781?v=3&s=64' width='64' height='64' title='Jesus Quintana'> |
-| 1287 | [neburs](https://github.com/neburs) | 6 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2298637?v=3&s=64' width='64' height='64' title='Ruben Vasallo'> |
-| 1288 | [rogererill](https://github.com/rogererill) | 6 | 1 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1402183?v=3&s=64' width='64' height='64' title='Roger Erill Carrera'> |
-| 1289 | [txuslee](https://github.com/txuslee) | 6 | 1 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1123036?v=3&s=64' width='64' height='64' title='Jesús Liarte'> |
-| 1290 | [juanramon](https://github.com/juanramon) | 6 | 11 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/296442?v=3&s=64' width='64' height='64' title='Juan Ramón Díaz'> |
-| 1291 | [dvpablo](https://github.com/dvpablo) | 6 | 0 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/378521?v=3&s=64' width='64' height='64' title='Pablo del Vecchio'> |
-| 1292 | [bendsito](https://github.com/bendsito) | 6 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6910071?v=3&s=64' width='64' height='64' title='Manuel Albacete'> |
-| 1293 | [vguardiola](https://github.com/vguardiola) | 6 | 1 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/572270?v=3&s=64' width='64' height='64' title='Victor Guardiola'> |
-| 1294 | [aach](https://github.com/aach) | 6 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1810031?v=3&s=64' width='64' height='64' title='Alex Alvarez'> |
-| 1295 | [pasqpy](https://github.com/pasqpy) | 6 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7571953?v=3&s=64' width='64' height='64' title='bukuo'> |
-| 1296 | [cgpijuan](https://github.com/cgpijuan) | 6 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/12397209?v=3&s=64' width='64' height='64' title='Carmen'> |
-| 1297 | [AEljarrat](https://github.com/AEljarrat) | 6 | 0 | Erlang | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2676771?v=3&s=64' width='64' height='64' title='Alberto Eljarrat'> |
-| 1298 | [Necseron](https://github.com/Necseron) | 6 | 1 | JavaScript and CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2774617?v=3&s=64' width='64' height='64' title=''> |
-| 1299 | [sTorro](https://github.com/sTorro) | 6 | 8 | Java and C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2399160?v=3&s=64' width='64' height='64' title='Sergio Torró'> |
-| 1300 | [codeboost](https://github.com/codeboost) | 6 | 177 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/338601?v=3&s=64' width='64' height='64' title='Florin'> |
-| 1301 | [mvazquezc](https://github.com/mvazquezc) | 6 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9841873?v=3&s=64' width='64' height='64' title='Mario Vázquez'> |
-| 1302 | [OutliersCollective](https://github.com/OutliersCollective) | 6 | 10 | Python | Madrid & Barcelona | <img src='https://avatars3.githubusercontent.com/u/2727105?v=3&s=64' width='64' height='64' title='Outliers Collective'> |
-| 1303 | [ebisbe](https://github.com/ebisbe) | 6 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6747962?v=3&s=64' width='64' height='64' title='Enric Bisbe Gil'> |
-| 1304 | [llorensr](https://github.com/llorensr) | 6 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10452992?v=3&s=64' width='64' height='64' title='Ricard'> |
-| 1305 | [juanmamg](https://github.com/juanmamg) | 6 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8617386?v=3&s=64' width='64' height='64' title='Juan Manuel Mayén Gijón'> |
-| 1306 | [golive](https://github.com/golive) | 6 | 68 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/49968?v=3&s=64' width='64' height='64' title='Gerbert Olivé Vázquez'> |
-| 1307 | [jackbach](https://github.com/jackbach) | 6 | 3 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/587235?v=3&s=64' width='64' height='64' title='Jack Bach'> |
-| 1308 | [rmosca](https://github.com/rmosca) | 6 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1875540?v=3&s=64' width='64' height='64' title='Roberto Mosca'> |
-| 1309 | [jcarlosrga](https://github.com/jcarlosrga) | 6 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11310246?v=3&s=64' width='64' height='64' title='Carlos'> |
-| 1310 | [egamonal](https://github.com/egamonal) | 6 | 1 | JavaScript | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/1971675?v=3&s=64' width='64' height='64' title='Eduard Gamonal'> |
-| 1311 | [igorline](https://github.com/igorline) | 6 | 3 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1465430?v=3&s=64' width='64' height='64' title='Igor Line'> |
-| 1312 | [adv0r](https://github.com/adv0r) | 6 | 45 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/776957?v=3&s=64' width='64' height='64' title='Nicolò Paternoster'> |
-| 1313 | [christofdamian](https://github.com/christofdamian) | 6 | 42 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/175254?v=3&s=64' width='64' height='64' title='Christof Damian'> |
-| 1314 | [josendf](https://github.com/josendf) | 6 | 0 | C++ | Barcelona, Spain. | <img src='https://avatars0.githubusercontent.com/u/341627?v=3&s=64' width='64' height='64' title='José Enrique De Fabriziis'> |
-| 1315 | [johnbarca](https://github.com/johnbarca) | 6 | 0 | VimL | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1277511?v=3&s=64' width='64' height='64' title='John Powell'> |
-| 1316 | [manelvelasco](https://github.com/manelvelasco) | 6 | 7 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/965128?v=3&s=64' width='64' height='64' title='Manel Velasco'> |
-| 1317 | [kiquecr](https://github.com/kiquecr) | 6 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8258732?v=3&s=64' width='64' height='64' title='Enrique Cruz'> |
-| 1318 | [coDaniele](https://github.com/coDaniele) | 6 | 1 | R and HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10588486?v=3&s=64' width='64' height='64' title='Daniele T'> |
-| 1319 | [kerojohan](https://github.com/kerojohan) | 6 | 3 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6629491?v=3&s=64' width='64' height='64' title='Johan'> |
-| 1320 | [valoresymarketing](https://github.com/valoresymarketing) | 6 | 0 | HTML and CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11901217?v=3&s=64' width='64' height='64' title='Valores y Marketing'> |
-| 1321 | [david-java](https://github.com/david-java) | 6 | 1 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6009770?v=3&s=64' width='64' height='64' title='David Bayo'> |
-| 1322 | [klarakucerova](https://github.com/klarakucerova) | 6 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4664405?v=3&s=64' width='64' height='64' title='klara'> |
-| 1323 | [ifendif2004](https://github.com/ifendif2004) | 6 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7831457?v=3&s=64' width='64' height='64' title='ifendif2004'> |
-| 1324 | [riverole](https://github.com/riverole) | 6 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4833422?v=3&s=64' width='64' height='64' title='Marc Rivero'> |
-| 1325 | [ajornetic3](https://github.com/ajornetic3) | 6 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6714901?v=3&s=64' width='64' height='64' title='Albert Jornet Puig'> |
-| 1326 | [bia](https://github.com/bia) | 6 | 4 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/92439?v=3&s=64' width='64' height='64' title='bianca cheng costanzo'> |
-| 1327 | [oriolpuig](https://github.com/oriolpuig) | 6 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3933098?v=3&s=64' width='64' height='64' title='Oriol Puig'> |
-| 1328 | [valldu](https://github.com/valldu) | 6 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9533486?v=3&s=64' width='64' height='64' title='Pere Vallduriola Tordera'> |
-| 1329 | [jparera](https://github.com/jparera) | 6 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1420988?v=3&s=64' width='64' height='64' title='Joan Parera'> |
-| 1330 | [klander](https://github.com/klander) | 6 | 0 | Makefile | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2973711?v=3&s=64' width='64' height='64' title='klander'> |
-| 1331 | [luskaner](https://github.com/luskaner) | 6 | 0 | PHP and Python | L'Hospitalet de llobregat, Barcelona, Catalonia, Spain | <img src='https://avatars2.githubusercontent.com/u/1903842?v=3&s=64' width='64' height='64' title='David Fernández Aldana'> |
-| 1332 | [mserrate](https://github.com/mserrate) | 6 | 5 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1199073?v=3&s=64' width='64' height='64' title='Marçal Serrate'> |
-| 1333 | [savayg](https://github.com/savayg) | 6 | 0 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1419573?v=3&s=64' width='64' height='64' title='Sava Gerov'> |
-| 1334 | [dtiburon](https://github.com/dtiburon) | 6 | 1 | CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2976499?v=3&s=64' width='64' height='64' title='Aleta Dunne'> |
-| 1335 | [gpascual](https://github.com/gpascual) | 6 | 0 | PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/609114?v=3&s=64' width='64' height='64' title='Gonzalo'> |
-| 1336 | [tammymendt](https://github.com/tammymendt) | 6 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6864685?v=3&s=64' width='64' height='64' title='Tamara'> |
-| 1337 | [hughesevoanth](https://github.com/hughesevoanth) | 6 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/12117140?v=3&s=64' width='64' height='64' title='David Hughes'> |
-| 1338 | [AlfonsoMestres](https://github.com/AlfonsoMestres) | 6 | 0 | Groovy and Java | Spain, Barcelona | <img src='https://avatars0.githubusercontent.com/u/8267863?v=3&s=64' width='64' height='64' title='Alfonso'> |
-| 1339 | [ondono](https://github.com/ondono) | 6 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1643836?v=3&s=64' width='64' height='64' title='Xavi Ondoño'> |
-| 1340 | [adanlobato](https://github.com/adanlobato) | 6 | 52 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/626645?v=3&s=64' width='64' height='64' title='Adán Lobato'> |
-| 1341 | [nuriabelloc](https://github.com/nuriabelloc) | 6 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10877590?v=3&s=64' width='64' height='64' title='Núria Belloc'> |
-| 1342 | [xavi](https://github.com/xavi) | 6 | 150 | Clojure and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1649?v=3&s=64' width='64' height='64' title='Xavi Caballé'> |
-| 1343 | [MobilitylabPatchs](https://github.com/MobilitylabPatchs) | 6 | 1 | Processing and Pure Data | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9672677?v=3&s=64' width='64' height='64' title='Mobilitylab'> |
-| 1344 | [fazerbcn](https://github.com/fazerbcn) | 6 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5500208?v=3&s=64' width='64' height='64' title='Pau Ruiz'> |
-| 1345 | [ericsorgar](https://github.com/ericsorgar) | 5 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7170812?v=3&s=64' width='64' height='64' title='Eric Soria'> |
-| 1346 | [ejmeij](https://github.com/ejmeij) | 5 | 52 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/226193?v=3&s=64' width='64' height='64' title='Edgar Meij'> |
-| 1347 | [gpalomar](https://github.com/gpalomar) | 5 | 7 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3463553?v=3&s=64' width='64' height='64' title='Guillem Palomar'> |
-| 1348 | [camilb](https://github.com/camilb) | 5 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/2655869?v=3&s=64' width='64' height='64' title='Camil'> |
-| 1349 | [rbartolomeirb](https://github.com/rbartolomeirb) | 5 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11505130?v=3&s=64' width='64' height='64' title='Roberto Bartolomé'> |
-| 1350 | [ismael-benitez](https://github.com/ismael-benitez) | 5 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5638973?v=3&s=64' width='64' height='64' title='Ismael'> |
-| 1351 | [Nirzhuk](https://github.com/Nirzhuk) | 5 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9424285?v=3&s=64' width='64' height='64' title=''> |
-| 1352 | [cerquide](https://github.com/cerquide) | 5 | 0 | Scala | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2767459?v=3&s=64' width='64' height='64' title='Jesús Cerquides'> |
-| 1353 | [raulillana](https://github.com/raulillana) | 5 | 1 | PHP | 08016, Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1171669?v=3&s=64' width='64' height='64' title='Raul Illana'> |
-| 1354 | [gbarba](https://github.com/gbarba) | 5 | 6 | Python | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/1067155?v=3&s=64' width='64' height='64' title='Guillem Barba'> |
-| 1355 | [alexbarcelo](https://github.com/alexbarcelo) | 5 | 4 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/665750?v=3&s=64' width='64' height='64' title='Alex Barcelo'> |
-| 1356 | [mixmastertube](https://github.com/mixmastertube) | 5 | 0 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/81303?v=3&s=64' width='64' height='64' title='Pau'> |
-| 1357 | [nandosarachaga](https://github.com/nandosarachaga) | 5 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8392629?v=3&s=64' width='64' height='64' title='Fernando Sarachaga'> |
-| 1358 | [ealch](https://github.com/ealch) | 5 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7937529?v=3&s=64' width='64' height='64' title='Eric Alvarez Chinchilla'> |
-| 1359 | [egirona](https://github.com/egirona) | 5 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7857898?v=3&s=64' width='64' height='64' title='Enric Girona'> |
-| 1360 | [agraciabona](https://github.com/agraciabona) | 5 | 0 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10224389?v=3&s=64' width='64' height='64' title='Alfred'> |
-| 1361 | [cochoa](https://github.com/cochoa) | 5 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10113917?v=3&s=64' width='64' height='64' title='Carlos Ochoa'> |
-| 1362 | [flaquir4](https://github.com/flaquir4) | 5 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2788459?v=3&s=64' width='64' height='64' title=''> |
-| 1363 | [jrom](https://github.com/jrom) | 5 | 77 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9952?v=3&s=64' width='64' height='64' title='Jordi Romero'> |
-| 1364 | [jcapde87](https://github.com/jcapde87) | 5 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4015373?v=3&s=64' width='64' height='64' title='Joan Capdevila Pujol'> |
-| 1365 | [CescVilanova](https://github.com/CescVilanova) | 5 | 0 | Ruby | Madrid/Barcelona | <img src='https://avatars3.githubusercontent.com/u/5419391?v=3&s=64' width='64' height='64' title='Cesc Vilanova'> |
-| 1366 | [saravilella](https://github.com/saravilella) | 5 | 0 | GAP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11443721?v=3&s=64' width='64' height='64' title='Sara'> |
-| 1367 | [nevillegallimore](https://github.com/nevillegallimore) | 5 | 0 | C# | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/11392718?v=3&s=64' width='64' height='64' title='Neville Gallimore'> |
-| 1368 | [gcornejo](https://github.com/gcornejo) | 5 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1217652?v=3&s=64' width='64' height='64' title='Gustavo Cornejo'> |
-| 1369 | [SntsDev](https://github.com/SntsDev) | 5 | 0 | C# | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4103411?v=3&s=64' width='64' height='64' title='SntsDev'> |
-| 1370 | [Gwillink](https://github.com/Gwillink) | 5 | 1 | Python | Barcelona, London, Amsterdam | <img src='https://avatars1.githubusercontent.com/u/6171766?v=3&s=64' width='64' height='64' title='Geeshan Willink'> |
-| 1371 | [albertlb](https://github.com/albertlb) | 5 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/264635?v=3&s=64' width='64' height='64' title='albert lozano bautista'> |
-| 1372 | [jsencianes](https://github.com/jsencianes) | 5 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3527899?v=3&s=64' width='64' height='64' title='Jero'> |
-| 1373 | [xava3000](https://github.com/xava3000) | 5 | 1 | Python and JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8089072?v=3&s=64' width='64' height='64' title='Xavier Valencia'> |
-| 1374 | [enriqueto](https://github.com/enriqueto) | 5 | 0 | ActionScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5557196?v=3&s=64' width='64' height='64' title='Enriqueto'> |
-| 1375 | [ianmonge](https://github.com/ianmonge) | 5 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/106659?v=3&s=64' width='64' height='64' title='Ian Monge'> |
-| 1376 | [pearnau](https://github.com/pearnau) | 5 | 0 |  | Barcelona, España | <img src='https://avatars2.githubusercontent.com/u/9002184?v=3&s=64' width='64' height='64' title='Pedro Arnau'> |
-| 1377 | [sideround](https://github.com/sideround) | 5 | 31 | Objective-C and Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5286353?v=3&s=64' width='64' height='64' title='Isaac Rodríguez'> |
-| 1378 | [santivila](https://github.com/santivila) | 5 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5114830?v=3&s=64' width='64' height='64' title='Santi Vila'> |
-| 1379 | [jvallver](https://github.com/jvallver) | 5 | 1 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1668379?v=3&s=64' width='64' height='64' title='Jordi Vallverdu'> |
-| 1380 | [Contrastat](https://github.com/Contrastat) | 5 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9589870?v=3&s=64' width='64' height='64' title='Federico Todeschini'> |
-| 1381 | [fjavier-moreno](https://github.com/fjavier-moreno) | 5 | 0 | PHP and JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4962941?v=3&s=64' width='64' height='64' title='Francisco Javier'> |
-| 1382 | [vic-gonzi](https://github.com/vic-gonzi) | 5 | 0 | Java | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/3847934?v=3&s=64' width='64' height='64' title='Víctor González Irimia'> |
-| 1383 | [viktors](https://github.com/viktors) | 5 | 11 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3460?v=3&s=64' width='64' height='64' title='Viktors Rotanovs'> |
-| 1384 | [DaLN](https://github.com/DaLN) | 5 | 2 | Java | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1247106?v=3&s=64' width='64' height='64' title='Nelson MELINA'> |
-| 1385 | [VashMKS](https://github.com/VashMKS) | 5 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11448427?v=3&s=64' width='64' height='64' title='Dídac Fernández Cadenas'> |
-| 1386 | [eltallerdiminuto](https://github.com/eltallerdiminuto) | 5 | 2 | Arduino | Sant Cugat del Vallès, Barcelona, Spain. | <img src='https://avatars0.githubusercontent.com/u/9981752?v=3&s=64' width='64' height='64' title='El taller diminuto'> |
-| 1387 | [alvarovdt](https://github.com/alvarovdt) | 5 | 0 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/7859151?v=3&s=64' width='64' height='64' title='Alvaro Vincens'> |
-| 1388 | [revbuddylove](https://github.com/revbuddylove) | 5 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/917598?v=3&s=64' width='64' height='64' title='Buddy'> |
-| 1389 | [YoannLeGoff](https://github.com/YoannLeGoff) | 5 | 1 |  | Barcelona, Catalunya | <img src='https://avatars3.githubusercontent.com/u/462752?v=3&s=64' width='64' height='64' title='Yoann'> |
-| 1390 | [AnibalMG](https://github.com/AnibalMG) | 5 | 0 | Perl | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8254125?v=3&s=64' width='64' height='64' title='Anibal'> |
-| 1391 | [opengeekv2](https://github.com/opengeekv2) | 5 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/901282?v=3&s=64' width='64' height='64' title='Marc Mauri Alloza'> |
-| 1392 | [drjoju](https://github.com/drjoju) | 5 | 0 | Arduino | Sant Cugat del Vallés - Barcelona - Spain | <img src='https://avatars3.githubusercontent.com/u/461705?v=3&s=64' width='64' height='64' title='Jose Juan Calvo'> |
-| 1393 | [Rafaelars](https://github.com/Rafaelars) | 5 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6985377?v=3&s=64' width='64' height='64' title='Rafael Rivas'> |
-| 1394 | [jaguilamartinez](https://github.com/jaguilamartinez) | 5 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5834724?v=3&s=64' width='64' height='64' title='Juan Águila'> |
-| 1395 | [korgogro](https://github.com/korgogro) | 5 | 0 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1502826?v=3&s=64' width='64' height='64' title='Ignasi Álvarez Garriga'> |
-| 1396 | [danielart](https://github.com/danielart) | 5 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4655428?v=3&s=64' width='64' height='64' title='danielo'> |
-| 1397 | [wtebbens](https://github.com/wtebbens) | 5 | 2 | PHP | Amsterdam/Barcelona | <img src='https://avatars2.githubusercontent.com/u/1379620?v=3&s=64' width='64' height='64' title='Wouter Tebbens'> |
-| 1398 | [hermesite](https://github.com/hermesite) | 5 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1257145?v=3&s=64' width='64' height='64' title='hermesite'> |
-| 1399 | [iamyellow](https://github.com/iamyellow) | 5 | 155 | Objective-C | barcelona | <img src='https://avatars3.githubusercontent.com/u/726613?v=3&s=64' width='64' height='64' title='jordi domenech'> |
-| 1400 | [jrleon84](https://github.com/jrleon84) | 5 | 3 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/333915?v=3&s=64' width='64' height='64' title='José León'> |
-| 1401 | [wayne-soldevila](https://github.com/wayne-soldevila) | 5 | 0 | R | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7281861?v=3&s=64' width='64' height='64' title='Guillem "Wayne" Soldevila'> |
-| 1402 | [jnogues](https://github.com/jnogues) | 5 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2345664?v=3&s=64' width='64' height='64' title='Jaume Nogues'> |
-| 1403 | [tmelikoff](https://github.com/tmelikoff) | 5 | 0 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1068741?v=3&s=64' width='64' height='64' title='Tomas Melikoff'> |
-| 1404 | [0xroot](https://github.com/0xroot) | 5 | 58 | C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/652946?v=3&s=64' width='64' height='64' title='Sebastián Guerrero'> |
-| 1405 | [silviamajo](https://github.com/silviamajo) | 5 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10601538?v=3&s=64' width='64' height='64' title='Sílvia Majó-Vázquez'> |
-| 1406 | [raul-fornell](https://github.com/raul-fornell) | 5 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10996380?v=3&s=64' width='64' height='64' title='Raül Fornell'> |
-| 1407 | [ntpetrov](https://github.com/ntpetrov) | 5 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10064387?v=3&s=64' width='64' height='64' title='Nikolay Petrov'> |
-| 1408 | [joseraya](https://github.com/joseraya) | 5 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/228136?v=3&s=64' width='64' height='64' title='Jose Raya'> |
-| 1409 | [aperezg](https://github.com/aperezg) | 4 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/4472006?v=3&s=64' width='64' height='64' title='Adrian Perez'> |
-| 1410 | [thomasgallagher](https://github.com/thomasgallagher) | 4 | 8 | Ruby and Objective-C | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/11466?v=3&s=64' width='64' height='64' title='Tom Gallagher'> |
-| 1411 | [enricjuan](https://github.com/enricjuan) | 4 | 0 | HTML and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7773670?v=3&s=64' width='64' height='64' title='Enric Juan'> |
-| 1412 | [anfont](https://github.com/anfont) | 4 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2479815?v=3&s=64' width='64' height='64' title='AFontana'> |
-| 1413 | [llKoull](https://github.com/llKoull) | 4 | 0 | Objective-C and Ruby | Vallseca 8, 08024 Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5525265?v=3&s=64' width='64' height='64' title='Raúl Vidal Muiños'> |
-| 1414 | [rjsewell](https://github.com/rjsewell) | 4 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1466498?v=3&s=64' width='64' height='64' title='Rob Sewell'> |
-| 1415 | [laurafg](https://github.com/laurafg) | 4 | 0 |  | Asturias / Barcelona | <img src='https://avatars0.githubusercontent.com/u/7414566?v=3&s=64' width='64' height='64' title='Laura'> |
-| 1416 | [aeony](https://github.com/aeony) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1328809?v=3&s=64' width='64' height='64' title='Eric López'> |
-| 1417 | [avizcaino-newuibcn](https://github.com/avizcaino-newuibcn) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9590299?v=3&s=64' width='64' height='64' title='Alex Vizcaino'> |
-| 1418 | [MarcRamos](https://github.com/MarcRamos) | 4 | 0 | Shell | Barcelona, Cat | <img src='https://avatars1.githubusercontent.com/u/6389041?v=3&s=64' width='64' height='64' title='Marc'> |
-| 1419 | [javiertejero](https://github.com/javiertejero) | 4 | 3 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/964167?v=3&s=64' width='64' height='64' title='Javier Tejero'> |
-| 1420 | [uncledrella](https://github.com/uncledrella) | 4 | 0 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/39346?v=3&s=64' width='64' height='64' title='Miguel Nicolás'> |
-| 1421 | [sparrowgames](https://github.com/sparrowgames) | 4 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9367140?v=3&s=64' width='64' height='64' title='Sparrow Games'> |
-| 1422 | [MeZKaL](https://github.com/MeZKaL) | 4 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/461880?v=3&s=64' width='64' height='64' title='Jordi Piqueras'> |
-| 1423 | [DaniCea](https://github.com/DaniCea) | 4 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3898723?v=3&s=64' width='64' height='64' title='Dani'> |
-| 1424 | [lopezalb](https://github.com/lopezalb) | 4 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6259228?v=3&s=64' width='64' height='64' title='Albert Lopez'> |
-| 1425 | [casasin](https://github.com/casasin) | 4 | 6 | Python | Barcelona/Santa Coloma de Queralt | <img src='https://avatars0.githubusercontent.com/u/1898042?v=3&s=64' width='64' height='64' title='Joancarles Casasin'> |
-| 1426 | [mmari](https://github.com/mmari) | 4 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7810529?v=3&s=64' width='64' height='64' title='Marc Marí-Dell'Olmo'> |
-| 1427 | [kira14](https://github.com/kira14) | 4 | 0 |  | Barcelona - Spain | <img src='https://avatars1.githubusercontent.com/u/7785182?v=3&s=64' width='64' height='64' title='Jose Calderon'> |
-| 1428 | [EHMLP](https://github.com/EHMLP) | 4 | 0 | HTML | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10907799?v=3&s=64' width='64' height='64' title='Elena H Martinez-Lapiscina'> |
-| 1429 | [fxescandell](https://github.com/fxescandell) | 4 | 0 | CSS | Mataró - Barcelona | <img src='https://avatars2.githubusercontent.com/u/10736466?v=3&s=64' width='64' height='64' title='fxescandell'> |
-| 1430 | [xbaro](https://github.com/xbaro) | 4 | 2 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1412358?v=3&s=64' width='64' height='64' title='Xavier Baró'> |
-| 1431 | [Mmorenogomez](https://github.com/Mmorenogomez) | 4 | 0 | C++ | Olesa de Montserrat (Barcelona) | <img src='https://avatars3.githubusercontent.com/u/9368112?v=3&s=64' width='64' height='64' title='Miguel Moreno Gómez'> |
-| 1432 | [dukjb](https://github.com/dukjb) | 4 | 4 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1670462?v=3&s=64' width='64' height='64' title='jberni'> |
-| 1433 | [CarlosCarrera](https://github.com/CarlosCarrera) | 4 | 0 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6062563?v=3&s=64' width='64' height='64' title='Carlos Carrer'> |
-| 1434 | [ahfeel](https://github.com/ahfeel) | 4 | 13 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/43286?v=3&s=64' width='64' height='64' title='Jérémie BORDIER'> |
-| 1435 | [madebyivan](https://github.com/madebyivan) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/242960?v=3&s=64' width='64' height='64' title='Madebyivan'> |
-| 1436 | [saracubillas](https://github.com/saracubillas) | 4 | 4 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1815335?v=3&s=64' width='64' height='64' title=''> |
-| 1437 | [garcia-marc](https://github.com/garcia-marc) | 4 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10058240?v=3&s=64' width='64' height='64' title='Marc'> |
-| 1438 | [rudeworks](https://github.com/rudeworks) | 4 | 2 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/16442?v=3&s=400' width='64' height='64' title='Rude'> |
-| 1439 | [xeeevi](https://github.com/xeeevi) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2446100?v=3&s=64' width='64' height='64' title='Xavier'> |
-| 1440 | [juanre](https://github.com/juanre) | 4 | 92 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/132608?v=3&s=64' width='64' height='64' title='Juan Reyero'> |
-| 1441 | [HimmelEs](https://github.com/HimmelEs) | 4 | 0 | CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9272889?v=3&s=64' width='64' height='64' title='Himmel.es'> |
-| 1442 | [joffrevillanueva](https://github.com/joffrevillanueva) | 4 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7682266?v=3&s=64' width='64' height='64' title='Joffre Villanueva'> |
-| 1443 | [Neoshinji-](https://github.com/Neoshinji-) | 4 | 0 | JavaScript and CSS | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/8185533?v=3&s=64' width='64' height='64' title='Neoshinji'> |
-| 1444 | [jrey1977](https://github.com/jrey1977) | 4 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8487611?v=3&s=64' width='64' height='64' title='Javier'> |
-| 1445 | [tehanuyor](https://github.com/tehanuyor) | 4 | 0 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/650986?v=3&s=64' width='64' height='64' title='Yolanda Ordóñez Rufat'> |
-| 1446 | [seojnet](https://github.com/seojnet) | 4 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11258468?v=3&s=64' width='64' height='64' title='Robert'> |
-| 1447 | [harryngh](https://github.com/harryngh) | 4 | 2 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3537196?v=3&s=64' width='64' height='64' title='harryngh'> |
-| 1448 | [lulacourt](https://github.com/lulacourt) | 4 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9520946?v=3&s=64' width='64' height='64' title='Lourdes Alejandra Hernández Bethencourt'> |
-| 1449 | [chefchef](https://github.com/chefchef) | 4 | 2 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3300921?v=3&s=64' width='64' height='64' title='Eduard Heredia'> |
-| 1450 | [msarmengol](https://github.com/msarmengol) | 4 | 1 | R | Barcelona -Spain | <img src='https://avatars3.githubusercontent.com/u/7071648?v=3&s=64' width='64' height='64' title='marina'> |
-| 1451 | [albestia](https://github.com/albestia) | 4 | 1 | JavaScript | Barcelona - Spain | <img src='https://avatars2.githubusercontent.com/u/889092?v=3&s=64' width='64' height='64' title='Albert Murillo'> |
-| 1452 | [JoseManuelPerezSevilla](https://github.com/JoseManuelPerezSevilla) | 4 | 2 | JavaScript | Santa Coloma de Gramenet, Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/1801389?v=3&s=64' width='64' height='64' title='José Manuel Pérez Sevilla'> |
-| 1453 | [javierlobra](https://github.com/javierlobra) | 4 | 0 | TeX | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6871122?v=3&s=64' width='64' height='64' title='Javier López'> |
-| 1454 | [thebestpol](https://github.com/thebestpol) | 4 | 1 | Groovy and Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1909075?v=3&s=64' width='64' height='64' title='Pol Gómez Guerrero'> |
-| 1455 | [juancarlosvinas](https://github.com/juancarlosvinas) | 4 | 0 | CSS | Vilassar de Mar, barcelona | <img src='https://avatars1.githubusercontent.com/u/3409336?v=3&s=64' width='64' height='64' title='Juan Carlos'> |
-| 1456 | [ace](https://github.com/ace) | 4 | 2 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3958?v=3&s=64' width='64' height='64' title='Andrés Cirugeda'> |
-| 1457 | [danielcuervo](https://github.com/danielcuervo) | 4 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1816523?v=3&s=64' width='64' height='64' title='Daniel'> |
-| 1458 | [mvazquezs](https://github.com/mvazquezs) | 4 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6748339?v=3&s=64' width='64' height='64' title='Miquel Vázquez-Santiago'> |
-| 1459 | [ekros](https://github.com/ekros) | 4 | 2 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/4777759?v=3&s=64' width='64' height='64' title='Eric Ros'> |
-| 1460 | [mgdiez](https://github.com/mgdiez) | 4 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9119829?v=3&s=64' width='64' height='64' title='Marc González'> |
-| 1461 | [narcisbcn](https://github.com/narcisbcn) | 4 | 4 | Puppet | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1496255?v=3&s=64' width='64' height='64' title='Narcis Pillao'> |
-| 1462 | [hstojic](https://github.com/hstojic) | 4 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6740210?v=3&s=64' width='64' height='64' title='Hrvoje Stojic'> |
-| 1463 | [bbwebconsult](https://github.com/bbwebconsult) | 4 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7089997?v=3&s=64' width='64' height='64' title='Benoit Boure'> |
-| 1464 | [carloscuesta](https://github.com/carloscuesta) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7629661?v=3&s=64' width='64' height='64' title='Carlos Cuesta'> |
-| 1465 | [LynxBcn](https://github.com/LynxBcn) | 4 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3016219?v=3&s=64' width='64' height='64' title=''> |
-| 1466 | [ronanociosoig](https://github.com/ronanociosoig) | 4 | 4 | Objective-C | Barcelona, Spain. | <img src='https://avatars3.githubusercontent.com/u/4580392?v=3&s=64' width='64' height='64' title='Ronan O Ciosoig'> |
-| 1467 | [cristina-elespacio](https://github.com/cristina-elespacio) | 4 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7766296?v=3&s=64' width='64' height='64' title='Cristina'> |
-| 1468 | [JuanmaGonzalez](https://github.com/JuanmaGonzalez) | 4 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3531285?v=3&s=64' width='64' height='64' title='Juanma González'> |
-| 1469 | [marcelopereirascmspain](https://github.com/marcelopereirascmspain) | 4 | 0 | JavaScript | barcelona | <img src='https://avatars3.githubusercontent.com/u/9739738?v=3&s=64' width='64' height='64' title='marcelo alves'> |
-| 1470 | [felipedelpozo](https://github.com/felipedelpozo) | 4 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/22426?v=3&s=64' width='64' height='64' title='Felipe del Pozo'> |
-| 1471 | [rcruzper](https://github.com/rcruzper) | 4 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1263202?v=3&s=64' width='64' height='64' title='Raúl Cruz'> |
-| 1472 | [arcadio-pando](https://github.com/arcadio-pando) | 4 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3006269?v=3&s=64' width='64' height='64' title='Arcadio'> |
-| 1473 | [MaDDoGo](https://github.com/MaDDoGo) | 4 | 21 | Python | Sabadell (Barcelona) | <img src='https://avatars2.githubusercontent.com/u/446666?v=3&s=64' width='64' height='64' title='Enric Soler Rastrollo'> |
-| 1474 | [MiguelPF](https://github.com/MiguelPF) | 4 | 4 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1163236?v=3&s=64' width='64' height='64' title=''> |
-| 1475 | [permanyer](https://github.com/permanyer) | 4 | 1 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1831526?v=3&s=64' width='64' height='64' title='Marc'> |
-| 1476 | [slowmountain](https://github.com/slowmountain) | 4 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7250011?v=3&s=64' width='64' height='64' title='Panos Papiotis'> |
-| 1477 | [gabrielboucher](https://github.com/gabrielboucher) | 4 | 0 | Objective-C and Ruby | Quebec/Barcelona | <img src='https://avatars1.githubusercontent.com/u/2014376?v=3&s=64' width='64' height='64' title='Gabriel Boucher'> |
-| 1478 | [procommerz](https://github.com/procommerz) | 4 | 2 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/562629?v=3&s=64' width='64' height='64' title='Denis'> |
-| 1479 | [oscarjg](https://github.com/oscarjg) | 4 | 1 | PHP | Barcelona ( Spain ) | <img src='https://avatars2.githubusercontent.com/u/6267700?v=3&s=64' width='64' height='64' title='Óscar Jiménez Gallego'> |
-| 1480 | [ikkaro](https://github.com/ikkaro) | 4 | 1 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/46324?v=3&s=64' width='64' height='64' title='Isaak'> |
-| 1481 | [h02e56](https://github.com/h02e56) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1759472?v=3&s=64' width='64' height='64' title='h02e56'> |
-| 1482 | [pablomoreno61](https://github.com/pablomoreno61) | 4 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1022072?v=3&s=64' width='64' height='64' title='Pablo Moreno'> |
-| 1483 | [lucasvc](https://github.com/lucasvc) | 4 | 0 | Shell and Java | Barcelona, Catalonia, Spain | <img src='https://avatars0.githubusercontent.com/u/1053448?v=3&s=64' width='64' height='64' title='Lucas Ventura Carro'> |
-| 1484 | [AndreuCriquet](https://github.com/AndreuCriquet) | 4 | 0 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11331206?v=3&s=64' width='64' height='64' title='Andreu Criquet'> |
-| 1485 | [xavieraijon](https://github.com/xavieraijon) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/568658?v=3&s=64' width='64' height='64' title='Xavier Aijon'> |
-| 1486 | [lau27](https://github.com/lau27) | 4 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4275542?v=3&s=64' width='64' height='64' title='Laura'> |
-| 1487 | [rogermanich](https://github.com/rogermanich) | 4 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3322032?v=3&s=64' width='64' height='64' title='Roger Manich'> |
-| 1488 | [rogersm](https://github.com/rogersm) | 4 | 8 | Common Lisp | Barcelona | <img src='https://avatars1.githubusercontent.com/u/40782?v=3&s=64' width='64' height='64' title='Roger Sen'> |
-| 1489 | [SergioGimenezG1](https://github.com/SergioGimenezG1) | 4 | 1 | Shell and Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9348785?v=3&s=64' width='64' height='64' title='Sergio Gimenez Garcia'> |
-| 1490 | [Astarta21](https://github.com/Astarta21) | 4 | 0 | Arduino and C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8118883?v=3&s=64' width='64' height='64' title='Nuria'> |
-| 1491 | [jordirue](https://github.com/jordirue) | 4 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7081373?v=3&s=64' width='64' height='64' title='Jordi Rué'> |
-| 1492 | [Z-13](https://github.com/Z-13) | 4 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/229530?v=3&s=64' width='64' height='64' title='Yura'> |
-| 1493 | [ccarrizosa](https://github.com/ccarrizosa) | 4 | 0 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1911487?v=3&s=64' width='64' height='64' title='Carlos Carrizosa'> |
-| 1494 | [msteghofer](https://github.com/msteghofer) | 4 | 12 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/722917?v=3&s=64' width='64' height='64' title=''> |
-| 1495 | [jmcarne](https://github.com/jmcarne) | 3 | 4 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/718866?v=3&s=64' width='64' height='64' title='Josep Maria Carné'> |
-| 1496 | [mpalop](https://github.com/mpalop) | 3 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/240288?v=3&s=64' width='64' height='64' title='Manel Palop'> |
-| 1497 | [Jcestudio](https://github.com/Jcestudio) | 3 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8971777?v=3&s=64' width='64' height='64' title='Jordi Cuenca'> |
-| 1498 | [czyzykowski](https://github.com/czyzykowski) | 3 | 1 | Python and Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/898339?v=3&s=64' width='64' height='64' title='Łukasz Czyżykowski'> |
-| 1499 | [jdlcgarcia](https://github.com/jdlcgarcia) | 3 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1725591?v=3&s=64' width='64' height='64' title='Juan de la Cruz García García'> |
-| 1500 | [g3rard](https://github.com/g3rard) | 3 | 53 | Arduino | barcelona | <img src='https://avatars2.githubusercontent.com/u/4185677?v=3&s=64' width='64' height='64' title='gerard rubio'> |
-| 1501 | [RafaelDeValencia](https://github.com/RafaelDeValencia) | 3 | 0 | C# | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6512351?v=3&s=64' width='64' height='64' title='Rafal Sebastian Kozlowski'> |
-| 1502 | [lasarux](https://github.com/lasarux) | 3 | 59 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/153807?v=3&s=64' width='64' height='64' title='Pedro Gracia'> |
-| 1503 | [D3r3ck](https://github.com/D3r3ck) | 3 | 11 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2804767?v=3&s=64' width='64' height='64' title='Alfons Foubert'> |
-| 1504 | [yaripodio](https://github.com/yaripodio) | 3 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9820753?v=3&s=64' width='64' height='64' title='Yari Podio'> |
-| 1505 | [isheba](https://github.com/isheba) | 3 | 0 | Ruby | Castelldefels (Barcelona) | <img src='https://avatars1.githubusercontent.com/u/11353192?v=3&s=64' width='64' height='64' title='Isaac Hernández Baizán'> |
-| 1506 | [frankespasa](https://github.com/frankespasa) | 3 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11179869?v=3&s=64' width='64' height='64' title='Frank Espasa'> |
-| 1507 | [JuanGaleano](https://github.com/JuanGaleano) | 3 | 4 | R | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/8982285?v=3&s=64' width='64' height='64' title='Juan Galeano'> |
-| 1508 | [NahuelIanni](https://github.com/NahuelIanni) | 3 | 0 | C# | Barcelona, Spain. | <img src='https://avatars1.githubusercontent.com/u/8545295?v=3&s=64' width='64' height='64' title='Nahuel Ianni'> |
-| 1509 | [sergiwf](https://github.com/sergiwf) | 3 | 0 | JavaScript | barcelona | <img src='https://avatars3.githubusercontent.com/u/6949851?v=3&s=64' width='64' height='64' title='sergi'> |
-| 1510 | [jsalvador4](https://github.com/jsalvador4) | 3 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6030455?v=3&s=64' width='64' height='64' title='Jordi'> |
-| 1511 | [game-abling](https://github.com/game-abling) | 3 | 0 | C++ and C | C/ Víctor Pradera 45, 08940 Cornellà del Llobregat (Barcelona), Spain | <img src='https://avatars3.githubusercontent.com/u/3540708?v=3&s=64' width='64' height='64' title='Game-Abling'> |
-| 1512 | [sitamet](https://github.com/sitamet) | 3 | 15 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/393011?v=3&s=64' width='64' height='64' title='Joan'> |
-| 1513 | [jasuca](https://github.com/jasuca) | 3 | 17 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/575547?v=3&s=64' width='64' height='64' title='Jacob Sunol'> |
-| 1514 | [Elixeus](https://github.com/Elixeus) | 3 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/12549052?v=3&s=64' width='64' height='64' title='Elixeus'> |
-| 1515 | [drevasvoyage](https://github.com/drevasvoyage) | 3 | 0 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10983616?v=3&s=64' width='64' height='64' title='Adam Tait'> |
-| 1516 | [bunkenburg](https://github.com/bunkenburg) | 3 | 6 | Java and Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/806861?v=3&s=64' width='64' height='64' title='Alexander Bunkenburg'> |
-| 1517 | [chopperoon](https://github.com/chopperoon) | 3 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3185228?v=3&s=64' width='64' height='64' title='Simon Kelly'> |
-| 1518 | [isimus](https://github.com/isimus) | 3 | 0 | R | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8100462?v=3&s=64' width='64' height='64' title='Isidro'> |
-| 1519 | [mindula](https://github.com/mindula) | 3 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1764493?v=3&s=64' width='64' height='64' title='Ricard'> |
-| 1520 | [tricotrin](https://github.com/tricotrin) | 3 | 0 | Java and PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9289895?v=3&s=64' width='64' height='64' title='Dani Martí'> |
-| 1521 | [lcrasovan](https://github.com/lcrasovan) | 3 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5824381?v=3&s=64' width='64' height='64' title='Lucian Crasovan'> |
-| 1522 | [carlogarro](https://github.com/carlogarro) | 3 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10572188?v=3&s=64' width='64' height='64' title='Carlos'> |
-| 1523 | [germanmunuera](https://github.com/germanmunuera) | 3 | 0 | R | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/7280377?v=3&s=64' width='64' height='64' title='Germán Munuera'> |
-| 1524 | [jviladoms](https://github.com/jviladoms) | 3 | 0 | C# | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6716729?v=3&s=64' width='64' height='64' title='Jordi Viladoms Ferrandiz'> |
-| 1525 | [dulce-delarosa](https://github.com/dulce-delarosa) | 3 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1457843?v=3&s=64' width='64' height='64' title='Dulce'> |
-| 1526 | [lluisgarcia](https://github.com/lluisgarcia) | 3 | 4 | C++ | Sabadell (Barcelona, Spain) | <img src='https://avatars2.githubusercontent.com/u/6137127?v=3&s=64' width='64' height='64' title='Lluis Garcia'> |
-| 1527 | [slois](https://github.com/slois) | 3 | 0 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1950849?v=3&s=64' width='64' height='64' title='Sergio Lois'> |
-| 1528 | [ssr1368](https://github.com/ssr1368) | 3 | 0 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7687480?v=3&s=64' width='64' height='64' title='Sergi Subirats'> |
-| 1529 | [enricsa](https://github.com/enricsa) | 3 | 0 | Ruby and Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/932044?v=3&s=64' width='64' height='64' title='Enric Sánchez'> |
-| 1530 | [joaoqalves](https://github.com/joaoqalves) | 3 | 17 | Ruby | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/843454?v=3&s=64' width='64' height='64' title='João Alves'> |
-| 1531 | [juanvy03](https://github.com/juanvy03) | 3 | 0 | Perl | Terrassa, Barcelona. | <img src='https://avatars3.githubusercontent.com/u/9414127?v=3&s=64' width='64' height='64' title='Juan V. Maillo'> |
-| 1532 | [dmanubens](https://github.com/dmanubens) | 3 | 2 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1502044?v=3&s=64' width='64' height='64' title='Domingo Manubens Gil'> |
-| 1533 | [jcanocan](https://github.com/jcanocan) | 3 | 0 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8182328?v=3&s=64' width='64' height='64' title='Javier Cano'> |
-| 1534 | [coopeu](https://github.com/coopeu) | 3 | 0 | Ruby | Barcelona CATALONIA | <img src='https://avatars1.githubusercontent.com/u/11516172?v=3&s=64' width='64' height='64' title='Ferran Cabrer i Vilagut'> |
-| 1535 | [adcortes](https://github.com/adcortes) | 3 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/478657?v=3&s=64' width='64' height='64' title='Adriana'> |
-| 1536 | [wakumaku](https://github.com/wakumaku) | 3 | 1 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/938022?v=3&s=64' width='64' height='64' title='Jordi Tarruella'> |
-| 1537 | [cartorjo](https://github.com/cartorjo) | 3 | 0 | CSS and JavaScript | Barcelona / Berlin | <img src='https://avatars1.githubusercontent.com/u/3819264?v=3&s=64' width='64' height='64' title='Jose Torres'> |
-| 1538 | [diegoseso](https://github.com/diegoseso) | 3 | 1 | PHP | Barcelona, España | <img src='https://avatars2.githubusercontent.com/u/7034138?v=3&s=64' width='64' height='64' title='Diego Sosa'> |
-| 1539 | [rodicafazakas](https://github.com/rodicafazakas) | 3 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11833084?v=3&s=64' width='64' height='64' title='Rodica'> |
-| 1540 | [youchy](https://github.com/youchy) | 3 | 0 | Java and Groovy | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1357249?v=3&s=64' width='64' height='64' title='Carlos Muñoz Romero'> |
-| 1541 | [fazeaction](https://github.com/fazeaction) | 3 | 19 | JavaScript | barcelona | <img src='https://avatars2.githubusercontent.com/u/255685?v=3&s=64' width='64' height='64' title='fazeaction'> |
-| 1542 | [LuisResco](https://github.com/LuisResco) | 3 | 0 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/6460676?v=3&s=64' width='64' height='64' title='Luis Resco'> |
-| 1543 | [cotarelo2](https://github.com/cotarelo2) | 3 | 0 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3006563?v=3&s=64' width='64' height='64' title='Jorge Peña'> |
-| 1544 | [mikemaal](https://github.com/mikemaal) | 3 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7982748?v=3&s=64' width='64' height='64' title='Mike'> |
-| 1545 | [pattbcn](https://github.com/pattbcn) | 3 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8615592?v=3&s=64' width='64' height='64' title='Patricia'> |
-| 1546 | [Optimiza](https://github.com/Optimiza) | 3 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/829551?v=3&s=64' width='64' height='64' title='Marcos Hernandez'> |
-| 1547 | [njyx](https://github.com/njyx) | 3 | 2 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/99784?v=3&s=64' width='64' height='64' title='Steven Willmott'> |
-| 1548 | [mandorra](https://github.com/mandorra) | 3 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/249248?v=3&s=64' width='64' height='64' title='Magí Andorrà'> |
-| 1549 | [kuul-dev](https://github.com/kuul-dev) | 3 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7654244?v=3&s=64' width='64' height='64' title='Booking platform OSSB'> |
-| 1550 | [luisnomad](https://github.com/luisnomad) | 3 | 9 | HTML | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1104132?v=3&s=64' width='64' height='64' title='Luis Serrano'> |
-| 1551 | [alejandromelis](https://github.com/alejandromelis) | 3 | 0 | C# | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1795442?v=3&s=64' width='64' height='64' title='Alejandro Melis Fernandez'> |
-| 1552 | [sp-roger-clotet](https://github.com/sp-roger-clotet) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6850397?v=3&s=64' width='64' height='64' title='Roger Clotet'> |
-| 1553 | [princeshahnawaz2012](https://github.com/princeshahnawaz2012) | 3 | 37 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1132976?v=3&s=64' width='64' height='64' title='Prince Shahnawaz'> |
-| 1554 | [daniggcc](https://github.com/daniggcc) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11554954?v=3&s=64' width='64' height='64' title='Daniel Garcia-Castellanos'> |
-| 1555 | [kirian](https://github.com/kirian) | 3 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2373236?v=3&s=64' width='64' height='64' title='Kirian'> |
-| 1556 | [sp-guillem-anguera](https://github.com/sp-guillem-anguera) | 3 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6795698?v=3&s=64' width='64' height='64' title='Guillem Anguera'> |
-| 1557 | [cristiangauma](https://github.com/cristiangauma) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1321112?v=3&s=64' width='64' height='64' title='Cristian Gauxachs Marin'> |
-| 1558 | [jcarrasko](https://github.com/jcarrasko) | 3 | 2 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1558631?v=3&s=64' width='64' height='64' title='Jose Carrasco'> |
-| 1559 | [miguelolmosscmspain](https://github.com/miguelolmosscmspain) | 3 | 0 | PHP | St. Cugat del Vallès ( Barcelona ) | <img src='https://avatars3.githubusercontent.com/u/10561221?v=3&s=64' width='64' height='64' title='Miguel Olmos'> |
-| 1560 | [manuelljb](https://github.com/manuelljb) | 3 | 0 | CSS and PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/886182?v=3&s=64' width='64' height='64' title='Manuel Lucas Jurado Baños'> |
-| 1561 | [brunopaz](https://github.com/brunopaz) | 3 | 1 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/820472?v=3&s=64' width='64' height='64' title='BrunoPaz'> |
-| 1562 | [lluismnd](https://github.com/lluismnd) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6039986?v=3&s=64' width='64' height='64' title='Lluis Mnd'> |
-| 1563 | [Rhodium](https://github.com/Rhodium) | 3 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/414830?v=3&s=64' width='64' height='64' title='Francisco Zahinos'> |
-| 1564 | [vmucuge](https://github.com/vmucuge) | 3 | 2 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8874372?v=3&s=64' width='64' height='64' title='Vinícius Mucugê'> |
-| 1565 | [sergicase](https://github.com/sergicase) | 3 | 0 | Ruby | Barcelona , Spain | <img src='https://avatars1.githubusercontent.com/u/5587612?v=3&s=64' width='64' height='64' title='Sergi Case'> |
-| 1566 | [valls](https://github.com/valls) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7370374?v=3&s=64' width='64' height='64' title='Albert'> |
-| 1567 | [rodrigompaz](https://github.com/rodrigompaz) | 3 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11908891?v=3&s=64' width='64' height='64' title='Rodrigo'> |
-| 1568 | [acar80](https://github.com/acar80) | 3 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9269887?v=3&s=64' width='64' height='64' title='Anna Carreras Coch'> |
-| 1569 | [Ismar11](https://github.com/Ismar11) | 3 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8707051?v=3&s=64' width='64' height='64' title='Luis MG'> |
-| 1570 | [cbr4yan](https://github.com/cbr4yan) | 3 | 0 | C | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9075942?v=3&s=64' width='64' height='64' title='Brayan'> |
-| 1571 | [Hyunk3l](https://github.com/Hyunk3l) | 3 | 3 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/754861?v=3&s=64' width='64' height='64' title='Fabri Di Napoli'> |
-| 1572 | [keexs](https://github.com/keexs) | 3 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9443802?v=3&s=64' width='64' height='64' title='David Soto'> |
-| 1573 | [toliao](https://github.com/toliao) | 3 | 0 | Shell | barcelona,españa | <img src='https://avatars1.githubusercontent.com/u/6770958?v=3&s=64' width='64' height='64' title='toliao'> |
-| 1574 | [juguerre](https://github.com/juguerre) | 3 | 0 | Groovy | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3923030?v=3&s=64' width='64' height='64' title='Andrés'> |
-| 1575 | [KTMarc](https://github.com/KTMarc) | 3 | 0 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7659485?v=3&s=64' width='64' height='64' title='Marc'> |
-| 1576 | [ftgalleg](https://github.com/ftgalleg) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11045820?v=3&s=64' width='64' height='64' title='Fran'> |
-| 1577 | [ancoraDual](https://github.com/ancoraDual) | 3 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/544077?v=3&s=64' width='64' height='64' title='Sergi Garcia'> |
-| 1578 | [guillemhs](https://github.com/guillemhs) | 3 | 15 | JavaScript | Southport (UK) / Barcelona (CAT) | <img src='https://avatars3.githubusercontent.com/u/652362?v=3&s=64' width='64' height='64' title='Guillem'> |
-| 1579 | [polmoneys](https://github.com/polmoneys) | 3 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7026863?v=3&s=64' width='64' height='64' title='pol'> |
-| 1580 | [donfuxx](https://github.com/donfuxx) | 3 | 1 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8261416?v=3&s=64' width='64' height='64' title='Thomas Fuchs-Martin'> |
-| 1581 | [sergiomoreno](https://github.com/sergiomoreno) | 3 | 0 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11460303?v=3&s=64' width='64' height='64' title='Sergio Moreno'> |
-| 1582 | [txemaq](https://github.com/txemaq) | 3 | 0 | TypeScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8837071?v=3&s=64' width='64' height='64' title='Josep Ma. Ferrer'> |
-| 1583 | [tomcask](https://github.com/tomcask) | 3 | 3 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/537921?v=3&s=64' width='64' height='64' title='Tomcask'> |
-| 1584 | [ivannkf](https://github.com/ivannkf) | 3 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1236564?v=3&s=64' width='64' height='64' title='Ivan Nikolic'> |
-| 1585 | [seifreed](https://github.com/seifreed) | 3 | 20 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1843119?v=3&s=64' width='64' height='64' title='Marc Rivero López'> |
-| 1586 | [damianrebolo](https://github.com/damianrebolo) | 3 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8086647?v=3&s=64' width='64' height='64' title='damian rebolo'> |
-| 1587 | [libove](https://github.com/libove) | 3 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2027232?v=3&s=64' width='64' height='64' title='Jay Libove'> |
-| 1588 | [marcobrador](https://github.com/marcobrador) | 3 | 0 | HTML and Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/11644631?v=3&s=64' width='64' height='64' title='Marc Obrador'> |
-| 1589 | [marcelaulenbacher](https://github.com/marcelaulenbacher) | 3 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10868598?v=3&s=64' width='64' height='64' title='Marcel'> |
-| 1590 | [marcomsousa](https://github.com/marcomsousa) | 3 | 2 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1110889?v=3&s=64' width='64' height='64' title='Marco Sousa'> |
-| 1591 | [andreparodi](https://github.com/andreparodi) | 3 | 1 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1334187?v=3&s=64' width='64' height='64' title='Andre Parodi'> |
-| 1592 | [NarcisDavins](https://github.com/NarcisDavins) | 2 | 0 | PHP and Puppet | Barcelona | <img src='https://avatars3.githubusercontent.com/u/593462?v=3&s=64' width='64' height='64' title='Narcís Davins'> |
-| 1593 | [Daniel-J-Murphy](https://github.com/Daniel-J-Murphy) | 2 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9577569?v=3&s=64' width='64' height='64' title='Daniel J. Murphy'> |
-| 1594 | [leynar](https://github.com/leynar) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2168735?v=3&s=64' width='64' height='64' title='Fran Herrero'> |
-| 1595 | [davidxicota](https://github.com/davidxicota) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/683708?v=3&s=64' width='64' height='64' title='David Xicota'> |
-| 1596 | [DiegoPomares](https://github.com/DiegoPomares) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10832943?v=3&s=64' width='64' height='64' title='Diego Pomares'> |
-| 1597 | [calshox](https://github.com/calshox) | 2 | 0 | PHP | Barcelona - México DF | <img src='https://avatars2.githubusercontent.com/u/11080359?v=3&s=64' width='64' height='64' title='Carlos Vázquez Ramírez'> |
-| 1598 | [sperpina](https://github.com/sperpina) | 2 | 0 |  | Viladecans - Barcelona | <img src='https://avatars2.githubusercontent.com/u/7782126?v=3&s=64' width='64' height='64' title='Sergi Perpiñá'> |
-| 1599 | [xLostLife](https://github.com/xLostLife) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11426733?v=3&s=64' width='64' height='64' title='Gagan Singh'> |
-| 1600 | [ferranorriols](https://github.com/ferranorriols) | 2 | 2 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/947112?v=3&s=64' width='64' height='64' title='Ferran Orriols'> |
-| 1601 | [jmquarck](https://github.com/jmquarck) | 2 | 1 | PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1783299?v=3&s=64' width='64' height='64' title='Jordi Martinez'> |
-| 1602 | [Faleg](https://github.com/Faleg) | 2 | 0 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9244883?v=3&s=64' width='64' height='64' title='Fapps'> |
-| 1603 | [mlasala](https://github.com/mlasala) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2495419?v=3&s=64' width='64' height='64' title='Mariano Lasala'> |
-| 1604 | [jaumefontal](https://github.com/jaumefontal) | 2 | 100 | JavaScript | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/2067753?v=3&s=64' width='64' height='64' title='Jaume Fontal'> |
-| 1605 | [payrandom](https://github.com/payrandom) | 2 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7016997?v=3&s=64' width='64' height='64' title='PayRandom'> |
-| 1606 | [crosasmendoza](https://github.com/crosasmendoza) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10826685?v=3&s=64' width='64' height='64' title='Claudia Rosas'> |
-| 1607 | [ls27305](https://github.com/ls27305) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10158785?v=3&s=64' width='64' height='64' title='Xavier Gabarro'> |
-| 1608 | [Ccrowell7](https://github.com/Ccrowell7) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9844372?v=3&s=64' width='64' height='64' title='Ciera'> |
-| 1609 | [arg-vedder](https://github.com/arg-vedder) | 2 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4988158?v=3&s=64' width='64' height='64' title='Alejandro'> |
-| 1610 | [jonathanchacon](https://github.com/jonathanchacon) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3273588?v=3&s=64' width='64' height='64' title='Jonathan'> |
-| 1611 | [munnibhai](https://github.com/munnibhai) | 2 | 0 | PHP and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8547194?v=3&s=64' width='64' height='64' title=''> |
-| 1612 | [roneypc](https://github.com/roneypc) | 2 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8244020?v=3&s=64' width='64' height='64' title='Jorge Roberto Neyra'> |
-| 1613 | [Ferdi342](https://github.com/Ferdi342) | 2 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10948340?v=3&s=64' width='64' height='64' title=''> |
-| 1614 | [Maikelblogs](https://github.com/Maikelblogs) | 2 | 0 | JavaScript and CSS | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/10330049?v=3&s=64' width='64' height='64' title='MaikelBlogs'> |
-| 1615 | [maria19](https://github.com/maria19) | 2 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8068750?v=3&s=64' width='64' height='64' title='Maria'> |
-| 1616 | [MontseRabassaB85](https://github.com/MontseRabassaB85) | 2 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7837583?v=3&s=64' width='64' height='64' title='Montse Rabassa'> |
-| 1617 | [jminguillona](https://github.com/jminguillona) | 2 | 0 | Processing | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/4051216?v=3&s=64' width='64' height='64' title='Julià Minguillón'> |
-| 1618 | [Hark0](https://github.com/Hark0) | 2 | 0 | C and Objective-C | Cornella de Llobregat, Barcelona | <img src='https://avatars1.githubusercontent.com/u/7446823?v=3&s=64' width='64' height='64' title=''> |
-| 1619 | [ireneesteban](https://github.com/ireneesteban) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/10144361?v=3&s=64' width='64' height='64' title='Irene Esteban'> |
-| 1620 | [daniroblesc](https://github.com/daniroblesc) | 2 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4210742?v=3&s=64' width='64' height='64' title='Dani'> |
-| 1621 | [Pcummings](https://github.com/Pcummings) | 2 | 0 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/6900289?v=3&s=64' width='64' height='64' title='Peter Cummings'> |
-| 1622 | [rogermaza](https://github.com/rogermaza) | 2 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10484972?v=3&s=64' width='64' height='64' title='Roger'> |
-| 1623 | [DavidCana12](https://github.com/DavidCana12) | 2 | 0 | Java | barcelona | <img src='https://avatars2.githubusercontent.com/u/6430105?v=3&s=64' width='64' height='64' title='David'> |
-| 1624 | [AngelaFabregues](https://github.com/AngelaFabregues) | 2 | 2 | Java and Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10049835?v=3&s=64' width='64' height='64' title='Angela Fabregues'> |
-| 1625 | [sounakdey](https://github.com/sounakdey) | 2 | 0 | Matlab and HTML | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8640971?v=3&s=64' width='64' height='64' title='Sounak Dey'> |
-| 1626 | [oriverdes](https://github.com/oriverdes) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/12561808?v=3&s=64' width='64' height='64' title=''> |
-| 1627 | [joahking](https://github.com/joahking) | 2 | 43 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/8817?v=3&s=64' width='64' height='64' title='Joaquin Rivera Padron'> |
-| 1628 | [egcastro](https://github.com/egcastro) | 2 | 0 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1915140?v=3&s=64' width='64' height='64' title='Emiliano G. Castro'> |
-| 1629 | [jojuva](https://github.com/jojuva) | 2 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1616650?v=3&s=64' width='64' height='64' title=''> |
-| 1630 | [xavierrosero](https://github.com/xavierrosero) | 2 | 0 | Python | BARCELONA, SPAIN | <img src='https://avatars3.githubusercontent.com/u/6934211?v=3&s=64' width='64' height='64' title='CARLOS XAVIER ROSERO CHANDI'> |
-| 1631 | [avillasenorh](https://github.com/avillasenorh) | 2 | 0 | R | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3618007?v=3&s=64' width='64' height='64' title='Antonio Villaseñor'> |
-| 1632 | [angelcustodio](https://github.com/angelcustodio) | 2 | 0 | JavaScript and CoffeeScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/696902?v=3&s=64' width='64' height='64' title='Angel Custodio'> |
-| 1633 | [sergigracia](https://github.com/sergigracia) | 2 | 91 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1061658?v=3&s=64' width='64' height='64' title='Sergi Gracia'> |
-| 1634 | [victorgc81](https://github.com/victorgc81) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2830006?v=3&s=64' width='64' height='64' title='Víctor García'> |
-| 1635 | [jprojects](https://github.com/jprojects) | 2 | 1 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1040782?v=3&s=64' width='64' height='64' title='Kim'> |
-| 1636 | [thomasklein](https://github.com/thomasklein) | 2 | 35 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/95669?v=3&s=64' width='64' height='64' title='Thomas Klein'> |
-| 1637 | [asle85](https://github.com/asle85) | 2 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10634826?v=3&s=64' width='64' height='64' title='Elsa'> |
-| 1638 | [mm1group](https://github.com/mm1group) | 2 | 0 | Mathematica | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11147097?v=3&s=64' width='64' height='64' title=''> |
-| 1639 | [danif5](https://github.com/danif5) | 2 | 1 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1272862?v=3&s=64' width='64' height='64' title='Daniel'> |
-| 1640 | [CAPTioner](https://github.com/CAPTioner) | 2 | 0 |  | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/8056030?v=3&s=64' width='64' height='64' title='Mario Carranza'> |
-| 1641 | [pelayomendez](https://github.com/pelayomendez) | 2 | 48 | C++ | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1971236?v=3&s=64' width='64' height='64' title='Pelayo Méndez'> |
-| 1642 | [AlexPereaDev](https://github.com/AlexPereaDev) | 2 | 0 | Swift | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10133295?v=3&s=64' width='64' height='64' title='Alex Perea'> |
-| 1643 | [mcanes](https://github.com/mcanes) | 2 | 3 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/481979?v=3&s=64' width='64' height='64' title='Miquel Canes Gonzalez'> |
-| 1644 | [MichaelGradek](https://github.com/MichaelGradek) | 2 | 0 | Makefile | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1625670?v=3&s=64' width='64' height='64' title='Michael Gradek'> |
-| 1645 | [xberthet](https://github.com/xberthet) | 2 | 0 | Python and Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4901526?v=3&s=64' width='64' height='64' title='xberthet'> |
-| 1646 | [netmarti](https://github.com/netmarti) | 2 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1731699?v=3&s=64' width='64' height='64' title='Daniel'> |
-| 1647 | [arturh](https://github.com/arturh) | 2 | 8 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/81313?v=3&s=64' width='64' height='64' title='Artur Honzawa'> |
-| 1648 | [jlpoveda](https://github.com/jlpoveda) | 2 | 4 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/191520?v=3&s=64' width='64' height='64' title='Jose Luis'> |
-| 1649 | [nanusefue](https://github.com/nanusefue) | 2 | 1 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/907256?v=3&s=64' width='64' height='64' title='Esteban'> |
-| 1650 | [pespinar](https://github.com/pespinar) | 2 | 0 | R | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/10965914?v=3&s=64' width='64' height='64' title='Pablo Espinar'> |
-| 1651 | [LianaN](https://github.com/LianaN) | 2 | 0 | R | Spain (Barcelona) | <img src='https://avatars2.githubusercontent.com/u/11301976?v=3&s=64' width='64' height='64' title='Liana'> |
-| 1652 | [acoll23](https://github.com/acoll23) | 2 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8777430?v=3&s=64' width='64' height='64' title='Artur Coll'> |
-| 1653 | [albertca](https://github.com/albertca) | 2 | 6 | Python | Sabadell, Barcelona | <img src='https://avatars1.githubusercontent.com/u/91534?v=3&s=64' width='64' height='64' title='Albert Cervera i Areny'> |
-| 1654 | [JosepLTorres](https://github.com/JosepLTorres) | 2 | 0 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9784829?v=3&s=64' width='64' height='64' title='Josep L. Torres'> |
-| 1655 | [xbonell](https://github.com/xbonell) | 2 | 2 | Ruby | Sant Cugat del Vallès, Barcelona ES | <img src='https://avatars3.githubusercontent.com/u/778802?v=3&s=64' width='64' height='64' title='Xavier Bonell Iturbe'> |
-| 1656 | [oriolpujol](https://github.com/oriolpujol) | 2 | 6 | ASP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1985005?v=3&s=64' width='64' height='64' title='Oriol Pujol'> |
-| 1657 | [lgarciaes](https://github.com/lgarciaes) | 2 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6773433?v=3&s=64' width='64' height='64' title='Luis Garcia'> |
-| 1658 | [telenieko](https://github.com/telenieko) | 2 | 19 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10505?v=3&s=64' width='64' height='64' title='Marc Fargas'> |
-| 1659 | [sp-ricardo-amores](https://github.com/sp-ricardo-amores) | 2 | 1 | C# | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6838924?v=3&s=64' width='64' height='64' title='Ricardo Amores Hernández'> |
-| 1660 | [cokarmando](https://github.com/cokarmando) | 2 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3177284?v=3&s=64' width='64' height='64' title='Armando'> |
-| 1661 | [quarkcode](https://github.com/quarkcode) | 2 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2664720?v=3&s=64' width='64' height='64' title='quarkcode'> |
-| 1662 | [KabraBoja](https://github.com/KabraBoja) | 2 | 7 | Objective-C and Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/777780?v=3&s=64' width='64' height='64' title='Eloi Guzmán Cerón'> |
-| 1663 | [sitobcn82](https://github.com/sitobcn82) | 2 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1449204?v=3&s=64' width='64' height='64' title='Ruben Baraut'> |
-| 1664 | [Ryuz3n](https://github.com/Ryuz3n) | 2 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11394168?v=3&s=64' width='64' height='64' title='Asif A. Khan'> |
-| 1665 | [abaranguer](https://github.com/abaranguer) | 2 | 0 | Python | Barcelona - Catalunya | <img src='https://avatars2.githubusercontent.com/u/4771707?v=3&s=64' width='64' height='64' title='Albert Baranguer Codina'> |
-| 1666 | [alxmllr](https://github.com/alxmllr) | 2 | 0 | Objective-C and JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/789597?v=3&s=64' width='64' height='64' title='Alex Muller'> |
-| 1667 | [plitex](https://github.com/plitex) | 2 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2946823?v=3&s=64' width='64' height='64' title='Miguel Mejias'> |
-| 1668 | [ecesar](https://github.com/ecesar) | 2 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6874128?v=3&s=64' width='64' height='64' title='Eduardo'> |
-| 1669 | [marcostvz](https://github.com/marcostvz) | 2 | 1 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1872629?v=3&s=64' width='64' height='64' title='Marcos Estévez Martínez'> |
-| 1670 | [mailofjordi](https://github.com/mailofjordi) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9195020?v=3&s=64' width='64' height='64' title='Jordi'> |
-| 1671 | [migonz](https://github.com/migonz) | 2 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10757218?v=3&s=64' width='64' height='64' title='MiGueL'> |
-| 1672 | [letsbonus-gh](https://github.com/letsbonus-gh) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9464422?v=3&s=64' width='64' height='64' title='Letsbonus'> |
-| 1673 | [iMobils](https://github.com/iMobils) | 2 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6673234?v=3&s=64' width='64' height='64' title='Mobile Application Development'> |
-| 1674 | [escanton](https://github.com/escanton) | 2 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4100890?v=3&s=64' width='64' height='64' title='Szergj Cantón'> |
-| 1675 | [jsanchezramos](https://github.com/jsanchezramos) | 2 | 8 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1412271?v=3&s=64' width='64' height='64' title='Juan Francisco Sánchez Ramos'> |
-| 1676 | [Gatonevermind](https://github.com/Gatonevermind) | 2 | 2 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/6307323?v=3&s=64' width='64' height='64' title='Kevin Gato Maroto'> |
-| 1677 | [juanfran-granados](https://github.com/juanfran-granados) | 2 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2051540?v=3&s=64' width='64' height='64' title='Juanfran'> |
-| 1678 | [Tarydium](https://github.com/Tarydium) | 2 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6092823?v=3&s=64' width='64' height='64' title='Felix'> |
-| 1679 | [gienini](https://github.com/gienini) | 2 | 0 | Java | Vic (Barcelona) | <img src='https://avatars3.githubusercontent.com/u/4398125?v=3&s=64' width='64' height='64' title='gienini'> |
-| 1680 | [cabans](https://github.com/cabans) | 2 | 0 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1741464?v=3&s=64' width='64' height='64' title='Abel Cabans'> |
-| 1681 | [Vithozor](https://github.com/Vithozor) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2492030?v=3&s=64' width='64' height='64' title=''> |
-| 1682 | [ferranMazaira](https://github.com/ferranMazaira) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2162458?v=3&s=64' width='64' height='64' title='Ferran A.'> |
-| 1683 | [dferrandizmont](https://github.com/dferrandizmont) | 2 | 0 | Objective-C and C++ | Terrassa, Barcelona. | <img src='https://avatars3.githubusercontent.com/u/6375953?v=3&s=64' width='64' height='64' title='Dani Ferrandiz Mont'> |
-| 1684 | [isaacbuch](https://github.com/isaacbuch) | 2 | 0 |  | Mataro, Barcelona | <img src='https://avatars1.githubusercontent.com/u/963050?v=3&s=64' width='64' height='64' title='Isaac Buch Pou'> |
-| 1685 | [cvaconsulting](https://github.com/cvaconsulting) | 2 | 6 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1774647?v=3&s=64' width='64' height='64' title='CV&A Consulting'> |
-| 1686 | [gespona](https://github.com/gespona) | 2 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5397648?v=3&s=64' width='64' height='64' title='Gerard Espona'> |
-| 1687 | [itdoh](https://github.com/itdoh) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3306773?v=3&s=64' width='64' height='64' title='itdoh'> |
-| 1688 | [carlosrobles](https://github.com/carlosrobles) | 2 | 3 | Java | Manila - London - Barcelona | <img src='https://avatars0.githubusercontent.com/u/4185550?v=3&s=64' width='64' height='64' title=''> |
-| 1689 | [dubium](https://github.com/dubium) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5720894?v=3&s=64' width='64' height='64' title='Xavier Martinez'> |
-| 1690 | [xaviaracil](https://github.com/xaviaracil) | 2 | 3 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/81933?v=3&s=64' width='64' height='64' title='Xavi Aracil'> |
-| 1691 | [ramonfmir](https://github.com/ramonfmir) | 2 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3001940?v=3&s=64' width='64' height='64' title='Ramon Fernández Mir'> |
-| 1692 | [carnau](https://github.com/carnau) | 2 | 0 | VimL | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1808240?v=3&s=64' width='64' height='64' title='Carlos Arnau Ros'> |
-| 1693 | [stakewinner00](https://github.com/stakewinner00) | 2 | 0 | C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4865946?v=3&s=64' width='64' height='64' title='David'> |
-| 1694 | [Jypy](https://github.com/Jypy) | 2 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/443824?v=3&s=64' width='64' height='64' title='Jean-Philippe Bouillot'> |
-| 1695 | [spooker8](https://github.com/spooker8) | 2 | 0 |  | Vilnius Barcelona Kuala Lumpur | <img src='https://avatars3.githubusercontent.com/u/11305728?v=3&s=64' width='64' height='64' title='Anand Kumar'> |
-| 1696 | [skptic](https://github.com/skptic) | 2 | 0 | Perl | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3192944?v=3&s=64' width='64' height='64' title='Evan Floden'> |
-| 1697 | [manumolina](https://github.com/manumolina) | 2 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2404208?v=3&s=64' width='64' height='64' title='Manu'> |
-| 1698 | [carlesgomalb](https://github.com/carlesgomalb) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11524020?v=3&s=64' width='64' height='64' title='Carles Gómez Alberola'> |
-| 1699 | [sdurban](https://github.com/sdurban) | 2 | 0 | Objective-C | Barcelona, SPAIN | <img src='https://avatars2.githubusercontent.com/u/4395258?v=3&s=64' width='64' height='64' title='Sergio Durban Belmonte'> |
-| 1700 | [jaume](https://github.com/jaume) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/17005?v=3&s=64' width='64' height='64' title='Jaume Arús'> |
-| 1701 | [Ibby](https://github.com/Ibby) | 2 | 0 | Ruby | Barcelona / Spain | <img src='https://avatars2.githubusercontent.com/u/394316?v=3&s=64' width='64' height='64' title='Ibrahim Rodríguez'> |
-| 1702 | [edumolins](https://github.com/edumolins) | 2 | 0 | Groovy | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1089537?v=3&s=64' width='64' height='64' title='Edu Molins'> |
-| 1703 | [dcanetma](https://github.com/dcanetma) | 2 | 17 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/287112?v=3&s=64' width='64' height='64' title='D4n32l C4n2t'> |
-| 1704 | [pparescasellas](https://github.com/pparescasellas) | 2 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/798008?v=3&s=64' width='64' height='64' title='Pere Parés Casellas'> |
-| 1705 | [polmrtn](https://github.com/polmrtn) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6585607?v=3&s=64' width='64' height='64' title='Pol Martin'> |
-| 1706 | [armandogmendoza](https://github.com/armandogmendoza) | 2 | 0 | C# | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2950472?v=3&s=64' width='64' height='64' title='Armando Garcia-Mendoza'> |
-| 1707 | [marcomorettim](https://github.com/marcomorettim) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9640190?v=3&s=64' width='64' height='64' title='Marco Moretti'> |
-| 1708 | [dvladek](https://github.com/dvladek) | 2 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/668788?v=3&s=64' width='64' height='64' title='Davide'> |
-| 1709 | [jotacepea](https://github.com/jotacepea) | 2 | 0 | Puppet | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/4790173?v=3&s=64' width='64' height='64' title='jotacepea'> |
-| 1710 | [companygarcia](https://github.com/companygarcia) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1502331?v=3&s=64' width='64' height='64' title='Jose Maria'> |
-| 1711 | [forhau](https://github.com/forhau) | 2 | 0 | Shell and JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3373119?v=3&s=64' width='64' height='64' title='Marc'> |
-| 1712 | [pablochacin](https://github.com/pablochacin) | 2 | 0 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/720259?v=3&s=64' width='64' height='64' title='pablochacin'> |
-| 1713 | [Loda](https://github.com/Loda) | 2 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/738685?v=3&s=64' width='64' height='64' title='Loda'> |
-| 1714 | [quiqu3](https://github.com/quiqu3) | 2 | 0 | C# | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1220571?v=3&s=64' width='64' height='64' title='Quique Martínez'> |
-| 1715 | [nhstanley](https://github.com/nhstanley) | 2 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2827461?v=3&s=64' width='64' height='64' title='Nate'> |
-| 1716 | [starkkod](https://github.com/starkkod) | 2 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4589664?v=3&s=64' width='64' height='64' title='starkiskod'> |
-| 1717 | [esedArk](https://github.com/esedArk) | 2 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2690260?v=3&s=64' width='64' height='64' title='David'> |
-| 1718 | [paxpuig](https://github.com/paxpuig) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10450960?v=3&s=64' width='64' height='64' title='Pau Puig'> |
-| 1719 | [Kv0the](https://github.com/Kv0the) | 2 | 0 | Makefile and C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9008751?v=3&s=64' width='64' height='64' title='Guille ON'> |
-| 1720 | [guillemsalas](https://github.com/guillemsalas) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/229593?v=3&s=64' width='64' height='64' title='Guillem Salas'> |
-| 1721 | [IN2felipepozo](https://github.com/IN2felipepozo) | 2 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3766392?v=3&s=64' width='64' height='64' title='Felipe del Pozo'> |
-| 1722 | [sfdez](https://github.com/sfdez) | 2 | 0 |  | BARCELONA | <img src='https://avatars2.githubusercontent.com/u/3788340?v=3&s=64' width='64' height='64' title='Sergio'> |
-| 1723 | [msjoker](https://github.com/msjoker) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2046816?v=3&s=64' width='64' height='64' title='Marce CL'> |
-| 1724 | [marqmarti](https://github.com/marqmarti) | 2 | 1 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3709255?v=3&s=64' width='64' height='64' title='Marq Martí'> |
-| 1725 | [sisux](https://github.com/sisux) | 2 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/763276?v=3&s=64' width='64' height='64' title='Narcis Margall'> |
-| 1726 | [sebbcn](https://github.com/sebbcn) | 2 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2419643?v=3&s=64' width='64' height='64' title='Seb'> |
-| 1727 | [xmorales](https://github.com/xmorales) | 2 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2861076?v=3&s=64' width='64' height='64' title='Xavier Morales'> |
-| 1728 | [netmanito](https://github.com/netmanito) | 2 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2376481?v=3&s=64' width='64' height='64' title='Jacinto Calvo Sintes'> |
-| 1729 | [jcivit](https://github.com/jcivit) | 2 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3600764?v=3&s=64' width='64' height='64' title='Jaume Civit Rovira'> |
-| 1730 | [dorisadan](https://github.com/dorisadan) | 2 | 0 | Processing | Barcelona,Spain | <img src='https://avatars0.githubusercontent.com/u/8020443?v=3&s=64' width='64' height='64' title='Dori Sadan'> |
-| 1731 | [pcs289](https://github.com/pcs289) | 2 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3842377?v=3&s=64' width='64' height='64' title='Pau de la Cuesta'> |
-| 1732 | [ericsala](https://github.com/ericsala) | 2 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/484050?v=3&s=64' width='64' height='64' title='Eric Sala'> |
-| 1733 | [maartenklijnstra](https://github.com/maartenklijnstra) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5655874?v=3&s=64' width='64' height='64' title='Maarten Klijnstra'> |
-| 1734 | [matamandola](https://github.com/matamandola) | 2 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1618504?v=3&s=64' width='64' height='64' title='Matías Amándola'> |
-| 1735 | [stefanc](https://github.com/stefanc) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/66746?v=3&s=64' width='64' height='64' title='Stefan Cosma'> |
-| 1736 | [moretty](https://github.com/moretty) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5548901?v=3&s=64' width='64' height='64' title='Ramon'> |
-| 1737 | [lucascepeda](https://github.com/lucascepeda) | 1 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/775498?v=3&s=64' width='64' height='64' title='Lucas Cepeda'> |
-| 1738 | [staticduo](https://github.com/staticduo) | 1 | 1 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1510933?v=3&s=64' width='64' height='64' title='Jordi Ibáñez'> |
-| 1739 | [jokin](https://github.com/jokin) | 1 | 4 | JavaScript | barcelona | <img src='https://avatars2.githubusercontent.com/u/58509?v=3&s=64' width='64' height='64' title='Jokin'> |
-| 1740 | [rmoreno-ob](https://github.com/rmoreno-ob) | 1 | 0 | PLSQL | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9935091?v=3&s=64' width='64' height='64' title='Raúl Moreno'> |
-| 1741 | [MarkCheshire](https://github.com/MarkCheshire) | 1 | 4 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/460830?v=3&s=64' width='64' height='64' title='Mark Cheshire'> |
-| 1742 | [pcmarch](https://github.com/pcmarch) | 1 | 0 | Java and XML | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5389758?v=3&s=64' width='64' height='64' title='Francesc March'> |
-| 1743 | [ejrope](https://github.com/ejrope) | 1 | 0 | Java | Barcelona (Catalonia - Spain) | <img src='https://avatars2.githubusercontent.com/u/3007892?v=3&s=64' width='64' height='64' title=''> |
-| 1744 | [arrebucio](https://github.com/arrebucio) | 1 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1247068?v=3&s=64' width='64' height='64' title='arrebucio'> |
-| 1745 | [martirella](https://github.com/martirella) | 1 | 0 | VimL | Vielha / Barcelona | <img src='https://avatars1.githubusercontent.com/u/244162?v=3&s=64' width='64' height='64' title='Marti'> |
-| 1746 | [joseaplwork](https://github.com/joseaplwork) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5417763?v=3&s=64' width='64' height='64' title='Jose Antonio Paredes Leon'> |
-| 1747 | [campsjos](https://github.com/campsjos) | 1 | 1 | PHP and JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1260191?v=3&s=64' width='64' height='64' title='Josep Camps Miró'> |
-| 1748 | [alfonsfreixes](https://github.com/alfonsfreixes) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10262036?v=3&s=64' width='64' height='64' title='alfons freixes'> |
-| 1749 | [treeangular](https://github.com/treeangular) | 1 | 4 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4760005?v=3&s=64' width='64' height='64' title='TreeAngular'> |
-| 1750 | [grypp](https://github.com/grypp) | 1 | 4 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3865321?v=3&s=64' width='64' height='64' title='guray'> |
-| 1751 | [Issam6](https://github.com/Issam6) | 1 | 0 | PowerShell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9693411?v=3&s=64' width='64' height='64' title='Issam Aouad'> |
-| 1752 | [Zarbel](https://github.com/Zarbel) | 1 | 0 | Java and Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8769109?v=3&s=64' width='64' height='64' title='Julián Zaragoza'> |
-| 1753 | [mairasala](https://github.com/mairasala) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4053108?v=3&s=64' width='64' height='64' title='Maíra Sala Francisco'> |
-| 1754 | [angelinfante](https://github.com/angelinfante) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10200654?v=3&s=64' width='64' height='64' title='Angel Infante'> |
-| 1755 | [tekymonkey](https://github.com/tekymonkey) | 1 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2632465?v=3&s=64' width='64' height='64' title='Álex Cerezo'> |
-| 1756 | [campings](https://github.com/campings) | 1 | 2 | PHP | Trav. Dalt 62 1-4, 08024, Barcelona | <img src='https://avatars2.githubusercontent.com/u/1398627?v=3&s=64' width='64' height='64' title='Campings Online'> |
-| 1757 | [cayorodriguez](https://github.com/cayorodriguez) | 1 | 0 | C++ and Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3429694?v=3&s=64' width='64' height='64' title='Carlos Rodriguez'> |
-| 1758 | [MarcosHernando](https://github.com/MarcosHernando) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11636761?v=3&s=64' width='64' height='64' title='Marcos'> |
-| 1759 | [fredpalas](https://github.com/fredpalas) | 1 | 0 | ApacheConf | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11587939?v=3&s=64' width='64' height='64' title='Adrián Pastén'> |
-| 1760 | [jofemodo](https://github.com/jofemodo) | 1 | 4 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/834765?v=3&s=64' width='64' height='64' title='Jośe Fernando Moyano'> |
-| 1761 | [valoraccoon](https://github.com/valoraccoon) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10977479?v=3&s=64' width='64' height='64' title='Albert Valo'> |
-| 1762 | [albertsabate1](https://github.com/albertsabate1) | 1 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2384218?v=3&s=64' width='64' height='64' title='Albert Sabaté'> |
-| 1763 | [choan](https://github.com/choan) | 1 | 82 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/27999?v=3&s=64' width='64' height='64' title='Choan'> |
-| 1764 | [oestape](https://github.com/oestape) | 1 | 3 | Processing and Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5056943?v=3&s=64' width='64' height='64' title='Octavi Estapé'> |
-| 1765 | [xagaroo](https://github.com/xagaroo) | 1 | 1 |  | Barcelona, ES | <img src='https://avatars3.githubusercontent.com/u/1168136?v=3&s=64' width='64' height='64' title='Xagaroo'> |
-| 1766 | [KronosPixel](https://github.com/KronosPixel) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9626360?v=3&s=64' width='64' height='64' title='Kronos Pixel'> |
-| 1767 | [ashish021](https://github.com/ashish021) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1716846?v=3&s=64' width='64' height='64' title='Ashish Kumar Basak'> |
-| 1768 | [mutsuda](https://github.com/mutsuda) | 1 | 19 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/82752?v=3&s=64' width='64' height='64' title='Masumi'> |
-| 1769 | [marcrocas](https://github.com/marcrocas) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7797045?v=3&s=64' width='64' height='64' title='Marc Rocas'> |
-| 1770 | [j2m2](https://github.com/j2m2) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8073685?v=3&s=64' width='64' height='64' title='Jose Mendes'> |
-| 1771 | [JoanFabregatSerra](https://github.com/JoanFabregatSerra) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8394519?v=3&s=64' width='64' height='64' title='Joan'> |
-| 1772 | [lempere](https://github.com/lempere) | 1 | 37 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/817340?v=3&s=64' width='64' height='64' title='Guillem Perez'> |
-| 1773 | [jordidurancals](https://github.com/jordidurancals) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2650043?v=3&s=64' width='64' height='64' title='Jordi Duran'> |
-| 1774 | [neo2buha](https://github.com/neo2buha) | 1 | 2 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1080030?v=3&s=64' width='64' height='64' title='Mihai Sebea'> |
-| 1775 | [pedroaspiazu](https://github.com/pedroaspiazu) | 1 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/504316?v=3&s=64' width='64' height='64' title='Pedro aspiazu'> |
-| 1776 | [jchavarri](https://github.com/jchavarri) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/220424?v=3&s=64' width='64' height='64' title='Javi'> |
-| 1777 | [rberenguel](https://github.com/rberenguel) | 1 | 6 | Emacs Lisp | El Masnou, Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/2410938?v=3&s=64' width='64' height='64' title='Ruben Berenguel'> |
-| 1778 | [favzeus](https://github.com/favzeus) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8993636?v=3&s=64' width='64' height='64' title=''> |
-| 1779 | [xaviercortada](https://github.com/xaviercortada) | 1 | 0 | JavaScript | Barcelona - SPAIN | <img src='https://avatars0.githubusercontent.com/u/7717962?v=3&s=64' width='64' height='64' title='Xavier Cortada'> |
-| 1780 | [Thorstorm](https://github.com/Thorstorm) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11093883?v=3&s=64' width='64' height='64' title='Thor Pursell'> |
-| 1781 | [jotaemi](https://github.com/jotaemi) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11933174?v=3&s=64' width='64' height='64' title='João França'> |
-| 1782 | [Skuerzo](https://github.com/Skuerzo) | 1 | 0 | Java and R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3077773?v=3&s=64' width='64' height='64' title='Skuerzo'> |
-| 1783 | [epalace](https://github.com/epalace) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/896218?v=3&s=64' width='64' height='64' title='Eric Palacios'> |
-| 1784 | [micromante](https://github.com/micromante) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1436326?v=3&s=64' width='64' height='64' title='micromante'> |
-| 1785 | [HITUBE](https://github.com/HITUBE) | 1 | 0 | JavaScript and CSS | BARCELONA | <img src='https://avatars2.githubusercontent.com/u/10856975?v=3&s=64' width='64' height='64' title='Oriol'> |
-| 1786 | [edelagzagza](https://github.com/edelagzagza) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5418614?v=3&s=64' width='64' height='64' title='Eduardo De la Garza'> |
-| 1787 | [hbarriuso](https://github.com/hbarriuso) | 1 | 1 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/858088?v=3&s=64' width='64' height='64' title='Héctor Hugo Barriuso Mata'> |
-| 1788 | [JosepMartins](https://github.com/JosepMartins) | 1 | 27 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/912236?v=3&s=64' width='64' height='64' title='Josep Martins'> |
-| 1789 | [sailens](https://github.com/sailens) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7223043?v=3&s=64' width='64' height='64' title='Pau'> |
-| 1790 | [nye](https://github.com/nye) | 1 | 2 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/196475?v=3&s=64' width='64' height='64' title='Albert Sunyer'> |
-| 1791 | [ezeherrera](https://github.com/ezeherrera) | 1 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1554643?v=3&s=64' width='64' height='64' title='Ezequiel Herrera'> |
-| 1792 | [andreucm](https://github.com/andreucm) | 1 | 0 | C++ | Barcelona, Catalunya | <img src='https://avatars2.githubusercontent.com/u/7061141?v=3&s=64' width='64' height='64' title='Andreu Corominas Murtra - IRI'> |
-| 1793 | [diegstroyer](https://github.com/diegstroyer) | 1 | 0 | Groovy | Argentona (Barcelona) | <img src='https://avatars1.githubusercontent.com/u/6506796?v=3&s=64' width='64' height='64' title='Diego'> |
-| 1794 | [davidcos](https://github.com/davidcos) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10942760?v=3&s=64' width='64' height='64' title='David Cos'> |
-| 1795 | [mbmarkus](https://github.com/mbmarkus) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11176533?v=3&s=64' width='64' height='64' title=''> |
-| 1796 | [superatmel](https://github.com/superatmel) | 1 | 1 | Shell | Barcelona, España | <img src='https://avatars1.githubusercontent.com/u/260498?v=3&s=64' width='64' height='64' title='Juan garcia'> |
-| 1797 | [loicbcn](https://github.com/loicbcn) | 1 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8970033?v=3&s=64' width='64' height='64' title='loicbcn'> |
-| 1798 | [lozanojardi](https://github.com/lozanojardi) | 1 | 0 | Frege | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6905537?v=3&s=64' width='64' height='64' title='Joan Lozano'> |
-| 1799 | [Dinamiko](https://github.com/Dinamiko) | 1 | 2 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/456223?v=3&s=64' width='64' height='64' title='Emili Castells'> |
-| 1800 | [suilillo](https://github.com/suilillo) | 1 | 0 | JavaScript | Vilafranca del Penedès, Barcelona. | <img src='https://avatars3.githubusercontent.com/u/9741177?v=3&s=64' width='64' height='64' title='Luis Lorenzo'> |
-| 1801 | [OMendozaG](https://github.com/OMendozaG) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4358881?v=3&s=64' width='64' height='64' title='OMendoza'> |
-| 1802 | [jmventar](https://github.com/jmventar) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2487223?v=3&s=64' width='64' height='64' title=''> |
-| 1803 | [jtorres](https://github.com/jtorres) | 1 | 1 | C# | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/283707?v=3&s=64' width='64' height='64' title='Jose Miguel Torres'> |
-| 1804 | [richbarton](https://github.com/richbarton) | 1 | 1 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/128573?v=3&s=64' width='64' height='64' title='Rich Barton'> |
-| 1805 | [pierocampa](https://github.com/pierocampa) | 1 | 0 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10771561?v=3&s=64' width='64' height='64' title='Piero Campalani'> |
-| 1806 | [vrouet](https://github.com/vrouet) | 1 | 0 | Makefile | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11041942?v=3&s=64' width='64' height='64' title='Val'> |
-| 1807 | [jonaypelluz](https://github.com/jonaypelluz) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1378646?v=3&s=64' width='64' height='64' title='Jonay Pelluz'> |
-| 1808 | [danidoni](https://github.com/danidoni) | 1 | 13 | Ruby | Granollers, Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2650?v=3&s=64' width='64' height='64' title='Dani Donisa'> |
-| 1809 | [daniure](https://github.com/daniure) | 1 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1725965?v=3&s=64' width='64' height='64' title='Dani Ureña'> |
-| 1810 | [jvsalatino](https://github.com/jvsalatino) | 1 | 0 | Processing | Capellades - Barcelona - Spain | <img src='https://avatars3.githubusercontent.com/u/7427827?v=3&s=64' width='64' height='64' title='Jose Salatino'> |
-| 1811 | [Power2Night](https://github.com/Power2Night) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10244923?v=3&s=64' width='64' height='64' title='Power2Night'> |
-| 1812 | [JoanIzquierdo](https://github.com/JoanIzquierdo) | 1 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1853019?v=3&s=64' width='64' height='64' title='Joan Izquierdo'> |
-| 1813 | [fradandria](https://github.com/fradandria) | 1 | 1 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5320189?v=3&s=64' width='64' height='64' title='Francesco D'Andria'> |
-| 1814 | [perezneira](https://github.com/perezneira) | 1 | 0 | CSS | Barcelona - España | <img src='https://avatars2.githubusercontent.com/u/10848151?v=3&s=64' width='64' height='64' title='Guillermo Perez Neira'> |
-| 1815 | [jcondominas](https://github.com/jcondominas) | 1 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5301353?v=3&s=64' width='64' height='64' title='Jordi Condominas'> |
-| 1816 | [pcbcid](https://github.com/pcbcid) | 1 | 0 | HTML | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11464196?v=3&s=64' width='64' height='64' title='Francisco'> |
-| 1817 | [carlaprz](https://github.com/carlaprz) | 1 | 0 | ApacheConf and PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/10382017?v=3&s=64' width='64' height='64' title='Kar'> |
-| 1818 | [AlbertHerrera](https://github.com/AlbertHerrera) | 1 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10230118?v=3&s=64' width='64' height='64' title='Albert'> |
-| 1819 | [thierrylafaye](https://github.com/thierrylafaye) | 1 | 0 |  | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/11778607?v=3&s=64' width='64' height='64' title=''> |
-| 1820 | [pprieto](https://github.com/pprieto) | 1 | 0 | C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4173071?v=3&s=64' width='64' height='64' title='Pablo Prieto'> |
-| 1821 | [gbasile](https://github.com/gbasile) | 1 | 17 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/797790?v=3&s=64' width='64' height='64' title='Giuseppe Basile'> |
-| 1822 | [seanowenhayes](https://github.com/seanowenhayes) | 1 | 1 | JavaScript | La Garriga, Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3706358?v=3&s=64' width='64' height='64' title='Sean Hayes'> |
-| 1823 | [pmanresa](https://github.com/pmanresa) | 1 | 0 | QMake | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6662188?v=3&s=64' width='64' height='64' title='Pere Antoni Manresa'> |
-| 1824 | [CristianValls](https://github.com/CristianValls) | 1 | 0 | JavaScript and CSS | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/2821823?v=3&s=64' width='64' height='64' title=''> |
-| 1825 | [sebclaeys](https://github.com/sebclaeys) | 1 | 0 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1063235?v=3&s=64' width='64' height='64' title='Sebastien Claeys'> |
-| 1826 | [mariondita](https://github.com/mariondita) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11805986?v=3&s=64' width='64' height='64' title='mariondita'> |
-| 1827 | [KanbanApps](https://github.com/KanbanApps) | 1 | 2 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/12545524?v=3&s=64' width='64' height='64' title='Kanban Apps'> |
-| 1828 | [Zevxd](https://github.com/Zevxd) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9398058?v=3&s=64' width='64' height='64' title='Ignacio Rama'> |
-| 1829 | [alejobs](https://github.com/alejobs) | 1 | 0 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10922639?v=3&s=64' width='64' height='64' title='Alejo'> |
-| 1830 | [comac2k](https://github.com/comac2k) | 1 | 0 | Java and GLSL | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/12332784?v=3&s=64' width='64' height='64' title='Dani MP'> |
-| 1831 | [xvapx](https://github.com/xvapx) | 1 | 0 | Nix | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11824817?v=3&s=64' width='64' height='64' title='Marti Serra'> |
-| 1832 | [kakubei](https://github.com/kakubei) | 1 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1465323?v=3&s=64' width='64' height='64' title='Alex'> |
-| 1833 | [coopreneur](https://github.com/coopreneur) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8058481?v=3&s=64' width='64' height='64' title='[coopreneur.eu]'> |
-| 1834 | [darkcloud](https://github.com/darkcloud) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9352782?v=3&s=64' width='64' height='64' title='Ivancloud'> |
-| 1835 | [odivorra](https://github.com/odivorra) | 1 | 0 |  | Barcelona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/2931502?v=3&s=64' width='64' height='64' title='Oscar Divorra'> |
-| 1836 | [JonasHaouzi](https://github.com/JonasHaouzi) | 1 | 1 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/8245107?v=3&s=64' width='64' height='64' title='Jonas HAOUZI'> |
-| 1837 | [coconutTree](https://github.com/coconutTree) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9337210?v=3&s=64' width='64' height='64' title='Sergi'> |
-| 1838 | [davidpenya](https://github.com/davidpenya) | 1 | 0 |  | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/7447084?v=3&s=64' width='64' height='64' title='David'> |
-| 1839 | [ajoman](https://github.com/ajoman) | 1 | 1 | Ruby and Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/830933?v=3&s=64' width='64' height='64' title='Sergi Hernando'> |
-| 1840 | [rusabe](https://github.com/rusabe) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8900853?v=3&s=64' width='64' height='64' title='Rubén'> |
-| 1841 | [acasaus](https://github.com/acasaus) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10629088?v=3&s=64' width='64' height='64' title='Alex Casaus'> |
-| 1842 | [dfrison](https://github.com/dfrison) | 1 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7382367?v=3&s=64' width='64' height='64' title='Diego'> |
-| 1843 | [crowd-studio](https://github.com/crowd-studio) | 1 | 101 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3314736?v=3&s=64' width='64' height='64' title='CROWD STUDIO'> |
-| 1844 | [alcaina](https://github.com/alcaina) | 1 | 0 | R | Barcelona. Spain | <img src='https://avatars0.githubusercontent.com/u/6814795?v=3&s=64' width='64' height='64' title='Jonàs Alcaina-Mateos'> |
-| 1845 | [jtouza](https://github.com/jtouza) | 1 | 2 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/177118?v=3&s=64' width='64' height='64' title='Jordi Touza Bonnin'> |
-| 1846 | [jeflopo](https://github.com/jeflopo) | 1 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/679512?v=3&s=64' width='64' height='64' title='Jesús'> |
-| 1847 | [ealcaniz](https://github.com/ealcaniz) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10546058?v=3&s=64' width='64' height='64' title='Edu Alcañiz'> |
-| 1848 | [Dante281](https://github.com/Dante281) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7188363?v=3&s=64' width='64' height='64' title='Dante'> |
-| 1849 | [hectorgimenez](https://github.com/hectorgimenez) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/12543131?v=3&s=64' width='64' height='64' title='Héctor Giménez'> |
-| 1850 | [asicilia](https://github.com/asicilia) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1047611?v=3&s=64' width='64' height='64' title='Alvaro'> |
-| 1851 | [duferdev](https://github.com/duferdev) | 1 | 0 | JavaScript and HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/12326876?v=3&s=64' width='64' height='64' title='Victor'> |
-| 1852 | [miquelbotanch](https://github.com/miquelbotanch) | 1 | 1 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1077304?v=3&s=64' width='64' height='64' title='miquel botanch'> |
-| 1853 | [dlozano](https://github.com/dlozano) | 1 | 7 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/576696?v=3&s=64' width='64' height='64' title='David'> |
-| 1854 | [dalorfer](https://github.com/dalorfer) | 1 | 0 | PHP and CSS | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/5911085?v=3&s=64' width='64' height='64' title='David Lorite Fernández'> |
-| 1855 | [carpanta](https://github.com/carpanta) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1708234?v=3&s=64' width='64' height='64' title='Jordi'> |
-| 1856 | [davecarter](https://github.com/davecarter) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3796338?v=3&s=64' width='64' height='64' title='David G.'> |
-| 1857 | [Mahatmandie](https://github.com/Mahatmandie) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9654158?v=3&s=64' width='64' height='64' title='Andie'> |
-| 1858 | [fernandoEsigmat](https://github.com/fernandoEsigmat) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9699157?v=3&s=64' width='64' height='64' title='Fernando Vega'> |
-| 1859 | [wiris](https://github.com/wiris) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9418132?v=3&s=64' width='64' height='64' title='WIRIS'> |
-| 1860 | [SergiSals](https://github.com/SergiSals) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9386637?v=3&s=64' width='64' height='64' title='Sergi'> |
-| 1861 | [OriolPastor](https://github.com/OriolPastor) | 1 | 0 | Max | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6000849?v=3&s=64' width='64' height='64' title='Oriol Pastor'> |
-| 1862 | [mark-sp](https://github.com/mark-sp) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7256081?v=3&s=64' width='64' height='64' title='Marc Sitges'> |
-| 1863 | [joeltemprano](https://github.com/joeltemprano) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11234913?v=3&s=64' width='64' height='64' title='Joel Temprano'> |
-| 1864 | [bitos2002](https://github.com/bitos2002) | 1 | 0 |  | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/6966296?v=3&s=64' width='64' height='64' title='Oscar'> |
-| 1865 | [infojobs-bcn](https://github.com/infojobs-bcn) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7921974?v=3&s=64' width='64' height='64' title='InfoJobs'> |
-| 1866 | [admanmedia](https://github.com/admanmedia) | 1 | 0 | JavaScript | Barcelona, Catalonia | <img src='https://avatars0.githubusercontent.com/u/382713?v=3&s=64' width='64' height='64' title='ADman Media'> |
-| 1867 | [Proogresa](https://github.com/Proogresa) | 1 | 0 |  | Terrassa (Barcelona) SPAIN | <img src='https://avatars3.githubusercontent.com/u/8438096?v=3&s=64' width='64' height='64' title='Proogresa.es'> |
-| 1868 | [juceveju](https://github.com/juceveju) | 1 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4519264?v=3&s=64' width='64' height='64' title='Julio C. Velasco'> |
-| 1869 | [ChusZ](https://github.com/ChusZ) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8961284?v=3&s=64' width='64' height='64' title='Chus Zeta'> |
-| 1870 | [danielmazzini](https://github.com/danielmazzini) | 1 | 0 | C# | Barcelona, España | <img src='https://avatars3.githubusercontent.com/u/2397274?v=3&s=64' width='64' height='64' title='Daniel Mazzini'> |
-| 1871 | [theozar](https://github.com/theozar) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8004098?v=3&s=64' width='64' height='64' title='Theo Salazar'> |
-| 1872 | [jvanoli](https://github.com/jvanoli) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9919246?v=3&s=64' width='64' height='64' title='Javier Vanoli'> |
-| 1873 | [danimus](https://github.com/danimus) | 1 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2174637?v=3&s=64' width='64' height='64' title='Dani Álvarez'> |
-| 1874 | [SamYan](https://github.com/SamYan) | 1 | 6 | Pascal | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3801362?v=3&s=64' width='64' height='64' title='Samuel Petrosyan'> |
-| 1875 | [MireiaUB](https://github.com/MireiaUB) | 1 | 0 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6009529?v=3&s=64' width='64' height='64' title='Mireia Ribera'> |
-| 1876 | [albertoamo](https://github.com/albertoamo) | 1 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9091909?v=3&s=64' width='64' height='64' title='Alberto Sánchez Amo'> |
-| 1877 | [joancarlescardell](https://github.com/joancarlescardell) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/12020023?v=3&s=64' width='64' height='64' title='Joan Carles Cardell Gayà'> |
-| 1878 | [cardaba](https://github.com/cardaba) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10814493?v=3&s=64' width='64' height='64' title='Javier Cárdaba'> |
-| 1879 | [xarmengol](https://github.com/xarmengol) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7252397?v=3&s=64' width='64' height='64' title='Xavier Armengol'> |
-| 1880 | [Herokid](https://github.com/Herokid) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1306594?v=3&s=64' width='64' height='64' title='Herokid'> |
-| 1881 | [ellorensc](https://github.com/ellorensc) | 1 | 0 | PHP and JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/5014544?v=3&s=64' width='64' height='64' title='Eduardo Llorens'> |
-| 1882 | [evillaes](https://github.com/evillaes) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7394178?v=3&s=64' width='64' height='64' title='Elena'> |
-| 1883 | [xthevenot](https://github.com/xthevenot) | 1 | 2 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/596912?v=3&s=64' width='64' height='64' title='Xavi Thevenot'> |
-| 1884 | [JordiTR](https://github.com/JordiTR) | 1 | 0 |  | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/8570770?v=3&s=64' width='64' height='64' title='Jordi Trujillo Rius'> |
-| 1885 | [dvdjaco](https://github.com/dvdjaco) | 1 | 3 | Ruby and Python | Barcelona / Amsterdam | <img src='https://avatars3.githubusercontent.com/u/1502076?v=3&s=64' width='64' height='64' title='David Jacovkis'> |
-| 1886 | [ferrangb](https://github.com/ferrangb) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3439361?v=3&s=64' width='64' height='64' title='Ferran Gascon Burgada'> |
-| 1887 | [xmonfort](https://github.com/xmonfort) | 1 | 2 | JavaScript and Ruby | Sant Just Desvern, Barcelona (Catalonia) | <img src='https://avatars2.githubusercontent.com/u/666342?v=3&s=64' width='64' height='64' title='Xavier Monfort'> |
-| 1888 | [framirezl](https://github.com/framirezl) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9115075?v=3&s=64' width='64' height='64' title=''> |
-| 1889 | [manuelsofia](https://github.com/manuelsofia) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/6893851?v=3&s=64' width='64' height='64' title='Manuel Sofia'> |
-| 1890 | [NeftaliDelphi](https://github.com/NeftaliDelphi) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/9679039?v=3&s=64' width='64' height='64' title='Germán Estévez'> |
-| 1891 | [xvila-nv](https://github.com/xvila-nv) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8747229?v=3&s=64' width='64' height='64' title='Xavi Vila'> |
-| 1892 | [uniring](https://github.com/uniring) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1592236?v=3&s=64' width='64' height='64' title='Sergi Ramón'> |
-| 1893 | [juandoj](https://github.com/juandoj) | 1 | 0 | HTML | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/6965281?v=3&s=64' width='64' height='64' title='JuanDo'> |
-| 1894 | [esparza23](https://github.com/esparza23) | 1 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3831741?v=3&s=64' width='64' height='64' title='Carles Esparza'> |
-| 1895 | [scalabilitysolved](https://github.com/scalabilitysolved) | 1 | 3 | Ruby and Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1309599?v=3&s=64' width='64' height='64' title='Scalability Solved'> |
-| 1896 | [SiPoX](https://github.com/SiPoX) | 1 | 0 | PHP and HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5709227?v=3&s=64' width='64' height='64' title='Eduardo Millán'> |
-| 1897 | [marccerrato](https://github.com/marccerrato) | 1 | 10 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1156660?v=3&s=64' width='64' height='64' title='Marc Cerrato'> |
-| 1898 | [eilaes](https://github.com/eilaes) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2095353?v=3&s=64' width='64' height='64' title='Àlex'> |
-| 1899 | [isita](https://github.com/isita) | 1 | 10 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1823804?v=3&s=64' width='64' height='64' title='Isabel Cabezón'> |
-| 1900 | [scabilbao](https://github.com/scabilbao) | 1 | 4 | Java | Madrid, Barcelona y Bilbao | <img src='https://avatars1.githubusercontent.com/u/7836204?v=3&s=64' width='64' height='64' title='Grupo SCA'> |
-| 1901 | [apm-alberto](https://github.com/apm-alberto) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/302565?v=3&s=64' width='64' height='64' title='Alberto'> |
-| 1902 | [joandome](https://github.com/joandome) | 1 | 0 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1560424?v=3&s=64' width='64' height='64' title='Joan'> |
-| 1903 | [isasimo](https://github.com/isasimo) | 1 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2910208?v=3&s=64' width='64' height='64' title='Isabel'> |
-| 1904 | [eduardolg](https://github.com/eduardolg) | 1 | 0 | CSS | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/10298205?v=3&s=64' width='64' height='64' title='Eduardo Lozano'> |
-| 1905 | [oriolmasjuan](https://github.com/oriolmasjuan) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/333007?v=3&s=64' width='64' height='64' title='oriol'> |
-| 1906 | [hukoeth](https://github.com/hukoeth) | 1 | 1 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/349665?v=3&s=64' width='64' height='64' title='Uli'> |
-| 1907 | [ealmirall](https://github.com/ealmirall) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3396488?v=3&s=64' width='64' height='64' title='Esteve Almirall'> |
-| 1908 | [luis-esteve](https://github.com/luis-esteve) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/68732?v=3&s=64' width='64' height='64' title='Luis Esteve'> |
-| 1909 | [Erep26](https://github.com/Erep26) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2660092?v=3&s=64' width='64' height='64' title='Pere Civit'> |
-| 1910 | [Huespal](https://github.com/Huespal) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4157755?v=3&s=64' width='64' height='64' title='Dani'> |
-| 1911 | [yoactman](https://github.com/yoactman) | 1 | 0 | Java and XML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9487187?v=3&s=64' width='64' height='64' title='Germán'> |
-| 1912 | [sergicastellsague](https://github.com/sergicastellsague) | 1 | 0 | Shell and Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5736310?v=3&s=64' width='64' height='64' title='Sergi Castellsagué'> |
-| 1913 | [erbud](https://github.com/erbud) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3479770?v=3&s=64' width='64' height='64' title='Alex Royo'> |
-| 1914 | [miguelsanchez](https://github.com/miguelsanchez) | 1 | 0 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/777163?v=3&s=64' width='64' height='64' title='Miguel Sánchez'> |
-| 1915 | [jatejeda](https://github.com/jatejeda) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1445229?v=3&s=64' width='64' height='64' title='Arturo Tejeda'> |
-| 1916 | [tukaaa](https://github.com/tukaaa) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3089314?v=3&s=64' width='64' height='64' title='Luca Telloli'> |
-| 1917 | [rcastelo](https://github.com/rcastelo) | 1 | 0 | R and C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1677433?v=3&s=64' width='64' height='64' title='Robert Castelo'> |
-| 1918 | [ifrins](https://github.com/ifrins) | 1 | 9 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/757530?v=3&s=64' width='64' height='64' title='Francesc'> |
-| 1919 | [nellsavedra](https://github.com/nellsavedra) | 1 | 0 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5817663?v=3&s=64' width='64' height='64' title='Andres Valle'> |
-| 1920 | [jaimehp](https://github.com/jaimehp) | 1 | 0 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8685227?v=3&s=64' width='64' height='64' title='Jaime'> |
-| 1921 | [ElXaxe](https://github.com/ElXaxe) | 1 | 0 | JavaScript and CSS | Madrid / Barcelona | <img src='https://avatars1.githubusercontent.com/u/2937841?v=3&s=64' width='64' height='64' title='Jose'> |
-| 1922 | [Ichtaina](https://github.com/Ichtaina) | 1 | 0 | Puppet | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1336824?v=3&s=64' width='64' height='64' title='Marc Ràfols Ibáñez'> |
-| 1923 | [valero](https://github.com/valero) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1083365?v=3&s=64' width='64' height='64' title='Valero'> |
-| 1924 | [matiasBravo](https://github.com/matiasBravo) | 1 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3754674?v=3&s=64' width='64' height='64' title='Matias Bravo'> |
-| 1925 | [AlexKryzh](https://github.com/AlexKryzh) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2675648?v=3&s=64' width='64' height='64' title='Alex Kryzhanovskyy'> |
-| 1926 | [felixcarpena](https://github.com/felixcarpena) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4688937?v=3&s=64' width='64' height='64' title='Félix'> |
-| 1927 | [edennis](https://github.com/edennis) | 1 | 10 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/47961?v=3&s=64' width='64' height='64' title='Erick Dennis'> |
-| 1928 | [carlospsig](https://github.com/carlospsig) | 1 | 0 | Python | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/5272165?v=3&s=64' width='64' height='64' title='Carlos López Quintanilla'> |
-| 1929 | [jeromerader](https://github.com/jeromerader) | 1 | 0 | R | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/12232816?v=3&s=64' width='64' height='64' title='Jerome Rader'> |
-| 1930 | [pepllubc](https://github.com/pepllubc) | 1 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2059347?v=3&s=64' width='64' height='64' title='Pep Baquero'> |
-| 1931 | [Elavazhagan93](https://github.com/Elavazhagan93) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11915138?v=3&s=64' width='64' height='64' title='Elavazhagan Sethuraman'> |
-| 1932 | [Maberi](https://github.com/Maberi) | 1 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/4018575?v=3&s=64' width='64' height='64' title='Mario Benito'> |
-| 1933 | [pacoramos77](https://github.com/pacoramos77) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1783031?v=3&s=64' width='64' height='64' title='Francisco Ramos'> |
-| 1934 | [vallsjm](https://github.com/vallsjm) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2920810?v=3&s=64' width='64' height='64' title='Jose María Rodríguez Valls'> |
-| 1935 | [hermes3por3](https://github.com/hermes3por3) | 1 | 2 | ActionScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/990062?v=3&s=64' width='64' height='64' title='Hermes Andreu'> |
-| 1936 | [PelaezAn](https://github.com/PelaezAn) | 1 | 0 | JavaScript and Java | Barcelona, Spain. | <img src='https://avatars1.githubusercontent.com/u/4953941?v=3&s=64' width='64' height='64' title=''> |
-| 1937 | [jcorral](https://github.com/jcorral) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3533888?v=3&s=64' width='64' height='64' title='José Corral'> |
-| 1938 | [kevinbarz](https://github.com/kevinbarz) | 1 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2492803?v=3&s=64' width='64' height='64' title='Kevin Barz'> |
-| 1939 | [pasier](https://github.com/pasier) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1335104?v=3&s=64' width='64' height='64' title='Pasier'> |
-| 1940 | [adriagarcia](https://github.com/adriagarcia) | 1 | 0 | HTML | Mallorca / Barcelona | <img src='https://avatars3.githubusercontent.com/u/1017475?v=3&s=64' width='64' height='64' title='Adria Garcia'> |
-| 1941 | [davidpenn](https://github.com/davidpenn) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1874075?v=3&s=64' width='64' height='64' title='David Penn'> |
-| 1942 | [EduardoLopezCamacho](https://github.com/EduardoLopezCamacho) | 1 | 0 |  | Barcelona SPAIN | <img src='https://avatars3.githubusercontent.com/u/10435002?v=3&s=64' width='64' height='64' title='Eduardo López Camacho'> |
-| 1943 | [estevejm](https://github.com/estevejm) | 1 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4379551?v=3&s=64' width='64' height='64' title='Esteve Julià Melis'> |
-| 1944 | [aunymoons](https://github.com/aunymoons) | 1 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/4189751?v=3&s=64' width='64' height='64' title='Auny Moons'> |
-| 1945 | [gerardag](https://github.com/gerardag) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2340397?v=3&s=64' width='64' height='64' title='Gerard Albanell'> |
-| 1946 | [dancering](https://github.com/dancering) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/583329?v=3&s=64' width='64' height='64' title='Marc Polo'> |
-| 1947 | [xavierjurado](https://github.com/xavierjurado) | 1 | 7 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/411994?v=3&s=64' width='64' height='64' title='Xavier Jurado'> |
-| 1948 | [Amedio](https://github.com/Amedio) | 1 | 32 | Python | L'Hospitalet de Llobregat (Barcelona) | <img src='https://avatars3.githubusercontent.com/u/595733?v=3&s=64' width='64' height='64' title='Rubén'> |
-| 1949 | [chrisvalford](https://github.com/chrisvalford) | 1 | 2 | Objective-C and Swift | Barcelona | <img src='https://avatars1.githubusercontent.com/u/790963?v=3&s=64' width='64' height='64' title='Chris Alford'> |
-| 1950 | [powerfrontier](https://github.com/powerfrontier) | 1 | 0 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3168166?v=3&s=64' width='64' height='64' title='David Romero'> |
-| 1951 | [jordi-pujol-cayon](https://github.com/jordi-pujol-cayon) | 1 | 0 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4540494?v=3&s=64' width='64' height='64' title='Jordi'> |
-| 1952 | [jrivero](https://github.com/jrivero) | 1 | 25 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/22764?v=3&s=64' width='64' height='64' title='Jordi Rivero'> |
-| 1953 | [lphilippo](https://github.com/lphilippo) | 1 | 1 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/732984?v=3&s=64' width='64' height='64' title='Leander Philippo'> |
-| 1954 | [iiioxoiii](https://github.com/iiioxoiii) | 1 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5206731?v=3&s=64' width='64' height='64' title='Amós'> |
-| 1955 | [carabiasjulio](https://github.com/carabiasjulio) | 1 | 0 | Matlab | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5690273?v=3&s=64' width='64' height='64' title='Julio Carabias'> |
-| 1956 | [Victek](https://github.com/Victek) | 1 | 30 | JavaScript | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/915948?v=3&s=64' width='64' height='64' title='Victek'> |
-| 1957 | [patjem](https://github.com/patjem) | 1 | 0 |  | Amsterdam/Barcelona | <img src='https://avatars1.githubusercontent.com/u/655420?v=3&s=64' width='64' height='64' title='Patrick Mulder'> |
-| 1958 | [yannxou](https://github.com/yannxou) | 1 | 0 | Swift | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5954961?v=3&s=64' width='64' height='64' title='Joan Duat'> |
-| 1959 | [feralou](https://github.com/feralou) | 1 | 5 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1148431?v=3&s=64' width='64' height='64' title='Fernando Alou'> |
-| 1960 | [inextable](https://github.com/inextable) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5345240?v=3&s=64' width='64' height='64' title='inex'> |
-| 1961 | [LenguaDePlata](https://github.com/LenguaDePlata) | 1 | 0 | ApacheConf | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3456741?v=3&s=64' width='64' height='64' title='Iñaki'> |
-| 1962 | [GloriaYL](https://github.com/GloriaYL) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/11560557?v=3&s=64' width='64' height='64' title='Gloria'> |
-| 1963 | [aiorla](https://github.com/aiorla) | 1 | 0 | Makefile | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3518352?v=3&s=64' width='64' height='64' title='Aitor Ortiz de Latierro Olivella'> |
-| 1964 | [marcos-martinez](https://github.com/marcos-martinez) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5773179?v=3&s=64' width='64' height='64' title='Marcos Martínez'> |
-| 1965 | [danimarin](https://github.com/danimarin) | 1 | 0 |  | Barcelona / Spain | <img src='https://avatars3.githubusercontent.com/u/189757?v=3&s=64' width='64' height='64' title='Daniel Marín'> |
-| 1966 | [amirabet](https://github.com/amirabet) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7428034?v=3&s=64' width='64' height='64' title='Artur Mirabet'> |
-| 1967 | [JamieMartin](https://github.com/JamieMartin) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6031010?v=3&s=64' width='64' height='64' title='Jamie Martin'> |
-| 1968 | [expositomarc](https://github.com/expositomarc) | 1 | 0 | Swift | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6654167?v=3&s=64' width='64' height='64' title='Marc Exposito'> |
-| 1969 | [MarcSallent](https://github.com/MarcSallent) | 1 | 6 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/784361?v=3&s=64' width='64' height='64' title='Marc Sallent'> |
-| 1970 | [cubometa](https://github.com/cubometa) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/775554?v=3&s=64' width='64' height='64' title='Ale Navarro Dellà'> |
-| 1971 | [AdrianaFreitas](https://github.com/AdrianaFreitas) | 1 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3631840?v=3&s=64' width='64' height='64' title='Adriana Freitas'> |
-| 1972 | [webfordreams](https://github.com/webfordreams) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3524057?v=3&s=64' width='64' height='64' title='Maarten Steurs'> |
-| 1973 | [rica000](https://github.com/rica000) | 1 | 0 | Java and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/12297745?v=3&s=64' width='64' height='64' title=''> |
-| 1974 | [Sjust](https://github.com/Sjust) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3807992?v=3&s=64' width='64' height='64' title='Sergi Just Casas'> |
-| 1975 | [micho](https://github.com/micho) | 1 | 222 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/323401?v=3&s=64' width='64' height='64' title='Pablo Villalba'> |
-| 1976 | [drempapis](https://github.com/drempapis) | 1 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5717874?v=3&s=64' width='64' height='64' title='Dimitrios'> |
-| 1977 | [wilbertoaguilar](https://github.com/wilbertoaguilar) | 1 | 0 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3830043?v=3&s=64' width='64' height='64' title='Wilberto Aguilar'> |
-| 1978 | [paucm](https://github.com/paucm) | 1 | 5 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/424605?v=3&s=64' width='64' height='64' title='Pau Capella'> |
-| 1979 | [muniatu](https://github.com/muniatu) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4389787?v=3&s=64' width='64' height='64' title='Adrià Compte'> |
-| 1980 | [sp-jose-serna](https://github.com/sp-jose-serna) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4903647?v=3&s=64' width='64' height='64' title='José Juan Serna'> |
-| 1981 | [alvarovelezgalvez](https://github.com/alvarovelezgalvez) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2486011?v=3&s=64' width='64' height='64' title='Álvaro'> |
+| 1 | [mmoreram](https://github.com/mmoreram) | 6783 | 383 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/521409?v=3&s=64' width="64" title='Marc Morera'> |
+| 2 | [gavinking](https://github.com/gavinking) | 5085 | 6 | Ceylon | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/579974?v=3&s=64' width="64" title='Gavin King'> |
+| 3 | [rnowm](https://github.com/rnowm) | 3835 | 27 | JavaScript | Sitges, Barcelona | <img src='https://avatars2.githubusercontent.com/u/1416057?v=3&s=64' width="64" title='Arnau'> |
+| 4 | [leplatrem](https://github.com/leplatrem) | 3468 | 90 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/546692?v=3&s=64' width="64" title='Mathieu Leplatre'> |
+| 5 | [opalenzuela](https://github.com/opalenzuela) | 2953 | 63 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4427630?v=3&s=64' width="64" title='Oriol Palenzuela'> |
+| 6 | [t0t](https://github.com/t0t) | 2924 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6004806?v=3&s=64' width="64" title='Sergio Forés'> |
+| 7 | [neo22s](https://github.com/neo22s) | 1476 | 9 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/241725?v=3&s=64' width="64" title='Chema'> |
+| 8 | [sneridagh](https://github.com/sneridagh) | 1333 | 43 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/486927?v=3&s=64' width="64" title='Víctor Fernández de Alba'> |
+| 9 | [christkv](https://github.com/christkv) | 1256 | 805 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5569?v=3&s=64' width="64" title='Christian Amor Kvalheim'> |
+| 10 | [areski](https://github.com/areski) | 1226 | 836 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/53455?v=3&s=64' width="64" title='Areski Belaid'> |
+| 11 | [h0tbird](https://github.com/h0tbird) | 1226 | 19 | Puppet | Barcelona | <img src='https://avatars0.githubusercontent.com/u/417440?v=3&s=64' width="64" title='Marc Villacorta'> |
+| 12 | [pditommaso](https://github.com/pditommaso) | 1222 | 26 | Java | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/816968?v=3&s=64' width="64" title='Paolo Di Tommaso'> |
+| 13 | [tonipinel](https://github.com/tonipinel) | 1218 | 1 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/998987?v=3&s=64' width="64" title='Toni'> |
+| 14 | [jaeandersson](https://github.com/jaeandersson) | 1213 | 6 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2487645?v=3&s=64' width="64" title='Joel Andersson'> |
+| 15 | [nilopc](https://github.com/nilopc) | 1201 | 16 | PHP | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/550948?v=3&s=64' width="64" title='Nil Portugués Calderó'> |
+| 16 | [xphere](https://github.com/xphere) | 1186 | 7 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/170968?v=3&s=64' width="64" title='Berny Cantos'> |
+| 17 | [ManfredKarrer](https://github.com/ManfredKarrer) | 1051 | 7 | ActionScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1449498?v=3&s=64' width="64" title='Manfred Karrer'> |
+| 18 | [connollyst](https://github.com/connollyst) | 1042 | 9 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/521747?v=3&s=64' width="64" title='Sean Connolly'> |
+| 19 | [alorma](https://github.com/alorma) | 1031 | 42 | Java | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/887462?v=3&s=64' width="64" title='Bernat Borrás Paronella'> |
+| 20 | [rcnavarro](https://github.com/rcnavarro) | 1025 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2663930?v=3&s=64' width="64" title='Ricardo Navarro'> |
+| 21 | [karasu](https://github.com/karasu) | 1021 | 9 | C | Barcelona, Catalunya | <img src='https://avatars2.githubusercontent.com/u/175797?v=3&s=64' width="64" title='karasu'> |
+| 22 | [RamonGilabert](https://github.com/RamonGilabert) | 1019 | 41 | Swift | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6138120?v=3&s=64' width="64" title='Ramon Gilabert'> |
+| 23 | [toniher](https://github.com/toniher) | 976 | 2 | JavaScript | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/535539?v=3&s=64' width="64" title='Toni Hermoso Pulido'> |
+| 24 | [fnva](https://github.com/fnva) | 972 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8384895?v=3&s=64' width="64" title='Ferran Vilà Conesa'> |
+| 25 | [lluisgerard](https://github.com/lluisgerard) | 923 | 8 | Objective-C | Mataro, Barcelona | <img src='https://avatars2.githubusercontent.com/u/1152968?v=3&s=64' width="64" title='Lluis Gerard'> |
+| 26 | [trikitrok](https://github.com/trikitrok) | 902 | 17 | Clojure | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2502164?v=3&s=64' width="64" title='Manuel Rivero'> |
+| 27 | [clintongormley](https://github.com/clintongormley) | 898 | 92 | Perl | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/56599?v=3&s=64' width="64" title='Clinton Gormley'> |
+| 28 | [xispa](https://github.com/xispa) | 894 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/832627?v=3&s=64' width="64" title='Jordi Puiggené'> |
+| 29 | [placiano](https://github.com/placiano) | 884 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7937420?v=3&s=64' width="64" title='Ángel'> |
+| 30 | [pepibumur](https://github.com/pepibumur) | 868 | 1012 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/663605?v=3&s=64' width="64" title='Pedro Piñera Buendía'> |
+| 31 | [freecates](https://github.com/freecates) | 834 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4909094?v=3&s=64' width="64" title='Ramon'> |
+| 32 | [rogergros](https://github.com/rogergros) | 822 | 0 | PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/2053670?v=3&s=64' width="64" title='Roger Gros'> |
+| 33 | [ctubio](https://github.com/ctubio) | 817 | 0 | Shell | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/1634027?v=3&s=64' width="64" title='Carles Tubio'> |
+| 34 | [xexiu](https://github.com/xexiu) | 812 | 2 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7423607?v=3&s=64' width="64" title='Sergio Mironescu'> |
+| 35 | [Pafcholini](https://github.com/Pafcholini) | 795 | 2 | C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4403218?v=3&s=64' width="64" title='Pavel'> |
+| 36 | [sennett](https://github.com/sennett) | 789 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3783198?v=3&s=64' width="64" title='Anthony Sennett'> |
+| 37 | [danielguillan](https://github.com/danielguillan) | 751 | 544 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/175638?v=3&s=64' width="64" title='Daniel Guillan'> |
+| 38 | [toniginard](https://github.com/toniginard) | 743 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1027378?v=3&s=64' width="64" title='Toni Ginard'> |
+| 39 | [dasilvacontin](https://github.com/dasilvacontin) | 729 | 20 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1260830?v=3&s=64' width="64" title='David da Silva Contín'> |
+| 40 | [mikz](https://github.com/mikz) | 707 | 147 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/154571?v=3&s=64' width="64" title='Michal Cichra'> |
+| 41 | [slluis](https://github.com/slluis) | 700 | 41 | C# | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/260349?v=3&s=64' width="64" title='Lluis Sanchez'> |
+| 42 | [vHanda](https://github.com/vHanda) | 675 | 4 | C++ | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/426467?v=3&s=64' width="64" title='Vishesh Handa'> |
+| 43 | [adrian-rosello](https://github.com/adrian-rosello) | 656 | 2 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1423469?v=3&s=64' width="64" title='Adrian Rosello'> |
+| 44 | [NadirZenith](https://github.com/NadirZenith) | 655 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5464337?v=3&s=64' width="64" title=''> |
+| 45 | [ruben1](https://github.com/ruben1) | 642 | 15 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4315770?v=3&s=64' width="64" title='Ruben Vicario Gonzalez'> |
+| 46 | [srvaroa](https://github.com/srvaroa) | 637 | 3 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/346110?v=3&s=64' width="64" title='Galo Navarro'> |
+| 47 | [romartin](https://github.com/romartin) | 632 | 1 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4602417?v=3&s=64' width="64" title='Roger Martínez'> |
+| 48 | [hiromipaw](https://github.com/hiromipaw) | 622 | 2 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1177650?v=3&s=64' width="64" title='Silvia'> |
+| 49 | [MortI2C](https://github.com/MortI2C) | 620 | 0 | CSS | Barcelona, Catalunya | <img src='https://avatars0.githubusercontent.com/u/3726370?v=3&s=64' width="64" title='Aaron Call'> |
+| 50 | [alvaroabascar](https://github.com/alvaroabascar) | 612 | 2 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7307772?v=3&s=64' width="64" title='Álvaro Abella Bascarán'> |
+| 51 | [sephirot47](https://github.com/sephirot47) | 608 | 23 | C++ | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8834560?v=3&s=64' width="64" title='Victor Anton Dominguez'> |
+| 52 | [palaumarc](https://github.com/palaumarc) | 603 | 0 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6428809?v=3&s=64' width="64" title='Palau'> |
+| 53 | [rubiojr](https://github.com/rubiojr) | 600 | 445 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/10998?v=3&s=64' width="64" title='Sergio Rubio'> |
+| 54 | [plungerman](https://github.com/plungerman) | 599 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/137031?v=3&s=64' width="64" title='Bender Rodríguez'> |
+| 55 | [markets](https://github.com/markets) | 578 | 166 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/576701?v=3&s=64' width="64" title='Marc Anguera Insa'> |
+| 56 | [mayhem](https://github.com/mayhem) | 568 | 28 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/49745?v=3&s=64' width="64" title='Robert Kaye'> |
+| 57 | [alastair](https://github.com/alastair) | 562 | 238 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/19217?v=3&s=64' width="64" title='Alastair Porter'> |
+| 58 | [alch](https://github.com/alch) | 548 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/682515?v=3&s=64' width="64" title='Aldo Chiecchia'> |
+| 59 | [pauek](https://github.com/pauek) | 547 | 68 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/4069?v=3&s=64' width="64" title='Pau Fernández'> |
+| 60 | [SirArslaan](https://github.com/SirArslaan) | 536 | 3 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7632185?v=3&s=64' width="64" title='Arslaan'> |
+| 61 | [reskit](https://github.com/reskit) | 535 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/440486?v=3&s=64' width="64" title='Marc Català'> |
+| 62 | [sigon426](https://github.com/sigon426) | 532 | 7 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3944806?v=3&s=64' width="64" title='sigon'> |
+| 63 | [dgutierr](https://github.com/dgutierr) | 529 | 1 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2429839?v=3&s=64' width="64" title='David Gutierrez'> |
+| 64 | [xavier-fernandez](https://github.com/xavier-fernandez) | 528 | 0 | Go | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/10242025?v=3&s=64' width="64" title='Xavier Fernández Salas'> |
+| 65 | [Theadd](https://github.com/Theadd) | 521 | 54 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/78041?v=3&s=64' width="64" title='R. Beltran'> |
+| 66 | [pplu](https://github.com/pplu) | 520 | 52 | Perl | Barcelona | <img src='https://avatars3.githubusercontent.com/u/53034?v=3&s=64' width="64" title='Jose Luis Martinez'> |
+| 67 | [agustincl](https://github.com/agustincl) | 516 | 23 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1106813?v=3&s=64' width="64" title=''> |
+| 68 | [lordofthejars](https://github.com/lordofthejars) | 514 | 249 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1517153?v=3&s=64' width="64" title='Alex Soto'> |
+| 69 | [rubencaro](https://github.com/rubencaro) | 513 | 39 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/472823?v=3&s=64' width="64" title='Rubén Caro'> |
+| 70 | [emi80](https://github.com/emi80) | 502 | 1 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2760700?v=3&s=64' width="64" title='Emilio Palumbo'> |
+| 71 | [markbain](https://github.com/markbain) | 496 | 1 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1516105?v=3&s=64' width="64" title='Mark Bain'> |
+| 72 | [carlosjoserg](https://github.com/carlosjoserg) | 494 | 0 | C++ | Barcelona, ES ⇄ Pisa, IT | <img src='https://avatars2.githubusercontent.com/u/4049053?v=3&s=64' width="64" title='Carlos J. Rosales'> |
+| 73 | [poliva](https://github.com/poliva) | 484 | 422 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1238981?v=3&s=64' width="64" title='Pau Oliva'> |
+| 74 | [jbatalle](https://github.com/jbatalle) | 478 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3229230?v=3&s=64' width="64" title='Josep Batalle'> |
+| 75 | [albarralnunez](https://github.com/albarralnunez) | 478 | 1 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3451448?v=3&s=64' width="64" title='Daniel Albarral Nuñez'> |
+| 76 | [CKGrafico](https://github.com/CKGrafico) | 476 | 110 | JavaScript | Madrid, Barcelona | <img src='https://avatars1.githubusercontent.com/u/2048511?v=3&s=64' width="64" title='Quique Fdez Guerra'> |
+| 77 | [josepllberral](https://github.com/josepllberral) | 474 | 0 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7936095?v=3&s=64' width="64" title='Josep Ll. Berral-García'> |
+| 78 | [nacx](https://github.com/nacx) | 468 | 16 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/446705?v=3&s=64' width="64" title='Ignasi Barrera'> |
+| 79 | [dpcat237](https://github.com/dpcat237) | 448 | 2 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/388031?v=3&s=64' width="64" title='Denys Pasishnyi'> |
+| 80 | [jmeler](https://github.com/jmeler) | 446 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5380649?v=3&s=64' width="64" title='Xavier Meler'> |
+| 81 | [zzarcon](https://github.com/zzarcon) | 443 | 119 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1194982?v=3&s=64' width="64" title='Hector Leon Zarco Garcia'> |
+| 82 | [duarten](https://github.com/duarten) | 439 | 15 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/501746?v=3&s=64' width="64" title='Duarte Nunes'> |
+| 83 | [xsimov](https://github.com/xsimov) | 435 | 3 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7680830?v=3&s=64' width="64" title='xsimov'> |
+| 84 | [amatiasq](https://github.com/amatiasq) | 429 | 29 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1533589?v=3&s=64' width="64" title='A. Matías Quezada'> |
+| 85 | [spiddy](https://github.com/spiddy) | 428 | 6 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/367397?v=3&s=64' width="64" title='spiddy'> |
+| 86 | [ivmartel](https://github.com/ivmartel) | 425 | 155 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/398905?v=3&s=64' width="64" title=''> |
+| 87 | [tamarart](https://github.com/tamarart) | 422 | 0 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10895578?v=3&s=64' width="64" title='tamara'> |
+| 88 | [sbartek](https://github.com/sbartek) | 421 | 0 | R | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/4888741?v=3&s=64' width="64" title='Bartek'> |
+| 89 | [hcosta](https://github.com/hcosta) | 421 | 5 | JavaScript | Súria, Barcelona | <img src='https://avatars1.githubusercontent.com/u/748822?v=3&s=64' width="64" title='Hector Costa Guzman'> |
+| 90 | [fxn](https://github.com/fxn) | 415 | 1089 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3387?v=3&s=64' width="64" title='Xavier Noria'> |
+| 91 | [albertopq](https://github.com/albertopq) | 408 | 118 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/368225?v=3&s=64' width="64" title='albertopq'> |
+| 92 | [juandp77](https://github.com/juandp77) | 403 | 0 | TeX | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1690401?v=3&s=64' width="64" title='Juan Diego'> |
+| 93 | [cokoso](https://github.com/cokoso) | 401 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6398326?v=3&s=64' width="64" title='Octavio Glorio'> |
+| 94 | [rcsole](https://github.com/rcsole) | 395 | 21 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3116474?v=3&s=64' width="64" title='Ricard Solé Casas'> |
+| 95 | [awesomebytes](https://github.com/awesomebytes) | 382 | 46 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1721716?v=3&s=64' width="64" title='Sammy Pfeiffer'> |
+| 96 | [Galbar](https://github.com/Galbar) | 382 | 13 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3595851?v=3&s=64' width="64" title='Alessio Linares'> |
+| 97 | [oscarfonts](https://github.com/oscarfonts) | 382 | 13 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/485651?v=3&s=64' width="64" title='Oscar Fonts'> |
+| 98 | [joaonrb](https://github.com/joaonrb) | 381 | 0 | Go | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2837356?v=3&s=64' width="64" title='João Nuno'> |
+| 99 | [jondeandres](https://github.com/jondeandres) | 379 | 13 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/122581?v=3&s=64' width="64" title='Jon'> |
+| 100 | [fransua](https://github.com/fransua) | 375 | 9 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/106498?v=3&s=64' width="64" title='Francois Serra'> |
+| 101 | [jsegura](https://github.com/jsegura) | 370 | 5 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8453?v=3&s=64' width="64" title='Javier Segura'> |
+| 102 | [PatrickHeneise](https://github.com/PatrickHeneise) | 369 | 217 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/74390?v=3&s=64' width="64" title='Patrick Heneise'> |
+| 103 | [d2tstudio](https://github.com/d2tstudio) | 361 | 2 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/991100?v=3&s=64' width="64" title='Derry Birkett'> |
+| 104 | [ercrema](https://github.com/ercrema) | 359 | 0 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2821047?v=3&s=64' width="64" title='Enrico R. Crema'> |
+| 105 | [hecrj](https://github.com/hecrj) | 359 | 15 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/518289?v=3&s=64' width="64" title='Héctor Ramón'> |
+| 106 | [aroig](https://github.com/aroig) | 355 | 30 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1743143?v=3&s=64' width="64" title='Abdó Roig-Maranges'> |
+| 107 | [jordimas](https://github.com/jordimas) | 353 | 0 | C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/309265?v=3&s=64' width="64" title='Jordi Mas'> |
+| 108 | [logoff](https://github.com/logoff) | 348 | 5 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1023895?v=3&s=64' width="64" title='Julio Carlos Barrera Juez'> |
+| 109 | [j-rivero](https://github.com/j-rivero) | 346 | 4 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2098802?v=3&s=64' width="64" title='Jose Luis Rivero'> |
+| 110 | [fesplugas](https://github.com/fesplugas) | 344 | 104 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2720?v=3&s=64' width="64" title='Francesc Esplugas'> |
+| 111 | [Satyam](https://github.com/Satyam) | 339 | 56 | JavaScript | Sitges, Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/47507?v=3&s=64' width="64" title='Daniel Barreiro'> |
+| 112 | [ferranpm](https://github.com/ferranpm) | 335 | 41 | VimL | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2128606?v=3&s=64' width="64" title='Ferran Pelayo Monfort'> |
+| 113 | [Towerthousand](https://github.com/Towerthousand) | 334 | 23 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3587309?v=3&s=64' width="64" title='Dani Torramilans'> |
+| 114 | [mudasobwa](https://github.com/mudasobwa) | 333 | 36 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1567503?v=3&s=64' width="64" title='Alexei Matyushkin'> |
+| 115 | [Gawyn](https://github.com/Gawyn) | 331 | 37 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/279106?v=3&s=64' width="64" title='Cristian Planas'> |
+| 116 | [Anaibi](https://github.com/Anaibi) | 330 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2066022?v=3&s=64' width="64" title='Tatiana'> |
+| 117 | [iariasleon](https://github.com/iariasleon) | 323 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4330098?v=3&s=64' width="64" title='Ivan Arias Leon'> |
+| 118 | [TheAnswer](https://github.com/TheAnswer) | 320 | 6 | C | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/557049?v=3&s=64' width="64" title='Victor Popovici'> |
+| 119 | [lbergesio](https://github.com/lbergesio) | 319 | 2 | C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1797884?v=3&s=64' width="64" title='Leonardo Bergesio'> |
+| 120 | [ianharrigan](https://github.com/ianharrigan) | 319 | 345 | Haxe | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3024242?v=3&s=64' width="64" title='Ian Harrigan'> |
+| 121 | [castarco](https://github.com/castarco) | 318 | 11 | Shell | Cubelles, Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/251364?v=3&s=64' width="64" title='Andreu Correa Casablanca'> |
+| 122 | [mrcasals](https://github.com/mrcasals) | 316 | 39 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/491891?v=3&s=64' width="64" title='Marc Riera'> |
+| 123 | [jasonlint](https://github.com/jasonlint) | 314 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4974122?v=3&s=64' width="64" title='Jordan Wellington Lint'> |
+| 124 | [jcanell4](https://github.com/jcanell4) | 312 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3582801?v=3&s=64' width="64" title='Josep Cañellas Bornas'> |
+| 125 | [adolfo-rt](https://github.com/adolfo-rt) | 309 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1128028?v=3&s=64' width="64" title='Adolfo Rodriguez Tsouroukdissian'> |
+| 126 | [vdel26](https://github.com/vdel26) | 309 | 93 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/850057?v=3&s=64' width="64" title='Victor Delgado'> |
+| 127 | [VictorBjelkholm](https://github.com/VictorBjelkholm) | 306 | 9 | JavaScript | Barcelona, Catalunya | <img src='https://avatars0.githubusercontent.com/u/459764?v=3&s=64' width="64" title='Victor Bjelkholm'> |
+| 128 | [marklar](https://github.com/marklar) | 304 | 22 | Ruby | Barcelona, España | <img src='https://avatars1.githubusercontent.com/u/237483?v=3&s=64' width="64" title='Mark Wong-VanHaren'> |
+| 129 | [josornoc](https://github.com/josornoc) | 300 | 0 | CSS | Barcelona, Catalunya | <img src='https://avatars0.githubusercontent.com/u/10073472?v=3&s=64' width="64" title='Jose Osorno'> |
+| 130 | [suy](https://github.com/suy) | 294 | 20 | VimL | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1200609?v=3&s=64' width="64" title='Alejandro Exojo'> |
+| 131 | [albertofem](https://github.com/albertofem) | 294 | 44 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/409472?v=3&s=64' width="64" title='Alberto Fernández'> |
+| 132 | [Dirbaio](https://github.com/Dirbaio) | 293 | 28 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1247578?v=3&s=64' width="64" title='Dario Nieuwenhuis'> |
+| 133 | [mtbtiago](https://github.com/mtbtiago) | 292 | 0 | JavaScript | Menorca and Barcelona | <img src='https://avatars0.githubusercontent.com/u/10105692?v=3&s=64' width="64" title='Tiago Ameller'> |
+| 134 | [griba2001](https://github.com/griba2001) | 289 | 1 | Haskell | Tiana (near Barcelona) Catalonia - Spain | <img src='https://avatars0.githubusercontent.com/u/3755863?v=3&s=64' width="64" title='Gabriel Riba Faura'> |
+| 135 | [MarcosSegovia](https://github.com/MarcosSegovia) | 286 | 1 | CSS | Barcelona, España | <img src='https://avatars2.githubusercontent.com/u/7728566?v=3&s=64' width="64" title='Marcos Segovia'> |
+| 136 | [acroca](https://github.com/acroca) | 284 | 22 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/16717?v=3&s=64' width="64" title='Albert Callarisa'> |
+| 137 | [jbeficent](https://github.com/jbeficent) | 281 | 0 | Makefile | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7683926?v=3&s=64' width="64" title='Jordi Ballester Alomar'> |
+| 138 | [elboletaire](https://github.com/elboletaire) | 271 | 87 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/153305?v=3&s=64' width="64" title='Òscar Casajuana'> |
+| 139 | [davidllanos22](https://github.com/davidllanos22) | 271 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2172628?v=3&s=64' width="64" title='David Llanos'> |
+| 140 | [andresbravog](https://github.com/andresbravog) | 270 | 114 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/363321?v=3&s=64' width="64" title='Andrés Bravo'> |
+| 141 | [salvadorgascon](https://github.com/salvadorgascon) | 268 | 0 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1319515?v=3&s=64' width="64" title='Salvador Gascon'> |
+| 142 | [christhomas](https://github.com/christhomas) | 268 | 6 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/827996?v=3&s=64' width="64" title='Christopher Thomas'> |
+| 143 | [currycat](https://github.com/currycat) | 266 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/947532?v=3&s=64' width="64" title='Jose Luis Campaña'> |
+| 144 | [txels](https://github.com/txels) | 265 | 205 | Python | Reykjavik & Barcelona | <img src='https://avatars1.githubusercontent.com/u/874958?v=3&s=64' width="64" title='Carles Barrobés i Meix'> |
+| 145 | [spite](https://github.com/spite) | 265 | 1645 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/731885?v=3&s=64' width="64" title='Jaume Sanchez'> |
+| 146 | [gtrias](https://github.com/gtrias) | 264 | 3 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4225298?v=3&s=64' width="64" title='Genar Trias Ortiz'> |
+| 147 | [luckyshot](https://github.com/luckyshot) | 263 | 156 | PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/141241?v=3&s=64' width="64" title='Xavi'> |
+| 148 | [carlosbuenosvinos](https://github.com/carlosbuenosvinos) | 262 | 168 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/351553?v=3&s=64' width="64" title='Carlos Buenosvinos'> |
+| 149 | [robdayz](https://github.com/robdayz) | 262 | 1 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/506444?v=3&s=64' width="64" title='Roberto Diaz'> |
+| 150 | [javifr](https://github.com/javifr) | 261 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/353755?v=3&s=64' width="64" title='javifr'> |
+| 151 | [skolodyazhnyy](https://github.com/skolodyazhnyy) | 261 | 19 | PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/576301?v=3&s=64' width="64" title='Sergey Kolodyazhnyy'> |
+| 152 | [blaiprat](https://github.com/blaiprat) | 259 | 134 | JavaScript | London & Barcelona | <img src='https://avatars2.githubusercontent.com/u/723386?v=3&s=64' width="64" title='Blai Pratdesaba'> |
+| 153 | [philipp-germann](https://github.com/philipp-germann) | 259 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8821566?v=3&s=64' width="64" title='Philipp Germann'> |
+| 154 | [ygneo](https://github.com/ygneo) | 257 | 13 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/845437?v=3&s=64' width="64" title='ygneo'> |
+| 155 | [rpau](https://github.com/rpau) | 254 | 37 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1483433?v=3&s=64' width="64" title='Raquel Pau'> |
+| 156 | [necavit](https://github.com/necavit) | 254 | 1 | TeX | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5918792?v=3&s=64' width="64" title='David Martínez Rodríguez'> |
+| 157 | [edugrasa](https://github.com/edugrasa) | 254 | 1 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/325005?v=3&s=64' width="64" title='Eduard Grasa'> |
+| 158 | [bpedro](https://github.com/bpedro) | 253 | 92 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/56472?v=3&s=64' width="64" title='Bruno Pedro'> |
+| 159 | [jrenaat](https://github.com/jrenaat) | 248 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2429919?v=3&s=64' width="64" title='Jan Schatteman'> |
+| 160 | [don-reba](https://github.com/don-reba) | 243 | 1 | CSS | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1193302?v=3&s=64' width="64" title='Alexey Badalov'> |
+| 161 | [bmagyar](https://github.com/bmagyar) | 241 | 4 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3524577?v=3&s=64' width="64" title='Bence Magyar'> |
+| 162 | [gsprenger](https://github.com/gsprenger) | 240 | 0 | CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/5487174?v=3&s=64' width="64" title='Gabriel Sprenger'> |
+| 163 | [chrisekelley](https://github.com/chrisekelley) | 240 | 129 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/861535?v=3&s=64' width="64" title='Chris E. Kelley'> |
+| 164 | [enricostano](https://github.com/enricostano) | 240 | 9 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/748971?v=3&s=64' width="64" title='Enrico Stano'> |
+| 165 | [martgnz](https://github.com/martgnz) | 239 | 6 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1236790?v=3&s=64' width="64" title='Martín González'> |
+| 166 | [drslump](https://github.com/drslump) | 238 | 422 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/110784?v=3&s=64' width="64" title='DrSlump'> |
+| 167 | [ggrandes](https://github.com/ggrandes) | 237 | 54 | Java | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2364301?v=3&s=64' width="64" title='G.Grandes'> |
+| 168 | [jordic](https://github.com/jordic) | 236 | 57 | Go | Barcelona | <img src='https://avatars3.githubusercontent.com/u/64216?v=3&s=64' width="64" title='Jordi Collell'> |
+| 169 | [mariomac](https://github.com/mariomac) | 236 | 6 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/939550?v=3&s=64' width="64" title='Mario Macías'> |
+| 170 | [fcsonline](https://github.com/fcsonline) | 234 | 63 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/135988?v=3&s=64' width="64" title='Ferran Basora'> |
+| 171 | [XescuGC](https://github.com/XescuGC) | 234 | 45 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1532900?v=3&s=64' width="64" title='Francesc Gil'> |
+| 172 | [rveciana](https://github.com/rveciana) | 234 | 74 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2832885?v=3&s=64' width="64" title='Roger Veciana i Rovira'> |
+| 173 | [acperez](https://github.com/acperez) | 233 | 4 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1265745?v=3&s=64' width="64" title='Albert'> |
+| 174 | [AngelVillanueva](https://github.com/AngelVillanueva) | 233 | 2 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/571039?v=3&s=64' width="64" title='Angel Villanueva'> |
+| 175 | [andresgutgon](https://github.com/andresgutgon) | 233 | 26 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/49499?v=3&s=64' width="64" title='Andrés'> |
+| 176 | [andresperezlopez](https://github.com/andresperezlopez) | 231 | 24 | SuperCollider | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1895237?v=3&s=64' width="64" title='Andrés Pérez López'> |
+| 177 | [poolqf](https://github.com/poolqf) | 231 | 584 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7887319?v=3&s=64' width="64" title='Pol Quintana'> |
+| 178 | [miguelibero](https://github.com/miguelibero) | 231 | 14 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/20177?v=3&s=64' width="64" title='Miguel Ibero'> |
+| 179 | [victorsauri](https://github.com/victorsauri) | 229 | 2 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8926084?v=3&s=64' width="64" title='Víctor Sauri Santacreu'> |
+| 180 | [jamaga](https://github.com/jamaga) | 229 | 1 | Ruby | barcelona | <img src='https://avatars3.githubusercontent.com/u/5446136?v=3&s=64' width="64" title='jamaga'> |
+| 181 | [jdevesa](https://github.com/jdevesa) | 228 | 42 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/67581?v=3&s=64' width="64" title='Jaume Devesa'> |
+| 182 | [CarlosButron](https://github.com/CarlosButron) | 227 | 505 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8502419?v=3&s=64' width="64" title='Carlos Butron'> |
+| 183 | [cagataygurturk](https://github.com/cagataygurturk) | 222 | 3 | PHP | Barcelona, España | <img src='https://avatars3.githubusercontent.com/u/963018?v=3&s=64' width="64" title='Çağatay Gürtürk'> |
+| 184 | [ezorita](https://github.com/ezorita) | 221 | 15 | C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3889419?v=3&s=64' width="64" title='eduard valera i zorita'> |
+| 185 | [pau-minoves](https://github.com/pau-minoves) | 220 | 3 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/966251?v=3&s=64' width="64" title='Pau Minoves'> |
+| 186 | [Samitier](https://github.com/Samitier) | 220 | 2 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4160121?v=3&s=64' width="64" title='Blai Samitier'> |
+| 187 | [svarvel](https://github.com/svarvel) | 219 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/8823313?v=3&s=64' width="64" title='Matteo Varvello'> |
+| 188 | [undeadpixel](https://github.com/undeadpixel) | 219 | 3 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/568654?v=3&s=64' width="64" title='Josep Arús'> |
+| 189 | [bejar](https://github.com/bejar) | 216 | 0 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/6221479?v=3&s=64' width="64" title='Javier Bejar'> |
+| 190 | [xdurana](https://github.com/xdurana) | 216 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/443851?v=3&s=64' width="64" title='Xavi Duran'> |
+| 191 | [jmcarbo](https://github.com/jmcarbo) | 215 | 50 | Go | Barcelona (SPAIN) | <img src='https://avatars2.githubusercontent.com/u/31098?v=3&s=64' width="64" title='Joan Marc Carbo'> |
+| 192 | [ovicin](https://github.com/ovicin) | 215 | 10 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2742653?v=3&s=64' width="64" title='Ovidiu Cincheza'> |
+| 193 | [enriclluelles](https://github.com/enriclluelles) | 214 | 186 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/79768?v=3&s=64' width="64" title='Enric Lluelles'> |
+| 194 | [mpguerra](https://github.com/mpguerra) | 214 | 4 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1311133?v=3&s=64' width="64" title='Maria Pilar Guerra Arias'> |
+| 195 | [atrandafir](https://github.com/atrandafir) | 211 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3097251?v=3&s=64' width="64" title='Alexandru Trandafir Catalin'> |
+| 196 | [areina](https://github.com/areina) | 210 | 193 | Ruby | barcelona | <img src='https://avatars1.githubusercontent.com/u/10852?v=3&s=64' width="64" title='Toni Reina'> |
+| 197 | [sertansenturk](https://github.com/sertansenturk) | 210 | 1 | Matlab and Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/4540641?v=3&s=64' width="64" title='Sertan Senturk'> |
+| 198 | [sxubach](https://github.com/sxubach) | 210 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6159637?v=3&s=64' width="64" title='Sergi Xavier Ubach Pallàs'> |
+| 199 | [ulisescontreras](https://github.com/ulisescontreras) | 209 | 3 | CSS | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/7679792?v=3&s=64' width="64" title='Ulises Contreras'> |
+| 200 | [cumus](https://github.com/cumus) | 209 | 1 | C++ and C | Barcelona, Espanya | <img src='https://avatars3.githubusercontent.com/u/9050447?v=3&s=64' width="64" title='Ruben Sardon'> |
+| 201 | [tcorral](https://github.com/tcorral) | 208 | 1182 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/802081?v=3&s=64' width="64" title='Tomás Corral Casas'> |
+| 202 | [Fonserbc](https://github.com/Fonserbc) | 207 | 8 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2042586?v=3&s=64' width="64" title='Ferran Bertomeu'> |
+| 203 | [jmendeth](https://github.com/jmendeth) | 205 | 116 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1177304?v=3&s=64' width="64" title='Xavier Mendez'> |
+| 204 | [rewritten](https://github.com/rewritten) | 203 | 28 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/476895?v=3&s=64' width="64" title='Saverio Trioni'> |
+| 205 | [davidor](https://github.com/davidor) | 202 | 29 | HTML | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/907223?v=3&s=64' width="64" title='David Ortiz'> |
+| 206 | [albertbellonch](https://github.com/albertbellonch) | 201 | 139 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/289651?v=3&s=64' width="64" title='Albert Bellonch Llargués'> |
+| 207 | [AgustiBelloc](https://github.com/AgustiBelloc) | 201 | 6 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/210216?v=3&s=64' width="64" title='Agusti Belloc'> |
+| 208 | [MrBrownser](https://github.com/MrBrownser) | 200 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7208851?v=3&s=64' width="64" title='Adrià'> |
+| 209 | [andrewdavidmackenzie](https://github.com/andrewdavidmackenzie) | 199 | 2 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5529132?v=3&s=64' width="64" title='Andrew Mackenzie'> |
+| 210 | [rubennorte](https://github.com/rubennorte) | 198 | 8 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/117921?v=3&s=64' width="64" title='Rubén Norte'> |
+| 211 | [twinone](https://github.com/twinone) | 197 | 72 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/4309591?v=3&s=64' width="64" title='Twinone'> |
+| 212 | [artivis](https://github.com/artivis) | 195 | 2 | C++ | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6572747?v=3&s=64' width="64" title='Jeremie Deray'> |
+| 213 | [sharnik](https://github.com/sharnik) | 195 | 18 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/987?v=3&s=64' width="64" title='Wojciech Ogrodowczyk'> |
+| 214 | [martincalsyn](https://github.com/martincalsyn) | 194 | 0 | C# | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/2230497?v=3&s=64' width="64" title='Martin Calsyn'> |
+| 215 | [erenyagdiran](https://github.com/erenyagdiran) | 189 | 11 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1063085?v=3&s=64' width="64" title='Eren "m00dy" Yagdiran'> |
+| 216 | [xrubio](https://github.com/xrubio) | 189 | 16 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1416266?v=3&s=64' width="64" title='Xavier Rubio-Campillo'> |
+| 217 | [gorkapitarch](https://github.com/gorkapitarch) | 188 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4787906?v=3&s=64' width="64" title='Gorka'> |
+| 218 | [adrianolatorre](https://github.com/adrianolatorre) | 187 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/759356?v=3&s=64' width="64" title='Adriano Latorre'> |
+| 219 | [dixso](https://github.com/dixso) | 185 | 329 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1495899?v=3&s=64' width="64" title='Julio de la Calle'> |
+| 220 | [rgalindo33](https://github.com/rgalindo33) | 185 | 1 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/340759?v=3&s=64' width="64" title='Raul Galindo'> |
+| 221 | [BraisGabin](https://github.com/BraisGabin) | 184 | 1 | Java | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/721244?v=3&s=64' width="64" title='Brais Gabín'> |
+| 222 | [jantn](https://github.com/jantn) | 184 | 2 | C++ | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/11560497?v=3&s=64' width="64" title='Joan Anton Viñals'> |
+| 223 | [nosolopau](https://github.com/nosolopau) | 183 | 12 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/206331?v=3&s=64' width="64" title='Pablo Torrecilla'> |
+| 224 | [natzar](https://github.com/natzar) | 183 | 8 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1593064?v=3&s=64' width="64" title='Beto'> |
+| 225 | [PauCodina](https://github.com/PauCodina) | 182 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/85646?v=3&s=400' width="64" title='Pau Codina'> |
+| 226 | [carlosvillu](https://github.com/carlosvillu) | 181 | 80 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/179462?v=3&s=64' width="64" title='Carlos Villuendas Zambrana'> |
+| 227 | [facundofarias](https://github.com/facundofarias) | 181 | 19 | JavaScript | Barcelona, Catalunya | <img src='https://avatars0.githubusercontent.com/u/2700564?v=3&s=64' width="64" title='Facundo Farias'> |
+| 228 | [miljan-aleksic](https://github.com/miljan-aleksic) | 181 | 2 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/513275?v=3&s=64' width="64" title='Miljan'> |
+| 229 | [dsager](https://github.com/dsager) | 180 | 1 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1056502?v=3&s=64' width="64" title='Daniel Sager'> |
+| 230 | [pearpages](https://github.com/pearpages) | 180 | 3 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3802915?v=3&s=64' width="64" title='Pere Pages'> |
+| 231 | [vilanovi](https://github.com/vilanovi) | 180 | 269 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1830894?v=3&s=64' width="64" title='Joan Martin'> |
+| 232 | [Palaui](https://github.com/Palaui) | 179 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9482901?v=3&s=64' width="64" title='Marc Palau'> |
+| 233 | [r2bapps](https://github.com/r2bapps) | 178 | 6 | Java | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/7606778?v=3&s=64' width="64" title='R2B Apps'> |
+| 234 | [gchaincl](https://github.com/gchaincl) | 176 | 194 | Go | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1288313?v=3&s=64' width="64" title='Gustavo Chaín'> |
+| 235 | [cfenollosa](https://github.com/cfenollosa) | 176 | 485 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2249551?v=3&s=64' width="64" title='Carlos Fenollosa'> |
+| 236 | [philn](https://github.com/philn) | 174 | 25 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/34114?v=3&s=64' width="64" title='Philippe Normand'> |
+| 237 | [mcornella](https://github.com/mcornella) | 174 | 2 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1441704?v=3&s=64' width="64" title='Marc Cornellà'> |
+| 238 | [jaor](https://github.com/jaor) | 173 | 339 | Emacs Lisp | Barcelona | <img src='https://avatars0.githubusercontent.com/u/80719?v=3&s=64' width="64" title='jao'> |
+| 239 | [aercolino](https://github.com/aercolino) | 173 | 99 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/172373?v=3&s=64' width="64" title='Andrea Ercolino'> |
+| 240 | [singuerinc](https://github.com/singuerinc) | 173 | 30 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/503676?v=3&s=64' width="64" title='Nahuel Scotti'> |
+| 241 | [tiendan](https://github.com/tiendan) | 173 | 9 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2539785?v=3&s=64' width="64" title='Onur Ferhat'> |
+| 242 | [FelipMarti](https://github.com/FelipMarti) | 171 | 1 | C++ | Lund and Barcelona | <img src='https://avatars2.githubusercontent.com/u/8143121?v=3&s=64' width="64" title='Felip Martí Carrillo'> |
+| 243 | [simo163](https://github.com/simo163) | 169 | 1 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3654076?v=3&s=64' width="64" title='Gharbi Mohammed'> |
+| 244 | [coboshm](https://github.com/coboshm) | 169 | 0 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5605694?v=3&s=64' width="64" title='Marc Cobos Hernandez'> |
+| 245 | [acamps](https://github.com/acamps) | 169 | 1 | HTML | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5006841?v=3&s=64' width="64" title='Albert Camps'> |
+| 246 | [ilpaijin](https://github.com/ilpaijin) | 167 | 2 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1640113?v=3&s=64' width="64" title='Paolo'> |
+| 247 | [lukasappelhans](https://github.com/lukasappelhans) | 166 | 2 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/23859?v=3&s=64' width="64" title='Lukas Appelhans'> |
+| 248 | [knoopx](https://github.com/knoopx) | 165 | 49 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/100993?v=3&s=64' width="64" title='Víctor Martínez'> |
+| 249 | [mezod](https://github.com/mezod) | 165 | 20 | CSS | Barcelona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/1230963?v=3&s=64' width="64" title='Joan Boixadós'> |
+| 250 | [blasoliva](https://github.com/blasoliva) | 165 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4999919?v=3&s=64' width="64" title='Blas Oliva'> |
+| 251 | [kidd](https://github.com/kidd) | 165 | 72 | Emacs Lisp | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/25607?v=3&s=64' width="64" title='Raimon Grau (rgrau)'> |
+| 252 | [garciademarina](https://github.com/garciademarina) | 164 | 4 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/546607?v=3&s=64' width="64" title='Carlos'> |
+| 253 | [cosarara97](https://github.com/cosarara97) | 163 | 8 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1713879?v=3&s=64' width="64" title='Jaume Delclòs'> |
+| 254 | [LluisRamon](https://github.com/LluisRamon) | 163 | 33 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2566110?v=3&s=64' width="64" title='Lluís Ramon'> |
+| 255 | [agile-jordi](https://github.com/agile-jordi) | 162 | 5 | Clojure | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1241236?v=3&s=64' width="64" title='Jordi'> |
+| 256 | [alfred82santa](https://github.com/alfred82santa) | 161 | 7 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/574291?v=3&s=64' width="64" title='Alfred Santacatalina Gea'> |
+| 257 | [carlwebdev](https://github.com/carlwebdev) | 160 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2581992?v=3&s=64' width="64" title='Carl Johansson'> |
+| 258 | [budsan](https://github.com/budsan) | 160 | 19 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/859028?v=3&s=64' width="64" title='Jordi Santiago Provencio'> |
+| 259 | [codecoding](https://github.com/codecoding) | 160 | 50 | C# | Barcelona | <img src='https://avatars1.githubusercontent.com/u/696981?v=3&s=64' width="64" title='Roberto Huertas'> |
+| 260 | [yuraksisa](https://github.com/yuraksisa) | 160 | 41 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1453633?v=3&s=64' width="64" title='Yurak'> |
+| 261 | [gui11aume](https://github.com/gui11aume) | 160 | 44 | Python | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/1017195?v=3&s=64' width="64" title='Guillaume Filion'> |
+| 262 | [bmoix](https://github.com/bmoix) | 159 | 3 | Makefile | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3824169?v=3&s=64' width="64" title='Bernat Moix'> |
+| 263 | [changlongzj](https://github.com/changlongzj) | 156 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5863449?v=3&s=64' width="64" title='Chang Long Zhu Jin'> |
+| 264 | [ececilla](https://github.com/ececilla) | 156 | 5 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1896752?v=3&s=64' width="64" title='Enric Cecilla Real'> |
+| 265 | [dieguico](https://github.com/dieguico) | 155 | 0 | HTML | Barcelona,  Spain | <img src='https://avatars2.githubusercontent.com/u/11636439?v=3&s=64' width="64" title='Diego Villuendas Pellicero'> |
+| 266 | [mmasriera](https://github.com/mmasriera) | 155 | 1 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3852517?v=3&s=64' width="64" title='Miquel Masriera'> |
+| 267 | [jgrivolla](https://github.com/jgrivolla) | 154 | 2 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1183575?v=3&s=64' width="64" title='Jens Grivolla'> |
+| 268 | [di36ofp](https://github.com/di36ofp) | 153 | 3 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1537014?v=3&s=64' width="64" title='Diego P. Suárez'> |
+| 269 | [kmruiz](https://github.com/kmruiz) | 152 | 4 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1822138?v=3&s=64' width="64" title='Kevin Mas Ruiz'> |
+| 270 | [marcosQuesada](https://github.com/marcosQuesada) | 151 | 37 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/810704?v=3&s=64' width="64" title='Marcos Quesada'> |
+| 271 | [jorix](https://github.com/jorix) | 151 | 60 | JavaScript | Castelldefels (near Barcelona, Spain) | <img src='https://avatars2.githubusercontent.com/u/1099278?v=3&s=64' width="64" title='Xavier Mamano'> |
+| 272 | [belen-albeza](https://github.com/belen-albeza) | 151 | 62 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/63681?v=3&s=64' width="64" title='Belén Albeza'> |
+| 273 | [dalloliogm](https://github.com/dalloliogm) | 150 | 47 | Python | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/14500?v=3&s=64' width="64" title='Giovanni Dall'Olio'> |
+| 274 | [xserra](https://github.com/xserra) | 150 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2765483?v=3&s=64' width="64" title='Xavier Serra'> |
+| 275 | [egiralt](https://github.com/egiralt) | 150 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7782438?v=3&s=64' width="64" title='Ernesto Giralt'> |
+| 276 | [apalancat](https://github.com/apalancat) | 150 | 106 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/14408?v=3&s=64' width="64" title='Marc Boquet'> |
+| 277 | [unleashed](https://github.com/unleashed) | 149 | 33 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/201794?v=3&s=64' width="64" title='Alejandro Martinez'> |
+| 278 | [aurelian](https://github.com/aurelian) | 149 | 234 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/350?v=3&s=64' width="64" title='Aurelian Oancea'> |
+| 279 | [albert-gonzalez](https://github.com/albert-gonzalez) | 149 | 8 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7250822?v=3&s=64' width="64" title='Albert González'> |
+| 280 | [albertcasado](https://github.com/albertcasado) | 148 | 1 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2922449?v=3&s=64' width="64" title='Albert Casado'> |
+| 281 | [mikesimons](https://github.com/mikesimons) | 147 | 26 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/188544?v=3&s=64' width="64" title='Mike Simons'> |
+| 282 | [edrevo](https://github.com/edrevo) | 147 | 2 | Scala | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1845771?v=3&s=64' width="64" title='Ximo Guanter'> |
+| 283 | [sailoog](https://github.com/sailoog) | 146 | 3 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8145560?v=3&s=64' width="64" title='Sailoog'> |
+| 284 | [mparramont](https://github.com/mparramont) | 146 | 60 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/636075?v=3&s=64' width="64" title='Miguel Parramon'> |
+| 285 | [alemuro](https://github.com/alemuro) | 145 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1413194?v=3&s=64' width="64" title='Aleix Murtra'> |
+| 286 | [ruskid](https://github.com/ruskid) | 145 | 7 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8279841?v=3&s=64' width="64" title='Victor Demin'> |
+| 287 | [slapresta](https://github.com/slapresta) | 145 | 34 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3437734?v=3&s=64' width="64" title='Santiago Lapresta'> |
+| 288 | [danielmacho72](https://github.com/danielmacho72) | 145 | 0 | Ruby | Barcelona, ES | <img src='https://avatars3.githubusercontent.com/u/8505116?v=3&s=64' width="64" title='Daniel Macho'> |
+| 289 | [pral2a](https://github.com/pral2a) | 144 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/74249?v=3&s=64' width="64" title='Pral2a'> |
+| 290 | [daviderill](https://github.com/daviderill) | 142 | 2 | Java | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1317946?v=3&s=64' width="64" title='David Erill'> |
+| 291 | [vieron](https://github.com/vieron) | 142 | 84 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/43971?v=3&s=64' width="64" title='Javier Sánchez - Marín'> |
+| 292 | [martibosch](https://github.com/martibosch) | 142 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5831581?v=3&s=64' width="64" title='Martí Bosch'> |
+| 293 | [faragon](https://github.com/faragon) | 141 | 12 | Shell | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/518864?v=3&s=64' width="64" title=''> |
+| 294 | [dsabalete](https://github.com/dsabalete) | 141 | 1 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2525976?v=3&s=64' width="64" title='David Sabalete'> |
+| 295 | [danilinares](https://github.com/danilinares) | 141 | 3 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1897446?v=3&s=64' width="64" title='Daniel Linares'> |
+| 296 | [kpacha](https://github.com/kpacha) | 141 | 18 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1307694?v=3&s=64' width="64" title=''> |
+| 297 | [jxprat](https://github.com/jxprat) | 141 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9534353?v=3&s=64' width="64" title='Jordi Xavier'> |
+| 298 | [urodoz](https://github.com/urodoz) | 140 | 8 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1521810?v=3&s=64' width="64" title='Albert Lacarta'> |
+| 299 | [felixcarmona](https://github.com/felixcarmona) | 140 | 13 | Python | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/1969778?v=3&s=64' width="64" title='Felix Carmona'> |
+| 300 | [alloveras](https://github.com/alloveras) | 140 | 1 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10152702?v=3&s=64' width="64" title='Albert Lloveras Carbonell'> |
+| 301 | [bichotll](https://github.com/bichotll) | 139 | 134 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/643359?v=3&s=64' width="64" title='Jaume Tarradas Llort'> |
+| 302 | [chirauki](https://github.com/chirauki) | 139 | 2 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1199619?v=3&s=64' width="64" title=''> |
+| 303 | [ShakMR](https://github.com/ShakMR) | 138 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3437307?v=3&s=64' width="64" title='Borja Arias'> |
+| 304 | [apuigsech](https://github.com/apuigsech) | 137 | 12 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/2170708?v=3&s=64' width="64" title='Albert Puigsech Galicia'> |
+| 305 | [duardito](https://github.com/duardito) | 136 | 1 | Java | barcelona | <img src='https://avatars0.githubusercontent.com/u/5726847?v=3&s=64' width="64" title='eduard'> |
+| 306 | [Bastien-](https://github.com/Bastien-) | 136 | 2 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/405136?v=3&s=64' width="64" title='Bastien'> |
+| 307 | [JoanGi](https://github.com/JoanGi) | 133 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5485515?v=3&s=64' width="64" title='Joan Giner'> |
+| 308 | [Bestion](https://github.com/Bestion) | 133 | 0 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6674534?v=3&s=64' width="64" title='Iván Álvarez Ferreiro'> |
+| 309 | [marcelotena](https://github.com/marcelotena) | 132 | 0 | CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10921026?v=3&s=64' width="64" title='Marcelo Tena Vicente'> |
+| 310 | [marcos-sb](https://github.com/marcos-sb) | 132 | 0 | Scala | Sant Cugat del Vallés, Barcelona | <img src='https://avatars3.githubusercontent.com/u/5045778?v=3&s=64' width="64" title='Marcos Salgueiro Balsa'> |
+| 311 | [sonoro1234](https://github.com/sonoro1234) | 131 | 19 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1795930?v=3&s=64' width="64" title='Victor Bombi'> |
+| 312 | [manuelpastor](https://github.com/manuelpastor) | 130 | 1 | Python | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/4942049?v=3&s=64' width="64" title='Manuel Pastor'> |
+| 313 | [JuanCarlosM](https://github.com/JuanCarlosM) | 129 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1137572?v=3&s=64' width="64" title='Juan Carlos Moreno'> |
+| 314 | [jaumemoral](https://github.com/jaumemoral) | 128 | 3 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6637623?v=3&s=64' width="64" title='Jaume Moral'> |
+| 315 | [Quadramma](https://github.com/Quadramma) | 128 | 1 | JavaScript | Buenos Aires, Barcelona, Paris | <img src='https://avatars1.githubusercontent.com/u/6563218?v=3&s=64' width="64" title='Javier Leandro Arancibia'> |
+| 316 | [jherranzm](https://github.com/jherranzm) | 128 | 9 | Java | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/949475?v=3&s=64' width="64" title='José Luis Herranz'> |
+| 317 | [jordicenzano](https://github.com/jordicenzano) | 127 | 4 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5102646?v=3&s=64' width="64" title='Jordi Cenzano'> |
+| 318 | [eskerda](https://github.com/eskerda) | 127 | 125 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/208952?v=3&s=64' width="64" title=''> |
+| 319 | [amorenoc](https://github.com/amorenoc) | 127 | 18 | C | Taipei, Barcelona | <img src='https://avatars0.githubusercontent.com/u/3168575?v=3&s=64' width="64" title='Alex Moreno'> |
+| 320 | [fmvilas](https://github.com/fmvilas) | 127 | 29 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/242119?v=3&s=64' width="64" title='Francisco'> |
+| 321 | [Xelit3](https://github.com/Xelit3) | 127 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3220297?v=3&s=64' width="64" title='Xavi Rueda'> |
+| 322 | [doup](https://github.com/doup) | 127 | 32 | JavaScript | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/188612?v=3&s=64' width="64" title='Asier Illarramendi'> |
+| 323 | [weapp](https://github.com/weapp) | 126 | 4 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/856974?v=3&s=64' width="64" title='Manuel Albarran'> |
+| 324 | [jlopezsi](https://github.com/jlopezsi) | 125 | 0 | CSS | Bellaterra (Cerdanyola del Vallès), Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/4014875?v=3&s=64' width="64" title='Jordi López'> |
+| 325 | [sarjona](https://github.com/sarjona) | 124 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/900389?v=3&s=64' width="64" title='Sara Arjona'> |
+| 326 | [jruz](https://github.com/jruz) | 124 | 1 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8890?v=3&s=64' width="64" title='Javier Ruz'> |
+| 327 | [eduRivera](https://github.com/eduRivera) | 124 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8111369?v=3&s=64' width="64" title='Eduard Rivera'> |
+| 328 | [lagunex](https://github.com/lagunex) | 123 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2749314?v=3&s=64' width="64" title='Carlos A. Henríquez Q.'> |
+| 329 | [guiem](https://github.com/guiem) | 123 | 1 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3431628?v=3&s=64' width="64" title='Guiem'> |
+| 330 | [virgiligarcia](https://github.com/virgiligarcia) | 122 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1129335?v=3&s=64' width="64" title='Virgili Garcia'> |
+| 331 | [eduperez](https://github.com/eduperez) | 121 | 0 | C++ | Barcelona, SPAIN | <img src='https://avatars0.githubusercontent.com/u/11459398?v=3&s=64' width="64" title='Eduardo Pérez'> |
+| 332 | [MiguelHervias](https://github.com/MiguelHervias) | 121 | 1 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6371006?v=3&s=64' width="64" title='Miguel Hervias'> |
+| 333 | [dominguezcelada](https://github.com/dominguezcelada) | 120 | 1 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2574275?v=3&s=64' width="64" title='Oscar'> |
+| 334 | [victorBaro](https://github.com/victorBaro) | 120 | 856 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/994334?v=3&s=64' width="64" title='Victor Baro'> |
+| 335 | [alexetta](https://github.com/alexetta) | 119 | 0 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11165268?v=3&s=64' width="64" title=''> |
+| 336 | [abelsromero](https://github.com/abelsromero) | 119 | 3 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5781153?v=3&s=64' width="64" title='Abel Salgado Romero'> |
+| 337 | [abelboldu](https://github.com/abelboldu) | 119 | 21 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/254608?v=3&s=64' width="64" title='Abel Boldú'> |
+| 338 | [badshark](https://github.com/badshark) | 119 | 16 | Ruby | New York , Barcelona | <img src='https://avatars0.githubusercontent.com/u/762608?v=3&s=64' width="64" title='Marco'> |
+| 339 | [hcarreras](https://github.com/hcarreras) | 117 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1467096?v=3&s=64' width="64" title='Hari'> |
+| 340 | [JuanJoseFajardo](https://github.com/JuanJoseFajardo) | 117 | 0 | CSS | Sabadell (Barcelona) | <img src='https://avatars2.githubusercontent.com/u/7580526?v=3&s=64' width="64" title='Juan José Fajardo'> |
+| 341 | [rocboronat](https://github.com/rocboronat) | 117 | 12 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/456499?v=3&s=64' width="64" title='Roc Boronat'> |
+| 342 | [lemonzi](https://github.com/lemonzi) | 116 | 14 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3180006?v=3&s=64' width="64" title='Quim Llimona'> |
+| 343 | [joseparnau](https://github.com/joseparnau) | 116 | 0 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1410625?v=3&s=64' width="64" title='joseparnau'> |
+| 344 | [risdevs](https://github.com/risdevs) | 116 | 2 | C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/660240?v=3&s=64' width="64" title='Sergi Vélez'> |
+| 345 | [apuratepp](https://github.com/apuratepp) | 116 | 19 | Ruby | Berlin ,, Barcelona | <img src='https://avatars3.githubusercontent.com/u/529840?v=3&s=64' width="64" title='Josep'> |
+| 346 | [rboldu](https://github.com/rboldu) | 115 | 0 | C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6159669?v=3&s=64' width="64" title='Roger Boldu'> |
+| 347 | [OscarDoc](https://github.com/OscarDoc) | 115 | 10 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8439728?v=3&s=64' width="64" title='Oscar'> |
+| 348 | [SanabriaRusso](https://github.com/SanabriaRusso) | 115 | 3 | C++ | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1539420?v=3&s=64' width="64" title='SanabriaRusso'> |
+| 349 | [naoisegolden](https://github.com/naoisegolden) | 114 | 18 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/250892?v=3&s=64' width="64" title='Naoise Golden Santos'> |
+| 350 | [pchiwan](https://github.com/pchiwan) | 113 | 4 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/4695856?v=3&s=64' width="64" title='Sílvia Mur Blanch'> |
+| 351 | [valermor](https://github.com/valermor) | 113 | 2 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2091621?v=3&s=64' width="64" title='Valerio Morsella'> |
+| 352 | [adnam](https://github.com/adnam) | 113 | 35 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/221198?v=3&s=64' width="64" title='Adam Hayward'> |
+| 353 | [jbaylina](https://github.com/jbaylina) | 113 | 7 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4180156?v=3&s=64' width="64" title='Jordi Baylina'> |
+| 354 | [osagarra](https://github.com/osagarra) | 112 | 4 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3216049?v=3&s=64' width="64" title='Oleguer'> |
+| 355 | [chopsuey5000](https://github.com/chopsuey5000) | 112 | 1 | Arduino | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6077966?v=3&s=64' width="64" title='Angel Muñoz'> |
+| 356 | [danicomas](https://github.com/danicomas) | 112 | 37 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4038192?v=3&s=64' width="64" title='Daniel Comas Fernández'> |
+| 357 | [martinezjavier](https://github.com/martinezjavier) | 112 | 233 | C | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/498974?v=3&s=64' width="64" title='Javier Martinez Canillas'> |
+| 358 | [sergigp](https://github.com/sergigp) | 111 | 19 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/764056?v=3&s=64' width="64" title='Sergi GP'> |
+| 359 | [aleixpellicer](https://github.com/aleixpellicer) | 111 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8926015?v=3&s=64' width="64" title='Aleix'> |
+| 360 | [carlessanagustin](https://github.com/carlessanagustin) | 111 | 5 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3442765?v=3&s=64' width="64" title='carles san agustin'> |
+| 361 | [MariaFdez](https://github.com/MariaFdez) | 109 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9429467?v=3&s=64' width="64" title='Maria Fernandez'> |
+| 362 | [Arau](https://github.com/Arau) | 109 | 4 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1422556?v=3&s=64' width="64" title='Ferran Arau'> |
+| 363 | [Ale-](https://github.com/Ale-) | 109 | 3 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2896040?v=3&s=64' width="64" title='ale'> |
+| 364 | [seaniechaos](https://github.com/seaniechaos) | 109 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8274948?v=3&s=64' width="64" title='Sean Ring'> |
+| 365 | [albarin](https://github.com/albarin) | 109 | 2 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/186112?v=3&s=64' width="64" title='Alba'> |
+| 366 | [aramirez-es](https://github.com/aramirez-es) | 109 | 23 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/345555?v=3&s=64' width="64" title='Alberto Ramírez'> |
+| 367 | [cor9003](https://github.com/cor9003) | 109 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6442086?v=3&s=64' width="64" title='David'> |
+| 368 | [jig](https://github.com/jig) | 108 | 10 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/167911?v=3&s=64' width="64" title='Jordi Íñigo'> |
+| 369 | [rfguri](https://github.com/rfguri) | 108 | 22 | Objective-C | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/1063434?v=3&s=64' width="64" title='Roger Fernandez Guri'> |
+| 370 | [jjtortosa](https://github.com/jjtortosa) | 107 | 2 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/460441?v=3&s=64' width="64" title='Juanjo Tortosa'> |
+| 371 | [AnguloB](https://github.com/AnguloB) | 107 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8128625?v=3&s=64' width="64" title='Ariadna'> |
+| 372 | [Markcial](https://github.com/Markcial) | 107 | 15 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/208523?v=3&s=64' width="64" title='Marc'> |
+| 373 | [jarandaf](https://github.com/jarandaf) | 106 | 5 | Scala | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2277398?v=3&s=64' width="64" title='Jordi Aranda'> |
+| 374 | [nicolas-fricke](https://github.com/nicolas-fricke) | 105 | 12 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1423331?v=3&s=64' width="64" title='Nicolas Fricke'> |
+| 375 | [Atinux](https://github.com/Atinux) | 105 | 383 | JavaScript | Spain, Barcelona | <img src='https://avatars2.githubusercontent.com/u/904724?v=3&s=64' width="64" title='Sébastien Chopin'> |
+| 376 | [xmontero](https://github.com/xmontero) | 104 | 1 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5641621?v=3&s=64' width="64" title='Xavi Montero'> |
+| 377 | [vitovalov](https://github.com/vitovalov) | 103 | 7 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7696194?v=3&s=64' width="64" title='Vitaliy Konovalov'> |
+| 378 | [mcamara](https://github.com/mcamara) | 103 | 555 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/887052?v=3&s=64' width="64" title='Marc Cámara'> |
+| 379 | [aasensiog](https://github.com/aasensiog) | 103 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/164931?v=3&s=400' width="64" title='Albert'> |
+| 380 | [javocsoft](https://github.com/javocsoft) | 102 | 4 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1159510?v=3&s=64' width="64" title='JavocSoft'> |
+| 381 | [acasquete](https://github.com/acasquete) | 102 | 1 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1281072?v=3&s=64' width="64" title='Alex Casquete'> |
+| 382 | [DCueto](https://github.com/DCueto) | 102 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5231894?v=3&s=64' width="64" title='Daniel Cueto'> |
+| 383 | [lluisgomez](https://github.com/lluisgomez) | 102 | 56 | C++ | Universitat Autonoma de Barcelona | <img src='https://avatars1.githubusercontent.com/u/3308194?v=3&s=64' width="64" title='Lluis Gomez i Bigorda'> |
+| 384 | [gfrances](https://github.com/gfrances) | 101 | 2 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1112014?v=3&s=64' width="64" title='Guillem Francès'> |
+| 385 | [sdruix](https://github.com/sdruix) | 101 | 5 | Makefile | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9801546?v=3&s=64' width="64" title='Albert Saà-Garriga'> |
+| 386 | [adchsm](https://github.com/adchsm) | 100 | 920 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5276939?v=3&s=64' width="64" title='Adam Smith'> |
+| 387 | [joseprl89](https://github.com/joseprl89) | 100 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2854936?v=3&s=64' width="64" title='Josep'> |
+| 388 | [zareone](https://github.com/zareone) | 100 | 1 | Go | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1835906?v=3&s=64' width="64" title='Daniel Blanco'> |
+| 389 | [bthemad](https://github.com/bthemad) | 99 | 5 | VimL | Barcelona | <img src='https://avatars1.githubusercontent.com/u/138513?v=3&s=64' width="64" title='Alexander Kudryashov'> |
+| 390 | [Deseaus](https://github.com/Deseaus) | 99 | 1 | Shell | Barcelona / Göteborg | <img src='https://avatars0.githubusercontent.com/u/6504048?v=3&s=64' width="64" title='Daniel Vidal'> |
+| 391 | [joanpc](https://github.com/joanpc) | 99 | 54 | Python | Seattle, Barcelona | <img src='https://avatars0.githubusercontent.com/u/244801?v=3&s=64' width="64" title='Joanpc'> |
+| 392 | [alminyana](https://github.com/alminyana) | 99 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6729240?v=3&s=64' width="64" title='Enric Almiñana'> |
+| 393 | [ajimix](https://github.com/ajimix) | 99 | 161 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/30565?v=3&s=64' width="64" title='Adria Jimenez'> |
+| 394 | [PCASME](https://github.com/PCASME) | 98 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2333951?v=3&s=64' width="64" title='Pedro Castro Mellado'> |
+| 395 | [angelfaraldo](https://github.com/angelfaraldo) | 98 | 0 | Pure Data | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6861193?v=3&s=64' width="64" title='Ángel Faraldo'> |
+| 396 | [javilumbrales](https://github.com/javilumbrales) | 98 | 4 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2026597?v=3&s=64' width="64" title='Javier'> |
+| 397 | [pitarch](https://github.com/pitarch) | 98 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8017066?v=3&s=64' width="64" title=''> |
+| 398 | [pervouchine](https://github.com/pervouchine) | 98 | 10 | C | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2036802?v=3&s=64' width="64" title='Dmitri Pervouchine'> |
+| 399 | [tokland](https://github.com/tokland) | 97 | 193 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/24643?v=3&s=64' width="64" title='Arnau Sanchez'> |
+| 400 | [laurent-RP](https://github.com/laurent-RP) | 97 | 0 | Shell and PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8491200?v=3&s=64' width="64" title='Laurent'> |
+| 401 | [SamLeach](https://github.com/SamLeach) | 97 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1624047?v=3&s=64' width="64" title='Sam Leach'> |
+| 402 | [sp-carles-amigo](https://github.com/sp-carles-amigo) | 97 | 0 | Ruby and Puppet | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5636031?v=3&s=64' width="64" title='Carles Amigó'> |
+| 403 | [amorshanty](https://github.com/amorshanty) | 96 | 0 | JavaScript | Barcelona - España | <img src='https://avatars3.githubusercontent.com/u/10118709?v=3&s=64' width="64" title='Amor'> |
+| 404 | [jguille2](https://github.com/jguille2) | 95 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2926315?v=3&s=64' width="64" title='Joan Guillén i Pelegay'> |
+| 405 | [miguelmcolon](https://github.com/miguelmcolon) | 95 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11536517?v=3&s=64' width="64" title='Miguel M. Colón'> |
+| 406 | [jordeu](https://github.com/jordeu) | 94 | 2 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1315429?v=3&s=64' width="64" title='Jordi Deu-Pons'> |
+| 407 | [joseppla](https://github.com/joseppla) | 94 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4288326?v=3&s=64' width="64" title='Josep Pla'> |
+| 408 | [claudefa](https://github.com/claudefa) | 94 | 1 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10628856?v=3&s=64' width="64" title='Clàudia Fontserè'> |
+| 409 | [davidpich](https://github.com/davidpich) | 93 | 5 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1545345?v=3&s=64' width="64" title='David Pich Canes'> |
+| 410 | [joseconti](https://github.com/joseconti) | 93 | 14 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3383562?v=3&s=64' width="64" title='José Conti'> |
+| 411 | [hmeza](https://github.com/hmeza) | 93 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1008398?v=3&s=64' width="64" title=''> |
+| 412 | [juandebravo](https://github.com/juandebravo) | 92 | 40 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/367029?v=3&s=64' width="64" title='Juan'> |
+| 413 | [ainformatico](https://github.com/ainformatico) | 92 | 88 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/161387?v=3&s=64' width="64" title='Alejandro Dev.'> |
+| 414 | [oriolgual](https://github.com/oriolgual) | 92 | 13 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/5254?v=3&s=64' width="64" title='Oriol Gual'> |
+| 415 | [pauarge](https://github.com/pauarge) | 92 | 1 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7188409?v=3&s=64' width="64" title='Pau Argelaguet'> |
+| 416 | [guillermonp](https://github.com/guillermonp) | 92 | 1 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1483218?v=3&s=64' width="64" title='Guillermo Navas Palencia'> |
+| 417 | [nixelsolutions](https://github.com/nixelsolutions) | 91 | 8 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1949094?v=3&s=64' width="64" title=''> |
+| 418 | [zguillez](https://github.com/zguillez) | 91 | 0 | HTML | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2631152?v=3&s=64' width="64" title='Guillermo de la Iglesia'> |
+| 419 | [joanvila](https://github.com/joanvila) | 91 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9008887?v=3&s=64' width="64" title='Joan Vilà Cuñat'> |
+| 420 | [rogercbe](https://github.com/rogercbe) | 91 | 0 | ApacheConf | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9057214?v=3&s=64' width="64" title='Roger Cendrós'> |
+| 421 | [DavidVazGuijarro](https://github.com/DavidVazGuijarro) | 91 | 3 | Makefile | Badalona, Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/4998613?v=3&s=64' width="64" title='David Vaz Guijarro'> |
+| 422 | [nazcahawk](https://github.com/nazcahawk) | 90 | 0 | HTML | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/12375782?v=3&s=64' width="64" title='Adrian Benavides'> |
+| 423 | [ledfusion](https://github.com/ledfusion) | 90 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4456749?v=3&s=64' width="64" title='Jordi Moraleda'> |
+| 424 | [carthach](https://github.com/carthach) | 90 | 2 | C++ | Barcelona, Catalonia, Spain. | <img src='https://avatars1.githubusercontent.com/u/6017385?v=3&s=64' width="64" title='Cárthach Ó Nuanáin'> |
+| 425 | [hectr](https://github.com/hectr) | 89 | 95 | Objective-C | Barcelona, ES | <img src='https://avatars2.githubusercontent.com/u/3621110?v=3&s=64' width="64" title=''> |
+| 426 | [hugozaragoza](https://github.com/hugozaragoza) | 89 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/382557?v=3&s=64' width="64" title='Hugo Zaragoza'> |
+| 427 | [q2dg](https://github.com/q2dg) | 89 | 0 |  | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/7274874?v=3&s=64' width="64" title='Osqui LittleRiver'> |
+| 428 | [ivankelly](https://github.com/ivankelly) | 88 | 36 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/54955?v=3&s=64' width="64" title='Ivan Kelly'> |
+| 429 | [graredcr](https://github.com/graredcr) | 88 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1648964?v=3&s=64' width="64" title='Cristian Grañó'> |
+| 430 | [jordillonch](https://github.com/jordillonch) | 88 | 153 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/601782?v=3&s=64' width="64" title='Jordi Llonch'> |
+| 431 | [hacknug](https://github.com/hacknug) | 88 | 1 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1107521?v=3&s=64' width="64" title='Nestor Vera Ramos'> |
+| 432 | [adriacidre](https://github.com/adriacidre) | 88 | 6 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/593270?v=3&s=64' width="64" title='Adrià Cidre'> |
+| 433 | [artefactop](https://github.com/artefactop) | 88 | 52 | Erlang | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1199371?v=3&s=64' width="64" title='Jose Luis Navarro'> |
+| 434 | [GerardGarcia](https://github.com/GerardGarcia) | 88 | 1 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4532364?v=3&s=64' width="64" title='Gerard Garcia'> |
+| 435 | [piercifani](https://github.com/piercifani) | 87 | 18 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/869981?v=3&s=64' width="64" title='Pierluigi Cifani'> |
+| 436 | [Naimikan](https://github.com/Naimikan) | 87 | 0 | JavaScript | Barcelona, Barcelona | <img src='https://avatars3.githubusercontent.com/u/6245958?v=3&s=64' width="64" title='Guillem'> |
+| 437 | [elmarco](https://github.com/elmarco) | 87 | 9 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9381?v=3&s=64' width="64" title='Marc-Andre Lureau'> |
+| 438 | [rossf7](https://github.com/rossf7) | 86 | 27 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/311527?v=3&s=64' width="64" title='Ross Fairbanks'> |
+| 439 | [jaspermdegroot](https://github.com/jaspermdegroot) | 86 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1296793?v=3&s=64' width="64" title='Jasper de Groot'> |
+| 440 | [msonsona](https://github.com/msonsona) | 86 | 1 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/236218?v=3&s=64' width="64" title='Miquel Sonsona'> |
+| 441 | [xpadro](https://github.com/xpadro) | 86 | 69 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3349731?v=3&s=64' width="64" title='Xavier Padro'> |
+| 442 | [p3drosola](https://github.com/p3drosola) | 86 | 193 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/520550?v=3&s=64' width="64" title='Pedro Solá'> |
+| 443 | [John-Lluch](https://github.com/John-Lluch) | 85 | 390 | Objective-C and Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1282248?v=3&s=64' width="64" title='John Lluch Zorrilla'> |
+| 444 | [felixramos](https://github.com/felixramos) | 85 | 0 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7602193?v=3&s=64' width="64" title=''> |
+| 445 | [pedrobenedicte](https://github.com/pedrobenedicte) | 84 | 1 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/4212623?v=3&s=64' width="64" title='Pedro Benedicte'> |
+| 446 | [asilvestre](https://github.com/asilvestre) | 84 | 9 | Haskell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1436882?v=3&s=64' width="64" title='Antoni Silvestre'> |
+| 447 | [sgimeno](https://github.com/sgimeno) | 83 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/946661?v=3&s=64' width="64" title='Sergio Gimeno'> |
+| 448 | [davesnx](https://github.com/davesnx) | 83 | 3 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3763599?v=3&s=64' width="64" title='David Sancho'> |
+| 449 | [liopic](https://github.com/liopic) | 83 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/594458?v=3&s=64' width="64" title='Julio Martinez'> |
+| 450 | [cicampemu](https://github.com/cicampemu) | 82 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6782521?v=3&s=64' width="64" title='Etienne Toriello'> |
+| 451 | [rickyah](https://github.com/rickyah) | 82 | 94 | C# | Barcelona | <img src='https://avatars3.githubusercontent.com/u/68188?v=3&s=64' width="64" title='Ricardo Amores Hernández'> |
+| 452 | [GerardSoleCa](https://github.com/GerardSoleCa) | 82 | 18 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2593956?v=3&s=64' width="64" title='Gerard'> |
+| 453 | [naulacambra](https://github.com/naulacambra) | 82 | 1 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4325510?v=3&s=64' width="64" title='Arnau Lacambra'> |
+| 454 | [acrespillo](https://github.com/acrespillo) | 81 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3340106?v=3&s=64' width="64" title='Albert Crespillo'> |
+| 455 | [kbsali](https://github.com/kbsali) | 81 | 233 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/53676?v=3&s=64' width="64" title='Kevin Saliou'> |
+| 456 | [alexpdp7](https://github.com/alexpdp7) | 81 | 1 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1150630?v=3&s=64' width="64" title=''> |
+| 457 | [solilokiam](https://github.com/solilokiam) | 81 | 10 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/650592?v=3&s=64' width="64" title='Miquel Company Rodriguez'> |
+| 458 | [dhuertas](https://github.com/dhuertas) | 80 | 26 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1814281?v=3&s=64' width="64" title='Dani Huertas'> |
+| 459 | [arturictus](https://github.com/arturictus) | 80 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1930175?v=3&s=64' width="64" title='Artur'> |
+| 460 | [rogercampos](https://github.com/rogercampos) | 80 | 74 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/275992?v=3&s=64' width="64" title='Roger Campos'> |
+| 461 | [oscar-raig](https://github.com/oscar-raig) | 80 | 3 | Java | Barcelona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/537656?v=3&s=64' width="64" title='Oscar Raig Colon'> |
+| 462 | [dimaslz](https://github.com/dimaslz) | 79 | 10 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1536936?v=3&s=64' width="64" title='Dimas López'> |
+| 463 | [albertcalv](https://github.com/albertcalv) | 79 | 1 | C++ | Barcelona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/7923468?v=3&s=64' width="64" title='Albert'> |
+| 464 | [mediafinger](https://github.com/mediafinger) | 79 | 16 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/457782?v=3&s=64' width="64" title='Andreas Finger'> |
+| 465 | [yukideluxe](https://github.com/yukideluxe) | 78 | 5 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/792820?v=3&s=64' width="64" title='Julia'> |
+| 466 | [darkunito](https://github.com/darkunito) | 78 | 0 | Java | Castelldefels, Barcelona | <img src='https://avatars2.githubusercontent.com/u/11021134?v=3&s=64' width="64" title='Oriol Castaño'> |
+| 467 | [ecentinela](https://github.com/ecentinela) | 77 | 37 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/13818?v=3&s=64' width="64" title='Javier Martinez Fernandez'> |
+| 468 | [xbelanch](https://github.com/xbelanch) | 77 | 22 | Haxe | Barcelona | <img src='https://avatars3.githubusercontent.com/u/23429?v=3&s=64' width="64" title='Xavier Belanche Alonso'> |
+| 469 | [alamillac](https://github.com/alamillac) | 77 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8580491?v=3&s=64' width="64" title='Andres Lamilla'> |
+| 470 | [freeart](https://github.com/freeart) | 76 | 12 | JavaScript | Spain, Barcelona | <img src='https://avatars2.githubusercontent.com/u/261560?v=3&s=64' width="64" title='Nekrasov Paul'> |
+| 471 | [andreaperazzi](https://github.com/andreaperazzi) | 76 | 0 | Swift | Barcelona | <img src='https://avatars3.githubusercontent.com/u/645649?v=3&s=64' width="64" title='Andrea Perazzi'> |
+| 472 | [david1983xtc](https://github.com/david1983xtc) | 76 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9379663?v=3&s=64' width="64" title='David'> |
+| 473 | [agseco](https://github.com/agseco) | 75 | 0 | CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7592823?v=3&s=64' width="64" title='Alejandro Garcia Seco'> |
+| 474 | [Yeagob54](https://github.com/Yeagob54) | 75 | 0 | C# | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9213673?v=3&s=64' width="64" title='Santiago Dopazo Hilario'> |
+| 475 | [josepjaume](https://github.com/josepjaume) | 75 | 24 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/111746?v=3&s=64' width="64" title='Josep Jaume Rey'> |
+| 476 | [wefner](https://github.com/wefner) | 75 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/966235?v=3&s=64' width="64" title='oriolfb'> |
+| 477 | [rgomezcasas](https://github.com/rgomezcasas) | 74 | 3 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1331435?v=3&s=64' width="64" title='Rafa Gómez'> |
+| 478 | [doblebjp](https://github.com/doblebjp) | 74 | 3 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3216800?v=3&s=64' width="64" title='Benedict'> |
+| 479 | [dmiro](https://github.com/dmiro) | 74 | 1 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3485533?v=3&s=64' width="64" title='David Miró'> |
+| 480 | [orestes](https://github.com/orestes) | 74 | 5 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/618107?v=3&s=64' width="64" title='Orestes Carracedo'> |
+| 481 | [alombarte](https://github.com/alombarte) | 74 | 42 | Puppet | Barcelona | <img src='https://avatars1.githubusercontent.com/u/338451?v=3&s=64' width="64" title='Albert Lombarte'> |
+| 482 | [PedroEscudero](https://github.com/PedroEscudero) | 74 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10882300?v=3&s=64' width="64" title='Pedro Escudero'> |
+| 483 | [cris7ian](https://github.com/cris7ian) | 73 | 7 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2112370?v=3&s=64' width="64" title='Cristian Caroli'> |
+| 484 | [quicoto](https://github.com/quicoto) | 73 | 3 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1976516?v=3&s=64' width="64" title='Ricard Torres'> |
+| 485 | [am](https://github.com/am) | 73 | 19 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/33835?v=3&s=64' width="64" title='antonio miranda'> |
+| 486 | [renderdani](https://github.com/renderdani) | 73 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2365229?v=3&s=64' width="64" title='Dani'> |
+| 487 | [magarcia](https://github.com/magarcia) | 73 | 22 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/651610?v=3&s=64' width="64" title='Martin Prins'> |
+| 488 | [davebcn87](https://github.com/davebcn87) | 73 | 13 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/477473?v=3&s=64' width="64" title='David Cortés'> |
+| 489 | [angelcj](https://github.com/angelcj) | 73 | 0 | CSS | Barcelona, Catalonia, Spain | <img src='https://avatars0.githubusercontent.com/u/6699644?v=3&s=64' width="64" title='Angel C.J.'> |
+| 490 | [dpujadas](https://github.com/dpujadas) | 72 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4488855?v=3&s=64' width="64" title='David Pujadas'> |
+| 491 | [hakudoshi23](https://github.com/hakudoshi23) | 72 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3799306?v=3&s=64' width="64" title='Aleix Valls Pérez'> |
+| 492 | [BBerastegui](https://github.com/BBerastegui) | 72 | 0 | Go | Bilbao - Barcelona - Anywhere | <img src='https://avatars3.githubusercontent.com/u/3830238?v=3&s=64' width="64" title='Borja Berastegui'> |
+| 493 | [jtorrents](https://github.com/jtorrents) | 72 | 2 | Python | Barcelona (Catalonia) | <img src='https://avatars2.githubusercontent.com/u/1184374?v=3&s=64' width="64" title='Jordi Torrents'> |
+| 494 | [FerCa](https://github.com/FerCa) | 71 | 6 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1258773?v=3&s=64' width="64" title='FerCa'> |
+| 495 | [fredfigueiredo](https://github.com/fredfigueiredo) | 71 | 4 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2227607?v=3&s=64' width="64" title='Frederico Figueiredo'> |
+| 496 | [glopezdetorre](https://github.com/glopezdetorre) | 71 | 6 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4482916?v=3&s=64' width="64" title='Gorka López de Torre'> |
+| 497 | [ricardosncosta](https://github.com/ricardosncosta) | 70 | 0 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/438119?v=3&s=64' width="64" title='Ricardo Costa'> |
+| 498 | [nicoSWD](https://github.com/nicoSWD) | 70 | 128 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/205852?v=3&s=64' width="64" title='Nico Oelgart'> |
+| 499 | [gdfm](https://github.com/gdfm) | 69 | 7 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/703859?v=3&s=64' width="64" title='Gianmarco De Francisci Morales'> |
+| 500 | [AlbertServen](https://github.com/AlbertServen) | 69 | 2 | TeX | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4257816?v=3&s=64' width="64" title='Albert'> |
+| 501 | [raulferras](https://github.com/raulferras) | 68 | 59 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1103977?v=3&s=64' width="64" title='Raúl Ferràs'> |
+| 502 | [iconpin](https://github.com/iconpin) | 68 | 13 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1223705?v=3&s=64' width="64" title='Ignacio Contreras Pinilla'> |
+| 503 | [tamarinda](https://github.com/tamarinda) | 68 | 1 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/621226?v=3&s=64' width="64" title='Tamara'> |
+| 504 | [eloipoch](https://github.com/eloipoch) | 68 | 3 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/159255?v=3&s=64' width="64" title='Eloi'> |
+| 505 | [JRodrigoTech](https://github.com/JRodrigoTech) | 68 | 54 | OpenSCAD | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/1735665?v=3&s=64' width="64" title='J.Rodrigo'> |
+| 506 | [germanrcuriel](https://github.com/germanrcuriel) | 67 | 81 | CoffeeScript and JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/706729?v=3&s=64' width="64" title='Germán Robledo'> |
+| 507 | [vikgilmuc](https://github.com/vikgilmuc) | 67 | 0 | CSS | Barcelona- Wien- München | <img src='https://avatars0.githubusercontent.com/u/5129649?v=3&s=64' width="64" title='Victor Gil'> |
+| 508 | [llogaricasas](https://github.com/llogaricasas) | 67 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/11215505?v=3&s=64' width="64" title='Llogari Casas'> |
+| 509 | [griera](https://github.com/griera) | 67 | 1 | Shell | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/6828019?v=3&s=64' width="64" title='Genís Riera Pérez'> |
+| 510 | [MoralAlberto](https://github.com/MoralAlberto) | 67 | 4 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/931211?v=3&s=64' width="64" title='Alberto'> |
+| 511 | [natxo-kodify](https://github.com/natxo-kodify) | 67 | 1 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3061986?v=3&s=64' width="64" title='Natxo'> |
+| 512 | [josgilmo](https://github.com/josgilmo) | 66 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/773565?v=3&s=64' width="64" title='Jose Gil'> |
+| 513 | [franrodalg](https://github.com/franrodalg) | 66 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7487122?v=3&s=64' width="64" title='Francisco Rodríguez Algarra'> |
+| 514 | [vpascual](https://github.com/vpascual) | 66 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/895256?v=3&s=64' width="64" title='Víctor'> |
+| 515 | [fiunchinho](https://github.com/fiunchinho) | 66 | 58 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/627038?v=3&s=64' width="64" title='Jose Armesto'> |
+| 516 | [hanirok](https://github.com/hanirok) | 65 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1064771?v=3&s=64' width="64" title='Corina Riba'> |
+| 517 | [nbanguiano](https://github.com/nbanguiano) | 65 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1795619?v=3&s=64' width="64" title='Nicolas Anguiano'> |
+| 518 | [mllobet](https://github.com/mllobet) | 65 | 2 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/868837?v=3&s=64' width="64" title='Miquel'> |
+| 519 | [jlopezr](https://github.com/jlopezr) | 65 | 4 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/665801?v=3&s=64' width="64" title='Juan López Rubio'> |
+| 520 | [edubxb](https://github.com/edubxb) | 65 | 1 | Shell | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1192339?v=3&s=64' width="64" title='Eduardo Bellido Bellido'> |
+| 521 | [rafelmm](https://github.com/rafelmm) | 65 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8425827?v=3&s=64' width="64" title='Rafel Mormeneo Melich'> |
+| 522 | [pinkbigmacmedia](https://github.com/pinkbigmacmedia) | 65 | 12 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9844253?v=3&s=64' width="64" title='pinkbigmacmedia'> |
+| 523 | [theUniC](https://github.com/theUniC) | 65 | 30 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/318014?v=3&s=64' width="64" title='tλeUniC'> |
+| 524 | [henrydm](https://github.com/henrydm) | 64 | 8 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5873130?v=3&s=64' width="64" title='Enric del Molino'> |
+| 525 | [tonibagur](https://github.com/tonibagur) | 64 | 8 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3865473?v=3&s=64' width="64" title='Toni Bagur'> |
+| 526 | [arojascastro](https://github.com/arojascastro) | 64 | 2 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7340111?v=3&s=64' width="64" title='Antonio'> |
+| 527 | [DawnAngel](https://github.com/DawnAngel) | 63 | 5 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1183757?v=3&s=64' width="64" title='Eric Pinto'> |
+| 528 | [desko27](https://github.com/desko27) | 63 | 2 | Python | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/4168389?v=3&s=64' width="64" title='Ismael Ramón Barcones'> |
+| 529 | [manuel-munoz-aguirre](https://github.com/manuel-munoz-aguirre) | 63 | 2 | R | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/5576458?v=3&s=64' width="64" title='Manuel Muñoz Aguirre'> |
+| 530 | [gopalkoduri](https://github.com/gopalkoduri) | 62 | 10 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/435274?v=3&s=64' width="64" title='Gopala Krishna Koduri'> |
+| 531 | [Narfss](https://github.com/Narfss) | 62 | 374 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3855019?v=3&s=64' width="64" title='fmSirvent'> |
+| 532 | [RocAlayo](https://github.com/RocAlayo) | 61 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2017006?v=3&s=64' width="64" title='Roc'> |
+| 533 | [bcndanos](https://github.com/bcndanos) | 61 | 6 | Rust | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1188664?v=3&s=400' width="64" title='Mike'> |
+| 534 | [DavidPerezIngeniero](https://github.com/DavidPerezIngeniero) | 61 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6008104?v=3&s=64' width="64" title='David Pérez Carmona'> |
+| 535 | [maxigas](https://github.com/maxigas) | 60 | 3 | Python | Barcelona / Calafou | <img src='https://avatars2.githubusercontent.com/u/287700?v=3&s=64' width="64" title='maxigas'> |
+| 536 | [hipertextos](https://github.com/hipertextos) | 60 | 1 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/66055?v=3&s=64' width="64" title='Hipertextos'> |
+| 537 | [ronggong](https://github.com/ronggong) | 60 | 0 | Python | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/9578307?v=3&s=64' width="64" title='Rong GONG'> |
+| 538 | [XavierGimenez](https://github.com/XavierGimenez) | 60 | 3 | JavaScript | Barcelona, Catalonia | <img src='https://avatars1.githubusercontent.com/u/5372293?v=3&s=64' width="64" title='Xavi Gimenez'> |
+| 539 | [rodrigoaguilera](https://github.com/rodrigoaguilera) | 60 | 1 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/655187?v=3&s=64' width="64" title='Rodrigo'> |
+| 540 | [bartsanchez](https://github.com/bartsanchez) | 60 | 0 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/952220?v=3&s=64' width="64" title='Bartolomé Sánchez Salado'> |
+| 541 | [giuband](https://github.com/giuband) | 60 | 0 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8309413?v=3&s=64' width="64" title='Giuseppe Bandiera'> |
+| 542 | [nx0](https://github.com/nx0) | 59 | 2 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1718265?v=3&s=64' width="64" title='Francis'> |
+| 543 | [pvhee](https://github.com/pvhee) | 59 | 40 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/119355?v=3&s=64' width="64" title='Peter Vanhee'> |
+| 544 | [danielcestrella](https://github.com/danielcestrella) | 59 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9904952?v=3&s=64' width="64" title='Daniel Castaño Estrella'> |
+| 545 | [tonilap](https://github.com/tonilap) | 58 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1983536?v=3&s=64' width="64" title='Toni'> |
+| 546 | [sp-oriol-manya](https://github.com/sp-oriol-manya) | 58 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4599235?v=3&s=64' width="64" title='Oriol Manyà'> |
+| 547 | [enricruiz](https://github.com/enricruiz) | 58 | 7 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/65518?v=3&s=64' width="64" title='Enric Ruiz'> |
+| 548 | [orobitg](https://github.com/orobitg) | 58 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4988737?v=3&s=64' width="64" title='Miquel Orobitg'> |
+| 549 | [Arkalex](https://github.com/Arkalex) | 58 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3116895?v=3&s=64' width="64" title='Alex Ayllon'> |
+| 550 | [alexandresaiz](https://github.com/alexandresaiz) | 58 | 7 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/239624?v=3&s=64' width="64" title='Alexandre Saiz Verdaguer'> |
+| 551 | [albertboada](https://github.com/albertboada) | 58 | 8 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1840284?v=3&s=64' width="64" title='Albert Boada'> |
+| 552 | [mrsimo](https://github.com/mrsimo) | 57 | 44 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/19203?v=3&s=64' width="64" title='Albert Llop'> |
+| 553 | [TeddyEngel](https://github.com/TeddyEngel) | 57 | 11 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5671969?v=3&s=64' width="64" title='Teddy Engel'> |
+| 554 | [arnaugm](https://github.com/arnaugm) | 57 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1050567?v=3&s=64' width="64" title='Arnau González'> |
+| 555 | [diegok](https://github.com/diegok) | 57 | 128 | Perl | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/50365?v=3&s=64' width="64" title='Diego Kuperman'> |
+| 556 | [miquelruiz](https://github.com/miquelruiz) | 57 | 22 | Perl | Barcelona | <img src='https://avatars1.githubusercontent.com/u/433636?v=3&s=64' width="64" title='Miquel Ruiz'> |
+| 557 | [tranchis](https://github.com/tranchis) | 56 | 49 | Clojure | Barcelona | <img src='https://avatars0.githubusercontent.com/u/160790?v=3&s=64' width="64" title='Sergio Alvarez-Napagao'> |
+| 558 | [ChrisFernandez](https://github.com/ChrisFernandez) | 56 | 25 | Ruby | Barcelona, San Francisco, Boston | <img src='https://avatars2.githubusercontent.com/u/5316229?v=3&s=64' width="64" title='Christian Fernandez'> |
+| 559 | [sp-marc-canaleta](https://github.com/sp-marc-canaleta) | 56 | 4 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/659892?v=3&s=64' width="64" title='Marc Canaleta'> |
+| 560 | [perellonieto](https://github.com/perellonieto) | 55 | 1 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2480334?v=3&s=64' width="64" title='Miquel Perelló Nieto'> |
+| 561 | [xavireig](https://github.com/xavireig) | 55 | 1 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7260744?v=3&s=64' width="64" title='Xavier Reig'> |
+| 562 | [gpawlik](https://github.com/gpawlik) | 55 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6296883?v=3&s=64' width="64" title='Grzegorz Pawlik'> |
+| 563 | [miceno](https://github.com/miceno) | 55 | 13 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/315830?v=3&s=64' width="64" title='Orestes Sanchez'> |
+| 564 | [ceritium](https://github.com/ceritium) | 55 | 47 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/16633?v=3&s=64' width="64" title='Jose Galisteo'> |
+| 565 | [edutec](https://github.com/edutec) | 55 | 25 | JavaScript | Cornellà (Barcelona) | <img src='https://avatars3.githubusercontent.com/u/5485297?v=3&s=64' width="64" title='Edutec'> |
+| 566 | [jessicafndez](https://github.com/jessicafndez) | 55 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5329069?v=3&s=64' width="64" title='Jessica'> |
+| 567 | [keoko](https://github.com/keoko) | 55 | 5 | Clojure | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/167842?v=3&s=64' width="64" title='Natxo Cabré'> |
+| 568 | [Codessus](https://github.com/Codessus) | 55 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1783609?v=3&s=64' width="64" title='Álex García'> |
+| 569 | [ferreret](https://github.com/ferreret) | 55 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9048159?v=3&s=64' width="64" title='Nicolás Barceló'> |
+| 570 | [subarroca](https://github.com/subarroca) | 54 | 55 | JavaScript | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/1245057?v=3&s=64' width="64" title='Salvador Subarroca'> |
+| 571 | [mrzard](https://github.com/mrzard) | 54 | 8 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1557869?v=3&s=64' width="64" title='Gonzalo Míguez'> |
+| 572 | [Skyrpex](https://github.com/Skyrpex) | 54 | 37 | JavaScript | Barcelona, España | <img src='https://avatars2.githubusercontent.com/u/1077520?v=3&s=64' width="64" title='Cristian Pallarés'> |
+| 573 | [zhuangsc](https://github.com/zhuangsc) | 54 | 2 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5256159?v=3&s=64' width="64" title=''> |
+| 574 | [polcolomer](https://github.com/polcolomer) | 53 | 4 | Makefile | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8222770?v=3&s=64' width="64" title='Pol Colomer'> |
+| 575 | [mrfelton](https://github.com/mrfelton) | 53 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/200251?v=3&s=64' width="64" title='Tom Kirkpatrick'> |
+| 576 | [albhilazo](https://github.com/albhilazo) | 53 | 1 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3046604?v=3&s=64' width="64" title='Albert Hilazo'> |
+| 577 | [juansalvatella](https://github.com/juansalvatella) | 53 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4377347?v=3&s=64' width="64" title='Joan'> |
+| 578 | [ianmartorell](https://github.com/ianmartorell) | 53 | 77 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/318800?v=3&s=64' width="64" title='Ian Martorell'> |
+| 579 | [jordi-pages](https://github.com/jordi-pages) | 53 | 0 | C++ | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1894677?v=3&s=64' width="64" title='Jordi Pages'> |
+| 580 | [planadecu](https://github.com/planadecu) | 53 | 2 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1212662?v=3&s=64' width="64" title='Jordi P.S.'> |
+| 581 | [ipalaus](https://github.com/ipalaus) | 53 | 37 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/248183?v=3&s=64' width="64" title='Isern Palaus'> |
+| 582 | [sleistner](https://github.com/sleistner) | 52 | 61 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/12568?v=3&s=64' width="64" title='Steffen Leistner'> |
+| 583 | [Indor](https://github.com/Indor) | 52 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1013464?v=3&s=400' width="64" title='Ignasi'> |
+| 584 | [yeradis](https://github.com/yeradis) | 52 | 6 | Python | Barcelona,Spain | <img src='https://avatars3.githubusercontent.com/u/666944?v=3&s=64' width="64" title='Yeradis P. Barbosa Marrero'> |
+| 585 | [sief](https://github.com/sief) | 52 | 13 | Scala | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1277638?v=3&s=64' width="64" title='Simon Effing'> |
+| 586 | [xavicarrillo](https://github.com/xavicarrillo) | 52 | 1 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5337017?v=3&s=64' width="64" title='Xavi Carrillo'> |
+| 587 | [alexvijo](https://github.com/alexvijo) | 52 | 0 | CSS | barcelona | <img src='https://avatars3.githubusercontent.com/u/2379155?v=3&s=64' width="64" title='Alex Vicente'> |
+| 588 | [nellicus](https://github.com/nellicus) | 52 | 1 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8770097?v=3&s=64' width="64" title='Antonio Bonuccelli'> |
+| 589 | [davidruizrodri](https://github.com/davidruizrodri) | 52 | 1 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1973997?v=3&s=64' width="64" title='David Ruiz'> |
+| 590 | [albsala](https://github.com/albsala) | 52 | 0 | Objective-C and Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2789337?v=3&s=64' width="64" title='Alberto Salas'> |
+| 591 | [hrysct](https://github.com/hrysct) | 52 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9081983?v=3&s=64' width="64" title='Harry Escott'> |
+| 592 | [marsty5](https://github.com/marsty5) | 51 | 2 | C | London & Barcelona | <img src='https://avatars3.githubusercontent.com/u/2454869?v=3&s=64' width="64" title='Maria'> |
+| 593 | [abailon](https://github.com/abailon) | 51 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8384392?v=3&s=64' width="64" title='Alex'> |
+| 594 | [xverges](https://github.com/xverges) | 51 | 29 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/460418?v=3&s=64' width="64" title='Xavier Vergés'> |
+| 595 | [jogaco](https://github.com/jogaco) | 51 | 2 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1876230?v=3&s=64' width="64" title='J. Garcia'> |
+| 596 | [thomedes](https://github.com/thomedes) | 51 | 2 | C | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1986656?v=3&s=64' width="64" title='Toni Homedes i Saun'> |
+| 597 | [maurovc](https://github.com/maurovc) | 50 | 12 | Objective-C | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/10012427?v=3&s=64' width="64" title='Mauro Vime Castillo'> |
+| 598 | [ddcesare](https://github.com/ddcesare) | 50 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4183971?v=3&s=64' width="64" title='dd di cesare'> |
+| 599 | [danielrozo](https://github.com/danielrozo) | 50 | 1 | C# | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3877999?v=3&s=64' width="64" title='Daniel Rozo'> |
+| 600 | [gcasanova](https://github.com/gcasanova) | 50 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1326769?v=3&s=64' width="64" title='Guillermo Casanova'> |
+| 601 | [xaviserrag](https://github.com/xaviserrag) | 50 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7057820?v=3&s=64' width="64" title='Xavi'> |
+| 602 | [alexcarol](https://github.com/alexcarol) | 50 | 1 | PHP | Barcelona,Spain | <img src='https://avatars3.githubusercontent.com/u/1713440?v=3&s=64' width="64" title='Alex Carol'> |
+| 603 | [ManuLeiva](https://github.com/ManuLeiva) | 49 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8821264?v=3&s=64' width="64" title='Manuel Leiva'> |
+| 604 | [bernatmv](https://github.com/bernatmv) | 49 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3183863?v=3&s=64' width="64" title='Bernat'> |
+| 605 | [ixdi](https://github.com/ixdi) | 49 | 6 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3193539?v=3&s=64' width="64" title='Sergi'> |
+| 606 | [alessandrod](https://github.com/alessandrod) | 49 | 75 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/62002?v=3&s=64' width="64" title='Alessandro Decina'> |
+| 607 | [fitigf15](https://github.com/fitigf15) | 48 | 0 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5097362?v=3&s=64' width="64" title='Víctor'> |
+| 608 | [calinrada](https://github.com/calinrada) | 48 | 218 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/873482?v=3&s=64' width="64" title='Calin Rada'> |
+| 609 | [pherrusa7](https://github.com/pherrusa7) | 48 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8740816?v=3&s=64' width="64" title='Pedro Herruzo'> |
+| 610 | [montes](https://github.com/montes) | 48 | 27 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/389613?v=3&s=64' width="64" title='Javier Montes'> |
+| 611 | [atno](https://github.com/atno) | 48 | 0 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8301357?v=3&s=64' width="64" title='Antonio Clavelli'> |
+| 612 | [jsoucheiron](https://github.com/jsoucheiron) | 48 | 3 | Python and Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1830262?v=3&s=64' width="64" title='Jordi Soucheiron'> |
+| 613 | [alexarraiza](https://github.com/alexarraiza) | 47 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5226318?v=3&s=64' width="64" title='Alex Arraiza'> |
+| 614 | [peregraum](https://github.com/peregraum) | 47 | 1 | PHP | Teià, Barcelona | <img src='https://avatars0.githubusercontent.com/u/6589559?v=3&s=64' width="64" title='Pere Grau'> |
+| 615 | [totesalaz](https://github.com/totesalaz) | 47 | 0 | CSS | Barcelona - Spain | <img src='https://avatars0.githubusercontent.com/u/8629760?v=3&s=64' width="64" title='Luis José Salazar-Serrano'> |
+| 616 | [alm59321](https://github.com/alm59321) | 47 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4179508?v=3&s=64' width="64" title='Alberto'> |
+| 617 | [ginsen](https://github.com/ginsen) | 47 | 1 | PHP | Vilanova i la Geltrú, Barcelona | <img src='https://avatars2.githubusercontent.com/u/1165397?v=3&s=64' width="64" title='José Ginés Hernández Galindo'> |
+| 618 | [Elendow](https://github.com/Elendow) | 47 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5699495?v=3&s=64' width="64" title='Eric Verdalet'> |
+| 619 | [ericzon](https://github.com/ericzon) | 47 | 4 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1809508?v=3&s=64' width="64" title='Eric'> |
+| 620 | [lienbcn](https://github.com/lienbcn) | 47 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2737199?v=3&s=64' width="64" title='Neil'> |
+| 621 | [vcbr](https://github.com/vcbr) | 47 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7266359?v=3&s=64' width="64" title='Victor Cabrera'> |
+| 622 | [BadChoice](https://github.com/BadChoice) | 47 | 6 | Objective-C | Manresa (Barcelona, Spain) | <img src='https://avatars1.githubusercontent.com/u/93900?v=3&s=64' width="64" title='Jordi Puigdellívol'> |
+| 623 | [jlupox](https://github.com/jlupox) | 47 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3322903?v=3&s=64' width="64" title='Juan Luis'> |
+| 624 | [albarral](https://github.com/albarral) | 46 | 0 | Makefile | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/11234094?v=3&s=64' width="64" title='José Luis Albarral'> |
+| 625 | [oriolet](https://github.com/oriolet) | 46 | 1 | PHP | Caldes de Montbui, Barcelona | <img src='https://avatars1.githubusercontent.com/u/1323003?v=3&s=64' width="64" title='Oriol'> |
+| 626 | [rafaduran](https://github.com/rafaduran) | 46 | 33 | Python | Barcelona, Catalonia, Spain | <img src='https://avatars0.githubusercontent.com/u/867469?v=3&s=64' width="64" title='Rafael Durán Castañeda'> |
+| 627 | [nadalsol](https://github.com/nadalsol) | 46 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3439783?v=3&s=64' width="64" title='Nadal Soler'> |
+| 628 | [jfalguera](https://github.com/jfalguera) | 46 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/6295398?v=3&s=64' width="64" title='Jordi Falguera'> |
+| 629 | [rliuzzi](https://github.com/rliuzzi) | 45 | 3 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/971432?v=3&s=64' width="64" title='Romina Liuzzi'> |
+| 630 | [kilburn](https://github.com/kilburn) | 45 | 39 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/116100?v=3&s=64' width="64" title='Marc Pujol'> |
+| 631 | [Marina42](https://github.com/Marina42) | 45 | 1 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7079891?v=3&s=64' width="64" title='Marina'> |
+| 632 | [hborras](https://github.com/hborras) | 45 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2531844?v=3&s=64' width="64" title='Hector Borras'> |
+| 633 | [adomenech73](https://github.com/adomenech73) | 45 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4040180?v=3&s=64' width="64" title='Albert Domenech'> |
+| 634 | [jsmolina](https://github.com/jsmolina) | 45 | 7 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/447481?v=3&s=64' width="64" title='Jordi Sesmero'> |
+| 635 | [hds](https://github.com/hds) | 44 | 8 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/89589?v=3&s=64' width="64" title='Hayden Stainsby'> |
+| 636 | [gridchin](https://github.com/gridchin) | 44 | 2 | JavaScript | Barcelona, España | <img src='https://avatars3.githubusercontent.com/u/521282?v=3&s=64' width="64" title='Denis'> |
+| 637 | [Danziger](https://github.com/Danziger) | 44 | 1 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6564894?v=3&s=64' width="64" title='Dani Gámez Franco'> |
+| 638 | [xfornesa](https://github.com/xfornesa) | 44 | 1 | PHP | Mataró, Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/690069?v=3&s=64' width="64" title='Xavier Fornés'> |
+| 639 | [drfperez](https://github.com/drfperez) | 43 | 0 | HTML | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5065490?v=3&s=64' width="64" title='Francisco Pérez García'> |
+| 640 | [acamara](https://github.com/acamara) | 43 | 6 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/593008?v=3&s=64' width="64" title='Albert Cámara'> |
+| 641 | [wandarkaf](https://github.com/wandarkaf) | 43 | 1 | JavaScript | barcelona, spain | <img src='https://avatars1.githubusercontent.com/u/1008469?v=3&s=64' width="64" title='Alonso'> |
+| 642 | [nleite](https://github.com/nleite) | 43 | 7 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/598339?v=3&s=64' width="64" title='Norberto'> |
+| 643 | [ataberner](https://github.com/ataberner) | 43 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7130249?v=3&s=64' width="64" title='Arnau'> |
+| 644 | [igormilla](https://github.com/igormilla) | 43 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/622954?v=3&s=64' width="64" title='igor milla'> |
+| 645 | [Jautenim](https://github.com/Jautenim) | 43 | 4 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1456708?v=3&s=64' width="64" title=''> |
+| 646 | [petrklus](https://github.com/petrklus) | 43 | 5 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1115667?v=3&s=64' width="64" title='Petr Klus'> |
+| 647 | [pyivanc](https://github.com/pyivanc) | 43 | 1 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1092286?v=3&s=64' width="64" title='Iván Compañy'> |
+| 648 | [CorinaV](https://github.com/CorinaV) | 43 | 0 | CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9862932?v=3&s=64' width="64" title='Corina Vladut'> |
+| 649 | [miquelsoler](https://github.com/miquelsoler) | 43 | 2 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1842840?v=3&s=64' width="64" title='Miquel A. Soler'> |
+| 650 | [jpallares](https://github.com/jpallares) | 42 | 0 | HTML | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1519657?v=3&s=64' width="64" title='Juan Pallarès'> |
+| 651 | [megafounder](https://github.com/megafounder) | 42 | 2 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4767390?v=3&s=64' width="64" title='Jonathan Garcia'> |
+| 652 | [gabriprat](https://github.com/gabriprat) | 42 | 1 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/302792?v=3&s=64' width="64" title='Gabriel Prat Masramon'> |
+| 653 | [Aryslan](https://github.com/Aryslan) | 42 | 0 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1422612?v=3&s=64' width="64" title='David Barranco'> |
+| 654 | [xabierlegasa](https://github.com/xabierlegasa) | 42 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4048826?v=3&s=64' width="64" title='Xabier Legasa'> |
+| 655 | [howna13](https://github.com/howna13) | 42 | 0 | ApacheConf | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5635059?v=3&s=64' width="64" title='Bru'> |
+| 656 | [svalver](https://github.com/svalver) | 42 | 0 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8078036?v=3&s=64' width="64" title='Sergi Valverde'> |
+| 657 | [adrianortuzar](https://github.com/adrianortuzar) | 42 | 4 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/649600?v=3&s=64' width="64" title='Adrian'> |
+| 658 | [rogervila](https://github.com/rogervila) | 42 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6053012?v=3&s=64' width="64" title='Roger Vilà'> |
+| 659 | [ctbrownlees](https://github.com/ctbrownlees) | 42 | 2 | R | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1633508?v=3&s=64' width="64" title='Christian Brownlees'> |
+| 660 | [gyopiazza](https://github.com/gyopiazza) | 42 | 1 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/748898?v=3&s=64' width="64" title='Giordano Piazza'> |
+| 661 | [juanmorillios](https://github.com/juanmorillios) | 42 | 0 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4824933?v=3&s=64' width="64" title='Juan Ml. Morillo'> |
+| 662 | [juanmaorta](https://github.com/juanmaorta) | 42 | 9 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/486079?v=3&s=64' width="64" title='Juanma Orta'> |
+| 663 | [teknopaul](https://github.com/teknopaul) | 42 | 56 | JavaScript | barcelona | <img src='https://avatars2.githubusercontent.com/u/812666?v=3&s=64' width="64" title='teknopaul'> |
+| 664 | [debiatan](https://github.com/debiatan) | 42 | 5 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/129583?v=3&s=64' width="64" title='Miguel Lechón'> |
+| 665 | [pauca](https://github.com/pauca) | 42 | 0 | R | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2961756?v=3&s=64' width="64" title='Pau Carrió'> |
+| 666 | [lerovitch](https://github.com/lerovitch) | 41 | 2 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1201477?v=3&s=64' width="64" title='Sergi Sorribas'> |
+| 667 | [david-garcia-garcia](https://github.com/david-garcia-garcia) | 41 | 0 | PHP | Barcelona, Spain , León, México | <img src='https://avatars0.githubusercontent.com/u/9599352?v=3&s=64' width="64" title='Davvid'> |
+| 668 | [skilla](https://github.com/skilla) | 41 | 2 | PHP and CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1517293?v=3&s=64' width="64" title='Sergio Zambrano'> |
+| 669 | [sarrufat](https://github.com/sarrufat) | 41 | 0 | Scala | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2477492?v=3&s=64' width="64" title='Sergi Arrufat'> |
+| 670 | [LasVegasOle](https://github.com/LasVegasOle) | 41 | 7 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/846480?v=3&s=64' width="64" title='Luis'> |
+| 671 | [ChabudaiGitHub](https://github.com/ChabudaiGitHub) | 40 | 0 | CSS | Barcelona (Mataró) | <img src='https://avatars0.githubusercontent.com/u/9642608?v=3&s=64' width="64" title='Sergio González Garrido'> |
+| 672 | [natxet](https://github.com/natxet) | 40 | 46 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1036236?v=3&s=64' width="64" title='Nacho'> |
+| 673 | [bismarkhenao](https://github.com/bismarkhenao) | 40 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2971390?v=3&s=64' width="64" title='Bismark Henao'> |
+| 674 | [arnauti](https://github.com/arnauti) | 40 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/62395?v=3&s=64' width="64" title='Rafa'> |
+| 675 | [antonienko](https://github.com/antonienko) | 40 | 1 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/186832?v=3&s=64' width="64" title='Antonio Manuel Hernández Sánchez'> |
+| 676 | [miguelSantirso](https://github.com/miguelSantirso) | 40 | 1 | ActionScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/454372?v=3&s=64' width="64" title='Miguel Santirso'> |
+| 677 | [bertotte](https://github.com/bertotte) | 40 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7772906?v=3&s=64' width="64" title='Bert Otte'> |
+| 678 | [sankalpg](https://github.com/sankalpg) | 40 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2221576?v=3&s=64' width="64" title='Sankalp Gulati'> |
+| 679 | [martinciu](https://github.com/martinciu) | 40 | 198 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/34633?v=3&s=64' width="64" title='Marcin Ciunelis'> |
+| 680 | [jguillaumes](https://github.com/jguillaumes) | 40 | 16 | R | Barcelona - Catalonia | <img src='https://avatars1.githubusercontent.com/u/1552242?v=3&s=64' width="64" title='Jordi Guillaumes Pons'> |
+| 681 | [victorcoder](https://github.com/victorcoder) | 40 | 181 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/47026?v=3&s=64' width="64" title='Victor Castell'> |
+| 682 | [cesards](https://github.com/cesards) | 40 | 1482 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1536079?v=3&s=64' width="64" title='César Díez Sánchez'> |
+| 683 | [txusballesteros](https://github.com/txusballesteros) | 39 | 221 | Java | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8314542?v=3&s=64' width="64" title='Txus Ballesteros'> |
+| 684 | [ValterSantosMatos](https://github.com/ValterSantosMatos) | 39 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7823134?v=3&s=64' width="64" title='Valter Santos Matos'> |
+| 685 | [ewokcillo](https://github.com/ewokcillo) | 39 | 5 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1288150?v=3&s=64' width="64" title='Diego'> |
+| 686 | [drpicox](https://github.com/drpicox) | 39 | 6 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2758345?v=3&s=64' width="64" title='David Rodenas'> |
+| 687 | [davamix](https://github.com/davamix) | 39 | 4 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/581193?v=3&s=64' width="64" title='Daniel Valcarce'> |
+| 688 | [xDavidLeon](https://github.com/xDavidLeon) | 39 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/467215?v=3&s=64' width="64" title='David León'> |
+| 689 | [martintsch](https://github.com/martintsch) | 39 | 3 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1516771?v=3&s=64' width="64" title='Martin Tschischauskas'> |
+| 690 | [not-only-code](https://github.com/not-only-code) | 38 | 57 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/589221?v=3&s=64' width="64" title='Carlos Sanz García'> |
+| 691 | [zigotica](https://github.com/zigotica) | 38 | 15 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/178855?v=3&s=64' width="64" title='Sergi Meseguer'> |
+| 692 | [ixiam](https://github.com/ixiam) | 38 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2589799?v=3&s=64' width="64" title='iXiam Global Solutions'> |
+| 693 | [arnelmarquez](https://github.com/arnelmarquez) | 38 | 0 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/12570118?v=3&s=64' width="64" title='arnel marquez'> |
+| 694 | [varas](https://github.com/varas) | 38 | 7 | Shell | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1300852?v=3&s=64' width="64" title='jhvaras'> |
+| 695 | [daisukewi](https://github.com/daisukewi) | 38 | 5 | C# | @Barcelona | <img src='https://avatars2.githubusercontent.com/u/2298419?v=3&s=64' width="64" title='Dani'> |
+| 696 | [rcabamo](https://github.com/rcabamo) | 38 | 162 | Objective-C and Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/789161?v=3&s=64' width="64" title='Ricardo Caballero'> |
+| 697 | [r0uzic](https://github.com/r0uzic) | 38 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/634801?v=3&s=64' width="64" title='Carlos Cabezas'> |
+| 698 | [jlopex](https://github.com/jlopex) | 38 | 17 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/693206?v=3&s=64' width="64" title='Javier López'> |
+| 699 | [marcpursals](https://github.com/marcpursals) | 38 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4275134?v=3&s=64' width="64" title='Marc Pursals'> |
+| 700 | [alexgt9](https://github.com/alexgt9) | 37 | 2 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1714476?v=3&s=64' width="64" title='Alejandro Pérez Batanero'> |
+| 701 | [masylum](https://github.com/masylum) | 37 | 1074 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/28248?v=3&s=64' width="64" title='Pau Ramon Revilla'> |
+| 702 | [atrilla](https://github.com/atrilla) | 37 | 109 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1433771?v=3&s=64' width="64" title='Alexandre Trilla'> |
+| 703 | [garoi](https://github.com/garoi) | 37 | 0 | C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5613434?v=3&s=64' width="64" title='Marc Garcia'> |
+| 704 | [lexar93](https://github.com/lexar93) | 37 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9354392?v=3&s=64' width="64" title='Alex'> |
+| 705 | [epilgrim](https://github.com/epilgrim) | 37 | 14 | PHP | Barcelona, España | <img src='https://avatars2.githubusercontent.com/u/203349?v=3&s=64' width="64" title='Juan Peri'> |
+| 706 | [davidgnin](https://github.com/davidgnin) | 37 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6491407?v=3&s=64' width="64" title='davidgnin'> |
+| 707 | [apxat](https://github.com/apxat) | 37 | 0 | Python | Spain, Barcelona | <img src='https://avatars2.githubusercontent.com/u/8062153?v=3&s=64' width="64" title='Kachkaiev Illia'> |
+| 708 | [mumas](https://github.com/mumas) | 37 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1714016?v=3&s=64' width="64" title='Linas'> |
+| 709 | [cjuan](https://github.com/cjuan) | 37 | 0 | Perl | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/147216?v=3&s=64' width="64" title='Carlos Juan'> |
+| 710 | [mawrkus](https://github.com/mawrkus) | 37 | 101 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/600256?v=3&s=64' width="64" title='Marc Mignonsin'> |
+| 711 | [formap](https://github.com/formap) | 37 | 0 | Shell | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/6923782?v=3&s=64' width="64" title='Florencia Tarditti'> |
+| 712 | [programarivm](https://github.com/programarivm) | 37 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4062000?v=3&s=64' width="64" title='Jordi Bassagañas'> |
+| 713 | [sdjebali](https://github.com/sdjebali) | 36 | 0 | Awk and Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2537985?v=3&s=64' width="64" title='Sarah Djebali'> |
+| 714 | [AlfredoDD](https://github.com/AlfredoDD) | 36 | 0 | R | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/9695262?v=3&s=64' width="64" title='Alfredo'> |
+| 715 | [mydocumenta](https://github.com/mydocumenta) | 36 | 0 | JavaScript and PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5392779?v=3&s=64' width="64" title='MYDOCUMENTA'> |
+| 716 | [veralimita](https://github.com/veralimita) | 36 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8584428?v=3&s=64' width="64" title='Vera Nekrasova'> |
+| 717 | [rbngzlv](https://github.com/rbngzlv) | 36 | 1 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2051199?v=3&s=64' width="64" title='Rubén González'> |
+| 718 | [drevasvoyage](https://github.com/drevasvoyage) | 36 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10983616?v=3&s=64' width="64" title='Adam Tait'> |
+| 719 | [rofirrim](https://github.com/rofirrim) | 36 | 10 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1222352?v=3&s=64' width="64" title='Roger Ferrer Ibáñez'> |
+| 720 | [inesvidal](https://github.com/inesvidal) | 36 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4639686?v=3&s=64' width="64" title='ines vidal'> |
+| 721 | [juanpescador](https://github.com/juanpescador) | 36 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1808374?v=3&s=64' width="64" title='John'> |
+| 722 | [tmdavid](https://github.com/tmdavid) | 36 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5942458?v=3&s=64' width="64" title='David'> |
+| 723 | [betweendays](https://github.com/betweendays) | 36 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3778813?v=3&s=64' width="64" title='A'> |
+| 724 | [iZydro](https://github.com/iZydro) | 36 | 1 | Python | Santa Coloma, Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/4706744?v=3&s=64' width="64" title='Isidro Gilabert'> |
+| 725 | [jairovadillo](https://github.com/jairovadillo) | 36 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1490216?v=3&s=64' width="64" title='Jairo Vadillo'> |
+| 726 | [danigiri](https://github.com/danigiri) | 36 | 29 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1434295?v=3&s=64' width="64" title='Daniel Giribet'> |
+| 727 | [aleixpol](https://github.com/aleixpol) | 35 | 2 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1282478?v=3&s=64' width="64" title='Aleix Pol'> |
+| 728 | [jaschac](https://github.com/jaschac) | 35 | 6 | Python | Barcelona, Catalunya, Spain | <img src='https://avatars3.githubusercontent.com/u/5177604?v=3&s=64' width="64" title='Jascha Casadio'> |
+| 729 | [franciscoj](https://github.com/franciscoj) | 35 | 15 | Ruby | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/186087?v=3&s=64' width="64" title='Fran Casas'> |
+| 730 | [exocuted](https://github.com/exocuted) | 35 | 0 | PHP | Rubi, Barcelona | <img src='https://avatars0.githubusercontent.com/u/9355779?v=3&s=64' width="64" title='Eneko Sarasola'> |
+| 731 | [dracinternet](https://github.com/dracinternet) | 35 | 1 | Swift | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5580224?v=3&s=64' width="64" title='Eduardo Lozano'> |
+| 732 | [jhbabon](https://github.com/jhbabon) | 35 | 19 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/280452?v=3&s=64' width="64" title='Juan Hernández'> |
+| 733 | [jcabot](https://github.com/jcabot) | 34 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1058925?v=3&s=64' width="64" title='Jordi Cabot'> |
+| 734 | [jordiclariana](https://github.com/jordiclariana) | 34 | 7 | PHP | Barcelona / Spain | <img src='https://avatars0.githubusercontent.com/u/657626?v=3&s=64' width="64" title='Jordi Clariana'> |
+| 735 | [javier-cabezas](https://github.com/javier-cabezas) | 34 | 3 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/8437757?v=3&s=64' width="64" title='Javier Cabezas'> |
+| 736 | [IgnacioRV](https://github.com/IgnacioRV) | 34 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/12169380?v=3&s=64' width="64" title='Ignacio Rasche'> |
+| 737 | [rgonalo](https://github.com/rgonalo) | 34 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4124491?v=3&s=64' width="64" title='Rubén González Alonso'> |
+| 738 | [erik-landvall](https://github.com/erik-landvall) | 34 | 36 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/839818?v=3&s=64' width="64" title='Erik Landvall'> |
+| 739 | [mirimia](https://github.com/mirimia) | 34 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7924525?v=3&s=64' width="64" title='Manuel Irimia'> |
+| 740 | [rohirrin](https://github.com/rohirrin) | 34 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3709647?v=3&s=64' width="64" title='Pol Gabarró'> |
+| 741 | [mpaulucci](https://github.com/mpaulucci) | 33 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1040971?v=3&s=64' width="64" title='Martin Paulucci'> |
+| 742 | [Aljullu](https://github.com/Aljullu) | 33 | 5 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3616980?v=3&s=64' width="64" title='Albert'> |
+| 743 | [protozoo](https://github.com/protozoo) | 33 | 14 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1389973?v=3&s=64' width="64" title='Daniel'> |
+| 744 | [dpiscia](https://github.com/dpiscia) | 33 | 5 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2247908?v=3&s=64' width="64" title='Davide Piscia'> |
+| 745 | [mnothic](https://github.com/mnothic) | 33 | 1 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2339853?v=3&s=64' width="64" title='theManda'> |
+| 746 | [oriolblanc](https://github.com/oriolblanc) | 33 | 38 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/197783?v=3&s=64' width="64" title='Oriol Blanc'> |
+| 747 | [ThXou](https://github.com/ThXou) | 33 | 10 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/421954?v=3&s=64' width="64" title='Luis Cardenas'> |
+| 748 | [jmendezv](https://github.com/jmendezv) | 33 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5039685?v=3&s=64' width="64" title='Pep Mendez'> |
+| 749 | [diasjorge](https://github.com/diasjorge) | 33 | 107 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2731?v=3&s=64' width="64" title='Jorge Dias'> |
+| 750 | [JordiMontesSanabria](https://github.com/JordiMontesSanabria) | 33 | 1 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3369356?v=3&s=64' width="64" title='Jordi Montes Sanabria'> |
+| 751 | [gcq](https://github.com/gcq) | 32 | 11 | Python | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1396111?v=3&s=64' width="64" title='Guillem Cruz'> |
+| 752 | [Alkxzv](https://github.com/Alkxzv) | 32 | 2 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/839653?v=3&s=64' width="64" title='Carlos'> |
+| 753 | [QuimFerrer](https://github.com/QuimFerrer) | 32 | 7 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3089289?v=3&s=64' width="64" title='Joaquim Ferrer'> |
+| 754 | [brianjimenez](https://github.com/brianjimenez) | 32 | 3 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4330278?v=3&s=64' width="64" title='Brian Jimenez'> |
+| 755 | [elribonazo](https://github.com/elribonazo) | 32 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3359746?v=3&s=64' width="64" title='Javier Ribó'> |
+| 756 | [mllocs](https://github.com/mllocs) | 32 | 22 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/935744?v=3&s=64' width="64" title='Màxim Colls'> |
+| 757 | [arnsangra](https://github.com/arnsangra) | 32 | 0 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9131261?v=3&s=64' width="64" title='Arnau Sangrà Rocamora'> |
+| 758 | [simonbcn](https://github.com/simonbcn) | 32 | 0 | Shell | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/428231?v=3&s=64' width="64" title='Simón'> |
+| 759 | [huorswords](https://github.com/huorswords) | 32 | 0 | C# | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1566221?v=3&s=64' width="64" title='Ángel García Santos'> |
+| 760 | [adriagil](https://github.com/adriagil) | 32 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/922464?v=3&s=64' width="64" title='adriàgil'> |
+| 761 | [pcasanellasp](https://github.com/pcasanellasp) | 32 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8070797?v=3&s=64' width="64" title='Pau Casanellas'> |
+| 762 | [jmprusi](https://github.com/jmprusi) | 32 | 2 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2012568?v=3&s=64' width="64" title='Joaquim Moreno'> |
+| 763 | [elmimmo](https://github.com/elmimmo) | 31 | 3 | Objective-C | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/86164?v=3&s=64' width="64" title=''> |
+| 764 | [warrendeleon](https://github.com/warrendeleon) | 31 | 0 | Java and Groovy | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6538899?v=3&s=64' width="64" title='Warren de León Ofalla'> |
+| 765 | [FernandoMateus](https://github.com/FernandoMateus) | 31 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5619742?v=3&s=64' width="64" title='Fernando Mateus'> |
+| 766 | [AlbertGrobas](https://github.com/AlbertGrobas) | 31 | 793 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4267266?v=3&s=64' width="64" title='Albert Grobas'> |
+| 767 | [elecay](https://github.com/elecay) | 31 | 47 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1318127?v=3&s=64' width="64" title='Sebastian Rajo'> |
+| 768 | [z4m0](https://github.com/z4m0) | 31 | 2 | JavaScript | Barcelona, Catalunya | <img src='https://avatars2.githubusercontent.com/u/476386?v=3&s=64' width="64" title='Martí Zamora'> |
+| 769 | [mvi-](https://github.com/mvi-) | 31 | 1 | Python and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/119638?v=3&s=64' width="64" title='mvi'> |
+| 770 | [GuillemGarciaSabate](https://github.com/GuillemGarciaSabate) | 31 | 0 | Java | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/10881908?v=3&s=64' width="64" title='Guillem Garcia Sabate'> |
+| 771 | [MiquelAdell](https://github.com/MiquelAdell) | 31 | 0 | Lua and PHP | Sabadell, Barcelona | <img src='https://avatars2.githubusercontent.com/u/4996457?v=3&s=64' width="64" title='Miquel Adell'> |
+| 772 | [sp-miguel-ibero](https://github.com/sp-miguel-ibero) | 31 | 0 | HTML | Barcelona, Catalunya | <img src='https://avatars2.githubusercontent.com/u/6975808?v=3&s=64' width="64" title='Miguel Ibero'> |
+| 773 | [joanteixi](https://github.com/joanteixi) | 31 | 23 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/286098?v=3&s=64' width="64" title='Joan Teixidó'> |
+| 774 | [lombartec](https://github.com/lombartec) | 31 | 2 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3073746?v=3&s=64' width="64" title='Carlos Lombarte'> |
+| 775 | [jgimenez](https://github.com/jgimenez) | 31 | 3 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/864706?v=3&s=64' width="64" title='Jordi Giménez Gámez'> |
+| 776 | [nahuelstatuto](https://github.com/nahuelstatuto) | 31 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8949679?v=3&s=64' width="64" title='Nahuel Statuto'> |
+| 777 | [e1000i](https://github.com/e1000i) | 31 | 0 | C++ and Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5045830?v=3&s=64' width="64" title='Emili Boronat Roselló'> |
+| 778 | [swapnilgt](https://github.com/swapnilgt) | 31 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5019057?v=3&s=64' width="64" title='Swapnil Gupta'> |
+| 779 | [gsamuel85](https://github.com/gsamuel85) | 31 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7612249?v=3&s=64' width="64" title='Guy Samuel'> |
+| 780 | [sdepablos](https://github.com/sdepablos) | 30 | 5 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/211364?v=3&s=64' width="64" title='Sergi de Pablos'> |
+| 781 | [stefanacin](https://github.com/stefanacin) | 30 | 0 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1326505?v=3&s=64' width="64" title='Stefan A'> |
+| 782 | [davidpelayo](https://github.com/davidpelayo) | 30 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/84540?v=3&s=64' width="64" title='David Pelayo'> |
+| 783 | [sdesimone](https://github.com/sdesimone) | 30 | 75 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/917131?v=3&s=64' width="64" title='Sergio'> |
+| 784 | [weisk](https://github.com/weisk) | 30 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2716537?v=3&s=64' width="64" title=''> |
+| 785 | [xaviliz](https://github.com/xaviliz) | 30 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4201322?v=3&s=64' width="64" title='Xavi Lizarraga'> |
+| 786 | [shadowman](https://github.com/shadowman) | 30 | 11 | Puppet | Barcelona | <img src='https://avatars1.githubusercontent.com/u/121528?v=3&s=64' width="64" title='Jose E. Rodriguez'> |
+| 787 | [frankcortes](https://github.com/frankcortes) | 30 | 28 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1202353?v=3&s=64' width="64" title='Francisco Cortés'> |
+| 788 | [oskarizu](https://github.com/oskarizu) | 29 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2642704?v=3&s=64' width="64" title='Oscar García'> |
+| 789 | [hulehule20](https://github.com/hulehule20) | 29 | 0 | JavaScript | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/1733018?v=3&s=64' width="64" title='Marc Clascà'> |
+| 790 | [sergi413](https://github.com/sergi413) | 29 | 0 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5948171?v=3&s=64' width="64" title='Sergi'> |
+| 791 | [orlandi](https://github.com/orlandi) | 29 | 4 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/6039948?v=3&s=64' width="64" title='Javier G. Orlandi'> |
+| 792 | [albertgasset](https://github.com/albertgasset) | 29 | 9 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/440488?v=3&s=64' width="64" title='Albert Gasset'> |
+| 793 | [cmirallesp](https://github.com/cmirallesp) | 29 | 4 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1050580?v=3&s=64' width="64" title='Carles'> |
+| 794 | [adrianonco](https://github.com/adrianonco) | 29 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8223228?v=3&s=64' width="64" title='Adrián Onco'> |
+| 795 | [danigonza](https://github.com/danigonza) | 29 | 4 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1774953?v=3&s=64' width="64" title='Daniel Gonzàlez Lareo'> |
+| 796 | [wicz](https://github.com/wicz) | 29 | 14 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/43020?v=3&s=64' width="64" title='Vinicius Horewicz'> |
+| 797 | [ferranpujolcamins](https://github.com/ferranpujolcamins) | 29 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6429775?v=3&s=64' width="64" title='Ferran Pujol Camins'> |
+| 798 | [lucacerone](https://github.com/lucacerone) | 29 | 1 | Python | Barcelona, Catalunya, Spain | <img src='https://avatars1.githubusercontent.com/u/754360?v=3&s=64' width="64" title='Luca Cerone'> |
+| 799 | [itrascastro](https://github.com/itrascastro) | 29 | 22 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3638437?v=3&s=64' width="64" title='Ismael Trascastro'> |
+| 800 | [jmartin82](https://github.com/jmartin82) | 29 | 44 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/152270?v=3&s=64' width="64" title='Jordi Martin'> |
+| 801 | [Vidimensional](https://github.com/Vidimensional) | 29 | 8 | Shell | Barcelona. Spain | <img src='https://avatars0.githubusercontent.com/u/1213556?v=3&s=64' width="64" title='Daniel Vidal de la Rubia'> |
+| 802 | [Naguissa](https://github.com/Naguissa) | 29 | 5 | Arduino | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/11961737?v=3&s=64' width="64" title='Naguissa'> |
+| 803 | [in2-drupalteam](https://github.com/in2-drupalteam) | 28 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8960661?v=3&s=64' width="64" title='Drupal Team'> |
+| 804 | [robertobarreda](https://github.com/robertobarreda) | 28 | 6 | Python | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/355196?v=3&s=64' width="64" title='Roberto Barreda'> |
+| 805 | [tiurin](https://github.com/tiurin) | 28 | 0 | CSS | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/650819?v=3&s=64' width="64" title='Mykhailo Tiurin'> |
+| 806 | [Nalx](https://github.com/Nalx) | 28 | 0 | C++ and C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1858455?v=3&s=64' width="64" title='Àlex Cordón Vila'> |
+| 807 | [mussegam](https://github.com/mussegam) | 28 | 7 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/96870?v=3&s=64' width="64" title='Javi Dolcet'> |
+| 808 | [jhancarlosmj](https://github.com/jhancarlosmj) | 28 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9062272?v=3&s=64' width="64" title='JhanCarlos Marte Jimenez'> |
+| 809 | [alfonsojimenez](https://github.com/alfonsojimenez) | 28 | 19 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/204811?v=3&s=64' width="64" title='Alfonso Jiménez'> |
+| 810 | [jfeliu](https://github.com/jfeliu) | 28 | 1 | VimL and Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4686781?v=3&s=64' width="64" title='Jordi Feliu'> |
+| 811 | [Siroko](https://github.com/Siroko) | 27 | 0 | CSS | Barcelona Spain | <img src='https://avatars0.githubusercontent.com/u/190785?v=3&s=64' width="64" title='Siroko'> |
+| 812 | [SpyRefused](https://github.com/SpyRefused) | 27 | 1 | Go | Barcelona | <img src='https://avatars3.githubusercontent.com/u/588203?v=3&s=64' width="64" title='Tony'> |
+| 813 | [PauGNU](https://github.com/PauGNU) | 27 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/506393?v=3&s=64' width="64" title='Pau Iranzo'> |
+| 814 | [ulidev](https://github.com/ulidev) | 27 | 251 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5835107?v=3&s=64' width="64" title='Joan Molinas'> |
+| 815 | [bertex](https://github.com/bertex) | 27 | 1 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6428195?v=3&s=64' width="64" title='Albert Renom'> |
+| 816 | [apaytuvi](https://github.com/apaytuvi) | 27 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11228225?v=3&s=64' width="64" title=''> |
+| 817 | [evamichalcak](https://github.com/evamichalcak) | 27 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/712581?v=3&s=64' width="64" title='Eva Michalcak'> |
+| 818 | [ciencia](https://github.com/ciencia) | 27 | 3 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/44133?v=3&s=64' width="64" title='Jesús Martínez Novo'> |
+| 819 | [SolracDev](https://github.com/SolracDev) | 27 | 0 | Swift | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9626240?v=3&s=64' width="64" title='Carlos'> |
+| 820 | [dlogothetis](https://github.com/dlogothetis) | 27 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2071608?v=3&s=64' width="64" title='Dionysios Logothetis'> |
+| 821 | [fleveque](https://github.com/fleveque) | 27 | 225 | Ruby and Shell | Cubelles, Garraf, Barcelona | <img src='https://avatars3.githubusercontent.com/u/568487?v=3&s=64' width="64" title='Francesc Leveque'> |
+| 822 | [jaume-pinyol](https://github.com/jaume-pinyol) | 27 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8705733?v=3&s=64' width="64" title='Jaume Pinyol Vilardell'> |
+| 823 | [albertgrala](https://github.com/albertgrala) | 27 | 7 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/361199?v=3&s=64' width="64" title='albertgrala'> |
+| 824 | [javinavarro](https://github.com/javinavarro) | 27 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8946178?v=3&s=64' width="64" title='Javi Navarro'> |
+| 825 | [vicktor](https://github.com/vicktor) | 27 | 35 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/382114?v=3&s=64' width="64" title='Victor Bautista'> |
+| 826 | [antoniofelices](https://github.com/antoniofelices) | 26 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3024339?v=3&s=64' width="64" title='Antonio'> |
+| 827 | [padilo](https://github.com/padilo) | 26 | 1 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/783959?v=3&s=64' width="64" title='Pablo Díaz-López'> |
+| 828 | [webkam11](https://github.com/webkam11) | 26 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6817811?v=3&s=64' width="64" title='Kam Louis'> |
+| 829 | [roden0](https://github.com/roden0) | 26 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3738096?v=3&s=64' width="64" title='Rodrigo Encinas'> |
+| 830 | [DavidPombar](https://github.com/DavidPombar) | 26 | 10 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/29462?v=3&s=64' width="64" title='David Pombar'> |
+| 831 | [dormi](https://github.com/dormi) | 26 | 6 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/85766?v=3&s=64' width="64" title='Xavi Vila'> |
+| 832 | [AlexBruch](https://github.com/AlexBruch) | 26 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5971556?v=3&s=64' width="64" title='Àlex'> |
+| 833 | [picazoH](https://github.com/picazoH) | 26 | 2 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1541203?v=3&s=64' width="64" title='Héctor'> |
+| 834 | [arthurMll](https://github.com/arthurMll) | 26 | 0 |  | Casteldefels (Barcelona) | <img src='https://avatars2.githubusercontent.com/u/10529210?v=3&s=64' width="64" title='Arturo Mayoral'> |
+| 835 | [juange87](https://github.com/juange87) | 26 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/623411?v=3&s=64' width="64" title='Juan Jesús Fernández Madrid'> |
+| 836 | [Hopobcn](https://github.com/Hopobcn) | 26 | 0 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2794977?v=3&s=64' width="64" title='Pau Farré'> |
+| 837 | [borjavaillo](https://github.com/borjavaillo) | 26 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3165241?v=3&s=64' width="64" title='Borja Vaillo'> |
+| 838 | [xserra93](https://github.com/xserra93) | 26 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4263434?v=3&s=64' width="64" title='Xavier Serra'> |
+| 839 | [dbuendiab](https://github.com/dbuendiab) | 26 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3029862?v=3&s=64' width="64" title='Diego Buendía'> |
+| 840 | [martimorta](https://github.com/martimorta) | 26 | 1 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3284973?v=3&s=64' width="64" title='Martí Morta'> |
+| 841 | [davizuku](https://github.com/davizuku) | 26 | 0 | R | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8902219?v=3&s=64' width="64" title='David Álvarez Pons'> |
+| 842 | [sabatesduran](https://github.com/sabatesduran) | 25 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5699145?v=3&s=64' width="64" title='Dídac Sabatés'> |
+| 843 | [AmenoPh1x](https://github.com/AmenoPh1x) | 25 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1352149?v=3&s=64' width="64" title='Christian Amenós'> |
+| 844 | [devyanlab](https://github.com/devyanlab) | 25 | 0 | JavaScript and PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/122845?v=3&s=64' width="64" title='Juan Pablo Lozano'> |
+| 845 | [AndrewBCN](https://github.com/AndrewBCN) | 25 | 0 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/856490?v=3&s=400' width="64" title='Andrew'> |
+| 846 | [cugni](https://github.com/cugni) | 25 | 10 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1544874?v=3&s=64' width="64" title='Cesare Cugnasco'> |
+| 847 | [skal88](https://github.com/skal88) | 25 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7137642?v=3&s=64' width="64" title='Albert Mulà'> |
+| 848 | [meritxellmolas](https://github.com/meritxellmolas) | 25 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4050754?v=3&s=64' width="64" title='Meritxell Molas Roca'> |
+| 849 | [ffaraone](https://github.com/ffaraone) | 25 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1480134?v=3&s=64' width="64" title='Francesco Faraone'> |
+| 850 | [gerardpastor](https://github.com/gerardpastor) | 25 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1277383?v=3&s=64' width="64" title='Gerard Pastor'> |
+| 851 | [tomvdw](https://github.com/tomvdw) | 25 | 0 | Scala | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4160552?v=3&s=64' width="64" title=''> |
+| 852 | [acasademont](https://github.com/acasademont) | 25 | 22 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/825021?v=3&s=64' width="64" title='Albert Casademont'> |
+| 853 | [Eudaldca](https://github.com/Eudaldca) | 25 | 0 | Java and HTML | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/8332105?v=3&s=64' width="64" title='Eudaldca'> |
+| 854 | [jordi9](https://github.com/jordi9) | 25 | 2 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/837278?v=3&s=64' width="64" title='Jordi Gerona'> |
+| 855 | [cenobyte](https://github.com/cenobyte) | 25 | 0 | JavaScript and CSS | Sant Boi de Llobregat (Barcelona) | <img src='https://avatars1.githubusercontent.com/u/2094281?v=3&s=64' width="64" title='Frank'> |
+| 856 | [ivanaldavert](https://github.com/ivanaldavert) | 25 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2944180?v=3&s=64' width="64" title='Ivan'> |
+| 857 | [ivannis](https://github.com/ivannis) | 24 | 1 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/754477?v=3&s=64' width="64" title='Ivannis Suárez Jérez'> |
+| 858 | [jordipons](https://github.com/jordipons) | 24 | 1 | Matlab | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10962760?v=3&s=64' width="64" title=''> |
+| 859 | [jlealbernal](https://github.com/jlealbernal) | 24 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9423170?v=3&s=64' width="64" title='Jéssica Leal'> |
+| 860 | [davidayalas](https://github.com/davidayalas) | 24 | 32 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1037874?v=3&s=64' width="64" title='David Ayala'> |
+| 861 | [rubiaonrails](https://github.com/rubiaonrails) | 24 | 0 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9682189?v=3&s=64' width="64" title=''> |
+| 862 | [miqmago](https://github.com/miqmago) | 24 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1849488?v=3&s=64' width="64" title='Miquel'> |
+| 863 | [mcagigas](https://github.com/mcagigas) | 24 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1992455?v=3&s=64' width="64" title='Manuel Cagigas'> |
+| 864 | [bxdpxndx](https://github.com/bxdpxndx) | 24 | 0 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6361739?v=3&s=64' width="64" title=''> |
+| 865 | [Casg23](https://github.com/Casg23) | 24 | 1 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1422512?v=3&s=64' width="64" title='Carlos Sánchez'> |
+| 866 | [adriavalles](https://github.com/adriavalles) | 24 | 4 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1738401?v=3&s=64' width="64" title='Adrià Vallès'> |
+| 867 | [tonicebrian](https://github.com/tonicebrian) | 24 | 24 | Haskell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/132687?v=3&s=64' width="64" title='Toni Cebrián'> |
+| 868 | [dbalas](https://github.com/dbalas) | 24 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1343562?v=3&s=64' width="64" title='Daniel Balastegui'> |
+| 869 | [ramonpoca](https://github.com/ramonpoca) | 24 | 51 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/67112?v=3&s=64' width="64" title='Ramon Poca'> |
+| 870 | [jordimarsal](https://github.com/jordimarsal) | 24 | 0 | Java | Sabadell - Barcelona | <img src='https://avatars0.githubusercontent.com/u/7162023?v=3&s=64' width="64" title='Jordi Marsal'> |
+| 871 | [xavicolomer](https://github.com/xavicolomer) | 24 | 1 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1476272?v=3&s=64' width="64" title='Xavi Colomer'> |
+| 872 | [fdominguezr](https://github.com/fdominguezr) | 24 | 0 | Arduino | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3350033?v=3&s=64' width="64" title='Francisco Dominguez'> |
+| 873 | [ssedano](https://github.com/ssedano) | 24 | 9 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/708060?v=3&s=64' width="64" title='Serafín Sedano'> |
+| 874 | [marcalj](https://github.com/marcalj) | 24 | 0 | Go | Montseny, Barcelona | <img src='https://avatars2.githubusercontent.com/u/63667?v=3&s=64' width="64" title='Marçal Juan Llaó'> |
+| 875 | [scapella](https://github.com/scapella) | 24 | 29 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/129159?v=3&s=64' width="64" title='Salvador Capella'> |
+| 876 | [bensventures](https://github.com/bensventures) | 23 | 6 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/913081?v=3&s=64' width="64" title='Benoit Gilloz'> |
+| 877 | [StateX](https://github.com/StateX) | 23 | 2 | Python and Tcl | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4493460?v=3&s=64' width="64" title='Albert Sanchez Carbonell'> |
+| 878 | [samuelnp](https://github.com/samuelnp) | 23 | 1 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1287788?v=3&s=64' width="64" title='Samuel Navas'> |
+| 879 | [galindus](https://github.com/galindus) | 23 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/229595?v=3&s=64' width="64" title='Victor Galindo'> |
+| 880 | [celeduc](https://github.com/celeduc) | 23 | 9 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/23334?v=3&s=64' width="64" title='Chuck LeDuc Díaz'> |
+| 881 | [albore](https://github.com/albore) | 23 | 0 | C++ and C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2708036?v=3&s=64' width="64" title='Alexandre Albore'> |
+| 882 | [CarolinaFernandez](https://github.com/CarolinaFernandez) | 23 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2083208?v=3&s=64' width="64" title='Carolina Fernández'> |
+| 883 | [jordiamoros](https://github.com/jordiamoros) | 23 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5918340?v=3&s=64' width="64" title='Jordi'> |
+| 884 | [orloxx](https://github.com/orloxx) | 23 | 9 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3470817?v=3&s=64' width="64" title='Iker Garitaonandia'> |
+| 885 | [victorblasco](https://github.com/victorblasco) | 23 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/4289392?v=3&s=64' width="64" title='Victor Blasco'> |
+| 886 | [krainet](https://github.com/krainet) | 23 | 2 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4263144?v=3&s=64' width="64" title='Ramon Alberti Danes'> |
+| 887 | [lluisi](https://github.com/lluisi) | 23 | 1 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1512453?v=3&s=64' width="64" title='Lluis Ingles'> |
+| 888 | [dani-Tb](https://github.com/dani-Tb) | 23 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5754517?v=3&s=64' width="64" title='Dani Torrens'> |
+| 889 | [jrdi](https://github.com/jrdi) | 23 | 25 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/67608?v=3&s=64' width="64" title='Jordi Villar'> |
+| 890 | [Dor3nz](https://github.com/Dor3nz) | 23 | 1 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1962966?v=3&s=64' width="64" title='Genís Matutes'> |
+| 891 | [Jordira](https://github.com/Jordira) | 23 | 0 | R and HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7924030?v=3&s=64' width="64" title='Jordi Raso'> |
+| 892 | [albertvazquezm](https://github.com/albertvazquezm) | 23 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10158320?v=3&s=64' width="64" title='Albert Vàzquez'> |
+| 893 | [xaviermartinezf](https://github.com/xaviermartinezf) | 22 | 1 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3894843?v=3&s=64' width="64" title='Xavi Martínez'> |
+| 894 | [tcz](https://github.com/tcz) | 22 | 173 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/160008?v=3&s=64' width="64" title='Zoltan Toth-Czifra'> |
+| 895 | [egogarcia](https://github.com/egogarcia) | 22 | 1 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1496402?v=3&s=64' width="64" title='Eric Garcia'> |
+| 896 | [hector](https://github.com/hector) | 22 | 9 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/34079?v=3&s=64' width="64" title='Hector Parra'> |
+| 897 | [gpbonifazi](https://github.com/gpbonifazi) | 22 | 6 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/468654?v=3&s=64' width="64" title='Giampiero Bonifazi'> |
+| 898 | [GuiRamirez](https://github.com/GuiRamirez) | 22 | 0 | C++ and Makefile | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9131971?v=3&s=64' width="64" title='Guillem Ramírez Gargallo'> |
+| 899 | [rffuste](https://github.com/rffuste) | 22 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5207641?v=3&s=64' width="64" title='Rubén Fernández Fusté'> |
+| 900 | [towanda](https://github.com/towanda) | 22 | 4 | Ruby | Barcelona Spain | <img src='https://avatars1.githubusercontent.com/u/17824?v=3&s=64' width="64" title='Manu Campos'> |
+| 901 | [shierve](https://github.com/shierve) | 22 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10463860?v=3&s=64' width="64" title='Sergi Canal'> |
+| 902 | [toniborrallo](https://github.com/toniborrallo) | 22 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9036810?v=3&s=64' width="64" title='Toni Borrallo'> |
+| 903 | [olegmorajko](https://github.com/olegmorajko) | 22 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3327638?v=3&s=64' width="64" title='Oleg'> |
+| 904 | [virfaure](https://github.com/virfaure) | 22 | 4 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2975006?v=3&s=64' width="64" title='Virginie'> |
+| 905 | [rromerogar](https://github.com/rromerogar) | 22 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5557879?v=3&s=64' width="64" title='Raúl Romero'> |
+| 906 | [mcortinas](https://github.com/mcortinas) | 21 | 2 | Shell | Barcelona. Spain | <img src='https://avatars2.githubusercontent.com/u/692263?v=3&s=64' width="64" title='Marc Cortinas'> |
+| 907 | [xavi-reloaded](https://github.com/xavi-reloaded) | 21 | 3 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2360556?v=3&s=64' width="64" title='Xavier'> |
+| 908 | [rodrigovd](https://github.com/rodrigovd) | 21 | 8 | Swift and Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4619414?v=3&s=64' width="64" title='Rodrigo Villatoro'> |
+| 909 | [jacanales](https://github.com/jacanales) | 21 | 1 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1262919?v=3&s=64' width="64" title='Jesús Antonio Canales Diez'> |
+| 910 | [ivannpaz](https://github.com/ivannpaz) | 21 | 6 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/16879?v=3&s=64' width="64" title='ivannpaz'> |
+| 911 | [manuCervello](https://github.com/manuCervello) | 21 | 0 | Python and Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5089842?v=3&s=64' width="64" title='Manu'> |
+| 912 | [cristinaserrano](https://github.com/cristinaserrano) | 21 | 0 | R | Barcelona (SPAIN) | <img src='https://avatars2.githubusercontent.com/u/9904953?v=3&s=64' width="64" title='Cristina Serrano'> |
+| 913 | [MarcosAguayo](https://github.com/MarcosAguayo) | 21 | 12 | C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1219539?v=3&s=64' width="64" title='Marcos Aguayo'> |
+| 914 | [thinkink](https://github.com/thinkink) | 21 | 0 | JavaScript | Monistrol de Montserrat - Barcelona | <img src='https://avatars3.githubusercontent.com/u/3516168?v=3&s=64' width="64" title='Pere Thinkink'> |
+| 915 | [gcleaves](https://github.com/gcleaves) | 20 | 0 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1041253?v=3&s=64' width="64" title='Geoffrey Cleaves'> |
+| 916 | [bcurtu](https://github.com/bcurtu) | 20 | 16 | Python and HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/178029?v=3&s=64' width="64" title='Bosco Curtu'> |
+| 917 | [bvis](https://github.com/bvis) | 20 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/580682?v=3&s=64' width="64" title='Basi'> |
+| 918 | [xsb](https://github.com/xsb) | 20 | 10 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/148317?v=3&s=64' width="64" title='Xavi S.B.'> |
+| 919 | [Kv0the](https://github.com/Kv0the) | 20 | 0 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9008751?v=3&s=64' width="64" title='Guille ON'> |
+| 920 | [santiperez](https://github.com/santiperez) | 20 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1950189?v=3&s=64' width="64" title='Santi Pérez'> |
+| 921 | [xserrat](https://github.com/xserrat) | 20 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5933658?v=3&s=64' width="64" title='Xavier Serrat Bordas'> |
+| 922 | [xeviknal](https://github.com/xeviknal) | 20 | 8 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/613814?v=3&s=64' width="64" title='Xavier Canal i Masjuan'> |
+| 923 | [aaguilera](https://github.com/aaguilera) | 20 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/290301?v=3&s=64' width="64" title='Angel Aguilera'> |
+| 924 | [fraber](https://github.com/fraber) | 20 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/999479?v=3&s=64' width="64" title='Frank Bergmann'> |
+| 925 | [jezuhke](https://github.com/jezuhke) | 20 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2351510?v=3&s=64' width="64" title='Jesús Herman Marina'> |
+| 926 | [povmaniaco](https://github.com/povmaniaco) | 20 | 2 | Ruby | Barcelona- Spain | <img src='https://avatars2.githubusercontent.com/u/421372?v=3&s=64' width="64" title='povmaniaco'> |
+| 927 | [mtskelton](https://github.com/mtskelton) | 20 | 15 | Python | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/533956?v=3&s=64' width="64" title='Mark Skelton'> |
+| 928 | [xvrmallafre](https://github.com/xvrmallafre) | 20 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5164848?v=3&s=64' width="64" title='Xavier Mallafré'> |
+| 929 | [memaker](https://github.com/memaker) | 20 | 1 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1029757?v=3&s=64' width="64" title='Roberto Bartolomé'> |
+| 930 | [aquadrivium](https://github.com/aquadrivium) | 19 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8777910?v=3&s=64' width="64" title='Associació Quadrívium'> |
+| 931 | [adeharo9](https://github.com/adeharo9) | 19 | 1 | Matlab | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6698771?v=3&s=64' width="64" title='Alejandro de Haro'> |
+| 932 | [jordinebot](https://github.com/jordinebot) | 19 | 0 | JavaScript | Barcelona, CT | <img src='https://avatars2.githubusercontent.com/u/527879?v=3&s=64' width="64" title='Jordi Nebot'> |
+| 933 | [DaniUPC](https://github.com/DaniUPC) | 19 | 0 | Java | Barcelona, Catalunya | <img src='https://avatars3.githubusercontent.com/u/1104466?v=3&s=64' width="64" title='Daniel'> |
+| 934 | [RedRudeBoy](https://github.com/RedRudeBoy) | 19 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1092719?v=3&s=64' width="64" title='Leninux'> |
+| 935 | [fevsea](https://github.com/fevsea) | 19 | 0 | Makefile | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5895251?v=3&s=64' width="64" title='Alejandro'> |
+| 936 | [xegea](https://github.com/xegea) | 19 | 0 | C# | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11506058?v=3&s=64' width="64" title='Xavier Egea Vila'> |
+| 937 | [jluis](https://github.com/jluis) | 19 | 3 | Perl | Barcelona | <img src='https://avatars1.githubusercontent.com/u/122004?v=3&s=64' width="64" title='Jose Luis Perez Diez'> |
+| 938 | [HenryHey](https://github.com/HenryHey) | 19 | 2 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1101290?v=3&s=64' width="64" title='Enric Masdeu'> |
+| 939 | [sercomi](https://github.com/sercomi) | 19 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/572363?v=3&s=64' width="64" title='Sergi'> |
+| 940 | [trico](https://github.com/trico) | 19 | 42 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/198066?v=3&s=64' width="64" title='Eric Ponce'> |
+| 941 | [alextarrago](https://github.com/alextarrago) | 19 | 185 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/658279?v=3&s=64' width="64" title='Alex Tarragó'> |
+| 942 | [juanchaur](https://github.com/juanchaur) | 19 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1659402?v=3&s=64' width="64" title='Juan Chaur'> |
+| 943 | [spvernet](https://github.com/spvernet) | 18 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7256762?v=3&s=64' width="64" title='Sergi'> |
+| 944 | [marco-mariotti](https://github.com/marco-mariotti) | 18 | 0 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/10975392?v=3&s=64' width="64" title='Marco Mariotti'> |
+| 945 | [jurnix](https://github.com/jurnix) | 18 | 6 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1972926?v=3&s=64' width="64" title='Albert Jornet Puig'> |
+| 946 | [DavidGallardo](https://github.com/DavidGallardo) | 18 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1188314?v=3&s=64' width="64" title='David'> |
+| 947 | [solomonvimal](https://github.com/solomonvimal) | 18 | 1 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2102394?v=3&s=64' width="64" title='Solomon Vimal'> |
+| 948 | [divins](https://github.com/divins) | 18 | 6 | Ruby | Terrassa, Barcelona | <img src='https://avatars2.githubusercontent.com/u/694481?v=3&s=64' width="64" title='Marc Divins Castellvi'> |
+| 949 | [albertnavas](https://github.com/albertnavas) | 18 | 9 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1312353?v=3&s=64' width="64" title='Albert Navas'> |
+| 950 | [jorestma](https://github.com/jorestma) | 18 | 0 | JavaScript | Spain, Barcelona | <img src='https://avatars2.githubusercontent.com/u/8530663?v=3&s=64' width="64" title='Jordi Estrada'> |
+| 951 | [aritztg](https://github.com/aritztg) | 18 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/4686790?v=3&s=64' width="64" title='Aritz Tusell'> |
+| 952 | [joangs](https://github.com/joangs) | 18 | 0 | Go and C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10260763?v=3&s=64' width="64" title='Joan Garcia i Silano'> |
+| 953 | [jgonzalezdr](https://github.com/jgonzalezdr) | 18 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6639296?v=3&s=64' width="64" title='Jesús González'> |
+| 954 | [egouy](https://github.com/egouy) | 18 | 0 | CSS and JavaScript | Barcelona, Paris | <img src='https://avatars2.githubusercontent.com/u/4729996?v=3&s=64' width="64" title='Ulrich Egouy'> |
+| 955 | [jordihdz](https://github.com/jordihdz) | 18 | 0 | Perl | Cerdanyola (Barcelona), SPAIN | <img src='https://avatars1.githubusercontent.com/u/1716621?v=3&s=64' width="64" title='Jordi Hernandez'> |
+| 956 | [iwokloco](https://github.com/iwokloco) | 18 | 2 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4489885?v=3&s=64' width="64" title='Ramón Hernández Calvo'> |
+| 957 | [marciobarrios](https://github.com/marciobarrios) | 18 | 29 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/47644?v=3&s=64' width="64" title='Marcio Barrios'> |
+| 958 | [marcosag](https://github.com/marcosag) | 17 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/353332?v=3&s=64' width="64" title='Marcos'> |
+| 959 | [GA1](https://github.com/GA1) | 17 | 0 | Java and Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7684448?v=3&s=64' width="64" title='Kamil'> |
+| 960 | [Rafael-Caro](https://github.com/Rafael-Caro) | 17 | 0 | Python and R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6338660?v=3&s=64' width="64" title='Rafael Caro Repetto'> |
+| 961 | [xpujol](https://github.com/xpujol) | 17 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2118097?v=3&s=64' width="64" title='Xevi Pujol'> |
+| 962 | [doogle](https://github.com/doogle) | 17 | 1 | C | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1585181?v=3&s=64' width="64" title='David Steinberg'> |
+| 963 | [cinefilo](https://github.com/cinefilo) | 17 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/123166?v=3&s=64' width="64" title='Luis Pérez'> |
+| 964 | [miguelRivero](https://github.com/miguelRivero) | 17 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3112093?v=3&s=64' width="64" title='Miguel Rivero'> |
+| 965 | [carlesgutierrez](https://github.com/carlesgutierrez) | 17 | 5 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/203877?v=3&s=64' width="64" title='carles'> |
+| 966 | [essenciary](https://github.com/essenciary) | 17 | 1 | Elixir | Sitges, Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/11292378?v=3&s=64' width="64" title='Adrian Salceanu'> |
+| 967 | [LucyFerMon](https://github.com/LucyFerMon) | 17 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7171788?v=3&s=64' width="64" title='Lucía Fernández Montoya'> |
+| 968 | [hhg2288](https://github.com/hhg2288) | 17 | 20 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/725120?v=3&s=64' width="64" title='Horacio Herrera'> |
+| 969 | [uxisready](https://github.com/uxisready) | 17 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5539600?v=3&s=64' width="64" title='uxisready'> |
+| 970 | [ferranfg](https://github.com/ferranfg) | 17 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/195239?v=3&s=64' width="64" title='Ferran Figueredo'> |
+| 971 | [davidgaya](https://github.com/davidgaya) | 17 | 22 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/85780?v=3&s=64' width="64" title='David Gaya'> |
+| 972 | [twiindan](https://github.com/twiindan) | 17 | 3 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4324479?v=3&s=64' width="64" title='Antonio Robres'> |
+| 973 | [gmoretti](https://github.com/gmoretti) | 17 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7014995?v=3&s=64' width="64" title='Giuseppe'> |
+| 974 | [fotispap](https://github.com/fotispap) | 17 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1302765?v=3&s=64' width="64" title='Fotios'> |
+| 975 | [milostu](https://github.com/milostu) | 17 | 0 | HTML and CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/12379587?v=3&s=64' width="64" title='Camilo Restrepo'> |
+| 976 | [sbanzas](https://github.com/sbanzas) | 17 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7403648?v=3&s=64' width="64" title='Sebastián Banzas Baró'> |
+| 977 | [OrxataEnFartons](https://github.com/OrxataEnFartons) | 17 | 0 | R | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/8195303?v=3&s=64' width="64" title='Miquel Angel'> |
+| 978 | [miquelbarba](https://github.com/miquelbarba) | 17 | 2 | Clojure | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/685881?v=3&s=64' width="64" title='Miquel Barba'> |
+| 979 | [TaVit0](https://github.com/TaVit0) | 17 | 2 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4301416?v=3&s=64' width="64" title='TaVit0'> |
+| 980 | [jacekd](https://github.com/jacekd) | 17 | 36 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/736948?v=3&s=64' width="64" title='Jacek Dominiak'> |
+| 981 | [santihbc](https://github.com/santihbc) | 16 | 17 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2404757?v=3&s=64' width="64" title='Santiago Herrero'> |
+| 982 | [webeng](https://github.com/webeng) | 16 | 1 | PHP | Barcelona/Edinburgh | <img src='https://avatars0.githubusercontent.com/u/508225?v=3&s=64' width="64" title='Joan'> |
+| 983 | [angelnan](https://github.com/angelnan) | 16 | 6 | Python | Sabadell, Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2016654?v=3&s=64' width="64" title='Àngel Àlvarez Serra'> |
+| 984 | [jordigil](https://github.com/jordigil) | 16 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1738216?v=3&s=64' width="64" title='Jordi Gil'> |
+| 985 | [karimhossenbux](https://github.com/karimhossenbux) | 16 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/584224?v=3&s=64' width="64" title='Karim Hossenbux'> |
+| 986 | [fraguada](https://github.com/fraguada) | 16 | 21 | C++ | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1014562?v=3&s=64' width="64" title='Luis E. Fraguada'> |
+| 987 | [pereorga](https://github.com/pereorga) | 16 | 29 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/919779?v=3&s=64' width="64" title='Pere Orga'> |
+| 988 | [martinpuertas](https://github.com/martinpuertas) | 16 | 0 | CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8997623?v=3&s=64' width="64" title='Martin Puertas'> |
+| 989 | [jaranega](https://github.com/jaranega) | 16 | 0 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1898249?v=3&s=64' width="64" title='Javier Aránega'> |
+| 990 | [jonseg](https://github.com/jonseg) | 16 | 851 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/892373?v=3&s=64' width="64" title='Jon Segador'> |
+| 991 | [Balillas](https://github.com/Balillas) | 16 | 1 | Ruby | Barcelona - Spain | <img src='https://avatars1.githubusercontent.com/u/7450939?v=3&s=64' width="64" title='Albert Arredondo'> |
+| 992 | [fadado](https://github.com/fadado) | 16 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7008746?v=3&s=64' width="64" title='Joan Josep Ordinas Rosa'> |
+| 993 | [pjmartorell](https://github.com/pjmartorell) | 16 | 9 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/345520?v=3&s=64' width="64" title='Pere Joan Martorell'> |
+| 994 | [jvdelso](https://github.com/jvdelso) | 16 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3066596?v=3&s=64' width="64" title='Javier Delso'> |
+| 995 | [danyg](https://github.com/danyg) | 16 | 34 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1834409?v=3&s=64' width="64" title='Daniel Goberitz'> |
+| 996 | [colinkingswood](https://github.com/colinkingswood) | 16 | 0 | Python and Perl | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2346088?v=3&s=64' width="64" title='Colin'> |
+| 997 | [neferketer](https://github.com/neferketer) | 16 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5838368?v=3&s=64' width="64" title='Arnau Garcia'> |
+| 998 | [sergiandreplace](https://github.com/sergiandreplace) | 16 | 9 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/541020?v=3&s=64' width="64" title='Sergi Martínez'> |
+| 999 | [ericpalau](https://github.com/ericpalau) | 16 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2803012?v=3&s=64' width="64" title='Èric Palau'> |
+| 1000 | [pratipo](https://github.com/pratipo) | 16 | 6 | C++ | barcelona, spain | <img src='https://avatars2.githubusercontent.com/u/457727?v=3&s=64' width="64" title='pratipo'> |
+| 1001 | [vteromero](https://github.com/vteromero) | 16 | 3 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4749171?v=3&s=64' width="64" title='Vicente Romero Calero'> |
+| 1002 | [mromerog](https://github.com/mromerog) | 15 | 0 | FORTRAN and C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9444527?v=3&s=64' width="64" title='Merce Romero-Gomez'> |
+| 1003 | [jzoppi](https://github.com/jzoppi) | 15 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6432670?v=3&s=64' width="64" title='Giorgio Zopppi'> |
+| 1004 | [plmarcelo](https://github.com/plmarcelo) | 15 | 1 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/205708?v=3&s=64' width="64" title='Pedro de la Lastra'> |
+| 1005 | [eberhm](https://github.com/eberhm) | 15 | 26 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1044082?v=3&s=64' width="64" title='Eber Herrera'> |
+| 1006 | [gnatok](https://github.com/gnatok) | 15 | 10 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1182933?v=3&s=64' width="64" title='Alex Gnatishin'> |
+| 1007 | [dasher](https://github.com/dasher) | 15 | 41 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/89955?v=3&s=64' width="64" title='dasher'> |
+| 1008 | [crosasm](https://github.com/crosasm) | 15 | 0 | Shell and Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/5917880?v=3&s=64' width="64" title='Claudia Rosas'> |
+| 1009 | [yaneq](https://github.com/yaneq) | 15 | 9 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/453041?v=3&s=64' width="64" title='Jan Koeppen'> |
+| 1010 | [diekus](https://github.com/diekus) | 15 | 1 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3104648?v=3&s=64' width="64" title='Diego'> |
+| 1011 | [kirthar](https://github.com/kirthar) | 15 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2504777?v=3&s=64' width="64" title='Chris Fuertes'> |
+| 1012 | [r01010010](https://github.com/r01010010) | 15 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/698953?v=3&s=64' width="64" title='Paloma Jiménez'> |
+| 1013 | [frommelmak](https://github.com/frommelmak) | 15 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2757148?v=3&s=64' width="64" title='Marcos Martínez'> |
+| 1014 | [ngunsu](https://github.com/ngunsu) | 15 | 1 | C++ | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/6067600?v=3&s=64' width="64" title='Cristhian Aguilera'> |
+| 1015 | [GinesOrtiz](https://github.com/GinesOrtiz) | 15 | 3 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3239559?v=3&s=64' width="64" title=''> |
+| 1016 | [orioljimenez](https://github.com/orioljimenez) | 15 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/595146?v=3&s=64' width="64" title='Oriol Jiménez'> |
+| 1017 | [juolgon](https://github.com/juolgon) | 15 | 1 | Objective-C and Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9367460?v=3&s=64' width="64" title='Julian Oliver'> |
+| 1018 | [fergulis](https://github.com/fergulis) | 15 | 0 | Clojure | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9296844?v=3&s=64' width="64" title='Fernando Blanco Mourenza'> |
+| 1019 | [kalvinarts](https://github.com/kalvinarts) | 15 | 0 | JavaScript | Sabadell, Barcelona | <img src='https://avatars1.githubusercontent.com/u/2036997?v=3&s=64' width="64" title='Albert Calbet Martinez'> |
+| 1020 | [emmgfx](https://github.com/emmgfx) | 15 | 3 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1131393?v=3&s=64' width="64" title='Josep Viciana'> |
+| 1021 | [xavileon](https://github.com/xavileon) | 15 | 1 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1135937?v=3&s=64' width="64" title='Xavier León'> |
+| 1022 | [ureesoriano](https://github.com/ureesoriano) | 15 | 0 | Perl | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2039533?v=3&s=64' width="64" title='Oriol Soriano'> |
+| 1023 | [rafathefull](https://github.com/rafathefull) | 15 | 7 | JavaScript and Python | Bigues i Riells, Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/832794?v=3&s=64' width="64" title='Rafael Carmona'> |
+| 1024 | [joantolos](https://github.com/joantolos) | 15 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9862082?v=3&s=64' width="64" title='Joan Tolós López'> |
+| 1025 | [Frederic-Barcelone](https://github.com/Frederic-Barcelone) | 14 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2123810?v=3&s=64' width="64" title='Fred'> |
+| 1026 | [carlosmartinmari](https://github.com/carlosmartinmari) | 14 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7494065?v=3&s=64' width="64" title='Carlos Martin'> |
+| 1027 | [xaviarias](https://github.com/xaviarias) | 14 | 8 | Java | Barcelona, Catalonia, Spain | <img src='https://avatars0.githubusercontent.com/u/876579?v=3&s=64' width="64" title='Xavier Arias Seguí'> |
+| 1028 | [keyser25bis](https://github.com/keyser25bis) | 14 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2939683?v=3&s=64' width="64" title='Augusto Mozzetti'> |
+| 1029 | [margabit](https://github.com/margabit) | 14 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/721798?v=3&s=64' width="64" title='Albert Margarit'> |
+| 1030 | [jmsallan](https://github.com/jmsallan) | 14 | 0 | R | Terrassa - Barcelona | <img src='https://avatars2.githubusercontent.com/u/9519244?v=3&s=64' width="64" title='Jose M Sallan'> |
+| 1031 | [kaikcreator](https://github.com/kaikcreator) | 14 | 0 | Python | Barcelona (SPAIN) | <img src='https://avatars2.githubusercontent.com/u/7058118?v=3&s=64' width="64" title=''> |
+| 1032 | [skalad](https://github.com/skalad) | 14 | 0 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8101176?v=3&s=64' width="64" title=''> |
+| 1033 | [dtamajon](https://github.com/dtamajon) | 14 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4687336?v=3&s=64' width="64" title='Daniel Tamajon'> |
+| 1034 | [ameithor](https://github.com/ameithor) | 14 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5008272?v=3&s=64' width="64" title='Droideka'> |
+| 1035 | [rcrehuet](https://github.com/rcrehuet) | 14 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1632372?v=3&s=64' width="64" title='Ramon Crehuet'> |
+| 1036 | [sbays](https://github.com/sbays) | 14 | 0 | JavaScript and Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2523119?v=3&s=64' width="64" title='S Bays'> |
+| 1037 | [danielmellado](https://github.com/danielmellado) | 14 | 1 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1313475?v=3&s=64' width="64" title='Daniel Mellado'> |
+| 1038 | [nuriarai](https://github.com/nuriarai) | 14 | 0 | PHP and CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2734143?v=3&s=64' width="64" title='Núria'> |
+| 1039 | [jordi-marsol](https://github.com/jordi-marsol) | 14 | 0 | R | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10536648?v=3&s=64' width="64" title=''> |
+| 1040 | [mrtxema](https://github.com/mrtxema) | 14 | 0 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2681934?v=3&s=64' width="64" title='Txema Martinez'> |
+| 1041 | [vchoubard](https://github.com/vchoubard) | 14 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1035063?v=3&s=64' width="64" title='Vincent Choubard'> |
+| 1042 | [farzadhusain](https://github.com/farzadhusain) | 14 | 1 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8905651?v=3&s=64' width="64" title='Farzad Husain'> |
+| 1043 | [AlexMnrs](https://github.com/AlexMnrs) | 14 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10886760?v=3&s=64' width="64" title=''> |
+| 1044 | [Rydra](https://github.com/Rydra) | 14 | 3 | C# | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5826108?v=3&s=64' width="64" title='David Jiménez'> |
+| 1045 | [alexmera88](https://github.com/alexmera88) | 14 | 0 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10993551?v=3&s=64' width="64" title='Alex Mera'> |
+| 1046 | [jsalvata](https://github.com/jsalvata) | 14 | 14 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1059994?v=3&s=64' width="64" title='Jordi Salvat i Alabart'> |
+| 1047 | [paulinagorecka](https://github.com/paulinagorecka) | 14 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9274355?v=3&s=64' width="64" title='Paulina Gorecka'> |
+| 1048 | [salmar](https://github.com/salmar) | 14 | 64 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/122109?v=3&s=64' width="64" title='Sergi Almar'> |
+| 1049 | [voxmures](https://github.com/voxmures) | 14 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5038138?v=3&s=64' width="64" title='Joaquín Campos Colmenarejo'> |
+| 1050 | [rroch](https://github.com/rroch) | 14 | 1 | CSS and JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/319839?v=3&s=64' width="64" title='Roger Roch'> |
+| 1051 | [albert-lopez](https://github.com/albert-lopez) | 14 | 0 | C++ and C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1210511?v=3&s=64' width="64" title='Albert López Brescó'> |
+| 1052 | [niladell](https://github.com/niladell) | 14 | 0 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11044614?v=3&s=64' width="64" title='Nil Adell'> |
+| 1053 | [vladyslav2](https://github.com/vladyslav2) | 14 | 1 | Python | Spain, Barcelona | <img src='https://avatars2.githubusercontent.com/u/704096?v=3&s=64' width="64" title='Vladysav Tarasenko'> |
+| 1054 | [jonathan-roper](https://github.com/jonathan-roper) | 14 | 20 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/492266?v=3&s=64' width="64" title='Jonathan Roper'> |
+| 1055 | [sisqbates](https://github.com/sisqbates) | 14 | 0 | Groovy | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3432248?v=3&s=64' width="64" title='Ferran Puig'> |
+| 1056 | [slanau](https://github.com/slanau) | 14 | 0 | Java | Barcelona, Catalonia, Spain | <img src='https://avatars0.githubusercontent.com/u/1876358?v=3&s=64' width="64" title='Sergi Lanau'> |
+| 1057 | [cartorjo](https://github.com/cartorjo) | 13 | 0 | CSS | Barcelona / Berlin | <img src='https://avatars1.githubusercontent.com/u/3819264?v=3&s=64' width="64" title='Jose Torres'> |
+| 1058 | [quimcalpe](https://github.com/quimcalpe) | 13 | 5 | JavaScript | Granollers, Barcelona | <img src='https://avatars2.githubusercontent.com/u/1057151?v=3&s=64' width="64" title='Quim Calpe'> |
+| 1059 | [tatygrassini](https://github.com/tatygrassini) | 13 | 45 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/185308?v=3&s=64' width="64" title='tatygrassini'> |
+| 1060 | [hampld](https://github.com/hampld) | 13 | 0 |  | Zürich, Switzerland // Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3428424?v=3&s=64' width="64" title='David Hampl'> |
+| 1061 | [fernandomora](https://github.com/fernandomora) | 13 | 0 | Scala | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3585704?v=3&s=64' width="64" title=''> |
+| 1062 | [iamjalal](https://github.com/iamjalal) | 13 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8059362?v=3&s=64' width="64" title='Jalal'> |
+| 1063 | [tatuguerra](https://github.com/tatuguerra) | 13 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5858686?v=3&s=64' width="64" title='Tatu Guerra'> |
+| 1064 | [eballetbo](https://github.com/eballetbo) | 13 | 12 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/128478?v=3&s=64' width="64" title='Enric Balletbo i Serra'> |
+| 1065 | [Solero93](https://github.com/Solero93) | 13 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4397507?v=3&s=64' width="64" title='Christian'> |
+| 1066 | [saulbaro](https://github.com/saulbaro) | 13 | 0 | Ruby and Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1497437?v=3&s=64' width="64" title='Saul Baro'> |
+| 1067 | [jesusdiez](https://github.com/jesusdiez) | 13 | 7 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/393104?v=3&s=64' width="64" title='Jesús Díez'> |
+| 1068 | [iEnrico](https://github.com/iEnrico) | 13 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3371214?v=3&s=64' width="64" title='Enric'> |
+| 1069 | [okjake](https://github.com/okjake) | 13 | 4 | C++ | London & Barcelona | <img src='https://avatars0.githubusercontent.com/u/316538?v=3&s=64' width="64" title='Jake Pyne'> |
+| 1070 | [arkeros](https://github.com/arkeros) | 13 | 3 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/991767?v=3&s=64' width="64" title='Rafael Arquero Gimeno'> |
+| 1071 | [c990802](https://github.com/c990802) | 13 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6229037?v=3&s=64' width="64" title='Isaac Mayolas'> |
+| 1072 | [annasdt](https://github.com/annasdt) | 13 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3008648?v=3&s=64' width="64" title='Anna Sáez de Tejada'> |
+| 1073 | [dacbes](https://github.com/dacbes) | 13 | 0 | Shell and PowerShell | Barberá del valles, Barcelona | <img src='https://avatars2.githubusercontent.com/u/9955658?v=3&s=64' width="64" title='David Acebes'> |
+| 1074 | [afernandez90](https://github.com/afernandez90) | 13 | 0 | C++ | Martorell (Barcelona) | <img src='https://avatars3.githubusercontent.com/u/5048790?v=3&s=64' width="64" title='Alejandro Fernández Suárez'> |
+| 1075 | [marcmora](https://github.com/marcmora) | 13 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1056377?v=3&s=64' width="64" title='Marc Mora'> |
+| 1076 | [guillemf](https://github.com/guillemf) | 13 | 0 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5124352?v=3&s=64' width="64" title='Guillem Fernandez'> |
+| 1077 | [maneta](https://github.com/maneta) | 13 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1528321?v=3&s=64' width="64" title='H. Daniel Cesario'> |
+| 1078 | [hydex86](https://github.com/hydex86) | 12 | 2 | Objective-C | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1034490?v=3&s=64' width="64" title='Daniel Albert'> |
+| 1079 | [bertbalcaen](https://github.com/bertbalcaen) | 12 | 4 | PHP | Barcelona, Spain / Ghent, Belgium | <img src='https://avatars0.githubusercontent.com/u/83310?v=3&s=64' width="64" title='Bert Balcaen'> |
+| 1080 | [pmphp](https://github.com/pmphp) | 12 | 27 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/931879?v=3&s=64' width="64" title='Pere Monfort'> |
+| 1081 | [obendi](https://github.com/obendi) | 12 | 0 | JavaScript and PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2210134?v=3&s=64' width="64" title='Oscar Bendicho Aylagas'> |
+| 1082 | [noe6600](https://github.com/noe6600) | 12 | 4 | Java and PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/966167?v=3&s=64' width="64" title='Noemí Ferrer'> |
+| 1083 | [leonkyr](https://github.com/leonkyr) | 12 | 2 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/108253?v=3&s=64' width="64" title='Leonid Kyrpychenko'> |
+| 1084 | [agustisanchez](https://github.com/agustisanchez) | 12 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1122000?v=3&s=64' width="64" title='Agustí Sánchez'> |
+| 1085 | [roctoll](https://github.com/roctoll) | 12 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1101454?v=3&s=64' width="64" title='Roc'> |
+| 1086 | [rajmeenacse](https://github.com/rajmeenacse) | 12 | 0 | Ruby | Tokyo/Barcelona | <img src='https://avatars3.githubusercontent.com/u/3255087?v=3&s=64' width="64" title='Raj (Bhoor Meena)'> |
+| 1087 | [spooker8](https://github.com/spooker8) | 12 | 0 | Objective-C | Vilnius Barcelona Kuala Lumpur | <img src='https://avatars3.githubusercontent.com/u/11305728?v=3&s=64' width="64" title='Anand Kumar'> |
+| 1088 | [maariasb](https://github.com/maariasb) | 12 | 0 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/4762708?v=3&s=64' width="64" title='Marc Arias'> |
+| 1089 | [xlagunas](https://github.com/xlagunas) | 12 | 2 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1460933?v=3&s=64' width="64" title='Xavier Lagunas Calpe'> |
+| 1090 | [hgarza](https://github.com/hgarza) | 12 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8323856?v=3&s=64' width="64" title='Heidi Garza'> |
+| 1091 | [hugopibernat](https://github.com/hugopibernat) | 12 | 0 | HTML | London/Barcelona | <img src='https://avatars3.githubusercontent.com/u/7289178?v=3&s=64' width="64" title='Hugo Pibernat'> |
+| 1092 | [ppeszko](https://github.com/ppeszko) | 12 | 36 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2364?v=3&s=400' width="64" title='Patryk Peszko'> |
+| 1093 | [arnauorriols](https://github.com/arnauorriols) | 12 | 6 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4871949?v=3&s=64' width="64" title='Arnau Orriols'> |
+| 1094 | [ganguera](https://github.com/ganguera) | 12 | 4 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/673514?v=3&s=64' width="64" title='Guillem Anguera'> |
+| 1095 | [acangros](https://github.com/acangros) | 12 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3485224?v=3&s=64' width="64" title='acangros'> |
+| 1096 | [ddgthub](https://github.com/ddgthub) | 12 | 0 | R | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/7354253?v=3&s=64' width="64" title='Radina Matic'> |
+| 1097 | [didacs](https://github.com/didacs) | 12 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7119168?v=3&s=64' width="64" title='Didac Santesmasses'> |
+| 1098 | [jantonsg](https://github.com/jantonsg) | 12 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7620951?v=3&s=64' width="64" title='Joan Anton'> |
+| 1099 | [ericmarcos](https://github.com/ericmarcos) | 12 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1058401?v=3&s=64' width="64" title='Eric Marcos'> |
+| 1100 | [afeherc](https://github.com/afeherc) | 12 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10830012?v=3&s=64' width="64" title='Alejandro Feher Canadell'> |
+| 1101 | [raohmaru](https://github.com/raohmaru) | 12 | 8 | ActionScript | Cornellà de Llobregat (Barcelona) | <img src='https://avatars0.githubusercontent.com/u/1773839?v=3&s=64' width="64" title='Raúl Parralejo'> |
+| 1102 | [oarnau](https://github.com/oarnau) | 12 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4116252?v=3&s=64' width="64" title='Oriol Arnau Rubio'> |
+| 1103 | [gratiangaga](https://github.com/gratiangaga) | 12 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11014318?v=3&s=64' width="64" title='Gratian G'> |
+| 1104 | [giron3s](https://github.com/giron3s) | 11 | 0 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/236645?v=3&s=400' width="64" title='Marc Girones'> |
+| 1105 | [vfabregat](https://github.com/vfabregat) | 11 | 1 | C# | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6525021?v=3&s=64' width="64" title='Victor'> |
+| 1106 | [ascandroli](https://github.com/ascandroli) | 11 | 15 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/449509?v=3&s=64' width="64" title='Alejandro Scandroli'> |
+| 1107 | [ignasivegas](https://github.com/ignasivegas) | 11 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2070415?v=3&s=64' width="64" title='Ignasi Vegas'> |
+| 1108 | [xavi-a-gamedonia](https://github.com/xavi-a-gamedonia) | 11 | 0 | C# | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11676930?v=3&s=64' width="64" title='Xavi'> |
+| 1109 | [abel-navarro](https://github.com/abel-navarro) | 11 | 0 | Shell and Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1333236?v=3&s=64' width="64" title='Abel Navarro'> |
+| 1110 | [manugarciaes](https://github.com/manugarciaes) | 11 | 7 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/522560?v=3&s=64' width="64" title='Manuel García'> |
+| 1111 | [ignasi](https://github.com/ignasi) | 11 | 2 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/587050?v=3&s=64' width="64" title='Ignasi Busquets'> |
+| 1112 | [hecspc](https://github.com/hecspc) | 11 | 58 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/34852?v=3&s=64' width="64" title='Hector Castilla'> |
+| 1113 | [Marc-Morata-Fite](https://github.com/Marc-Morata-Fite) | 11 | 6 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/67903?v=3&s=64' width="64" title='Marc Morata Fité'> |
+| 1114 | [MiquelNieto](https://github.com/MiquelNieto) | 11 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8396949?v=3&s=64' width="64" title='Miquel Nieto'> |
+| 1115 | [saracubillas](https://github.com/saracubillas) | 11 | 4 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1815335?v=3&s=64' width="64" title=''> |
+| 1116 | [akira28](https://github.com/akira28) | 11 | 95 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/996257?v=3&s=64' width="64" title='Andrea De Pirro'> |
+| 1117 | [jlrobles](https://github.com/jlrobles) | 11 | 0 | JavaScript | El Prat del Llobregat, Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7603999?v=3&s=64' width="64" title='Juan Luis Robles Vicente'> |
+| 1118 | [jmcordoba](https://github.com/jmcordoba) | 11 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/386218?v=3&s=64' width="64" title='JuanMa Córdoba'> |
+| 1119 | [Ivi94](https://github.com/Ivi94) | 11 | 0 | Processing | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9032651?v=3&s=64' width="64" title='Iván'> |
+| 1120 | [eduesc](https://github.com/eduesc) | 11 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10939945?v=3&s=64' width="64" title='Eduard Escalona'> |
+| 1121 | [iz3info](https://github.com/iz3info) | 11 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8439830?v=3&s=64' width="64" title='iZ3 Info'> |
+| 1122 | [itstreamer](https://github.com/itstreamer) | 11 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11567691?v=3&s=64' width="64" title='Mark'> |
+| 1123 | [territoriocreativo](https://github.com/territoriocreativo) | 11 | 0 | JavaScript and Ruby | Madrid, Barcelona, Bogotá. | <img src='https://avatars3.githubusercontent.com/u/7046923?v=3&s=64' width="64" title=''> |
+| 1124 | [jruizcar](https://github.com/jruizcar) | 11 | 0 | Java | Granollers-Barcelona-Spain | <img src='https://avatars0.githubusercontent.com/u/9717598?v=3&s=64' width="64" title='Jose Ruiz'> |
+| 1125 | [xqueralt](https://github.com/xqueralt) | 11 | 4 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/154096?v=3&s=64' width="64" title='Xavier Queralt'> |
+| 1126 | [jaumerq](https://github.com/jaumerq) | 11 | 1 | Python and Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11219447?v=3&s=64' width="64" title='Jaume'> |
+| 1127 | [chuckleplant](https://github.com/chuckleplant) | 11 | 4 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3345499?v=3&s=64' width="64" title='Sergio Basurco'> |
+| 1128 | [Maycas](https://github.com/Maycas) | 11 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4038706?v=3&s=64' width="64" title='Marc'> |
+| 1129 | [Warblefly](https://github.com/Warblefly) | 11 | 0 | Shell and Python | Barcelona and Brighton | <img src='https://avatars0.githubusercontent.com/u/9024115?v=3&s=64' width="64" title='John Warburton'> |
+| 1130 | [guillaumeparis2000](https://github.com/guillaumeparis2000) | 11 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2109907?v=3&s=64' width="64" title='Guillaume PARIS'> |
+| 1131 | [obarcelonap](https://github.com/obarcelonap) | 11 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8988184?v=3&s=64' width="64" title='Oriol Barcelona'> |
+| 1132 | [juanpablironhack](https://github.com/juanpablironhack) | 11 | 1 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8921918?v=3&s=64' width="64" title='Juan Pablo'> |
+| 1133 | [joseprupi](https://github.com/joseprupi) | 10 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4953512?v=3&s=64' width="64" title='Josep Rubió'> |
+| 1134 | [brutuscat](https://github.com/brutuscat) | 10 | 34 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/301959?v=3&s=64' width="64" title='Mauro Asprea'> |
+| 1135 | [nivariano](https://github.com/nivariano) | 10 | 0 | R | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10911826?v=3&s=64' width="64" title=''> |
+| 1136 | [JuCar](https://github.com/JuCar) | 10 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7748045?v=3&s=64' width="64" title='Juan Carlos'> |
+| 1137 | [richigallego](https://github.com/richigallego) | 10 | 0 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7256123?v=3&s=64' width="64" title='Richi Gallego'> |
+| 1138 | [JesConsuegra](https://github.com/JesConsuegra) | 10 | 0 | Assembly and Visual Basic | Olivella, (Barcelona) - SPAIN | <img src='https://avatars3.githubusercontent.com/u/11779140?v=3&s=64' width="64" title='Jes Consuegra'> |
+| 1139 | [marcgascon](https://github.com/marcgascon) | 10 | 0 | Shell and CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6639530?v=3&s=64' width="64" title='Marc Gascon'> |
+| 1140 | [JordiCruells](https://github.com/JordiCruells) | 10 | 0 | JavaScript | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/3403865?v=3&s=64' width="64" title='Jordi Cruells'> |
+| 1141 | [jjrumi](https://github.com/jjrumi) | 10 | 1 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/858020?v=3&s=64' width="64" title='Juan Luis Jimenez'> |
+| 1142 | [sourcerebels](https://github.com/sourcerebels) | 10 | 6 | Java | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/198603?v=3&s=64' width="64" title='Edu Rodríguez Castillo'> |
+| 1143 | [kyleh415](https://github.com/kyleh415) | 10 | 0 | Objective-C and Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7959399?v=3&s=64' width="64" title='Kyle Hardman'> |
+| 1144 | [nealobrien](https://github.com/nealobrien) | 10 | 1 | Scala | London and Barcelona | <img src='https://avatars0.githubusercontent.com/u/2433222?v=3&s=64' width="64" title='Neal OBrien'> |
+| 1145 | [gonzalezrichard](https://github.com/gonzalezrichard) | 10 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7264114?v=3&s=64' width="64" title='Ricardo Mariano González'> |
+| 1146 | [borjarossell](https://github.com/borjarossell) | 10 | 0 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9050044?v=3&s=64' width="64" title='Borja Rossell'> |
+| 1147 | [assimovt](https://github.com/assimovt) | 10 | 53 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5113?v=3&s=64' width="64" title='Tair Assimov'> |
+| 1148 | [u26726](https://github.com/u26726) | 10 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1142572?v=3&s=64' width="64" title='Juan Manuel'> |
+| 1149 | [carguezu](https://github.com/carguezu) | 10 | 7 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4050713?v=3&s=64' width="64" title='CarlosGz'> |
+| 1150 | [dacacioa](https://github.com/dacacioa) | 10 | 0 | Shell and Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2761032?v=3&s=64' width="64" title='David Acacio'> |
+| 1151 | [targetimc](https://github.com/targetimc) | 10 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8749316?v=3&s=64' width="64" title='Max'> |
+| 1152 | [Mahidur](https://github.com/Mahidur) | 10 | 0 | R | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/11369525?v=3&s=64' width="64" title='M. Mahidur Rahman'> |
+| 1153 | [tilibom](https://github.com/tilibom) | 10 | 1 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3380662?v=3&s=64' width="64" title='Artëm Loginov'> |
+| 1154 | [jagenjo](https://github.com/jagenjo) | 10 | 48 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/393515?v=3&s=64' width="64" title='Javi Agenjo'> |
+| 1155 | [egamonal](https://github.com/egamonal) | 10 | 1 | JavaScript | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/1971675?v=3&s=64' width="64" title='Eduard Gamonal'> |
+| 1156 | [keur](https://github.com/keur) | 10 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3948492?v=3&s=64' width="64" title='Félix Axel Gimeno Gil'> |
+| 1157 | [ch4lit](https://github.com/ch4lit) | 10 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2900482?v=3&s=64' width="64" title='Sven Herzing'> |
+| 1158 | [bhellin](https://github.com/bhellin) | 10 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4296258?v=3&s=64' width="64" title='Benito Hellín'> |
+| 1159 | [IreneMarin](https://github.com/IreneMarin) | 10 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/12280031?v=3&s=64' width="64" title=''> |
+| 1160 | [hadeskun](https://github.com/hadeskun) | 9 | 1 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1849915?v=3&s=64' width="64" title='Julian Diaz'> |
+| 1161 | [dmorinya](https://github.com/dmorinya) | 9 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6972960?v=3&s=64' width="64" title='David Moriña Soler'> |
+| 1162 | [maxaldunate](https://github.com/maxaldunate) | 9 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3446330?v=3&s=64' width="64" title='Max Aldunate'> |
+| 1163 | [joansola](https://github.com/joansola) | 9 | 0 | Matlab | Barcelona - Catalonia | <img src='https://avatars2.githubusercontent.com/u/2467261?v=3&s=64' width="64" title='Joan Solà'> |
+| 1164 | [spejman](https://github.com/spejman) | 9 | 124 | Ruby | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/873?v=3&s=64' width="64" title='Sergio Espeja'> |
+| 1165 | [philippebernou](https://github.com/philippebernou) | 9 | 0 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7796776?v=3&s=64' width="64" title='Philippe Bernou'> |
+| 1166 | [joffrey92](https://github.com/joffrey92) | 9 | 0 | Shell | Barcelona,ES | <img src='https://avatars3.githubusercontent.com/u/7384759?v=3&s=64' width="64" title='Joffrey MICHAIE'> |
+| 1167 | [noymn](https://github.com/noymn) | 9 | 0 | HTML and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1385463?v=3&s=64' width="64" title='David Campos'> |
+| 1168 | [petrusqui](https://github.com/petrusqui) | 9 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3110483?v=3&s=64' width="64" title='Petru Rares Sincraian'> |
+| 1169 | [jcxk](https://github.com/jcxk) | 9 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/765101?v=3&s=64' width="64" title='Juan carlos'> |
+| 1170 | [lucas-ez](https://github.com/lucas-ez) | 9 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5967650?v=3&s=64' width="64" title='Lucas'> |
+| 1171 | [etrulls](https://github.com/etrulls) | 9 | 5 | C | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5287643?v=3&s=64' width="64" title='Eduard Trulls'> |
+| 1172 | [starsk62](https://github.com/starsk62) | 9 | 0 | Perl | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4258792?v=3&s=64' width="64" title='Starsky Lara'> |
+| 1173 | [planas](https://github.com/planas) | 9 | 14 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1347779?v=3&s=64' width="64" title='Adrià Planas'> |
+| 1174 | [Semro007](https://github.com/Semro007) | 9 | 0 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4066099?v=3&s=64' width="64" title='Sergio Martínez Roig'> |
+| 1175 | [savayg](https://github.com/savayg) | 9 | 0 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1419573?v=3&s=64' width="64" title='Sava Gerov'> |
+| 1176 | [srxavi](https://github.com/srxavi) | 9 | 8 | Python | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/173510?v=3&s=64' width="64" title='Xavi Francisco'> |
+| 1177 | [miguel-s](https://github.com/miguel-s) | 9 | 0 | Objective-C | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/7493212?v=3&s=64' width="64" title='Miguel Serrano'> |
+| 1178 | [rubenlucena](https://github.com/rubenlucena) | 9 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5638686?v=3&s=64' width="64" title='Rubén'> |
+| 1179 | [sergiogoro](https://github.com/sergiogoro) | 9 | 0 | Perl | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2668953?v=3&s=64' width="64" title='Sergio G.'> |
+| 1180 | [PerroVerd](https://github.com/PerroVerd) | 9 | 1 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3480633?v=3&s=64' width="64" title='Celso González'> |
+| 1181 | [impalah](https://github.com/impalah) | 9 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9281663?v=3&s=64' width="64" title='Impalah'> |
+| 1182 | [sergilazaro](https://github.com/sergilazaro) | 9 | 2 | C# | Barcelona | <img src='https://avatars1.githubusercontent.com/u/969643?v=3&s=64' width="64" title='Sergi Lázaro'> |
+| 1183 | [casassg](https://github.com/casassg) | 9 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6912589?v=3&s=64' width="64" title='Gerard Casas'> |
+| 1184 | [vaguilera](https://github.com/vaguilera) | 9 | 6 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2461943?v=3&s=64' width="64" title='Victor Aguilera'> |
+| 1185 | [MarcSalvat](https://github.com/MarcSalvat) | 9 | 1 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1284248?v=3&s=64' width="64" title='Marc Salvat'> |
+| 1186 | [llambeau](https://github.com/llambeau) | 9 | 81 | JavaScript | Barcelona, ES | <img src='https://avatars3.githubusercontent.com/u/186090?v=3&s=64' width="64" title='Louis Lambeau'> |
+| 1187 | [ovidiubrunet](https://github.com/ovidiubrunet) | 9 | 0 | PHP and ApacheConf | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9217452?v=3&s=64' width="64" title='Dragoi Ovidiu'> |
+| 1188 | [Eskatrem](https://github.com/Eskatrem) | 9 | 5 | Clojure | Barcelona | <img src='https://avatars1.githubusercontent.com/u/919676?v=3&s=64' width="64" title='Samuel Lê'> |
+| 1189 | [sbonoc](https://github.com/sbonoc) | 9 | 0 | Java | Badalona, Barcelona | <img src='https://avatars2.githubusercontent.com/u/913494?v=3&s=64' width="64" title='Sergi Bono'> |
+| 1190 | [abozadev](https://github.com/abozadev) | 9 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6409678?v=3&s=64' width="64" title='August Boza'> |
+| 1191 | [pereferrera](https://github.com/pereferrera) | 8 | 161 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/254208?v=3&s=64' width="64" title='Pere Ferrera'> |
+| 1192 | [dtarda](https://github.com/dtarda) | 8 | 1 | CSS and JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2777904?v=3&s=64' width="64" title='David'> |
+| 1193 | [roig](https://github.com/roig) | 8 | 5 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/389619?v=3&s=64' width="64" title='Daniel Guzman'> |
+| 1194 | [javiercasares](https://github.com/javiercasares) | 8 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/10290686?v=3&s=64' width="64" title='Javier Casares'> |
+| 1195 | [TulioDomingos](https://github.com/TulioDomingos) | 8 | 0 | Scala | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5773642?v=3&s=64' width="64" title='Tulio Domingos'> |
+| 1196 | [ferranpi](https://github.com/ferranpi) | 8 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2451698?v=3&s=64' width="64" title='Fer'> |
+| 1197 | [apamo](https://github.com/apamo) | 8 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10588391?v=3&s=64' width="64" title='Álvaro'> |
+| 1198 | [xhaju](https://github.com/xhaju) | 8 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1023794?v=3&s=64' width="64" title=''> |
+| 1199 | [claudix](https://github.com/claudix) | 8 | 0 | C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5880835?v=3&s=64' width="64" title='Claudi Martinez'> |
+| 1200 | [aldodfm](https://github.com/aldodfm) | 8 | 0 | Java | L'Hospitalet de Llobregat, Barcelona | <img src='https://avatars2.githubusercontent.com/u/907559?v=3&s=64' width="64" title='Aldo de Feo Martinez'> |
+| 1201 | [chescales](https://github.com/chescales) | 8 | 2 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3706329?v=3&s=64' width="64" title='Chesco Igual'> |
+| 1202 | [martatolos](https://github.com/martatolos) | 8 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2376620?v=3&s=64' width="64" title='Marta Tolós'> |
+| 1203 | [tigery](https://github.com/tigery) | 8 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7647211?v=3&s=64' width="64" title='Roberto Savikko'> |
+| 1204 | [jaznow](https://github.com/jaznow) | 8 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6003575?v=3&s=64' width="64" title='Jaznow'> |
+| 1205 | [lluisgh28](https://github.com/lluisgh28) | 8 | 2 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1053732?v=3&s=64' width="64" title='Lluís Gómez Hernando'> |
+| 1206 | [gusjavaz](https://github.com/gusjavaz) | 8 | 0 |  | Barcelona, España | <img src='https://avatars1.githubusercontent.com/u/10463166?v=3&s=64' width="64" title='Gustavo Vázquez Amado'> |
+| 1207 | [zoraida](https://github.com/zoraida) | 8 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2461902?v=3&s=64' width="64" title='Zoraida Hidalgo'> |
+| 1208 | [davidgit](https://github.com/davidgit) | 8 | 13 | Python | Barcelona, Catalonia | <img src='https://avatars1.githubusercontent.com/u/79498?v=3&s=64' width="64" title='David Gay i Tello'> |
+| 1209 | [MiquelT](https://github.com/MiquelT) | 8 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6726536?v=3&s=64' width="64" title='Miquel'> |
+| 1210 | [legnaleama](https://github.com/legnaleama) | 8 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3636549?v=3&s=64' width="64" title='legnaleama'> |
+| 1211 | [puxan](https://github.com/puxan) | 8 | 0 | C++ and PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6309537?v=3&s=64' width="64" title='Puxan'> |
+| 1212 | [alexgarces](https://github.com/alexgarces) | 8 | 6 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1061680?v=3&s=64' width="64" title='Alex Garces'> |
+| 1213 | [dliuzzi](https://github.com/dliuzzi) | 8 | 4 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/143884?v=3&s=64' width="64" title='Daniel Liuzzi'> |
+| 1214 | [mgboydcom](https://github.com/mgboydcom) | 8 | 1 | JavaScript | Barcelona, ES | <img src='https://avatars0.githubusercontent.com/u/1239821?v=3&s=64' width="64" title='Mark Boyd'> |
+| 1215 | [nubotica](https://github.com/nubotica) | 8 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/6081182?v=3&s=64' width="64" title='Nubótica'> |
+| 1216 | [Miz85](https://github.com/Miz85) | 8 | 2 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/758584?v=3&s=64' width="64" title='Nazim Saouli'> |
+| 1217 | [garcialebiere](https://github.com/garcialebiere) | 8 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4761266?v=3&s=64' width="64" title='Eduardo García Lebière'> |
+| 1218 | [jartes](https://github.com/jartes) | 8 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1046943?v=3&s=64' width="64" title='Joan Artés'> |
+| 1219 | [aiorla](https://github.com/aiorla) | 8 | 0 | Makefile | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3518352?v=3&s=64' width="64" title='Aitor Ortiz de Latierro Olivella'> |
+| 1220 | [chefchef](https://github.com/chefchef) | 8 | 2 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3300921?v=3&s=64' width="64" title='Eduard Heredia'> |
+| 1221 | [flaquir4](https://github.com/flaquir4) | 8 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2788459?v=3&s=64' width="64" title=''> |
+| 1222 | [DZPM](https://github.com/DZPM) | 8 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/353447?v=3&s=64' width="64" title='David Arcos'> |
+| 1223 | [goda87](https://github.com/goda87) | 8 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2364234?v=3&s=64' width="64" title='goda87'> |
+| 1224 | [hmoragrega](https://github.com/hmoragrega) | 8 | 0 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/349641?v=3&s=400' width="64" title='Hilari Moragrega'> |
+| 1225 | [BonteConsulting](https://github.com/BonteConsulting) | 8 | 0 |  | BARCELONA (Spain) | <img src='https://avatars1.githubusercontent.com/u/9585299?v=3&s=64' width="64" title=''> |
+| 1226 | [hades87](https://github.com/hades87) | 8 | 0 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3637919?v=3&s=64' width="64" title='Sergio'> |
+| 1227 | [luvacu](https://github.com/luvacu) | 8 | 0 | Swift | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1182855?v=3&s=64' width="64" title='Luis Valdés'> |
+| 1228 | [dariobarrio](https://github.com/dariobarrio) | 8 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1043741?v=3&s=64' width="64" title='Darío Barrio'> |
+| 1229 | [perrosucio](https://github.com/perrosucio) | 8 | 0 | C++ | Barcelona, España | <img src='https://avatars3.githubusercontent.com/u/10568998?v=3&s=64' width="64" title='Guillermo Harosteguy'> |
+| 1230 | [ismaelresp](https://github.com/ismaelresp) | 8 | 0 | Python and C | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7013638?v=3&s=64' width="64" title='Ismael Rodriguez Espigares'> |
+| 1231 | [jmangas](https://github.com/jmangas) | 8 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1798836?v=3&s=64' width="64" title='Toni Mangas'> |
+| 1232 | [dmateogarcia](https://github.com/dmateogarcia) | 8 | 0 |  | Barcelona (ESPAÑA) | <img src='https://avatars1.githubusercontent.com/u/10046579?v=3&s=64' width="64" title='Daniel Mateo Gracía'> |
+| 1233 | [andresin87](https://github.com/andresin87) | 7 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1674036?v=3&s=64' width="64" title='Andrés'> |
+| 1234 | [drjoju](https://github.com/drjoju) | 7 | 0 | Arduino | Sant Cugat del Vallés - Barcelona - Spain | <img src='https://avatars3.githubusercontent.com/u/461705?v=3&s=64' width="64" title='Jose Juan Calvo'> |
+| 1235 | [emtypefoundry](https://github.com/emtypefoundry) | 7 | 0 | HTML and Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11620960?v=3&s=64' width="64" title='Eduardo Manso'> |
+| 1236 | [bastienmothais](https://github.com/bastienmothais) | 7 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11179204?v=3&s=64' width="64" title='Bastien Mothais'> |
+| 1237 | [paologambardella](https://github.com/paologambardella) | 7 | 0 | C# | Barcelona | <img src='https://avatars1.githubusercontent.com/u/12030773?v=3&s=64' width="64" title='Paolo Gambardella'> |
+| 1238 | [alastaire61](https://github.com/alastaire61) | 7 | 0 |  | Barcelona - Spain | <img src='https://avatars3.githubusercontent.com/u/12008374?v=3&s=64' width="64" title='Adrià Llenas Segura'> |
+| 1239 | [casabona](https://github.com/casabona) | 7 | 48 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5827224?v=3&s=64' width="64" title='Daniel Casabona Gomez'> |
+| 1240 | [xavierllr](https://github.com/xavierllr) | 7 | 0 | C++ | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4825102?v=3&s=64' width="64" title='Xavier LLigadas'> |
+| 1241 | [adriancervoni](https://github.com/adriancervoni) | 7 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4679776?v=3&s=64' width="64" title='Adrián Pérez'> |
+| 1242 | [asolache](https://github.com/asolache) | 7 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1946180?v=3&s=64' width="64" title='Mazinguer'> |
+| 1243 | [kocakafa](https://github.com/kocakafa) | 7 | 4 | HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/232191?v=3&s=64' width="64" title='Cemre Kutluay'> |
+| 1244 | [joscandreu](https://github.com/joscandreu) | 7 | 34 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1180443?v=3&s=64' width="64" title='José Carlos Andreu'> |
+| 1245 | [JavierLuengo](https://github.com/JavierLuengo) | 7 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6411036?v=3&s=64' width="64" title='Javier Luengo'> |
+| 1246 | [boyander](https://github.com/boyander) | 7 | 21 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/568638?v=3&s=64' width="64" title='Marc Pomar Torres'> |
+| 1247 | [eMMaDevelopment](https://github.com/eMMaDevelopment) | 7 | 0 | Objective-C and Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8125964?v=3&s=64' width="64" title='eMMa'> |
+| 1248 | [jamoli](https://github.com/jamoli) | 7 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9107921?v=3&s=64' width="64" title='Juan Antonio Latorre Molina'> |
+| 1249 | [nilmm](https://github.com/nilmm) | 7 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/10046581?v=3&s=64' width="64" title='Nil Mestre Mas'> |
+| 1250 | [cubiczx](https://github.com/cubiczx) | 7 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/12655600?v=3&s=64' width="64" title='Xavier Palacín Ayuso'> |
+| 1251 | [Zener](https://github.com/Zener) | 7 | 0 | ActionScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2963692?v=3&s=64' width="64" title=''> |
+| 1252 | [arol](https://github.com/arol) | 7 | 32 | Ruby | Barcelona, Catalunya | <img src='https://avatars0.githubusercontent.com/u/480981?v=3&s=64' width="64" title='Arol'> |
+| 1253 | [dario1985](https://github.com/dario1985) | 7 | 9 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/495006?v=3&s=64' width="64" title='Dario'> |
+| 1254 | [albestia](https://github.com/albestia) | 7 | 1 | JavaScript | Barcelona - Spain | <img src='https://avatars2.githubusercontent.com/u/889092?v=3&s=64' width="64" title='Albert Murillo'> |
+| 1255 | [mvazquezc](https://github.com/mvazquezc) | 7 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9841873?v=3&s=64' width="64" title='Mario Vázquez'> |
+| 1256 | [elmika](https://github.com/elmika) | 7 | 0 | PHP | Barcelona - Spain | <img src='https://avatars3.githubusercontent.com/u/1506612?v=3&s=64' width="64" title='Mika'> |
+| 1257 | [soniacasillas](https://github.com/soniacasillas) | 7 | 0 | C++ and Arduino | Bellaterra, Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/5746269?v=3&s=64' width="64" title='Sònia Casillas'> |
+| 1258 | [raiwa](https://github.com/raiwa) | 7 | 0 | ApacheConf | Sant Iscle de Vallalta, Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/557433?v=3&s=64' width="64" title='Rainer Schmied'> |
+| 1259 | [lhpardos](https://github.com/lhpardos) | 7 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9464707?v=3&s=64' width="64" title='Laura'> |
+| 1260 | [pgrau](https://github.com/pgrau) | 7 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4202896?v=3&s=64' width="64" title='Pau'> |
+| 1261 | [msanroman](https://github.com/msanroman) | 7 | 39 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/720667?v=3&s=64' width="64" title='Mike San Román'> |
+| 1262 | [jcasadella](https://github.com/jcasadella) | 7 | 0 | Scala | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7114456?v=3&s=64' width="64" title='Joan Casadellà'> |
+| 1263 | [ifendif2004](https://github.com/ifendif2004) | 7 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7831457?v=3&s=64' width="64" title='ifendif2004'> |
+| 1264 | [Hammandsoul](https://github.com/Hammandsoul) | 7 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/12007732?v=3&s=64' width="64" title='Amanda Ortega'> |
+| 1265 | [jordisansscmspain](https://github.com/jordisansscmspain) | 7 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8857309?v=3&s=64' width="64" title='Jordi Sans'> |
+| 1266 | [jdmartinez](https://github.com/jdmartinez) | 7 | 1 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/404719?v=3&s=64' width="64" title='Juan Diego Martínez'> |
+| 1267 | [ArnauAregall](https://github.com/ArnauAregall) | 7 | 1 | JavaScript | Barcelona, Catalunya, Spain | <img src='https://avatars2.githubusercontent.com/u/2873901?v=3&s=64' width="64" title='Arnau Aregall'> |
+| 1268 | [ronnylt](https://github.com/ronnylt) | 7 | 71 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/24546?v=3&s=64' width="64" title='Ronny López'> |
+| 1269 | [meniossin](https://github.com/meniossin) | 7 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8300543?v=3&s=64' width="64" title='Menios Sin'> |
+| 1270 | [gerardnll](https://github.com/gerardnll) | 7 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2018022?v=3&s=64' width="64" title='Gerard Nesta'> |
+| 1271 | [ceymard](https://github.com/ceymard) | 7 | 20 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/737441?v=3&s=64' width="64" title='Christophe Eymard'> |
+| 1272 | [iagotomas](https://github.com/iagotomas) | 7 | 2 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3936612?v=3&s=64' width="64" title='Iago Tomas'> |
+| 1273 | [jordinl](https://github.com/jordinl) | 7 | 30 | JavaScript and Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/125248?v=3&s=64' width="64" title='Jordi Noguera'> |
+| 1274 | [ferran-brianso](https://github.com/ferran-brianso) | 7 | 0 | R | Barcelona (Catalonia) | <img src='https://avatars3.githubusercontent.com/u/11822013?v=3&s=64' width="64" title='Ferran Briansó'> |
+| 1275 | [EduAlberdi](https://github.com/EduAlberdi) | 7 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5593621?v=3&s=64' width="64" title='Eduard Alberdi Marín'> |
+| 1276 | [ITBrowns](https://github.com/ITBrowns) | 7 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8043862?v=3&s=64' width="64" title='Carlos Campos'> |
+| 1277 | [codeboost](https://github.com/codeboost) | 7 | 179 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/338601?v=3&s=64' width="64" title='Florin'> |
+| 1278 | [3-bits](https://github.com/3-bits) | 7 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3742783?v=3&s=64' width="64" title='3bits'> |
+| 1279 | [eloipuertas](https://github.com/eloipuertas) | 7 | 33 | C# | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2512084?v=3&s=64' width="64" title='Eloi Puertas'> |
+| 1280 | [gyarmatigina](https://github.com/gyarmatigina) | 7 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9539015?v=3&s=64' width="64" title='Georgina'> |
+| 1281 | [danislav](https://github.com/danislav) | 7 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3686022?v=3&s=64' width="64" title='Danislav'> |
+| 1282 | [oriolpuig](https://github.com/oriolpuig) | 7 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3933098?v=3&s=64' width="64" title='Oriol Puig'> |
+| 1283 | [vmolina](https://github.com/vmolina) | 7 | 0 | Python and JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2224037?v=3&s=64' width="64" title='Víctor Manuel'> |
+| 1284 | [iamyellow](https://github.com/iamyellow) | 7 | 157 | Objective-C | barcelona | <img src='https://avatars3.githubusercontent.com/u/726613?v=3&s=64' width="64" title='jordi domenech'> |
+| 1285 | [ajaysmurthy](https://github.com/ajaysmurthy) | 7 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1675483?v=3&s=64' width="64" title='Ajay Srinivasamurthy'> |
+| 1286 | [fvillalbacar](https://github.com/fvillalbacar) | 7 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/582646?v=3&s=400' width="64" title=''> |
+| 1287 | [AlfonsoMestres](https://github.com/AlfonsoMestres) | 6 | 0 | Groovy and Java | Spain, Barcelona | <img src='https://avatars0.githubusercontent.com/u/8267863?v=3&s=64' width="64" title='Alfonso'> |
+| 1288 | [fazerbcn](https://github.com/fazerbcn) | 6 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5500208?v=3&s=64' width="64" title='Pau Ruiz'> |
+| 1289 | [coDaniele](https://github.com/coDaniele) | 6 | 1 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10588486?v=3&s=64' width="64" title='Daniele T'> |
+| 1290 | [juanmamg](https://github.com/juanmamg) | 6 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8617386?v=3&s=64' width="64" title='Juan Manuel Mayén Gijón'> |
+| 1291 | [albertvp](https://github.com/albertvp) | 6 | 1 | JavaScript | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/1481710?v=3&s=64' width="64" title='Albert Vilà Picas'> |
+| 1292 | [bia](https://github.com/bia) | 6 | 4 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/92439?v=3&s=64' width="64" title='bianca cheng costanzo'> |
+| 1293 | [xavi](https://github.com/xavi) | 6 | 150 | Clojure and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1649?v=3&s=64' width="64" title='Xavi Caballé'> |
+| 1294 | [alvarovdt](https://github.com/alvarovdt) | 6 | 0 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/7859151?v=3&s=64' width="64" title='Alvaro Vincens'> |
+| 1295 | [sTorro](https://github.com/sTorro) | 6 | 8 | Java and C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2399160?v=3&s=64' width="64" title='Sergio Torró'> |
+| 1296 | [dtiburon](https://github.com/dtiburon) | 6 | 1 | CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2976499?v=3&s=64' width="64" title='Aleta Dunne'> |
+| 1297 | [valoresymarketing](https://github.com/valoresymarketing) | 6 | 0 | HTML and CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11901217?v=3&s=64' width="64" title='Valores y Marketing'> |
+| 1298 | [klarakucerova](https://github.com/klarakucerova) | 6 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4664405?v=3&s=64' width="64" title='klara'> |
+| 1299 | [jpamies](https://github.com/jpamies) | 6 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1199274?v=3&s=64' width="64" title='Jordi Pamies'> |
+| 1300 | [saimonmoore](https://github.com/saimonmoore) | 6 | 162 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/494?v=3&s=64' width="64" title='Saimon Moore'> |
+| 1301 | [lcalvofl](https://github.com/lcalvofl) | 6 | 0 | HTML | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6522836?v=3&s=64' width="64" title='Luz'> |
+| 1302 | [tammymendt](https://github.com/tammymendt) | 6 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6864685?v=3&s=64' width="64" title='Tamara'> |
+| 1303 | [igochan](https://github.com/igochan) | 6 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3603566?v=3&s=64' width="64" title=''> |
+| 1304 | [ondono](https://github.com/ondono) | 6 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1643836?v=3&s=64' width="64" title='Xavi Ondoño'> |
+| 1305 | [mserrate](https://github.com/mserrate) | 6 | 12 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1199073?v=3&s=64' width="64" title='Marçal Serrate'> |
+| 1306 | [klander](https://github.com/klander) | 6 | 0 | Makefile | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2973711?v=3&s=64' width="64" title='klander'> |
+| 1307 | [llorensr](https://github.com/llorensr) | 6 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10452992?v=3&s=64' width="64" title='Ricard'> |
+| 1308 | [jcarlosrga](https://github.com/jcarlosrga) | 6 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11310246?v=3&s=64' width="64" title='Carlos'> |
+| 1309 | [manelvelasco](https://github.com/manelvelasco) | 6 | 7 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/965128?v=3&s=64' width="64" title='Manel Velasco'> |
+| 1310 | [marcobrador](https://github.com/marcobrador) | 6 | 0 | HTML and Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/11644631?v=3&s=64' width="64" title='Marc Obrador'> |
+| 1311 | [kiquecr](https://github.com/kiquecr) | 6 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8258732?v=3&s=64' width="64" title='Enrique Cruz'> |
+| 1312 | [nuriabelloc](https://github.com/nuriabelloc) | 6 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10877590?v=3&s=64' width="64" title='Núria Belloc'> |
+| 1313 | [igorline](https://github.com/igorline) | 6 | 3 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1465430?v=3&s=64' width="64" title='Igor Line'> |
+| 1314 | [jferna57](https://github.com/jferna57) | 6 | 23 | Java | Spain, barcelona | <img src='https://avatars0.githubusercontent.com/u/409297?v=3&s=64' width="64" title='Juan C. Fernández'> |
+| 1315 | [pasqpy](https://github.com/pasqpy) | 6 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7571953?v=3&s=64' width="64" title='bukuo'> |
+| 1316 | [juanramon](https://github.com/juanramon) | 6 | 11 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/296442?v=3&s=64' width="64" title='Juan Ramón Díaz'> |
+| 1317 | [neburs](https://github.com/neburs) | 6 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2298637?v=3&s=64' width="64" title='Ruben Vasallo'> |
+| 1318 | [adanlobato](https://github.com/adanlobato) | 6 | 52 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/626645?v=3&s=64' width="64" title='Adán Lobato'> |
+| 1319 | [dvpablo](https://github.com/dvpablo) | 6 | 0 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/378521?v=3&s=64' width="64" title='Pablo del Vecchio'> |
+| 1320 | [gpascual](https://github.com/gpascual) | 6 | 0 | PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/609114?v=3&s=64' width="64" title='Gonzalo'> |
+| 1321 | [David-Gil](https://github.com/David-Gil) | 6 | 0 | Ruby | Barcelona (Catalonia) | <img src='https://avatars0.githubusercontent.com/u/1552663?v=3&s=64' width="64" title='David Gil'> |
+| 1322 | [luskaner](https://github.com/luskaner) | 6 | 0 | PHP and Python | L'Hospitalet de llobregat, Barcelona, Catalonia, Spain | <img src='https://avatars2.githubusercontent.com/u/1903842?v=3&s=64' width="64" title='David Fernández Aldana'> |
+| 1323 | [egirona](https://github.com/egirona) | 6 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7857898?v=3&s=64' width="64" title='Enric Girona'> |
+| 1324 | [Necseron](https://github.com/Necseron) | 6 | 1 | JavaScript and CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2774617?v=3&s=64' width="64" title=''> |
+| 1325 | [OutliersCollective](https://github.com/OutliersCollective) | 6 | 10 | Python | Madrid & Barcelona | <img src='https://avatars3.githubusercontent.com/u/2727105?v=3&s=64' width="64" title='Outliers Collective'> |
+| 1326 | [txuslee](https://github.com/txuslee) | 6 | 1 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1123036?v=3&s=64' width="64" title='Jesús Liarte'> |
+| 1327 | [cgpijuan](https://github.com/cgpijuan) | 6 | 0 | R and HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/12397209?v=3&s=64' width="64" title='Carmen'> |
+| 1328 | [kerojohan](https://github.com/kerojohan) | 6 | 3 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6629491?v=3&s=64' width="64" title='Johan'> |
+| 1329 | [mindula](https://github.com/mindula) | 6 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1764493?v=3&s=64' width="64" title='Ricard'> |
+| 1330 | [jparera](https://github.com/jparera) | 6 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1420988?v=3&s=64' width="64" title='Joan Parera'> |
+| 1331 | [josendf](https://github.com/josendf) | 6 | 0 | C++ | Barcelona, Spain. | <img src='https://avatars0.githubusercontent.com/u/341627?v=3&s=64' width="64" title='José Enrique De Fabriziis'> |
+| 1332 | [johnbarca](https://github.com/johnbarca) | 6 | 0 | VimL | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1277511?v=3&s=64' width="64" title='John Powell'> |
+| 1333 | [rogererill](https://github.com/rogererill) | 6 | 1 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1402183?v=3&s=64' width="64" title='Roger Erill Carrera'> |
+| 1334 | [golive](https://github.com/golive) | 6 | 70 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/49968?v=3&s=64' width="64" title='Gerbert Olivé Vázquez'> |
+| 1335 | [david-java](https://github.com/david-java) | 6 | 1 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6009770?v=3&s=64' width="64" title='David Bayo'> |
+| 1336 | [valldu](https://github.com/valldu) | 6 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9533486?v=3&s=64' width="64" title='Pere Vallduriola Tordera'> |
+| 1337 | [juanangosto](https://github.com/juanangosto) | 6 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/753591?v=3&s=64' width="64" title='Juan Angosto'> |
+| 1338 | [vguardiola](https://github.com/vguardiola) | 6 | 1 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/572270?v=3&s=64' width="64" title='Victor Guardiola'> |
+| 1339 | [hughesevoanth](https://github.com/hughesevoanth) | 6 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/12117140?v=3&s=64' width="64" title='David Hughes'> |
+| 1340 | [riverole](https://github.com/riverole) | 6 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4833422?v=3&s=64' width="64" title='Marc Rivero'> |
+| 1341 | [MobilitylabPatchs](https://github.com/MobilitylabPatchs) | 6 | 1 | Processing and Pure Data | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9672677?v=3&s=64' width="64" title='Mobilitylab'> |
+| 1342 | [marduke182](https://github.com/marduke182) | 6 | 1 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1311781?v=3&s=64' width="64" title='Jesus Quintana'> |
+| 1343 | [xava3000](https://github.com/xava3000) | 5 | 1 | Python and JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8089072?v=3&s=64' width="64" title='Xavier Valencia'> |
+| 1344 | [joseraya](https://github.com/joseraya) | 5 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/228136?v=3&s=64' width="64" title='Jose Raya'> |
+| 1345 | [landtax](https://github.com/landtax) | 5 | 5 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/14675?v=3&s=64' width="64" title='Santi Bel'> |
+| 1346 | [jcapde87](https://github.com/jcapde87) | 5 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4015373?v=3&s=64' width="64" title='Joan Capdevila Pujol'> |
+| 1347 | [cramrov](https://github.com/cramrov) | 5 | 9 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1868162?v=3&s=64' width="64" title='Marc'> |
+| 1348 | [ntpetrov](https://github.com/ntpetrov) | 5 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10064387?v=3&s=64' width="64" title='Nikolay Petrov'> |
+| 1349 | [Contrastat](https://github.com/Contrastat) | 5 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9589870?v=3&s=64' width="64" title='Federico Todeschini'> |
+| 1350 | [0xroot](https://github.com/0xroot) | 5 | 58 | C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/652946?v=3&s=64' width="64" title='Sebastián Guerrero'> |
+| 1351 | [ejmeij](https://github.com/ejmeij) | 5 | 53 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/226193?v=3&s=64' width="64" title='Edgar Meij'> |
+| 1352 | [YoannLeGoff](https://github.com/YoannLeGoff) | 5 | 1 |  | Barcelona, Catalunya | <img src='https://avatars3.githubusercontent.com/u/462752?v=3&s=64' width="64" title='Yoann'> |
+| 1353 | [agraciabona](https://github.com/agraciabona) | 5 | 0 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10224389?v=3&s=64' width="64" title='Alfred'> |
+| 1354 | [camilb](https://github.com/camilb) | 5 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/2655869?v=3&s=64' width="64" title='Camil'> |
+| 1355 | [jaguilamartinez](https://github.com/jaguilamartinez) | 5 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5834724?v=3&s=64' width="64" title='Juan Águila'> |
+| 1356 | [fjavier-moreno](https://github.com/fjavier-moreno) | 5 | 0 | PHP and JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4962941?v=3&s=64' width="64" title='Francisco Javier'> |
+| 1357 | [jrom](https://github.com/jrom) | 5 | 77 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9952?v=3&s=64' width="64" title='Jordi Romero'> |
+| 1358 | [silviamajo](https://github.com/silviamajo) | 5 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10601538?v=3&s=64' width="64" title='Sílvia Majó-Vázquez'> |
+| 1359 | [viktors](https://github.com/viktors) | 5 | 11 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3460?v=3&s=64' width="64" title='Viktors Rotanovs'> |
+| 1360 | [rbartolomeirb](https://github.com/rbartolomeirb) | 5 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11505130?v=3&s=64' width="64" title='Roberto Bartolomé'> |
+| 1361 | [pablomoreno61](https://github.com/pablomoreno61) | 5 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1022072?v=3&s=64' width="64" title='Pablo Moreno'> |
+| 1362 | [danielart](https://github.com/danielart) | 5 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4655428?v=3&s=64' width="64" title='danielo'> |
+| 1363 | [raulillana](https://github.com/raulillana) | 5 | 1 | PHP | 08016, Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1171669?v=3&s=64' width="64" title='Raul Illana'> |
+| 1364 | [raul-fornell](https://github.com/raul-fornell) | 5 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10996380?v=3&s=64' width="64" title='Raül Fornell'> |
+| 1365 | [revbuddylove](https://github.com/revbuddylove) | 5 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/917598?v=3&s=64' width="64" title='Buddy'> |
+| 1366 | [gpalomar](https://github.com/gpalomar) | 5 | 7 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3463553?v=3&s=64' width="64" title='Guillem Palomar'> |
+| 1367 | [tmelikoff](https://github.com/tmelikoff) | 5 | 0 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1068741?v=3&s=64' width="64" title='Tomas Melikoff'> |
+| 1368 | [vic-gonzi](https://github.com/vic-gonzi) | 5 | 0 | Java | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/3847934?v=3&s=64' width="64" title='Víctor González Irimia'> |
+| 1369 | [Gwillink](https://github.com/Gwillink) | 5 | 1 | Python | Barcelona, London, Amsterdam | <img src='https://avatars1.githubusercontent.com/u/6171766?v=3&s=64' width="64" title='Geeshan Willink'> |
+| 1370 | [sortegam](https://github.com/sortegam) | 5 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1799845?v=3&s=64' width="64" title='Sergi Ortega M.'> |
+| 1371 | [jcanocan](https://github.com/jcanocan) | 5 | 3 | Python and HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8182328?v=3&s=64' width="64" title='Javier Cano'> |
+| 1372 | [amelendres](https://github.com/amelendres) | 5 | 0 | PHP | BARCELONA | <img src='https://avatars3.githubusercontent.com/u/1708652?v=3&s=64' width="64" title='Alfredo Melendres'> |
+| 1373 | [pearnau](https://github.com/pearnau) | 5 | 0 |  | Barcelona, España | <img src='https://avatars2.githubusercontent.com/u/9002184?v=3&s=64' width="64" title='Pedro Arnau'> |
+| 1374 | [ianmonge](https://github.com/ianmonge) | 5 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/106659?v=3&s=64' width="64" title='Ian Monge'> |
+| 1375 | [sideround](https://github.com/sideround) | 5 | 31 | Objective-C and Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5286353?v=3&s=64' width="64" title='Isaac Rodríguez'> |
+| 1376 | [alexbarcelo](https://github.com/alexbarcelo) | 5 | 4 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/665750?v=3&s=64' width="64" title='Alex Barcelo'> |
+| 1377 | [christofdamian](https://github.com/christofdamian) | 5 | 42 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/175254?v=3&s=64' width="64" title='Christof Damian'> |
+| 1378 | [wayne-soldevila](https://github.com/wayne-soldevila) | 5 | 0 | R | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7281861?v=3&s=64' width="64" title='Guillem "Wayne" Soldevila'> |
+| 1379 | [yferro-axa](https://github.com/yferro-axa) | 5 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9529767?v=3&s=64' width="64" title=''> |
+| 1380 | [VashMKS](https://github.com/VashMKS) | 5 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11448427?v=3&s=64' width="64" title='Dídac Fernández Cadenas'> |
+| 1381 | [valoraccoon](https://github.com/valoraccoon) | 5 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10977479?v=3&s=64' width="64" title='Albert Valo'> |
+| 1382 | [emillano](https://github.com/emillano) | 5 | 0 | HTML and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/12773229?v=3&s=64' width="64" title=''> |
+| 1383 | [cochoa](https://github.com/cochoa) | 5 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10113917?v=3&s=64' width="64" title='Carlos Ochoa'> |
+| 1384 | [santivila](https://github.com/santivila) | 5 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5114830?v=3&s=64' width="64" title='Santi Vila'> |
+| 1385 | [Nirzhuk](https://github.com/Nirzhuk) | 5 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9424285?v=3&s=64' width="64" title=''> |
+| 1386 | [CescVilanova](https://github.com/CescVilanova) | 5 | 0 | Ruby | Madrid/Barcelona | <img src='https://avatars3.githubusercontent.com/u/5419391?v=3&s=64' width="64" title='Cesc Vilanova'> |
+| 1387 | [opengeekv2](https://github.com/opengeekv2) | 5 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/901282?v=3&s=64' width="64" title='Marc Mauri Alloza'> |
+| 1388 | [luisortizramos](https://github.com/luisortizramos) | 5 | 0 | PHP and Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5518704?v=3&s=64' width="64" title='Luis Ortiz Ramos'> |
+| 1389 | [gbarba](https://github.com/gbarba) | 5 | 6 | Python | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/1067155?v=3&s=64' width="64" title='Guillem Barba'> |
+| 1390 | [AnibalMG](https://github.com/AnibalMG) | 5 | 0 | Perl | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8254125?v=3&s=64' width="64" title='Anibal'> |
+| 1391 | [abertranb](https://github.com/abertranb) | 5 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/854229?v=3&s=64' width="64" title='Antoni Bertran'> |
+| 1392 | [stakewinner00](https://github.com/stakewinner00) | 5 | 0 | C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4865946?v=3&s=64' width="64" title='David'> |
+| 1393 | [jnogues](https://github.com/jnogues) | 5 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2345664?v=3&s=64' width="64" title='Jaume Nogues'> |
+| 1394 | [DaLN](https://github.com/DaLN) | 5 | 1 | Java | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1247106?v=3&s=64' width="64" title='Nelson MELINA'> |
+| 1395 | [albertlb](https://github.com/albertlb) | 5 | 0 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/264635?v=3&s=64' width="64" title='albert lozano bautista'> |
+| 1396 | [SntsDev](https://github.com/SntsDev) | 5 | 0 | C# | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4103411?v=3&s=64' width="64" title='SntsDev'> |
+| 1397 | [jsencianes](https://github.com/jsencianes) | 5 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3527899?v=3&s=64' width="64" title='Jero'> |
+| 1398 | [ealcaniz](https://github.com/ealcaniz) | 5 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10546058?v=3&s=64' width="64" title='Edu Alcañiz'> |
+| 1399 | [hermesite](https://github.com/hermesite) | 5 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1257145?v=3&s=64' width="64" title='hermesite'> |
+| 1400 | [ealch](https://github.com/ealch) | 5 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7937529?v=3&s=64' width="64" title='Eric Alvarez Chinchilla'> |
+| 1401 | [Rafaelars](https://github.com/Rafaelars) | 5 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6985377?v=3&s=64' width="64" title='Rafael Rivas'> |
+| 1402 | [eltallerdiminuto](https://github.com/eltallerdiminuto) | 5 | 4 | Arduino | Sant Cugat del Vallès, Barcelona, Spain. | <img src='https://avatars0.githubusercontent.com/u/9981752?v=3&s=64' width="64" title='El taller diminuto'> |
+| 1403 | [enriqueto](https://github.com/enriqueto) | 5 | 0 | ActionScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5557196?v=3&s=64' width="64" title='Enriqueto'> |
+| 1404 | [nandosarachaga](https://github.com/nandosarachaga) | 5 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8392629?v=3&s=64' width="64" title='Fernando Sarachaga'> |
+| 1405 | [adv0r](https://github.com/adv0r) | 5 | 45 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/776957?v=3&s=64' width="64" title='Nicolò Paternoster'> |
+| 1406 | [ericsorgar](https://github.com/ericsorgar) | 5 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7170812?v=3&s=64' width="64" title='Eric Soria'> |
+| 1407 | [saravilella](https://github.com/saravilella) | 5 | 0 | GAP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11443721?v=3&s=64' width="64" title='Sara'> |
+| 1408 | [gcornejo](https://github.com/gcornejo) | 5 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1217652?v=3&s=64' width="64" title='Gustavo Cornejo'> |
+| 1409 | [nevillegallimore](https://github.com/nevillegallimore) | 5 | 0 | C# | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/11392718?v=3&s=64' width="64" title='Neville Gallimore'> |
+| 1410 | [marcelopereirascmspain](https://github.com/marcelopereirascmspain) | 4 | 0 | JavaScript | barcelona | <img src='https://avatars3.githubusercontent.com/u/9739738?v=3&s=64' width="64" title='marcelo alves'> |
+| 1411 | [lhew](https://github.com/lhew) | 4 | 1 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1688424?v=3&s=64' width="64" title='Leonardo Marques'> |
+| 1412 | [garcia-marc](https://github.com/garcia-marc) | 4 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10058240?v=3&s=64' width="64" title='Marc'> |
+| 1413 | [ace](https://github.com/ace) | 4 | 2 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3958?v=3&s=64' width="64" title='Andrés Cirugeda'> |
+| 1414 | [juanre](https://github.com/juanre) | 4 | 92 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/132608?v=3&s=64' width="64" title='Juan Reyero'> |
+| 1415 | [xbaro](https://github.com/xbaro) | 4 | 2 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1412358?v=3&s=64' width="64" title='Xavier Baró'> |
+| 1416 | [joffrevillanueva](https://github.com/joffrevillanueva) | 4 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7682266?v=3&s=64' width="64" title='Joffre Villanueva'> |
+| 1417 | [gabrielboucher](https://github.com/gabrielboucher) | 4 | 0 | Objective-C and Ruby | Quebec/Barcelona | <img src='https://avatars1.githubusercontent.com/u/2014376?v=3&s=64' width="64" title='Gabriel Boucher'> |
+| 1418 | [CarlosCarrera](https://github.com/CarlosCarrera) | 4 | 0 | Objective-C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6062563?v=3&s=64' width="64" title='Carlos Carrer'> |
+| 1419 | [Astarta21](https://github.com/Astarta21) | 4 | 0 | Arduino and C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8118883?v=3&s=64' width="64" title='Nuria'> |
+| 1420 | [fariasweb](https://github.com/fariasweb) | 4 | 6 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1078014?v=3&s=64' width="64" title='Francisco Javier Arias'> |
+| 1421 | [msteghofer](https://github.com/msteghofer) | 4 | 12 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/722917?v=3&s=64' width="64" title=''> |
+| 1422 | [Z-13](https://github.com/Z-13) | 4 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/229530?v=3&s=64' width="64" title='Yura'> |
+| 1423 | [permanyer](https://github.com/permanyer) | 4 | 1 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1831526?v=3&s=64' width="64" title='Marc'> |
+| 1424 | [jrey1977](https://github.com/jrey1977) | 4 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8487611?v=3&s=64' width="64" title='Javier'> |
+| 1425 | [ikkaro](https://github.com/ikkaro) | 4 | 1 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/46324?v=3&s=64' width="64" title='Isaak'> |
+| 1426 | [xavieraijon](https://github.com/xavieraijon) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/568658?v=3&s=64' width="64" title='Xavier Aijon'> |
+| 1427 | [xeeevi](https://github.com/xeeevi) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2446100?v=3&s=64' width="64" title='Xavier'> |
+| 1428 | [hunter-digi-ace](https://github.com/hunter-digi-ace) | 4 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10465361?v=3&s=64' width="64" title='Hunter Digi Ace'> |
+| 1429 | [lopezalb](https://github.com/lopezalb) | 4 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6259228?v=3&s=64' width="64" title='Albert Lopez'> |
+| 1430 | [msarmengol](https://github.com/msarmengol) | 4 | 1 | R | Barcelona -Spain | <img src='https://avatars3.githubusercontent.com/u/7071648?v=3&s=64' width="64" title='marina'> |
+| 1431 | [DaniCea](https://github.com/DaniCea) | 4 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3898723?v=3&s=64' width="64" title='Dani'> |
+| 1432 | [cescobedo](https://github.com/cescobedo) | 4 | 0 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1827228?v=3&s=64' width="64" title='Carlos'> |
+| 1433 | [MeZKaL](https://github.com/MeZKaL) | 4 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/461880?v=3&s=64' width="64" title='Jordi Piqueras'> |
+| 1434 | [fxescandell](https://github.com/fxescandell) | 4 | 0 | CSS | Mataró - Barcelona | <img src='https://avatars2.githubusercontent.com/u/10736466?v=3&s=64' width="64" title='fxescandell'> |
+| 1435 | [EHMLP](https://github.com/EHMLP) | 4 | 0 | HTML | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10907799?v=3&s=64' width="64" title='Elena H Martinez-Lapiscina'> |
+| 1436 | [sparrowgames](https://github.com/sparrowgames) | 4 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9367140?v=3&s=64' width="64" title='Sparrow Games'> |
+| 1437 | [mmari](https://github.com/mmari) | 4 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7810529?v=3&s=64' width="64" title='Marc Marí-Dell'Olmo'> |
+| 1438 | [LynxBcn](https://github.com/LynxBcn) | 4 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3016219?v=3&s=64' width="64" title=''> |
+| 1439 | [javiertejero](https://github.com/javiertejero) | 4 | 3 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/964167?v=3&s=64' width="64" title='Javier Tejero'> |
+| 1440 | [rogersm](https://github.com/rogersm) | 4 | 4 | Common Lisp | Barcelona | <img src='https://avatars1.githubusercontent.com/u/40782?v=3&s=64' width="64" title='Roger Sen'> |
+| 1441 | [Neoshinji-](https://github.com/Neoshinji-) | 4 | 0 | JavaScript and CSS | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/8185533?v=3&s=64' width="64" title='Neoshinji'> |
+| 1442 | [seventhseeker](https://github.com/seventhseeker) | 4 | 1 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1076699?v=3&s=64' width="64" title='David Marco'> |
+| 1443 | [avizcaino-newuibcn](https://github.com/avizcaino-newuibcn) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9590299?v=3&s=64' width="64" title='Alex Vizcaino'> |
+| 1444 | [lau27](https://github.com/lau27) | 4 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4275542?v=3&s=64' width="64" title='Laura'> |
+| 1445 | [narcisbcn](https://github.com/narcisbcn) | 4 | 4 | Puppet | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1496255?v=3&s=64' width="64" title='Narcis Pillao'> |
+| 1446 | [MiguelPF](https://github.com/MiguelPF) | 4 | 4 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1163236?v=3&s=64' width="64" title=''> |
+| 1447 | [carloscuesta](https://github.com/carloscuesta) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7629661?v=3&s=64' width="64" title='Carlos Cuesta'> |
+| 1448 | [casasin](https://github.com/casasin) | 4 | 7 | Python and Makefile | Barcelona/Santa Coloma de Queralt | <img src='https://avatars0.githubusercontent.com/u/1898042?v=3&s=64' width="64" title='Joancarles Casasin'> |
+| 1449 | [slowmountain](https://github.com/slowmountain) | 4 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7250011?v=3&s=64' width="64" title='Panos Papiotis'> |
+| 1450 | [mvazquezs](https://github.com/mvazquezs) | 4 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6748339?v=3&s=64' width="64" title='Miquel Vázquez-Santiago'> |
+| 1451 | [HimmelEs](https://github.com/HimmelEs) | 4 | 0 | CSS | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9272889?v=3&s=64' width="64" title='Himmel.es'> |
+| 1452 | [jrleonr](https://github.com/jrleonr) | 4 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/333915?v=3&s=64' width="64" title='José León'> |
+| 1453 | [thomasgallagher](https://github.com/thomasgallagher) | 4 | 8 | Ruby and Objective-C | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/11466?v=3&s=64' width="64" title='Tom Gallagher'> |
+| 1454 | [uncledrella](https://github.com/uncledrella) | 4 | 0 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/39346?v=3&s=64' width="64" title='Miguel Nicolás'> |
+| 1455 | [ahfeel](https://github.com/ahfeel) | 4 | 13 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/43286?v=3&s=64' width="64" title='Jérémie BORDIER'> |
+| 1456 | [cristobalcastilla](https://github.com/cristobalcastilla) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1233694?v=3&s=64' width="64" title='cristobalcastilla'> |
+| 1457 | [JuanmaGonzalez](https://github.com/JuanmaGonzalez) | 4 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3531285?v=3&s=64' width="64" title='Juanma González'> |
+| 1458 | [aeony](https://github.com/aeony) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1328809?v=3&s=64' width="64" title='Eric López'> |
+| 1459 | [madebyivan](https://github.com/madebyivan) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/242960?v=3&s=64' width="64" title='Madebyivan'> |
+| 1460 | [bbwebconsult](https://github.com/bbwebconsult) | 4 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7089997?v=3&s=64' width="64" title='Benoit Boure'> |
+| 1461 | [danielcuervo](https://github.com/danielcuervo) | 4 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1816523?v=3&s=64' width="64" title='Daniel'> |
+| 1462 | [gusbueno](https://github.com/gusbueno) | 4 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10807406?v=3&s=64' width="64" title='Gustavo Bueno'> |
+| 1463 | [anfont](https://github.com/anfont) | 4 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/2479815?v=3&s=64' width="64" title='AFontana'> |
+| 1464 | [plitex](https://github.com/plitex) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2946823?v=3&s=64' width="64" title='Miguel Mejias'> |
+| 1465 | [mixmastertube](https://github.com/mixmastertube) | 4 | 0 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/81303?v=3&s=64' width="64" title='Pau'> |
+| 1466 | [D3r3ck](https://github.com/D3r3ck) | 4 | 11 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2804767?v=3&s=64' width="64" title='Alfons Foubert'> |
+| 1467 | [laurafg](https://github.com/laurafg) | 4 | 0 |  | Asturias / Barcelona | <img src='https://avatars0.githubusercontent.com/u/7414566?v=3&s=64' width="64" title='Laura'> |
+| 1468 | [rjsewell](https://github.com/rjsewell) | 4 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1466498?v=3&s=64' width="64" title='Rob Sewell'> |
+| 1469 | [luigdima](https://github.com/luigdima) | 4 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2600683?v=3&s=64' width="64" title='Luis Ignacio Díaz Martínez'> |
+| 1470 | [Jsantive88](https://github.com/Jsantive88) | 4 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2378653?v=3&s=64' width="64" title='Jorge'> |
+| 1471 | [juancarlosvinas](https://github.com/juancarlosvinas) | 4 | 0 | CSS | Vilassar de Mar, barcelona | <img src='https://avatars1.githubusercontent.com/u/3409336?v=3&s=64' width="64" title='Juan Carlos'> |
+| 1472 | [Malkitti](https://github.com/Malkitti) | 4 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7301054?v=3&s=64' width="64" title='ARUN KUMAR'> |
+| 1473 | [harryngh](https://github.com/harryngh) | 4 | 2 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3537196?v=3&s=64' width="64" title='harryngh'> |
+| 1474 | [tehanuyor](https://github.com/tehanuyor) | 4 | 0 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/650986?v=3&s=64' width="64" title='Yolanda Ordóñez Rufat'> |
+| 1475 | [sitamet](https://github.com/sitamet) | 4 | 15 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/393011?v=3&s=64' width="64" title='Joan'> |
+| 1476 | [thebestpol](https://github.com/thebestpol) | 4 | 1 | Groovy and Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1909075?v=3&s=64' width="64" title='Pol Gómez Guerrero'> |
+| 1477 | [shake729](https://github.com/shake729) | 4 | 0 | Java and C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7774048?v=3&s=64' width="64" title='Albert'> |
+| 1478 | [JoseManuelPerezSevilla](https://github.com/JoseManuelPerezSevilla) | 4 | 2 | JavaScript | Santa Coloma de Gramenet, Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/1801389?v=3&s=64' width="64" title='José Manuel Pérez Sevilla'> |
+| 1479 | [MaDDoGo](https://github.com/MaDDoGo) | 4 | 21 | Python | Sabadell (Barcelona) | <img src='https://avatars2.githubusercontent.com/u/446666?v=3&s=64' width="64" title='Enric Soler Rastrollo'> |
+| 1480 | [javierlobra](https://github.com/javierlobra) | 4 | 0 | TeX | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6871122?v=3&s=64' width="64" title='Javier López'> |
+| 1481 | [enricjuan](https://github.com/enricjuan) | 4 | 0 | HTML and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7773670?v=3&s=64' width="64" title='Enric Juan'> |
+| 1482 | [SergioGimenezG1](https://github.com/SergioGimenezG1) | 4 | 1 | Shell and Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9348785?v=3&s=64' width="64" title='Sergio Gimenez Garcia'> |
+| 1483 | [paumiau](https://github.com/paumiau) | 4 | 0 | PHP | barcelona | <img src='https://avatars3.githubusercontent.com/u/6238608?v=3&s=64' width="64" title='pau gonzalez'> |
+| 1484 | [llKoull](https://github.com/llKoull) | 4 | 0 | Objective-C and Ruby | Vallseca 8, 08024 Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5525265?v=3&s=64' width="64" title='Raúl Vidal Muiños'> |
+| 1485 | [hstojic](https://github.com/hstojic) | 4 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6740210?v=3&s=64' width="64" title='Hrvoje Stojic'> |
+| 1486 | [mgdiez](https://github.com/mgdiez) | 4 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9119829?v=3&s=64' width="64" title='Marc González'> |
+| 1487 | [turbohz](https://github.com/turbohz) | 4 | 4 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/61641?v=3&s=64' width="64" title='Gerard Ruiz'> |
+| 1488 | [lulacourt](https://github.com/lulacourt) | 4 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9520946?v=3&s=64' width="64" title='Lourdes Alejandra Hernández Bethencourt'> |
+| 1489 | [lgarciaes](https://github.com/lgarciaes) | 4 | 0 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6773433?v=3&s=64' width="64" title='Luis Garcia'> |
+| 1490 | [h02e56](https://github.com/h02e56) | 4 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1759472?v=3&s=64' width="64" title='h02e56'> |
+| 1491 | [cristina-elespacio](https://github.com/cristina-elespacio) | 4 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7766296?v=3&s=64' width="64" title='Cristina'> |
+| 1492 | [lucasvc](https://github.com/lucasvc) | 4 | 0 | Shell and Java | Barcelona, Catalonia, Spain | <img src='https://avatars0.githubusercontent.com/u/1053448?v=3&s=64' width="64" title='Lucas Ventura Carro'> |
+| 1493 | [dukjb](https://github.com/dukjb) | 4 | 4 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1670462?v=3&s=64' width="64" title='jberni'> |
+| 1494 | [felipedelpozo](https://github.com/felipedelpozo) | 4 | 6 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/22426?v=3&s=64' width="64" title='Felipe del Pozo'> |
+| 1495 | [seojnet](https://github.com/seojnet) | 4 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11258468?v=3&s=64' width="64" title='Robert'> |
+| 1496 | [aperezg](https://github.com/aperezg) | 4 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/4472006?v=3&s=64' width="64" title='Adrian Perez'> |
+| 1497 | [game-abling](https://github.com/game-abling) | 3 | 0 | C++ and C | C/ Víctor Pradera 45, 08940 Cornellà del Llobregat (Barcelona), Spain | <img src='https://avatars3.githubusercontent.com/u/3540708?v=3&s=64' width="64" title='Game-Abling'> |
+| 1498 | [sergiwf](https://github.com/sergiwf) | 3 | 0 | JavaScript | barcelona | <img src='https://avatars3.githubusercontent.com/u/6949851?v=3&s=64' width="64" title='sergi'> |
+| 1499 | [Elixeus](https://github.com/Elixeus) | 3 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/12549052?v=3&s=64' width="64" title='Elixeus'> |
+| 1500 | [polmoneys](https://github.com/polmoneys) | 3 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7026863?v=3&s=64' width="64" title='pol'> |
+| 1501 | [ancoraDual](https://github.com/ancoraDual) | 3 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/544077?v=3&s=64' width="64" title='Sergi Garcia'> |
+| 1502 | [xmorales](https://github.com/xmorales) | 3 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2861076?v=3&s=64' width="64" title='Xavier Morales'> |
+| 1503 | [keexs](https://github.com/keexs) | 3 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9443802?v=3&s=64' width="64" title='David Soto'> |
+| 1504 | [Lucia-atrapalo](https://github.com/Lucia-atrapalo) | 3 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7579824?v=3&s=64' width="64" title='Lucía Jaraba'> |
+| 1505 | [Ismar11](https://github.com/Ismar11) | 3 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8707051?v=3&s=64' width="64" title='Luis MG'> |
+| 1506 | [joaoqalves](https://github.com/joaoqalves) | 3 | 17 | Ruby | Barcelona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/843454?v=3&s=64' width="64" title='João Alves'> |
+| 1507 | [lluisgarcia](https://github.com/lluisgarcia) | 3 | 4 | C++ | Sabadell (Barcelona, Spain) | <img src='https://avatars2.githubusercontent.com/u/6137127?v=3&s=64' width="64" title='Lluis Garcia'> |
+| 1508 | [jcarrasko](https://github.com/jcarrasko) | 3 | 3 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1558631?v=3&s=64' width="64" title='Jose Carrasco'> |
+| 1509 | [guillemhs](https://github.com/guillemhs) | 3 | 15 | JavaScript | Southport (UK) / Barcelona (CAT) | <img src='https://avatars3.githubusercontent.com/u/652362?v=3&s=64' width="64" title='Guillem'> |
+| 1510 | [maartenklijnstra](https://github.com/maartenklijnstra) | 3 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5655874?v=3&s=64' width="64" title='Maarten Klijnstra'> |
+| 1511 | [sailens](https://github.com/sailens) | 3 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7223043?v=3&s=64' width="64" title='Pau'> |
+| 1512 | [cristiangauma](https://github.com/cristiangauma) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1321112?v=3&s=64' width="64" title='Cristian Gauxachs Marin'> |
+| 1513 | [physense](https://github.com/physense) | 3 | 0 | C++ | Carrer de Tànger, 122 Universitat Pompeu Fabra, UPF Campus de la Comunicacion Poblenou 08018 Barcelona | <img src='https://avatars1.githubusercontent.com/u/10921407?v=3&s=64' width="64" title='PhySense'> |
+| 1514 | [valls](https://github.com/valls) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7370374?v=3&s=64' width="64" title='Albert'> |
+| 1515 | [mj33chen](https://github.com/mj33chen) | 3 | 0 | C++ | Barcelona Spain | <img src='https://avatars2.githubusercontent.com/u/3289830?v=3&s=64' width="64" title='Mingjian Chen'> |
+| 1516 | [bunkenburg](https://github.com/bunkenburg) | 3 | 6 | Java and Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/806861?v=3&s=64' width="64" title='Alexander Bunkenburg'> |
+| 1517 | [daniggcc](https://github.com/daniggcc) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11554954?v=3&s=64' width="64" title='Daniel Garcia-Castellanos'> |
+| 1518 | [JuanGaleano](https://github.com/JuanGaleano) | 3 | 4 | R | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/8982285?v=3&s=64' width="64" title='Juan Galeano'> |
+| 1519 | [Hyunk3l](https://github.com/Hyunk3l) | 3 | 3 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/754861?v=3&s=64' width="64" title='Fabri Di Napoli'> |
+| 1520 | [ekros](https://github.com/ekros) | 3 | 2 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/4777759?v=3&s=64' width="64" title='Eric Ros'> |
+| 1521 | [dulce-delarosa](https://github.com/dulce-delarosa) | 3 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1457843?v=3&s=64' width="64" title='Dulce'> |
+| 1522 | [AlejandroMoran](https://github.com/AlejandroMoran) | 3 | 0 | C++ | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1541798?v=3&s=64' width="64" title='Alejandro Morán'> |
+| 1523 | [mandorra](https://github.com/mandorra) | 3 | 0 | Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/249248?v=3&s=64' width="64" title='Magí Andorrà'> |
+| 1524 | [rodicafazakas](https://github.com/rodicafazakas) | 3 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11833084?v=3&s=64' width="64" title='Rodica'> |
+| 1525 | [lasarux](https://github.com/lasarux) | 3 | 59 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/153807?v=3&s=64' width="64" title='Pedro Gracia'> |
+| 1526 | [coopeu](https://github.com/coopeu) | 3 | 0 | Ruby | Barcelona CATALONIA | <img src='https://avatars1.githubusercontent.com/u/11516172?v=3&s=64' width="64" title='Ferran Cabrer i Vilagut'> |
+| 1527 | [Pcummings](https://github.com/Pcummings) | 3 | 0 | Shell | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/6900289?v=3&s=64' width="64" title='Peter Cummings'> |
+| 1528 | [manuelljb](https://github.com/manuelljb) | 3 | 0 | CSS and PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/886182?v=3&s=64' width="64" title='Manuel Lucas Jurado Baños'> |
+| 1529 | [germanmunuera](https://github.com/germanmunuera) | 3 | 0 | R | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/7280377?v=3&s=64' width="64" title='Germán Munuera'> |
+| 1530 | [g3rard](https://github.com/g3rard) | 3 | 54 | Arduino | barcelona | <img src='https://avatars2.githubusercontent.com/u/4185677?v=3&s=64' width="64" title='gerard rubio'> |
+| 1531 | [isimus](https://github.com/isimus) | 3 | 0 | R | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8100462?v=3&s=64' width="64" title='Isidro'> |
+| 1532 | [miguelolmosscmspain](https://github.com/miguelolmosscmspain) | 3 | 0 | PHP | St. Cugat del Vallès ( Barcelona ) | <img src='https://avatars3.githubusercontent.com/u/10561221?v=3&s=64' width="64" title='Miguel Olmos'> |
+| 1533 | [jdlcgarcia](https://github.com/jdlcgarcia) | 3 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1725591?v=3&s=64' width="64" title='Juan de la Cruz García García'> |
+| 1534 | [laurapons](https://github.com/laurapons) | 3 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1275184?v=3&s=64' width="64" title='Laura'> |
+| 1535 | [vmucuge](https://github.com/vmucuge) | 3 | 2 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/8874372?v=3&s=64' width="64" title='Vinícius Mucugê'> |
+| 1536 | [jasuca](https://github.com/jasuca) | 3 | 17 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/575547?v=3&s=64' width="64" title='Jacob Sunol'> |
+| 1537 | [andyferris](https://github.com/andyferris) | 3 | 0 | C++ and C | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2974526?v=3&s=64' width="64" title='Andy Ferris'> |
+| 1538 | [rcruzper](https://github.com/rcruzper) | 3 | 1 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1263202?v=3&s=64' width="64" title='Raúl Cruz'> |
+| 1539 | [tricotrin](https://github.com/tricotrin) | 3 | 0 | Java and PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9289895?v=3&s=64' width="64" title='Dani Martí'> |
+| 1540 | [RafaelDeValencia](https://github.com/RafaelDeValencia) | 3 | 0 | C# | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6512351?v=3&s=64' width="64" title='Rafal Sebastian Kozlowski'> |
+| 1541 | [tomcask](https://github.com/tomcask) | 3 | 3 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/537921?v=3&s=64' width="64" title='Tomcask'> |
+| 1542 | [wakumaku](https://github.com/wakumaku) | 3 | 1 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/938022?v=3&s=64' width="64" title='Jordi Tarruella'> |
+| 1543 | [acar80](https://github.com/acar80) | 3 | 0 | R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9269887?v=3&s=64' width="64" title='Anna Carreras Coch'> |
+| 1544 | [isheba](https://github.com/isheba) | 3 | 0 | Ruby | Castelldefels (Barcelona) | <img src='https://avatars1.githubusercontent.com/u/11353192?v=3&s=64' width="64" title='Isaac Hernández Baizán'> |
+| 1545 | [libove](https://github.com/libove) | 3 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2027232?v=3&s=64' width="64" title='Jay Libove'> |
+| 1546 | [princeshahnawaz2012](https://github.com/princeshahnawaz2012) | 3 | 37 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1132976?v=3&s=64' width="64" title='Prince Shahnawaz'> |
+| 1547 | [jtorres](https://github.com/jtorres) | 3 | 1 | C# | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/283707?v=3&s=64' width="64" title='Jose Miguel Torres'> |
+| 1548 | [ejrope](https://github.com/ejrope) | 3 | 0 | Java | Barcelona (Catalonia - Spain) | <img src='https://avatars2.githubusercontent.com/u/3007892?v=3&s=64' width="64" title=''> |
+| 1549 | [NahuelIanni](https://github.com/NahuelIanni) | 3 | 0 | C# | Barcelona, Spain. | <img src='https://avatars1.githubusercontent.com/u/8545295?v=3&s=64' width="64" title='Nahuel Ianni'> |
+| 1550 | [alfonsofonso](https://github.com/alfonsofonso) | 3 | 2 | CSS and JavaScript | barcelona | <img src='https://avatars3.githubusercontent.com/u/327723?v=3&s=64' width="64" title='alfonsofonso'> |
+| 1551 | [luisnomad](https://github.com/luisnomad) | 3 | 9 | HTML | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1104132?v=3&s=64' width="64" title='Luis Serrano'> |
+| 1552 | [carlogarro](https://github.com/carlogarro) | 3 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10572188?v=3&s=64' width="64" title='Carlos'> |
+| 1553 | [jviladoms](https://github.com/jviladoms) | 3 | 0 | C# | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6716729?v=3&s=64' width="64" title='Jordi Viladoms Ferrandiz'> |
+| 1554 | [cabans](https://github.com/cabans) | 3 | 0 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1741464?v=3&s=64' width="64" title='Abel Cabans'> |
+| 1555 | [lcrasovan](https://github.com/lcrasovan) | 3 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5824381?v=3&s=64' width="64" title='Lucian Crasovan'> |
+| 1556 | [marcomsousa](https://github.com/marcomsousa) | 3 | 2 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1110889?v=3&s=64' width="64" title='Marco Sousa'> |
+| 1557 | [rudeworks](https://github.com/rudeworks) | 3 | 2 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/16442?v=3&s=400' width="64" title='Rude'> |
+| 1558 | [ssr1368](https://github.com/ssr1368) | 3 | 0 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/7687480?v=3&s=64' width="64" title='Sergi Subirats'> |
+| 1559 | [youchy](https://github.com/youchy) | 3 | 0 | Java and Groovy | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1357249?v=3&s=64' width="64" title='Carlos Muñoz Romero'> |
+| 1560 | [rodrigompaz](https://github.com/rodrigompaz) | 3 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11908891?v=3&s=64' width="64" title='Rodrigo'> |
+| 1561 | [juanvy03](https://github.com/juanvy03) | 3 | 0 | Perl | Terrassa, Barcelona. | <img src='https://avatars3.githubusercontent.com/u/9414127?v=3&s=64' width="64" title='Juan V. Maillo'> |
+| 1562 | [ftgalleg](https://github.com/ftgalleg) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11045820?v=3&s=64' width="64" title='Fran'> |
+| 1563 | [sergiomoreno](https://github.com/sergiomoreno) | 3 | 0 | C# | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11460303?v=3&s=64' width="64" title='Sergio Moreno'> |
+| 1564 | [damianrebolo](https://github.com/damianrebolo) | 3 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8086647?v=3&s=64' width="64" title='damian rebolo'> |
+| 1565 | [mnogue](https://github.com/mnogue) | 3 | 0 | C++ | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1314930?v=3&s=64' width="64" title='Marti-Joan Nogué Coll'> |
+| 1566 | [Jcestudio](https://github.com/Jcestudio) | 3 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8971777?v=3&s=64' width="64" title='Jordi Cuenca'> |
+| 1567 | [yaripodio](https://github.com/yaripodio) | 3 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9820753?v=3&s=64' width="64" title='Yari Podio'> |
+| 1568 | [mpalop](https://github.com/mpalop) | 3 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/240288?v=3&s=64' width="64" title='Manel Palop'> |
+| 1569 | [alejandromelis](https://github.com/alejandromelis) | 3 | 0 | C# | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1795442?v=3&s=64' width="64" title='Alejandro Melis Fernandez'> |
+| 1570 | [sp-roger-clotet](https://github.com/sp-roger-clotet) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6850397?v=3&s=64' width="64" title='Roger Clotet'> |
+| 1571 | [toliao](https://github.com/toliao) | 3 | 0 | Shell | barcelona,españa | <img src='https://avatars1.githubusercontent.com/u/6770958?v=3&s=64' width="64" title='toliao'> |
+| 1572 | [mikemaal](https://github.com/mikemaal) | 3 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7982748?v=3&s=64' width="64" title='Mike'> |
+| 1573 | [WiReD-](https://github.com/WiReD-) | 3 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1490077?v=3&s=64' width="64" title='Albert Vergés'> |
+| 1574 | [lluismnd](https://github.com/lluismnd) | 3 | 0 | Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6039986?v=3&s=64' width="64" title='Lluis Mnd'> |
+| 1575 | [Optimiza](https://github.com/Optimiza) | 3 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/829551?v=3&s=64' width="64" title='Marcos Hernandez'> |
+| 1576 | [santibernaldo](https://github.com/santibernaldo) | 3 | 0 | Objective-C and Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5587717?v=3&s=64' width="64" title='Santiago Ochoa Bernaldo de Quirós'> |
+| 1577 | [blastik](https://github.com/blastik) | 3 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3662083?v=3&s=64' width="64" title='David'> |
+| 1578 | [KTMarc](https://github.com/KTMarc) | 3 | 0 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7659485?v=3&s=64' width="64" title='Marc'> |
+| 1579 | [wtebbens](https://github.com/wtebbens) | 3 | 2 | PHP | Amsterdam/Barcelona | <img src='https://avatars2.githubusercontent.com/u/1379620?v=3&s=64' width="64" title='Wouter Tebbens'> |
+| 1580 | [kirian](https://github.com/kirian) | 3 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2373236?v=3&s=64' width="64" title='Kirian'> |
+| 1581 | [pablochacin](https://github.com/pablochacin) | 3 | 0 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/720259?v=3&s=64' width="64" title='pablochacin'> |
+| 1582 | [cotarelo2](https://github.com/cotarelo2) | 3 | 0 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3006563?v=3&s=64' width="64" title='Jorge Peña'> |
+| 1583 | [pattbcn](https://github.com/pattbcn) | 3 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8615592?v=3&s=64' width="64" title='Patricia'> |
+| 1584 | [txemaq](https://github.com/txemaq) | 3 | 0 | TypeScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8837071?v=3&s=64' width="64" title='Josep Ma. Ferrer'> |
+| 1585 | [chopperoon](https://github.com/chopperoon) | 3 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3185228?v=3&s=64' width="64" title='Simon Kelly'> |
+| 1586 | [UlisesFreitas](https://github.com/UlisesFreitas) | 3 | 5 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2497411?v=3&s=64' width="64" title='Ulises Freitas'> |
+| 1587 | [juguerre](https://github.com/juguerre) | 3 | 0 | Groovy | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3923030?v=3&s=64' width="64" title='Andrés'> |
+| 1588 | [marcelaulenbacher](https://github.com/marcelaulenbacher) | 3 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10868598?v=3&s=64' width="64" title='Marcel'> |
+| 1589 | [donfuxx](https://github.com/donfuxx) | 3 | 1 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8261416?v=3&s=64' width="64" title='Thomas Fuchs-Martin'> |
+| 1590 | [seifreed](https://github.com/seifreed) | 3 | 20 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1843119?v=3&s=64' width="64" title='Marc Rivero López'> |
+| 1591 | [ecesar](https://github.com/ecesar) | 3 | 0 | R | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6874128?v=3&s=64' width="64" title='Eduardo'> |
+| 1592 | [sergicase](https://github.com/sergicase) | 3 | 0 | Ruby | Barcelona , Spain | <img src='https://avatars1.githubusercontent.com/u/5587612?v=3&s=64' width="64" title='Sergi Case'> |
+| 1593 | [adcortes](https://github.com/adcortes) | 3 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/478657?v=3&s=64' width="64" title='Adriana'> |
+| 1594 | [ivannkf](https://github.com/ivannkf) | 3 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1236564?v=3&s=64' width="64" title='Ivan Nikolic'> |
+| 1595 | [czyzykowski](https://github.com/czyzykowski) | 3 | 1 | Python and Makefile | Barcelona | <img src='https://avatars3.githubusercontent.com/u/898339?v=3&s=64' width="64" title='Łukasz Czyżykowski'> |
+| 1596 | [soyoh](https://github.com/soyoh) | 3 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/147098?v=3&s=64' width="64" title='Alejandro hoyos'> |
+| 1597 | [jmcarne](https://github.com/jmcarne) | 3 | 4 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/718866?v=3&s=64' width="64" title='Josep Maria Carné'> |
+| 1598 | [sp-guillem-anguera](https://github.com/sp-guillem-anguera) | 3 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6795698?v=3&s=64' width="64" title='Guillem Anguera'> |
+| 1599 | [LegaultOs](https://github.com/LegaultOs) | 3 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1413190?v=3&s=64' width="64" title='Oscar'> |
+| 1600 | [enricsa](https://github.com/enricsa) | 3 | 0 | Ruby and Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/932044?v=3&s=64' width="64" title='Enric Sánchez'> |
+| 1601 | [cbr4yan](https://github.com/cbr4yan) | 3 | 0 | C | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9075942?v=3&s=64' width="64" title='Brayan'> |
+| 1602 | [LuisResco](https://github.com/LuisResco) | 3 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/6460676?v=3&s=64' width="64" title='Luis Resco'> |
+| 1603 | [andreparodi](https://github.com/andreparodi) | 3 | 1 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1334187?v=3&s=64' width="64" title='Andre Parodi'> |
+| 1604 | [njyx](https://github.com/njyx) | 3 | 2 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/99784?v=3&s=64' width="64" title='Steven Willmott'> |
+| 1605 | [pcs289](https://github.com/pcs289) | 3 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3842377?v=3&s=64' width="64" title='Pau de la Cuesta'> |
+| 1606 | [AEljarrat](https://github.com/AEljarrat) | 3 | 0 | Erlang | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2676771?v=3&s=64' width="64" title='Alberto Eljarrat'> |
+| 1607 | [jeromerader](https://github.com/jeromerader) | 2 | 0 | R | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/12232816?v=3&s=64' width="64" title='Jerome Rader'> |
+| 1608 | [victorgc81](https://github.com/victorgc81) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2830006?v=3&s=64' width="64" title='Víctor García'> |
+| 1609 | [jlpoveda](https://github.com/jlpoveda) | 2 | 4 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/191520?v=3&s=64' width="64" title='Jose Luis'> |
+| 1610 | [carnau](https://github.com/carnau) | 2 | 0 | VimL | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1808240?v=3&s=64' width="64" title='Carlos Arnau Ros'> |
+| 1611 | [LianaN](https://github.com/LianaN) | 2 | 0 | R | Spain (Barcelona) | <img src='https://avatars2.githubusercontent.com/u/11301976?v=3&s=64' width="64" title='Liana'> |
+| 1612 | [jeflopo](https://github.com/jeflopo) | 2 | 0 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/679512?v=3&s=64' width="64" title='Jesús'> |
+| 1613 | [MichaelGradek](https://github.com/MichaelGradek) | 2 | 0 | Makefile | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1625670?v=3&s=64' width="64" title='Michael Gradek'> |
+| 1614 | [jotacepea](https://github.com/jotacepea) | 2 | 0 | Puppet | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/4790173?v=3&s=64' width="64" title='jotacepea'> |
+| 1615 | [lorashield](https://github.com/lorashield) | 2 | 0 |  | Barcelona, Sapin | <img src='https://avatars0.githubusercontent.com/u/12642815?v=3&s=64' width="64" title='Lora Shield For Arduino'> |
+| 1616 | [pespinar](https://github.com/pespinar) | 2 | 0 | R | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/10965914?v=3&s=64' width="64" title='Pablo Espinar'> |
+| 1617 | [isaacbuch](https://github.com/isaacbuch) | 2 | 0 |  | Mataro, Barcelona | <img src='https://avatars1.githubusercontent.com/u/963050?v=3&s=64' width="64" title='Isaac Buch Pou'> |
+| 1618 | [nanusefue](https://github.com/nanusefue) | 2 | 1 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/907256?v=3&s=64' width="64" title='Esteban'> |
+| 1619 | [escanton](https://github.com/escanton) | 2 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4100890?v=3&s=64' width="64" title='Szergj Cantón'> |
+| 1620 | [oriolpujol](https://github.com/oriolpujol) | 2 | 6 | ASP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1985005?v=3&s=64' width="64" title='Oriol Pujol'> |
+| 1621 | [polmrtn](https://github.com/polmrtn) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6585607?v=3&s=64' width="64" title='Pol Martin'> |
+| 1622 | [sp-ricardo-amores](https://github.com/sp-ricardo-amores) | 2 | 1 | C# | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/6838924?v=3&s=64' width="64" title='Ricardo Amores Hernández'> |
+| 1623 | [ggiovinazzo](https://github.com/ggiovinazzo) | 2 | 0 | JavaScript and PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/437748?v=3&s=64' width="64" title='Gianluca Giovinazzo'> |
+| 1624 | [netmanito](https://github.com/netmanito) | 2 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2376481?v=3&s=64' width="64" title='Jacinto Calvo Sintes'> |
+| 1625 | [sebbcn](https://github.com/sebbcn) | 2 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2419643?v=3&s=64' width="64" title='Seb'> |
+| 1626 | [carlosrobles](https://github.com/carlosrobles) | 2 | 3 | Java | Manila - London - Barcelona | <img src='https://avatars0.githubusercontent.com/u/4185550?v=3&s=64' width="64" title=''> |
+| 1627 | [jaumefontal](https://github.com/jaumefontal) | 2 | 101 | JavaScript | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/2067753?v=3&s=64' width="64" title='Jaume Fontal'> |
+| 1628 | [ramonfmir](https://github.com/ramonfmir) | 2 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3001940?v=3&s=64' width="64" title='Ramon Fernández Mir'> |
+| 1629 | [AlexPereaDev](https://github.com/AlexPereaDev) | 2 | 0 | Swift | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10133295?v=3&s=64' width="64" title='Alex Perea'> |
+| 1630 | [joeromero](https://github.com/joeromero) | 2 | 1 | JavaScript | barcelona | <img src='https://avatars2.githubusercontent.com/u/1734320?v=3&s=64' width="64" title='joe romero'> |
+| 1631 | [sfdez](https://github.com/sfdez) | 2 | 0 |  | BARCELONA | <img src='https://avatars2.githubusercontent.com/u/3788340?v=3&s=64' width="64" title='Sergio'> |
+| 1632 | [daniroblesc](https://github.com/daniroblesc) | 2 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4210742?v=3&s=64' width="64" title='Dani'> |
+| 1633 | [Tarydium](https://github.com/Tarydium) | 2 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6092823?v=3&s=64' width="64" title='Felix'> |
+| 1634 | [xavib](https://github.com/xavib) | 2 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/176698?v=3&s=64' width="64" title='xavi blanch'> |
+| 1635 | [ireneesteban](https://github.com/ireneesteban) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/10144361?v=3&s=64' width="64" title='Irene Esteban'> |
+| 1636 | [pelayomendez](https://github.com/pelayomendez) | 2 | 49 | C++ | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1971236?v=3&s=64' width="64" title='Pelayo Méndez'> |
+| 1637 | [stefanc](https://github.com/stefanc) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/66746?v=3&s=64' width="64" title='Stefan Cosma'> |
+| 1638 | [alexgg-developer](https://github.com/alexgg-developer) | 2 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6780880?v=3&s=64' width="64" title='Alex García Giménez'> |
+| 1639 | [dvladek](https://github.com/dvladek) | 2 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/668788?v=3&s=64' width="64" title='Davide'> |
+| 1640 | [KabraBoja](https://github.com/KabraBoja) | 2 | 7 | Objective-C and Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/777780?v=3&s=64' width="64" title='Eloi Guzmán Cerón'> |
+| 1641 | [telenieko](https://github.com/telenieko) | 2 | 19 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10505?v=3&s=64' width="64" title='Marc Fargas'> |
+| 1642 | [juanfran-granados](https://github.com/juanfran-granados) | 2 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2051540?v=3&s=64' width="64" title='Juanfran'> |
+| 1643 | [ferranorriols](https://github.com/ferranorriols) | 2 | 2 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/947112?v=3&s=64' width="64" title='Ferran Orriols'> |
+| 1644 | [quiqu3](https://github.com/quiqu3) | 2 | 0 | C# | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1220571?v=3&s=64' width="64" title='Quique Martínez'> |
+| 1645 | [CAPTioner](https://github.com/CAPTioner) | 2 | 0 |  | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/8056030?v=3&s=64' width="64" title='Mario Carranza'> |
+| 1646 | [gienini](https://github.com/gienini) | 2 | 0 | Java | Vic (Barcelona) | <img src='https://avatars3.githubusercontent.com/u/4398125?v=3&s=64' width="64" title='gienini'> |
+| 1647 | [raimonesteve](https://github.com/raimonesteve) | 2 | 2 | Python | Vilafranca del Penedès. Barcelona | <img src='https://avatars2.githubusercontent.com/u/532018?v=3&s=64' width="64" title='Raimon Esteve'> |
+| 1648 | [arcadio-pando](https://github.com/arcadio-pando) | 2 | 0 | Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3006269?v=3&s=64' width="64" title='Arcadio'> |
+| 1649 | [alxmllr](https://github.com/alxmllr) | 2 | 0 | Objective-C and JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/789597?v=3&s=64' width="64" title='Alex Muller'> |
+| 1650 | [MontseRabassaB85](https://github.com/MontseRabassaB85) | 2 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7837583?v=3&s=64' width="64" title='Montse Rabassa'> |
+| 1651 | [MarcRamos](https://github.com/MarcRamos) | 2 | 0 | Shell | Barcelona, Cat | <img src='https://avatars1.githubusercontent.com/u/6389041?v=3&s=64' width="64" title='Marc'> |
+| 1652 | [marcostvz](https://github.com/marcostvz) | 2 | 1 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1872629?v=3&s=64' width="64" title='Marcos Estévez Martínez'> |
+| 1653 | [roneypc](https://github.com/roneypc) | 2 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8244020?v=3&s=64' width="64" title='Jorge Roberto Neyra'> |
+| 1654 | [maria19](https://github.com/maria19) | 2 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8068750?v=3&s=64' width="64" title='Maria'> |
+| 1655 | [juaniiton1](https://github.com/juaniiton1) | 2 | 1 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1563873?v=3&s=64' width="64" title='Joan Montagut Prim'> |
+| 1656 | [munnibhai](https://github.com/munnibhai) | 2 | 0 | PHP and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8547194?v=3&s=64' width="64" title=''> |
+| 1657 | [jonathanchacon](https://github.com/jonathanchacon) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3273588?v=3&s=64' width="64" title='Jonathan'> |
+| 1658 | [danif5](https://github.com/danif5) | 2 | 1 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1272862?v=3&s=64' width="64" title='Daniel'> |
+| 1659 | [albertca](https://github.com/albertca) | 2 | 6 | Python | Sabadell, Barcelona | <img src='https://avatars1.githubusercontent.com/u/91534?v=3&s=64' width="64" title='Albert Cervera i Areny'> |
+| 1660 | [Gatonevermind](https://github.com/Gatonevermind) | 2 | 2 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/6307323?v=3&s=64' width="64" title='Kevin Gato Maroto'> |
+| 1661 | [mm1group](https://github.com/mm1group) | 2 | 0 | Mathematica | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11147097?v=3&s=64' width="64" title=''> |
+| 1662 | [arg-vedder](https://github.com/arg-vedder) | 2 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4988158?v=3&s=64' width="64" title='Alejandro'> |
+| 1663 | [avillegasn](https://github.com/avillegasn) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2486539?v=3&s=64' width="64" title='Antonio Villegas'> |
+| 1664 | [asle85](https://github.com/asle85) | 2 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10634826?v=3&s=64' width="64" title='Elsa'> |
+| 1665 | [ocanamero](https://github.com/ocanamero) | 2 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2866154?v=3&s=64' width="64" title='Oscar Cañamero'> |
+| 1666 | [skptic](https://github.com/skptic) | 2 | 0 | Perl | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3192944?v=3&s=64' width="64" title='Evan Floden'> |
+| 1667 | [crosasmendoza](https://github.com/crosasmendoza) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10826685?v=3&s=64' width="64" title='Claudia Rosas'> |
+| 1668 | [iMobils](https://github.com/iMobils) | 2 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6673234?v=3&s=64' width="64" title='Mobile Application Development'> |
+| 1669 | [mlasala](https://github.com/mlasala) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2495419?v=3&s=64' width="64" title='Mariano Lasala'> |
+| 1670 | [jmquarck](https://github.com/jmquarck) | 2 | 1 | PHP | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1783299?v=3&s=64' width="64" title='Jordi Martinez'> |
+| 1671 | [egcastro](https://github.com/egcastro) | 2 | 0 | CSS | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1915140?v=3&s=64' width="64" title='Emiliano G. Castro'> |
+| 1672 | [jprojects](https://github.com/jprojects) | 2 | 1 | PHP | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1040782?v=3&s=64' width="64" title='Kim'> |
+| 1673 | [Vithozor](https://github.com/Vithozor) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2492030?v=3&s=64' width="64" title=''> |
+| 1674 | [arturh](https://github.com/arturh) | 2 | 8 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/81313?v=3&s=64' width="64" title='Artur Honzawa'> |
+| 1675 | [sitobcn82](https://github.com/sitobcn82) | 2 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1449204?v=3&s=64' width="64" title='Ruben Baraut'> |
+| 1676 | [quarkcode](https://github.com/quarkcode) | 2 | 0 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2664720?v=3&s=64' width="64" title='quarkcode'> |
+| 1677 | [letsbonus-gh](https://github.com/letsbonus-gh) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9464422?v=3&s=64' width="64" title='Letsbonus'> |
+| 1678 | [sounakdey](https://github.com/sounakdey) | 2 | 0 | Matlab and HTML | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/8640971?v=3&s=64' width="64" title='Sounak Dey'> |
+| 1679 | [AngelaFabregues](https://github.com/AngelaFabregues) | 2 | 2 | Java and Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10049835?v=3&s=64' width="64" title='Angela Fabregues'> |
+| 1680 | [DavidCana12](https://github.com/DavidCana12) | 2 | 0 | Java | barcelona | <img src='https://avatars2.githubusercontent.com/u/6430105?v=3&s=64' width="64" title='David'> |
+| 1681 | [rogermaza](https://github.com/rogermaza) | 2 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10484972?v=3&s=64' width="64" title='Roger'> |
+| 1682 | [migonz](https://github.com/migonz) | 2 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10757218?v=3&s=64' width="64" title='MiGueL'> |
+| 1683 | [NarcisDavins](https://github.com/NarcisDavins) | 2 | 0 | PHP and Puppet | Barcelona | <img src='https://avatars3.githubusercontent.com/u/593462?v=3&s=64' width="64" title='Narcís Davins'> |
+| 1684 | [vicentgodella](https://github.com/vicentgodella) | 2 | 17 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/852745?v=3&s=64' width="64" title='Vicent Soria'> |
+| 1685 | [toomanysecrets](https://github.com/toomanysecrets) | 2 | 1 | Shell and Emacs Lisp | Terrassa, Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/426927?v=3&s=64' width="64" title='Manuel Trujillo'> |
+| 1686 | [armandogmendoza](https://github.com/armandogmendoza) | 2 | 0 | C# | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2950472?v=3&s=64' width="64" title='Armando Garcia-Mendoza'> |
+| 1687 | [thomasklein](https://github.com/thomasklein) | 2 | 35 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/95669?v=3&s=64' width="64" title='Thomas Klein'> |
+| 1688 | [forhau](https://github.com/forhau) | 2 | 0 | Shell and JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3373119?v=3&s=64' width="64" title='Marc'> |
+| 1689 | [xLostLife](https://github.com/xLostLife) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/11426733?v=3&s=64' width="64" title='Gagan Singh'> |
+| 1690 | [dubium](https://github.com/dubium) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5720894?v=3&s=64' width="64" title='Xavier Martinez'> |
+| 1691 | [calshox](https://github.com/calshox) | 2 | 0 | PHP | Barcelona - México DF | <img src='https://avatars2.githubusercontent.com/u/11080359?v=3&s=64' width="64" title='Carlos Vázquez Ramírez'> |
+| 1692 | [joahking](https://github.com/joahking) | 2 | 43 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/8817?v=3&s=64' width="64" title='Joaquin Rivera Padron'> |
+| 1693 | [Maikelblogs](https://github.com/Maikelblogs) | 2 | 0 | JavaScript and CSS | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/10330049?v=3&s=64' width="64" title='MaikelBlogs'> |
+| 1694 | [mcanes](https://github.com/mcanes) | 2 | 3 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/481979?v=3&s=64' width="64" title='Miquel Canes Gonzalez'> |
+| 1695 | [Ferdi342](https://github.com/Ferdi342) | 2 | 0 | JavaScript and CSS | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10948340?v=3&s=64' width="64" title=''> |
+| 1696 | [carlospsig](https://github.com/carlospsig) | 2 | 0 | Python | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/5272165?v=3&s=64' width="64" title='Carlos López Quintanilla'> |
+| 1697 | [jbiscarri](https://github.com/jbiscarri) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1752964?v=3&s=64' width="64" title='Joan Biscarri'> |
+| 1698 | [xbonell](https://github.com/xbonell) | 2 | 2 | Ruby | Sant Cugat del Vallès, Barcelona ES | <img src='https://avatars3.githubusercontent.com/u/778802?v=3&s=64' width="64" title='Xavier Bonell Iturbe'> |
+| 1699 | [Ccrowell7](https://github.com/Ccrowell7) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9844372?v=3&s=64' width="64" title='Ciera'> |
+| 1700 | [paxpuig](https://github.com/paxpuig) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10450960?v=3&s=64' width="64" title='Pau Puig'> |
+| 1701 | [esedArk](https://github.com/esedArk) | 2 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2690260?v=3&s=64' width="64" title='David'> |
+| 1702 | [Hark0](https://github.com/Hark0) | 2 | 0 | C and Objective-C | Cornella de Llobregat, Barcelona | <img src='https://avatars1.githubusercontent.com/u/7446823?v=3&s=64' width="64" title=''> |
+| 1703 | [ls27305](https://github.com/ls27305) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10158785?v=3&s=64' width="64" title='Xavier Gabarro'> |
+| 1704 | [sergilv](https://github.com/sergilv) | 2 | 0 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1578903?v=3&s=64' width="64" title='Sergi Laencina Verdaguer'> |
+| 1705 | [Jypy](https://github.com/Jypy) | 2 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/443824?v=3&s=64' width="64" title='Jean-Philippe Bouillot'> |
+| 1706 | [payrandom](https://github.com/payrandom) | 2 | 0 | Ruby | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7016997?v=3&s=64' width="64" title='PayRandom'> |
+| 1707 | [marqmarti](https://github.com/marqmarti) | 2 | 1 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3709255?v=3&s=64' width="64" title='Marq Martí'> |
+| 1708 | [ericsala](https://github.com/ericsala) | 2 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/484050?v=3&s=64' width="64" title='Eric Sala'> |
+| 1709 | [aleixverges](https://github.com/aleixverges) | 2 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3007412?v=3&s=64' width="64" title='Aleix Vergés'> |
+| 1710 | [Faleg](https://github.com/Faleg) | 2 | 0 | PHP | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9244883?v=3&s=64' width="64" title='Fapps'> |
+| 1711 | [marcomorettim](https://github.com/marcomorettim) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9640190?v=3&s=64' width="64" title='Marco Moretti'> |
+| 1712 | [angelcustodio](https://github.com/angelcustodio) | 2 | 1 | JavaScript and CoffeeScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/696902?v=3&s=64' width="64" title='Angel Custodio'> |
+| 1713 | [avillasenorh](https://github.com/avillasenorh) | 2 | 0 | R | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3618007?v=3&s=64' width="64" title='Antonio Villaseñor'> |
+| 1714 | [matamandola](https://github.com/matamandola) | 2 | 0 | CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1618504?v=3&s=64' width="64" title='Matías Amándola'> |
+| 1715 | [ccarrizosa](https://github.com/ccarrizosa) | 2 | 0 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1911487?v=3&s=64' width="64" title='Carlos Carrizosa'> |
+| 1716 | [dferrandizmont](https://github.com/dferrandizmont) | 2 | 0 | Objective-C and C++ | Terrassa, Barcelona. | <img src='https://avatars3.githubusercontent.com/u/6375953?v=3&s=64' width="64" title='Dani Ferrandiz Mont'> |
+| 1717 | [cvaconsulting](https://github.com/cvaconsulting) | 2 | 6 | JavaScript | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1774647?v=3&s=64' width="64" title='CV&A Consulting'> |
+| 1718 | [ferrang](https://github.com/ferrang) | 2 | 0 | JavaScript and CSS | Barcelona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/11949130?v=3&s=64' width="64" title='Ferran GB'> |
+| 1719 | [Ralusama19](https://github.com/Ralusama19) | 2 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/12660396?v=3&s=64' width="64" title='Ralu'> |
+| 1720 | [oriverdes](https://github.com/oriverdes) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/12561808?v=3&s=64' width="64" title=''> |
+| 1721 | [xberthet](https://github.com/xberthet) | 2 | 0 | Python and Java | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4901526?v=3&s=64' width="64" title='xberthet'> |
+| 1722 | [nhstanley](https://github.com/nhstanley) | 2 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2827461?v=3&s=64' width="64" title='Nate'> |
+| 1723 | [Ryuz3n](https://github.com/Ryuz3n) | 2 | 0 | Python | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11394168?v=3&s=64' width="64" title='Asif A. Khan'> |
+| 1724 | [apuyinc](https://github.com/apuyinc) | 2 | 2 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4158161?v=3&s=64' width="64" title='Jose Luis Apuy Villegas'> |
+| 1725 | [Daniel-J-Murphy](https://github.com/Daniel-J-Murphy) | 2 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9577569?v=3&s=64' width="64" title='Daniel J. Murphy'> |
+| 1726 | [starkkod](https://github.com/starkkod) | 2 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4589664?v=3&s=64' width="64" title='starkiskod'> |
+| 1727 | [itdoh](https://github.com/itdoh) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3306773?v=3&s=64' width="64" title='itdoh'> |
+| 1728 | [arnauriera](https://github.com/arnauriera) | 2 | 0 | Python and TeX | Barcelona | <img src='https://avatars1.githubusercontent.com/u/12738320?v=3&s=64' width="64" title='Arnau Riera'> |
+| 1729 | [guillemsalas](https://github.com/guillemsalas) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/229593?v=3&s=64' width="64" title='Guillem Salas'> |
+| 1730 | [DiegoPomares](https://github.com/DiegoPomares) | 2 | 0 | Python and HTML | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/10832943?v=3&s=64' width="64" title='Diego Pomares'> |
+| 1731 | [manumolina](https://github.com/manumolina) | 2 | 0 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2404208?v=3&s=64' width="64" title='Manu'> |
+| 1732 | [brunopaz](https://github.com/brunopaz) | 2 | 1 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/820472?v=3&s=64' width="64" title='BrunoPaz'> |
+| 1733 | [gespona](https://github.com/gespona) | 2 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5397648?v=3&s=64' width="64" title='Gerard Espona'> |
+| 1734 | [dorisadan](https://github.com/dorisadan) | 2 | 0 | Processing | Barcelona,Spain | <img src='https://avatars0.githubusercontent.com/u/8020443?v=3&s=64' width="64" title='Dori Sadan'> |
+| 1735 | [carlesgomalb](https://github.com/carlesgomalb) | 2 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11524020?v=3&s=64' width="64" title='Carles Gómez Alberola'> |
+| 1736 | [MireiaUB](https://github.com/MireiaUB) | 2 | 0 | HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6009529?v=3&s=64' width="64" title='Mireia Ribera'> |
+| 1737 | [iroyo](https://github.com/iroyo) | 2 | 1 | CSS and JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7514175?v=3&s=64' width="64" title=''> |
+| 1738 | [davidxicota](https://github.com/davidxicota) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/683708?v=3&s=64' width="64" title='David Xicota'> |
+| 1739 | [sdurban](https://github.com/sdurban) | 2 | 0 | Objective-C | Barcelona, SPAIN | <img src='https://avatars2.githubusercontent.com/u/4395258?v=3&s=64' width="64" title='Sergio Durban Belmonte'> |
+| 1740 | [pparescasellas](https://github.com/pparescasellas) | 2 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/798008?v=3&s=64' width="64" title='Pere Parés Casellas'> |
+| 1741 | [JosepLTorres](https://github.com/JosepLTorres) | 2 | 0 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/9784829?v=3&s=64' width="64" title='Josep L. Torres'> |
+| 1742 | [xavierrosero](https://github.com/xavierrosero) | 2 | 0 | Python | BARCELONA, SPAIN | <img src='https://avatars3.githubusercontent.com/u/6934211?v=3&s=64' width="64" title='CARLOS XAVIER ROSERO CHANDI'> |
+| 1743 | [jojuva](https://github.com/jojuva) | 2 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1616650?v=3&s=64' width="64" title=''> |
+| 1744 | [IN2felipepozo](https://github.com/IN2felipepozo) | 2 | 0 | Shell | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3766392?v=3&s=64' width="64" title='Felipe del Pozo'> |
+| 1745 | [IvanParraga](https://github.com/IvanParraga) | 2 | 0 | Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/344668?v=3&s=64' width="64" title='Iván Párraga García'> |
+| 1746 | [leynar](https://github.com/leynar) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2168735?v=3&s=64' width="64" title='Fran Herrero'> |
+| 1747 | [jaume](https://github.com/jaume) | 2 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/17005?v=3&s=64' width="64" title='Jaume Arús'> |
+| 1748 | [mailofjordi](https://github.com/mailofjordi) | 2 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9195020?v=3&s=64' width="64" title='Jordi'> |
+| 1749 | [ondonadas](https://github.com/ondonadas) | 2 | 1 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1852881?v=3&s=64' width="64" title='Sergio Serrano'> |
+| 1750 | [acoll23](https://github.com/acoll23) | 2 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8777430?v=3&s=64' width="64" title='Artur Coll'> |
+| 1751 | [KronosPixel](https://github.com/KronosPixel) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9626360?v=3&s=64' width="64" title='Kronos Pixel'> |
+| 1752 | [ashish021](https://github.com/ashish021) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1716846?v=3&s=64' width="64" title='Ashish Kumar Basak'> |
+| 1753 | [Elavazhagan93](https://github.com/Elavazhagan93) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11915138?v=3&s=64' width="64" title='Elavazhagan Sethuraman'> |
+| 1754 | [powerfrontier](https://github.com/powerfrontier) | 1 | 0 | PHP | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3168166?v=3&s=64' width="64" title='David Romero'> |
+| 1755 | [AlbertHerrera](https://github.com/AlbertHerrera) | 1 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10230118?v=3&s=64' width="64" title='Albert'> |
+| 1756 | [suilillo](https://github.com/suilillo) | 1 | 0 | JavaScript | Vilafranca del Penedès, Barcelona. | <img src='https://avatars3.githubusercontent.com/u/9741177?v=3&s=64' width="64" title='Luis Lorenzo'> |
+| 1757 | [choan](https://github.com/choan) | 1 | 82 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/27999?v=3&s=64' width="64" title='Choan'> |
+| 1758 | [xmonfort](https://github.com/xmonfort) | 1 | 2 | JavaScript and Ruby | Sant Just Desvern, Barcelona (Catalonia) | <img src='https://avatars2.githubusercontent.com/u/666342?v=3&s=64' width="64" title='Xavier Monfort'> |
+| 1759 | [adriagarcia](https://github.com/adriagarcia) | 1 | 0 | HTML | Mallorca / Barcelona | <img src='https://avatars3.githubusercontent.com/u/1017475?v=3&s=64' width="64" title='Adria Garcia'> |
+| 1760 | [alfonsfreixes](https://github.com/alfonsfreixes) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/10262036?v=3&s=64' width="64" title='alfons freixes'> |
+| 1761 | [eilaes](https://github.com/eilaes) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2095353?v=3&s=64' width="64" title='Àlex'> |
+| 1762 | [Loda](https://github.com/Loda) | 1 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/738685?v=3&s=64' width="64" title='Loda'> |
+| 1763 | [Issam6](https://github.com/Issam6) | 1 | 0 | PowerShell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9693411?v=3&s=64' width="64" title='Issam Aouad'> |
+| 1764 | [Zarbel](https://github.com/Zarbel) | 1 | 0 | Java and Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8769109?v=3&s=64' width="64" title='Julián Zaragoza'> |
+| 1765 | [tekymonkey](https://github.com/tekymonkey) | 1 | 0 | CSS and JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2632465?v=3&s=64' width="64" title='Álex Cerezo'> |
+| 1766 | [angelinfante](https://github.com/angelinfante) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10200654?v=3&s=64' width="64" title='Angel Infante'> |
+| 1767 | [moretty](https://github.com/moretty) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5548901?v=3&s=64' width="64" title='Ramon'> |
+| 1768 | [richbarton](https://github.com/richbarton) | 1 | 2 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/128573?v=3&s=64' width="64" title='Rich Barton'> |
+| 1769 | [fradandria](https://github.com/fradandria) | 1 | 2 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5320189?v=3&s=64' width="64" title='Francesco D'Andria'> |
+| 1770 | [MarcosHernando](https://github.com/MarcosHernando) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11636761?v=3&s=64' width="64" title='Marcos'> |
+| 1771 | [fredpalas](https://github.com/fredpalas) | 1 | 0 | ApacheConf | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11587939?v=3&s=64' width="64" title='Adrián Pastén'> |
+| 1772 | [micromante](https://github.com/micromante) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1436326?v=3&s=64' width="64" title='micromante'> |
+| 1773 | [jonaypelluz](https://github.com/jonaypelluz) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1378646?v=3&s=64' width="64" title='Jonay Pelluz'> |
+| 1774 | [franciscopalos](https://github.com/franciscopalos) | 1 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1503338?v=3&s=64' width="64" title='Francisco M. Palos'> |
+| 1775 | [xthevenot](https://github.com/xthevenot) | 1 | 1 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/596912?v=3&s=64' width="64" title='Xavi Thevenot'> |
+| 1776 | [kakubei](https://github.com/kakubei) | 1 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1465323?v=3&s=64' width="64" title='Alex'> |
+| 1777 | [perezneira](https://github.com/perezneira) | 1 | 0 | CSS | Barcelona - España | <img src='https://avatars2.githubusercontent.com/u/10848151?v=3&s=64' width="64" title='Guillermo Perez Neira'> |
+| 1778 | [j2m2](https://github.com/j2m2) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8073685?v=3&s=64' width="64" title='Jose Mendes'> |
+| 1779 | [JoanFabregatSerra](https://github.com/JoanFabregatSerra) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8394519?v=3&s=64' width="64" title='Joan'> |
+| 1780 | [evpre](https://github.com/evpre) | 1 | 3 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1426836?v=3&s=64' width="64" title='Evgeny'> |
+| 1781 | [rica000](https://github.com/rica000) | 1 | 0 | Java and CSS | Barcelona | <img src='https://avatars3.githubusercontent.com/u/12297745?v=3&s=64' width="64" title=''> |
+| 1782 | [coconutTree](https://github.com/coconutTree) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9337210?v=3&s=64' width="64" title='Sergi'> |
+| 1783 | [lucascepeda](https://github.com/lucascepeda) | 1 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/775498?v=3&s=64' width="64" title='Lucas Cepeda'> |
+| 1784 | [JamieMartin](https://github.com/JamieMartin) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6031010?v=3&s=64' width="64" title='Jamie Martin'> |
+| 1785 | [amirabet](https://github.com/amirabet) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/7428034?v=3&s=64' width="64" title='Artur Mirabet'> |
+| 1786 | [favzeus](https://github.com/favzeus) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/8993636?v=3&s=64' width="64" title=''> |
+| 1787 | [companygarcia](https://github.com/companygarcia) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1502331?v=3&s=64' width="64" title='Jose Maria'> |
+| 1788 | [lphilippo](https://github.com/lphilippo) | 1 | 1 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/732984?v=3&s=64' width="64" title='Leander Philippo'> |
+| 1789 | [Maberi](https://github.com/Maberi) | 1 | 0 | Python | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/4018575?v=3&s=64' width="64" title='Mario Benito'> |
+| 1790 | [pepllubc](https://github.com/pepllubc) | 1 | 0 | Shell | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2059347?v=3&s=64' width="64" title='Pep Baquero'> |
+| 1791 | [HITUBE](https://github.com/HITUBE) | 1 | 0 | JavaScript and CSS | BARCELONA | <img src='https://avatars2.githubusercontent.com/u/10856975?v=3&s=64' width="64" title='Oriol'> |
+| 1792 | [asicilia](https://github.com/asicilia) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1047611?v=3&s=64' width="64" title='Alvaro'> |
+| 1793 | [marcpujol](https://github.com/marcpujol) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/978300?v=3&s=64' width="64" title='Marc'> |
+| 1794 | [juceveju](https://github.com/juceveju) | 1 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4519264?v=3&s=64' width="64" title='Julio C. Velasco'> |
+| 1795 | [nellsavedra](https://github.com/nellsavedra) | 1 | 0 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5817663?v=3&s=64' width="64" title='Andres Valle'> |
+| 1796 | [isasimo](https://github.com/isasimo) | 1 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2910208?v=3&s=64' width="64" title='Isabel'> |
+| 1797 | [diegstroyer](https://github.com/diegstroyer) | 1 | 0 | Groovy | Argentona (Barcelona) | <img src='https://avatars1.githubusercontent.com/u/6506796?v=3&s=64' width="64" title='Diego'> |
+| 1798 | [martinlaregina](https://github.com/martinlaregina) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11611304?v=3&s=64' width="64" title='Martin La Regina'> |
+| 1799 | [davidcos](https://github.com/davidcos) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/10942760?v=3&s=64' width="64" title='David Cos'> |
+| 1800 | [mbmarkus](https://github.com/mbmarkus) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11176533?v=3&s=64' width="64" title=''> |
+| 1801 | [loicbcn](https://github.com/loicbcn) | 1 | 0 | CSS | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8970033?v=3&s=64' width="64" title='loicbcn'> |
+| 1802 | [Ang19901](https://github.com/Ang19901) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11317675?v=3&s=64' width="64" title='Angelica'> |
+| 1803 | [idotj](https://github.com/idotj) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6554216?v=3&s=64' width="64" title='idotj'> |
+| 1804 | [jrivero](https://github.com/jrivero) | 1 | 25 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/22764?v=3&s=64' width="64" title='Jordi Rivero'> |
+| 1805 | [dvdjaco](https://github.com/dvdjaco) | 1 | 3 | Ruby and Python | Barcelona / Amsterdam | <img src='https://avatars3.githubusercontent.com/u/1502076?v=3&s=64' width="64" title='David Jacovkis'> |
+| 1806 | [pcmarch](https://github.com/pcmarch) | 1 | 0 | Java and XML | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5389758?v=3&s=64' width="64" title='Francesc March'> |
+| 1807 | [scabilbao](https://github.com/scabilbao) | 1 | 4 | Java | Madrid, Barcelona y Bilbao | <img src='https://avatars1.githubusercontent.com/u/7836204?v=3&s=64' width="64" title='Grupo SCA'> |
+| 1808 | [erbud](https://github.com/erbud) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3479770?v=3&s=64' width="64" title='Alex Royo'> |
+| 1809 | [pierocampa](https://github.com/pierocampa) | 1 | 0 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10771561?v=3&s=64' width="64" title='Piero Campalani'> |
+| 1810 | [juandoj](https://github.com/juandoj) | 1 | 0 | HTML | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/6965281?v=3&s=64' width="64" title='JuanDo'> |
+| 1811 | [vrouet](https://github.com/vrouet) | 1 | 0 | Makefile | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11041942?v=3&s=64' width="64" title='Val'> |
+| 1812 | [jmventar](https://github.com/jmventar) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2487223?v=3&s=64' width="64" title=''> |
+| 1813 | [korgogro](https://github.com/korgogro) | 1 | 0 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1502826?v=3&s=64' width="64" title='Ignasi Álvarez Garriga'> |
+| 1814 | [jvsalatino](https://github.com/jvsalatino) | 1 | 0 | Processing | Capellades - Barcelona - Spain | <img src='https://avatars3.githubusercontent.com/u/7427827?v=3&s=64' width="64" title='Jose Salatino'> |
+| 1815 | [javiBertos](https://github.com/javiBertos) | 1 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1167983?v=3&s=64' width="64" title='Javier Bertos'> |
+| 1816 | [Erep26](https://github.com/Erep26) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2660092?v=3&s=64' width="64" title='Pere Civit'> |
+| 1817 | [xavierjurado](https://github.com/xavierjurado) | 1 | 7 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/411994?v=3&s=64' width="64" title='Xavier Jurado'> |
+| 1818 | [Dante281](https://github.com/Dante281) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7188363?v=3&s=64' width="64" title='Dante'> |
+| 1819 | [coopreneur](https://github.com/coopreneur) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8058481?v=3&s=64' width="64" title='[coopreneur.eu]'> |
+| 1820 | [arrebucio](https://github.com/arrebucio) | 1 | 0 | PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/1247068?v=3&s=64' width="64" title='arrebucio'> |
+| 1821 | [carlaprz](https://github.com/carlaprz) | 1 | 0 | ApacheConf and PHP | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/10382017?v=3&s=64' width="64" title='Kar'> |
+| 1822 | [thierrylafaye](https://github.com/thierrylafaye) | 1 | 0 |  | Barcelona (Spain) | <img src='https://avatars1.githubusercontent.com/u/11778607?v=3&s=64' width="64" title=''> |
+| 1823 | [edennis](https://github.com/edennis) | 1 | 10 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/47961?v=3&s=64' width="64" title='Erick Dennis'> |
+| 1824 | [tukaaa](https://github.com/tukaaa) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3089314?v=3&s=64' width="64" title='Luca Telloli'> |
+| 1825 | [pmanresa](https://github.com/pmanresa) | 1 | 0 | QMake | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6662188?v=3&s=64' width="64" title='Pere Antoni Manresa'> |
+| 1826 | [Power2Night](https://github.com/Power2Night) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/10244923?v=3&s=64' width="64" title='Power2Night'> |
+| 1827 | [xfontro](https://github.com/xfontro) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2371468?v=3&s=64' width="64" title=''> |
+| 1828 | [xvapx](https://github.com/xvapx) | 1 | 0 | Nix | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11824817?v=3&s=64' width="64" title='Marti Serra'> |
+| 1829 | [comac2k](https://github.com/comac2k) | 1 | 0 | Java and GLSL | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/12332784?v=3&s=64' width="64" title='Dani MP'> |
+| 1830 | [pacoramos77](https://github.com/pacoramos77) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1783031?v=3&s=64' width="64" title='Francisco Ramos'> |
+| 1831 | [grypp](https://github.com/grypp) | 1 | 4 | C | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3865321?v=3&s=64' width="64" title='guray'> |
+| 1832 | [cerquide](https://github.com/cerquide) | 1 | 0 | Scala | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2767459?v=3&s=64' width="64" title='Jesús Cerquides'> |
+| 1833 | [cayorodriguez](https://github.com/cayorodriguez) | 1 | 0 | C++ and Python | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3429694?v=3&s=64' width="64" title='Carlos Rodriguez'> |
+| 1834 | [irivas](https://github.com/irivas) | 1 | 0 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/1288701?v=3&s=64' width="64" title='Israel Rivas González'> |
+| 1835 | [Thorstorm](https://github.com/Thorstorm) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/11093883?v=3&s=64' width="64" title='Thor Pursell'> |
+| 1836 | [campings](https://github.com/campings) | 1 | 2 | PHP | Trav. Dalt 62 1-4, 08024, Barcelona | <img src='https://avatars2.githubusercontent.com/u/1398627?v=3&s=64' width="64" title='Campings Online'> |
+| 1837 | [AdrianaFreitas](https://github.com/AdrianaFreitas) | 1 | 0 | Python | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3631840?v=3&s=64' width="64" title='Adriana Freitas'> |
+| 1838 | [albertsabate1](https://github.com/albertsabate1) | 1 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/2384218?v=3&s=64' width="64" title='Albert Sabaté'> |
+| 1839 | [CarlesLlobet](https://github.com/CarlesLlobet) | 1 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/6575422?v=3&s=64' width="64" title='Carles Llobet Pons'> |
+| 1840 | [iiioxoiii](https://github.com/iiioxoiii) | 1 | 0 | Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5206731?v=3&s=64' width="64" title='Amós'> |
+| 1841 | [jcivit](https://github.com/jcivit) | 1 | 0 | R | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3600764?v=3&s=64' width="64" title='Jaume Civit Rovira'> |
+| 1842 | [Dinamiko](https://github.com/Dinamiko) | 1 | 4 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/456223?v=3&s=64' width="64" title='Emili Castells'> |
+| 1843 | [acasaus](https://github.com/acasaus) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/10629088?v=3&s=64' width="64" title='Alex Casaus'> |
+| 1844 | [dalorfer](https://github.com/dalorfer) | 1 | 0 | PHP and CSS | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/5911085?v=3&s=64' width="64" title='David Lorite Fernández'> |
+| 1845 | [KanbanApps](https://github.com/KanbanApps) | 1 | 4 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/12545524?v=3&s=64' width="64" title='Kanban Apps'> |
+| 1846 | [lozanojardi](https://github.com/lozanojardi) | 1 | 0 | Frege | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6905537?v=3&s=64' width="64" title='Joan Lozano'> |
+| 1847 | [davidpenya](https://github.com/davidpenya) | 1 | 0 |  | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/7447084?v=3&s=64' width="64" title='David'> |
+| 1848 | [ezeherrera](https://github.com/ezeherrera) | 1 | 0 | CSS | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1554643?v=3&s=64' width="64" title='Ezequiel Herrera'> |
+| 1849 | [rusabe](https://github.com/rusabe) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/8900853?v=3&s=64' width="64" title='Rubén'> |
+| 1850 | [miguelsanchez](https://github.com/miguelsanchez) | 1 | 0 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/777163?v=3&s=64' width="64" title='Miguel Sánchez'> |
+| 1851 | [afortuny](https://github.com/afortuny) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/12697443?v=3&s=64' width="64" title='Alan'> |
+| 1852 | [JonasHaouzi](https://github.com/JonasHaouzi) | 1 | 1 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/8245107?v=3&s=64' width="64" title='Jonas HAOUZI'> |
+| 1853 | [mariondita](https://github.com/mariondita) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11805986?v=3&s=64' width="64" title='mariondita'> |
+| 1854 | [jotaemi](https://github.com/jotaemi) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/11933174?v=3&s=64' width="64" title='João França'> |
+| 1855 | [CristianValls](https://github.com/CristianValls) | 1 | 0 | JavaScript and CSS | Barcelona (Spain) | <img src='https://avatars3.githubusercontent.com/u/2821823?v=3&s=64' width="64" title=''> |
+| 1856 | [hectorgimenez](https://github.com/hectorgimenez) | 1 | 0 | Arduino | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/12543131?v=3&s=64' width="64" title='Héctor Giménez'> |
+| 1857 | [superatmel](https://github.com/superatmel) | 1 | 1 | Shell | Barcelona, España | <img src='https://avatars1.githubusercontent.com/u/260498?v=3&s=64' width="64" title='Juan garcia'> |
+| 1858 | [JosepMartins](https://github.com/JosepMartins) | 1 | 27 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/912236?v=3&s=64' width="64" title='Josep Martins'> |
+| 1859 | [yannxou](https://github.com/yannxou) | 1 | 0 | Swift | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5954961?v=3&s=64' width="64" title='Joan Duat'> |
+| 1860 | [jcorral](https://github.com/jcorral) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3533888?v=3&s=64' width="64" title='José Corral'> |
+| 1861 | [duferdev](https://github.com/duferdev) | 1 | 0 | JavaScript and HTML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/12326876?v=3&s=64' width="64" title='Victor'> |
+| 1862 | [UmutBurgaz](https://github.com/UmutBurgaz) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11249007?v=3&s=64' width="64" title='Umut Burgaz'> |
+| 1863 | [mairasala](https://github.com/mairasala) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4053108?v=3&s=64' width="64" title='Maíra Sala Francisco'> |
+| 1864 | [danimus](https://github.com/danimus) | 1 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/2174637?v=3&s=64' width="64" title='Dani Álvarez'> |
+| 1865 | [sebasto7](https://github.com/sebasto7) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/12710323?v=3&s=64' width="64" title='Aito'> |
+| 1866 | [santmarti](https://github.com/santmarti) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/546267?v=3&s=64' width="64" title='Marti Sanchez-Fibla'> |
+| 1867 | [Zevxd](https://github.com/Zevxd) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/9398058?v=3&s=64' width="64" title='Ignacio Rama'> |
+| 1868 | [Mahatmandie](https://github.com/Mahatmandie) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9654158?v=3&s=64' width="64" title='Andie'> |
+| 1869 | [fernandoEsigmat](https://github.com/fernandoEsigmat) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9699157?v=3&s=64' width="64" title='Fernando Vega'> |
+| 1870 | [wiris](https://github.com/wiris) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9418132?v=3&s=64' width="64" title='WIRIS'> |
+| 1871 | [SergiSals](https://github.com/SergiSals) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/9386637?v=3&s=64' width="64" title='Sergi'> |
+| 1872 | [rberenguel](https://github.com/rberenguel) | 1 | 6 | Emacs Lisp | El Masnou, Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/2410938?v=3&s=64' width="64" title='Ruben Berenguel'> |
+| 1873 | [mark-sp](https://github.com/mark-sp) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/7256081?v=3&s=64' width="64" title='Marc Sitges'> |
+| 1874 | [joeltemprano](https://github.com/joeltemprano) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/11234913?v=3&s=64' width="64" title='Joel Temprano'> |
+| 1875 | [bitos2002](https://github.com/bitos2002) | 1 | 0 |  | Barcelona (Spain) | <img src='https://avatars0.githubusercontent.com/u/6966296?v=3&s=64' width="64" title='Oscar'> |
+| 1876 | [ElXaxe](https://github.com/ElXaxe) | 1 | 0 | JavaScript and CSS | Madrid / Barcelona | <img src='https://avatars1.githubusercontent.com/u/2937841?v=3&s=64' width="64" title='Jose'> |
+| 1877 | [Proogresa](https://github.com/Proogresa) | 1 | 0 |  | Terrassa (Barcelona) SPAIN | <img src='https://avatars3.githubusercontent.com/u/8438096?v=3&s=64' width="64" title='Proogresa.es'> |
+| 1878 | [jordidurancals](https://github.com/jordidurancals) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2650043?v=3&s=64' width="64" title='Jordi Duran'> |
+| 1879 | [ChusZ](https://github.com/ChusZ) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8961284?v=3&s=64' width="64" title='Chus Zeta'> |
+| 1880 | [theozar](https://github.com/theozar) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8004098?v=3&s=64' width="64" title='Theo Salazar'> |
+| 1881 | [jvanoli](https://github.com/jvanoli) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/9919246?v=3&s=64' width="64" title='Javier Vanoli'> |
+| 1882 | [xagaroo](https://github.com/xagaroo) | 1 | 1 |  | Barcelona, ES | <img src='https://avatars3.githubusercontent.com/u/1168136?v=3&s=64' width="64" title='Xagaroo'> |
+| 1883 | [muniatu](https://github.com/muniatu) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4389787?v=3&s=64' width="64" title='Adrià Compte'> |
+| 1884 | [valero](https://github.com/valero) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/1083365?v=3&s=64' width="64" title='Valero'> |
+| 1885 | [SiPoX](https://github.com/SiPoX) | 1 | 0 | PHP and HTML | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5709227?v=3&s=64' width="64" title='Eduardo Millán'> |
+| 1886 | [joancarlescardell](https://github.com/joancarlescardell) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/12020023?v=3&s=64' width="64" title='Joan Carles Cardell Gayà'> |
+| 1887 | [xarmengol](https://github.com/xarmengol) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7252397?v=3&s=64' width="64" title='Xavier Armengol'> |
+| 1888 | [GloriaYL](https://github.com/GloriaYL) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/11560557?v=3&s=64' width="64" title='Gloria'> |
+| 1889 | [evillaes](https://github.com/evillaes) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7394178?v=3&s=64' width="64" title='Elena'> |
+| 1890 | [EduardoLopezCamacho](https://github.com/EduardoLopezCamacho) | 1 | 0 |  | Barcelona SPAIN | <img src='https://avatars3.githubusercontent.com/u/10435002?v=3&s=64' width="64" title='Eduardo López Camacho'> |
+| 1891 | [JordiTR](https://github.com/JordiTR) | 1 | 0 |  | Barcelona (Spain) | <img src='https://avatars2.githubusercontent.com/u/8570770?v=3&s=64' width="64" title='Jordi Trujillo Rius'> |
+| 1892 | [ellorensc](https://github.com/ellorensc) | 1 | 0 | PHP and JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/5014544?v=3&s=64' width="64" title='Eduardo Llorens'> |
+| 1893 | [jaimehp](https://github.com/jaimehp) | 1 | 0 | R | Barcelona | <img src='https://avatars0.githubusercontent.com/u/8685227?v=3&s=64' width="64" title='Jaime'> |
+| 1894 | [xvila-nv](https://github.com/xvila-nv) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/8747229?v=3&s=64' width="64" title='Xavi Vila'> |
+| 1895 | [fegabe](https://github.com/fegabe) | 1 | 7 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/204443?v=3&s=64' width="64" title='Fernando García'> |
+| 1896 | [NeftaliDelphi](https://github.com/NeftaliDelphi) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/9679039?v=3&s=64' width="64" title='Germán Estévez'> |
+| 1897 | [dfrison](https://github.com/dfrison) | 1 | 0 | PHP | Barcelona | <img src='https://avatars1.githubusercontent.com/u/7382367?v=3&s=64' width="64" title='Diego'> |
+| 1898 | [yoactman](https://github.com/yoactman) | 1 | 0 | Java and XML | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9487187?v=3&s=64' width="64" title='Germán'> |
+| 1899 | [hermes3por3](https://github.com/hermes3por3) | 1 | 2 | ActionScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/990062?v=3&s=64' width="64" title='Hermes Andreu'> |
+| 1900 | [eduardolg](https://github.com/eduardolg) | 1 | 0 | CSS | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/10298205?v=3&s=64' width="64" title='Eduardo Lozano'> |
+| 1901 | [cardaba](https://github.com/cardaba) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10814493?v=3&s=64' width="64" title='Javier Cárdaba'> |
+| 1902 | [jchavarri](https://github.com/jchavarri) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/220424?v=3&s=64' width="64" title='Javi'> |
+| 1903 | [SamYan](https://github.com/SamYan) | 1 | 6 | Pascal | Barcelona, Spain | <img src='https://avatars1.githubusercontent.com/u/3801362?v=3&s=64' width="64" title='Samuel Petrosyan'> |
+| 1904 | [ivosandoval](https://github.com/ivosandoval) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/12154953?v=3&s=64' width="64" title='Ivo'> |
+| 1905 | [jtouza](https://github.com/jtouza) | 1 | 2 | Ruby | Barcelona | <img src='https://avatars2.githubusercontent.com/u/177118?v=3&s=64' width="64" title='Jordi Touza Bonnin'> |
+| 1906 | [mutsuda](https://github.com/mutsuda) | 1 | 19 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/82752?v=3&s=64' width="64" title='Masumi'> |
+| 1907 | [odivorra](https://github.com/odivorra) | 1 | 0 |  | Barcelona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/2931502?v=3&s=64' width="64" title='Oscar Divorra'> |
+| 1908 | [Skuerzo](https://github.com/Skuerzo) | 1 | 0 | Java and R | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3077773?v=3&s=64' width="64" title='Skuerzo'> |
+| 1909 | [apm-alberto](https://github.com/apm-alberto) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/302565?v=3&s=64' width="64" title='Alberto'> |
+| 1910 | [isita](https://github.com/isita) | 1 | 10 | CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1823804?v=3&s=64' width="64" title='Isabel Cabezón'> |
+| 1911 | [joandome](https://github.com/joandome) | 1 | 0 | Objective-C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1560424?v=3&s=64' width="64" title='Joan'> |
+| 1912 | [MarkCheshire](https://github.com/MarkCheshire) | 1 | 4 | Ruby | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/460830?v=3&s=64' width="64" title='Mark Cheshire'> |
+| 1913 | [alcaina](https://github.com/alcaina) | 1 | 0 | R | Barcelona. Spain | <img src='https://avatars0.githubusercontent.com/u/6814795?v=3&s=64' width="64" title='Jonàs Alcaina-Mateos'> |
+| 1914 | [oriolmasjuan](https://github.com/oriolmasjuan) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/333007?v=3&s=64' width="64" title='oriol'> |
+| 1915 | [miquelbotanch](https://github.com/miquelbotanch) | 1 | 1 | PHP | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1077304?v=3&s=64' width="64" title='miquel botanch'> |
+| 1916 | [JoanIzquierdo](https://github.com/JoanIzquierdo) | 1 | 1 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1853019?v=3&s=64' width="64" title='Joan Izquierdo'> |
+| 1917 | [sergicastellsague](https://github.com/sergicastellsague) | 1 | 0 | Shell and Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5736310?v=3&s=64' width="64" title='Sergi Castellsagué'> |
+| 1918 | [uniring](https://github.com/uniring) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1592236?v=3&s=64' width="64" title='Sergi Ramón'> |
+| 1919 | [feralou](https://github.com/feralou) | 1 | 5 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1148431?v=3&s=64' width="64" title='Fernando Alou'> |
+| 1920 | [rcastelo](https://github.com/rcastelo) | 1 | 0 | R and C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1677433?v=3&s=64' width="64" title='Robert Castelo'> |
+| 1921 | [marccerrato](https://github.com/marccerrato) | 1 | 11 | Python | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1156660?v=3&s=64' width="64" title='Marc Cerrato'> |
+| 1922 | [sergigracia](https://github.com/sergigracia) | 1 | 91 | Objective-C | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1061658?v=3&s=64' width="64" title='Sergi Gracia'> |
+| 1923 | [martirella](https://github.com/martirella) | 1 | 0 | VimL | Vielha / Barcelona | <img src='https://avatars1.githubusercontent.com/u/244162?v=3&s=64' width="64" title='Marti'> |
+| 1924 | [gerardag](https://github.com/gerardag) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2340397?v=3&s=64' width="64" title='Gerard Albanell'> |
+| 1925 | [alejobs](https://github.com/alejobs) | 1 | 0 | Java | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/10922639?v=3&s=64' width="64" title='Alejo'> |
+| 1926 | [LenguaDePlata](https://github.com/LenguaDePlata) | 1 | 1 | ApacheConf | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/3456741?v=3&s=64' width="64" title='Iñaki'> |
+| 1927 | [matiasBravo](https://github.com/matiasBravo) | 1 | 0 | JavaScript and CSS | Barcelona | <img src='https://avatars2.githubusercontent.com/u/3754674?v=3&s=64' width="64" title='Matias Bravo'> |
+| 1928 | [AlexKryzh](https://github.com/AlexKryzh) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/2675648?v=3&s=64' width="64" title='Alex Kryzhanovskyy'> |
+| 1929 | [felixcarpena](https://github.com/felixcarpena) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/4688937?v=3&s=64' width="64" title='Félix'> |
+| 1930 | [daniure](https://github.com/daniure) | 1 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1725965?v=3&s=64' width="64" title='Dani Ureña'> |
+| 1931 | [marcmarcet](https://github.com/marcmarcet) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3284834?v=3&s=64' width="64" title='Marc Marcet'> |
+| 1932 | [chrisvalford](https://github.com/chrisvalford) | 1 | 2 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/790963?v=3&s=64' width="64" title='Chris Alford'> |
+| 1933 | [Ichtaina](https://github.com/Ichtaina) | 1 | 0 | Puppet | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1336824?v=3&s=64' width="64" title='Marc Ràfols Ibáñez'> |
+| 1934 | [davidpenn](https://github.com/davidpenn) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1874075?v=3&s=64' width="64" title='David Penn'> |
+| 1935 | [bytedevil](https://github.com/bytedevil) | 1 | 2 | C and Shell | Barcelona | <img src='https://avatars2.githubusercontent.com/u/324570?v=3&s=64' width="64" title='Pau Font'> |
+| 1936 | [marcrocas](https://github.com/marcrocas) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/7797045?v=3&s=64' width="64" title='Marc Rocas'> |
+| 1937 | [mcanaleta](https://github.com/mcanaleta) | 1 | 2 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1379403?v=3&s=64' width="64" title='Marc'> |
+| 1938 | [treeangular](https://github.com/treeangular) | 1 | 4 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/4760005?v=3&s=64' width="64" title='TreeAngular'> |
+| 1939 | [jcondominas](https://github.com/jcondominas) | 1 | 0 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5301353?v=3&s=64' width="64" title='Jordi Condominas'> |
+| 1940 | [nye](https://github.com/nye) | 1 | 2 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/196475?v=3&s=64' width="64" title='Albert Sunyer'> |
+| 1941 | [gbasile](https://github.com/gbasile) | 1 | 17 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/797790?v=3&s=64' width="64" title='Giuseppe Basile'> |
+| 1942 | [martin-azpillaga](https://github.com/martin-azpillaga) | 1 | 3 | TeX | Barcelona | <img src='https://avatars3.githubusercontent.com/u/6147446?v=3&s=64' width="64" title='Martin Azpillaga Aldalur'> |
+| 1943 | [estevejm](https://github.com/estevejm) | 1 | 0 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4379551?v=3&s=64' width="64" title='Esteve Julià Melis'> |
+| 1944 | [Herokid](https://github.com/Herokid) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1306594?v=3&s=64' width="64" title='Herokid'> |
+| 1945 | [expositomarc](https://github.com/expositomarc) | 1 | 0 | Swift | Barcelona | <img src='https://avatars1.githubusercontent.com/u/6654167?v=3&s=64' width="64" title='Marc Exposito'> |
+| 1946 | [albertoamo](https://github.com/albertoamo) | 1 | 0 | C++ | Barcelona | <img src='https://avatars2.githubusercontent.com/u/9091909?v=3&s=64' width="64" title='Alberto Sánchez Amo'> |
+| 1947 | [sebclaeys](https://github.com/sebclaeys) | 1 | 0 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1063235?v=3&s=64' width="64" title='Sebastien Claeys'> |
+| 1948 | [pasier](https://github.com/pasier) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1335104?v=3&s=64' width="64" title='Pasier'> |
+| 1949 | [vallsjm](https://github.com/vallsjm) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2920810?v=3&s=64' width="64" title='Jose María Rodríguez Valls'> |
+| 1950 | [ferrangb](https://github.com/ferrangb) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3439361?v=3&s=64' width="64" title='Ferran Gascon Burgada'> |
+| 1951 | [pprieto](https://github.com/pprieto) | 1 | 0 | C | Barcelona | <img src='https://avatars3.githubusercontent.com/u/4173071?v=3&s=64' width="64" title='Pablo Prieto'> |
+| 1952 | [crowd-studio](https://github.com/crowd-studio) | 1 | 101 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/3314736?v=3&s=64' width="64" title='CROWD STUDIO'> |
+| 1953 | [PelaezAn](https://github.com/PelaezAn) | 1 | 0 | JavaScript and Java | Barcelona, Spain. | <img src='https://avatars1.githubusercontent.com/u/4953941?v=3&s=64' width="64" title=''> |
+| 1954 | [dancering](https://github.com/dancering) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/583329?v=3&s=64' width="64" title='Marc Polo'> |
+| 1955 | [cokarmando](https://github.com/cokarmando) | 1 | 1 | PHP | Barcelona | <img src='https://avatars3.githubusercontent.com/u/3177284?v=3&s=64' width="64" title='Armando'> |
+| 1956 | [cubometa](https://github.com/cubometa) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/775554?v=3&s=64' width="64" title='Ale Navarro Dellà'> |
+| 1957 | [staticduo](https://github.com/staticduo) | 1 | 1 | Shell | Barcelona | <img src='https://avatars3.githubusercontent.com/u/1510933?v=3&s=64' width="64" title='Jordi Ibáñez'> |
+| 1958 | [MarcSallent](https://github.com/MarcSallent) | 1 | 6 | Objective-C | Barcelona | <img src='https://avatars1.githubusercontent.com/u/784361?v=3&s=64' width="64" title='Marc Sallent'> |
+| 1959 | [sergibyte](https://github.com/sergibyte) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5434366?v=3&s=64' width="64" title='Sergi Pedraza'> |
+| 1960 | [jordi-pujol-cayon](https://github.com/jordi-pujol-cayon) | 1 | 0 | HTML | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4540494?v=3&s=64' width="64" title='Jordi'> |
+| 1961 | [lempere](https://github.com/lempere) | 1 | 38 | Java | Barcelona | <img src='https://avatars0.githubusercontent.com/u/817340?v=3&s=64' width="64" title='Guillem Perez'> |
+| 1962 | [carabiasjulio](https://github.com/carabiasjulio) | 1 | 0 | Matlab | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5690273?v=3&s=64' width="64" title='Julio Carabias'> |
+| 1963 | [paucm](https://github.com/paucm) | 1 | 5 | C++ | Barcelona | <img src='https://avatars0.githubusercontent.com/u/424605?v=3&s=64' width="64" title='Pau Capella'> |
+| 1964 | [oestape](https://github.com/oestape) | 1 | 3 | Processing and Java | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/5056943?v=3&s=64' width="64" title='Octavi Estapé'> |
+| 1965 | [jsanchezramos](https://github.com/jsanchezramos) | 1 | 8 | JavaScript | Barcelona | <img src='https://avatars2.githubusercontent.com/u/1412271?v=3&s=64' width="64" title='Juan Francisco Sánchez Ramos'> |
+| 1966 | [scalabilitysolved](https://github.com/scalabilitysolved) | 1 | 3 | Ruby and Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1309599?v=3&s=64' width="64" title='Scalability Solved'> |
+| 1967 | [danidoni](https://github.com/danidoni) | 1 | 13 | Ruby | Granollers, Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/2650?v=3&s=64' width="64" title='Dani Donisa'> |
+| 1968 | [makiaji](https://github.com/makiaji) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4446286?v=3&s=64' width="64" title='Marc'> |
+| 1969 | [seanowenhayes](https://github.com/seanowenhayes) | 1 | 1 | JavaScript | La Garriga, Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3706358?v=3&s=64' width="64" title='Sean Hayes'> |
+| 1970 | [Amedio](https://github.com/Amedio) | 1 | 32 | Python | L'Hospitalet de Llobregat (Barcelona) | <img src='https://avatars3.githubusercontent.com/u/595733?v=3&s=64' width="64" title='Rubén'> |
+| 1971 | [jatejeda](https://github.com/jatejeda) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/1445229?v=3&s=64' width="64" title='Arturo Tejeda'> |
+| 1972 | [aunymoons](https://github.com/aunymoons) | 1 | 0 | JavaScript | Barcelona, Spain | <img src='https://avatars2.githubusercontent.com/u/4189751?v=3&s=64' width="64" title='Auny Moons'> |
+| 1973 | [epalace](https://github.com/epalace) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/896218?v=3&s=64' width="64" title='Eric Palacios'> |
+| 1974 | [hbarriuso](https://github.com/hbarriuso) | 1 | 1 | Ruby | Barcelona | <img src='https://avatars3.githubusercontent.com/u/858088?v=3&s=64' width="64" title='Héctor Hugo Barriuso Mata'> |
+| 1975 | [OriolPastor](https://github.com/OriolPastor) | 1 | 0 | Max | Barcelona | <img src='https://avatars0.githubusercontent.com/u/6000849?v=3&s=64' width="64" title='Oriol Pastor'> |
+| 1976 | [patjem](https://github.com/patjem) | 1 | 0 |  | Amsterdam/Barcelona | <img src='https://avatars1.githubusercontent.com/u/655420?v=3&s=64' width="64" title='Patrick Mulder'> |
+| 1977 | [inextable](https://github.com/inextable) | 1 | 0 |  | Barcelona | <img src='https://avatars3.githubusercontent.com/u/5345240?v=3&s=64' width="64" title='inex'> |
+| 1978 | [msjoker](https://github.com/msjoker) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/2046816?v=3&s=64' width="64" title='Marce CL'> |
+| 1979 | [neo2buha](https://github.com/neo2buha) | 1 | 2 | Shell | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/1080030?v=3&s=64' width="64" title='Mihai Sebea'> |
+| 1980 | [jofemodo](https://github.com/jofemodo) | 1 | 4 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/834765?v=3&s=64' width="64" title='Jośe Fernando Moyano'> |
+| 1981 | [marcos-martinez](https://github.com/marcos-martinez) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/5773179?v=3&s=64' width="64" title='Marcos Martínez'> |
+| 1982 | [danimarin](https://github.com/danimarin) | 1 | 0 |  | Barcelona / Spain | <img src='https://avatars3.githubusercontent.com/u/189757?v=3&s=64' width="64" title='Daniel Marín'> |
+| 1983 | [davecarter](https://github.com/davecarter) | 1 | 0 |  | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/3796338?v=3&s=64' width="64" title='David G.'> |
+| 1984 | [danielmazzini](https://github.com/danielmazzini) | 1 | 0 | C# | Barcelona, España | <img src='https://avatars3.githubusercontent.com/u/2397274?v=3&s=64' width="64" title='Daniel Mazzini'> |
+| 1985 | [jpieres](https://github.com/jpieres) | 1 | 0 | Ruby | Barcelona | <img src='https://avatars1.githubusercontent.com/u/510714?v=3&s=64' width="64" title='Juan Pieres'> |
+| 1986 | [drempapis](https://github.com/drempapis) | 1 | 0 | Java | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5717874?v=3&s=64' width="64" title='Dimitrios'> |
+| 1987 | [Sjust](https://github.com/Sjust) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3807992?v=3&s=64' width="64" title='Sergi Just Casas'> |
+| 1988 | [joseaplwork](https://github.com/joseaplwork) | 1 | 0 | JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/5417763?v=3&s=64' width="64" title='Jose Antonio Paredes Leon'> |
+| 1989 | [micho](https://github.com/micho) | 1 | 222 | JavaScript | Barcelona, Spain | <img src='https://avatars0.githubusercontent.com/u/323401?v=3&s=64' width="64" title='Pablo Villalba'> |
+| 1990 | [sp-jose-serna](https://github.com/sp-jose-serna) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/4903647?v=3&s=64' width="64" title='José Juan Serna'> |
+| 1991 | [alvarovelezgalvez](https://github.com/alvarovelezgalvez) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2486011?v=3&s=64' width="64" title='Álvaro'> |
+| 1992 | [jokin](https://github.com/jokin) | 1 | 4 | JavaScript | barcelona | <img src='https://avatars2.githubusercontent.com/u/58509?v=3&s=64' width="64" title='Jokin'> |
+| 1993 | [ajoman](https://github.com/ajoman) | 1 | 1 | Ruby and Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/830933?v=3&s=64' width="64" title='Sergi Hernando'> |
+| 1994 | [wilbertoaguilar](https://github.com/wilbertoaguilar) | 1 | 0 | Python | Barcelona, Spain | <img src='https://avatars3.githubusercontent.com/u/3830043?v=3&s=64' width="64" title='Wilberto Aguilar'> |
+| 1995 | [kevinbarz](https://github.com/kevinbarz) | 1 | 0 | Java | Barcelona | <img src='https://avatars1.githubusercontent.com/u/2492803?v=3&s=64' width="64" title='Kevin Barz'> |
+| 1996 | [jgonfer](https://github.com/jgonfer) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/5473123?v=3&s=64' width="64" title='Josep Gonzalez'> |
+| 1997 | [stuarteaton](https://github.com/stuarteaton) | 1 | 0 |  | Barcelona | <img src='https://avatars2.githubusercontent.com/u/860437?v=3&s=64' width="64" title='Stuart Eaton'> |
+| 1998 | [darkcloud](https://github.com/darkcloud) | 1 | 0 |  | Barcelona | <img src='https://avatars1.githubusercontent.com/u/9352782?v=3&s=64' width="64" title='Ivancloud'> |
+| 1999 | [webfordreams](https://github.com/webfordreams) | 1 | 0 |  | Barcelona | <img src='https://avatars0.githubusercontent.com/u/3524057?v=3&s=64' width="64" title='Maarten Steurs'> |
+| 2000 | [campsjos](https://github.com/campsjos) | 1 | 1 | PHP and JavaScript | Barcelona | <img src='https://avatars1.githubusercontent.com/u/1260191?v=3&s=64' width="64" title='Josep Camps Miró'> |
