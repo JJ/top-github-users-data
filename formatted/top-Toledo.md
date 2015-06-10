@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 31 May 2014 09:06:29 GMT** hasta **Sun, 31 May 2015 09:06:29 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Tue, 10 Jun 2014 16:24:18 GMT** hasta **Wed, 10 Jun 2015 16:24:18 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,32 +13,31 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [mdelapenya](https://github.com/mdelapenya) | 1062 | 17 | Java | Madrid, Toledo (Spain) | <img src='https://avatars0.githubusercontent.com/u/951580?v=3&s=64' width='64' height='64' title='Manuel de la Peña'> |
-| 2 | [JavierIH](https://github.com/JavierIH) | 452 | 1 | C++ | Madrid, Toledo (SPAIN) | <img src='https://avatars1.githubusercontent.com/u/5154251?v=3&s=64' width='64' height='64' title='Javier Isabel Hernandez'> |
-| 3 | [canodelacuadra](https://github.com/canodelacuadra) | 328 | 0 | PHP | Toledo, Spain | <img src='https://avatars1.githubusercontent.com/u/5006582?v=3&s=64' width='64' height='64' title='José Antonio Cano'> |
-| 4 | [jlebrijo](https://github.com/jlebrijo) | 304 | 10 | Ruby | Toledo | <img src='https://avatars0.githubusercontent.com/u/553507?v=3&s=64' width='64' height='64' title='Juan Lebrijo'> |
-| 5 | [terencezl](https://github.com/terencezl) | 285 | 2 | Python | Toledo | <img src='https://avatars3.githubusercontent.com/u/3190888?v=3&s=64' width='64' height='64' title='Terence Z. Lew'> |
-| 6 | [Luisangonzalez](https://github.com/Luisangonzalez) | 98 | 1 | JavaScript | Toledo, Spain | <img src='https://avatars1.githubusercontent.com/u/1648046?v=3&s=64' width='64' height='64' title='Luis Antonio González Martín'> |
-| 7 | [jchansp](https://github.com/jchansp) | 84 | 2 | CSS | Toledo, Spain | <img src='https://avatars1.githubusercontent.com/u/593039?v=3&s=64' width='64' height='64' title='Jesús Muela'> |
-| 8 | [dmuy](https://github.com/dmuy) | 68 | 0 | CSS | DAS, Toledo City, Cebu | <img src='https://avatars3.githubusercontent.com/u/8830886?v=3&s=64' width='64' height='64' title='Dionlee Uy'> |
-| 9 | [ZiharkTheAssassin](https://github.com/ZiharkTheAssassin) | 50 | 0 | Shell | Toledo | <img src='https://avatars1.githubusercontent.com/u/5158225?v=3&s=64' width='64' height='64' title=''> |
-| 10 | [hiperion](https://github.com/hiperion) | 48 | 8 | Java | Toledo, Spain | <img src='https://avatars2.githubusercontent.com/u/360124?v=3&s=64' width='64' height='64' title='Andrés Cerezo'> |
-| 11 | [jrruiz](https://github.com/jrruiz) | 47 | 0 | CSS | Toledo | <img src='https://avatars0.githubusercontent.com/u/6089334?v=3&s=64' width='64' height='64' title='Jose Ramón Ruiz Sánchez'> |
-| 12 | [espectalll123](https://github.com/espectalll123) | 40 | 0 | JavaScript | Toledo, Spain | <img src='https://avatars2.githubusercontent.com/u/2456419?v=3&s=64' width='64' height='64' title='Francisco Gómez García'> |
-| 13 | [rubenmoya](https://github.com/rubenmoya) | 39 | 0 | CSS | Toledo, España | <img src='https://avatars3.githubusercontent.com/u/905225?v=3&s=64' width='64' height='64' title='Rubén Moya Rodríguez'> |
-| 14 | [javierlopezdeancos](https://github.com/javierlopezdeancos) | 19 | 3 | JavaScript | Toledo | <img src='https://avatars1.githubusercontent.com/u/1202463?v=3&s=64' width='64' height='64' title='Javier'> |
-| 15 | [nandop17](https://github.com/nandop17) | 17 | 0 | Shell | Toledo (Spain) | <img src='https://avatars1.githubusercontent.com/u/6423879?v=3&s=64' width='64' height='64' title='Fernando Illán'> |
-| 16 | [pabloogc](https://github.com/pabloogc) | 16 | 0 | Java | Toledo, Spain | <img src='https://avatars2.githubusercontent.com/u/1131305?v=3&s=64' width='64' height='64' title='Pablo Orgaz'> |
-| 17 | [carloslancha](https://github.com/carloslancha) | 14 | 0 | JavaScript | Toledo | <img src='https://avatars3.githubusercontent.com/u/5803434?v=3&s=64' width='64' height='64' title='Carlos Lancha'> |
-| 18 | [belsmike](https://github.com/belsmike) | 13 | 0 |  | Camarena (Toledo) | <img src='https://avatars1.githubusercontent.com/u/6432534?v=3&s=64' width='64' height='64' title='Rafael García Álvarez'> |
-| 19 | [mgnt](https://github.com/mgnt) | 13 | 0 | JavaScript | Toledo | <img src='https://avatars1.githubusercontent.com/u/3850065?v=3&s=64' width='64' height='64' title='Matthew Braun'> |
-| 20 | [djMesias](https://github.com/djMesias) | 12 | 0 | Shell | Toledo, Spain | <img src='https://avatars2.githubusercontent.com/u/1057831?v=3&s=64' width='64' height='64' title='djMesias'> |
-| 21 | [omarmanrique](https://github.com/omarmanrique) | 9 | 0 |  | Seseña, Toledo | <img src='https://avatars0.githubusercontent.com/u/12006845?v=3&s=64' width='64' height='64' title='Omar Manrique'> |
-| 22 | [WizTheEngineer](https://github.com/WizTheEngineer) | 6 | 0 | Java | Toledo | <img src='https://avatars1.githubusercontent.com/u/3859110?v=3&s=64' width='64' height='64' title='Wayne B Jackson'> |
-| 23 | [angelazarquiel](https://github.com/angelazarquiel) | 4 | 0 | Java | Toledo. Spain. | <img src='https://avatars3.githubusercontent.com/u/5631864?v=3&s=64' width='64' height='64' title='Angel Martínez'> |
-| 24 | [ultraheroe](https://github.com/ultraheroe) | 3 | 0 | CSS and PHP | Toledo (Spain) | <img src='https://avatars1.githubusercontent.com/u/564454?v=3&s=64' width='64' height='64' title='David Mateo'> |
-| 25 | [anikies](https://github.com/anikies) | 3 | 0 | R | Toledo | <img src='https://avatars3.githubusercontent.com/u/6978779?v=3&s=64' width='64' height='64' title='Fernando Varela  Martinez'> |
-| 26 | [amcanadas](https://github.com/amcanadas) | 3 | 2 | Python | Toledo, Spain | <img src='https://avatars1.githubusercontent.com/u/2418747?v=3&s=64' width='64' height='64' title='Angel Martinez Cañadas'> |
-| 27 | [Terseus](https://github.com/Terseus) | 2 | 1 | Shell | Toledo, España | <img src='https://avatars1.githubusercontent.com/u/1707139?v=3&s=64' width='64' height='64' title='David Caro'> |
-| 28 | [muihlinn](https://github.com/muihlinn) | 1 | 0 |  | Olias del Rey, Toledo. Spain | <img src='https://avatars1.githubusercontent.com/u/7160350?v=3&s=64' width='64' height='64' title='Luis Miguel Castañeda'> |
-| 29 | [jacomh](https://github.com/jacomh) | 1 | 0 | Objective-C and Ruby | Toledo | <img src='https://avatars2.githubusercontent.com/u/1038518?v=3&s=64' width='64' height='64' title='Jose A. Contreras'> |
+| 1 | [mdelapenya](https://github.com/mdelapenya) | 1001 | 17 | Java | Madrid, Toledo (Spain) | <img src='https://avatars0.githubusercontent.com/u/951580?v=3&s=64' width="64" title='Manuel de la Peña'> |
+| 2 | [JavierIH](https://github.com/JavierIH) | 463 | 1 | C++ | Madrid, Toledo (SPAIN) | <img src='https://avatars1.githubusercontent.com/u/5154251?v=3&s=64' width="64" title='Javier Isabel Hernandez'> |
+| 3 | [canodelacuadra](https://github.com/canodelacuadra) | 348 | 0 | CSS | Toledo, Spain | <img src='https://avatars1.githubusercontent.com/u/5006582?v=3&s=64' width="64" title='José Antonio Cano'> |
+| 4 | [terencezl](https://github.com/terencezl) | 287 | 2 | Python | Toledo | <img src='https://avatars3.githubusercontent.com/u/3190888?v=3&s=64' width="64" title='Terence Z. Lew'> |
+| 5 | [jlebrijo](https://github.com/jlebrijo) | 258 | 10 | Ruby | Toledo | <img src='https://avatars0.githubusercontent.com/u/553507?v=3&s=64' width="64" title='Juan Lebrijo'> |
+| 6 | [Luisangonzalez](https://github.com/Luisangonzalez) | 98 | 1 | JavaScript | Toledo, Spain | <img src='https://avatars1.githubusercontent.com/u/1648046?v=3&s=64' width="64" title='Luis Antonio González Martín'> |
+| 7 | [jchansp](https://github.com/jchansp) | 92 | 2 | CSS | Toledo, Spain | <img src='https://avatars1.githubusercontent.com/u/593039?v=3&s=64' width="64" title='Jesús Muela'> |
+| 8 | [jrruiz](https://github.com/jrruiz) | 76 | 0 | JavaScript | Toledo | <img src='https://avatars0.githubusercontent.com/u/6089334?v=3&s=64' width="64" title='Jose Ramón Ruiz Sánchez'> |
+| 9 | [dmuy](https://github.com/dmuy) | 76 | 1 | CSS | DAS, Toledo City, Cebu | <img src='https://avatars3.githubusercontent.com/u/8830886?v=3&s=64' width="64" title='Dionlee Uy'> |
+| 10 | [hiperion](https://github.com/hiperion) | 54 | 8 | Java | Toledo, Spain | <img src='https://avatars2.githubusercontent.com/u/360124?v=3&s=64' width="64" title='Andrés Cerezo'> |
+| 11 | [espectalll123](https://github.com/espectalll123) | 40 | 0 | JavaScript | Toledo, Spain | <img src='https://avatars2.githubusercontent.com/u/2456419?v=3&s=64' width="64" title='Francisco Gómez García'> |
+| 12 | [rubenmoya](https://github.com/rubenmoya) | 39 | 0 | CSS | Toledo, España | <img src='https://avatars3.githubusercontent.com/u/905225?v=3&s=64' width="64" title='Rubén Moya Rodríguez'> |
+| 13 | [javierlopezdeancos](https://github.com/javierlopezdeancos) | 19 | 3 | JavaScript | Toledo | <img src='https://avatars1.githubusercontent.com/u/1202463?v=3&s=64' width="64" title='Javier'> |
+| 14 | [nandop17](https://github.com/nandop17) | 17 | 0 | Shell | Toledo (Spain) | <img src='https://avatars1.githubusercontent.com/u/6423879?v=3&s=64' width="64" title='Fernando Illán'> |
+| 15 | [pabloogc](https://github.com/pabloogc) | 16 | 0 | Java | Toledo, Spain | <img src='https://avatars2.githubusercontent.com/u/1131305?v=3&s=64' width="64" title='Pablo Orgaz'> |
+| 16 | [carloslancha](https://github.com/carloslancha) | 15 | 0 | JavaScript | Toledo | <img src='https://avatars3.githubusercontent.com/u/5803434?v=3&s=64' width="64" title='Carlos Lancha'> |
+| 17 | [mgnt](https://github.com/mgnt) | 13 | 0 | JavaScript | Toledo | <img src='https://avatars1.githubusercontent.com/u/3850065?v=3&s=64' width="64" title='Matthew Braun'> |
+| 18 | [djMesias](https://github.com/djMesias) | 12 | 0 | Shell | Toledo, Spain | <img src='https://avatars2.githubusercontent.com/u/1057831?v=3&s=64' width="64" title='djMesias'> |
+| 19 | [omarmanrique](https://github.com/omarmanrique) | 9 | 0 |  | Seseña, Toledo | <img src='https://avatars0.githubusercontent.com/u/12006845?v=3&s=64' width="64" title='Omar Manrique'> |
+| 20 | [luismaront](https://github.com/luismaront) | 6 | 3 | Python | Toledo (Spain) | <img src='https://avatars0.githubusercontent.com/u/5930419?v=3&s=64' width="64" title='Luis Martínez Ontalba'> |
+| 21 | [WizTheEngineer](https://github.com/WizTheEngineer) | 6 | 0 | Java | Toledo | <img src='https://avatars1.githubusercontent.com/u/3859110?v=3&s=64' width="64" title='Wayne B Jackson'> |
+| 22 | [angelazarquiel](https://github.com/angelazarquiel) | 4 | 0 | Java | Toledo. Spain. | <img src='https://avatars3.githubusercontent.com/u/5631864?v=3&s=64' width="64" title='Angel Martínez'> |
+| 23 | [ultraheroe](https://github.com/ultraheroe) | 3 | 0 | CSS and PHP | Toledo (Spain) | <img src='https://avatars1.githubusercontent.com/u/564454?v=3&s=64' width="64" title='David Mateo'> |
+| 24 | [anikies](https://github.com/anikies) | 3 | 0 | R | Toledo | <img src='https://avatars3.githubusercontent.com/u/6978779?v=3&s=64' width="64" title='Fernando Varela  Martinez'> |
+| 25 | [amcanadas](https://github.com/amcanadas) | 3 | 2 | Python | Toledo, Spain | <img src='https://avatars1.githubusercontent.com/u/2418747?v=3&s=64' width="64" title='Angel Martinez Cañadas'> |
+| 26 | [Terseus](https://github.com/Terseus) | 2 | 1 | Shell | Toledo, España | <img src='https://avatars1.githubusercontent.com/u/1707139?v=3&s=64' width="64" title='David Caro'> |
+| 27 | [muihlinn](https://github.com/muihlinn) | 2 | 0 |  | Olias del Rey, Toledo. Spain | <img src='https://avatars1.githubusercontent.com/u/7160350?v=3&s=64' width="64" title='Luis Miguel Castañeda'> |
+| 28 | [jacomh](https://github.com/jacomh) | 1 | 0 | Objective-C and Ruby | Toledo | <img src='https://avatars2.githubusercontent.com/u/1038518?v=3&s=64' width="64" title='Jose A. Contreras'> |
