@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Tue, 10 Jun 2014 16:50:11 GMT** hasta **Wed, 10 Jun 2015 16:50:11 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 14 Jun 2014 09:33:11 GMT** hasta **Sun, 14 Jun 2015 09:33:11 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -17,5 +17,6 @@
 | 2 | [arcxyz](https://github.com/arcxyz) | 37 | 3 | JavaScript | Madrid and Zamora (Spain) | <img src='https://avatars0.githubusercontent.com/u/185002?v=3&s=64' width="64" title='Alejandro Rodríguez'> |
 | 3 | [amaliahern](https://github.com/amaliahern) | 29 | 15 | Ruby | Valladolid - Zamora (Spain) | <img src='https://avatars3.githubusercontent.com/u/304761?v=3&s=64' width="64" title='Amalia Hernandez'> |
 | 4 | [Roberth1203](https://github.com/Roberth1203) | 9 | 0 | C# and XML | Zamora de Hidalgo, Mich | <img src='https://avatars0.githubusercontent.com/u/10360581?v=3&s=64' width="64" title='Roberto Arroyo'> |
-| 5 | [aszinzun](https://github.com/aszinzun) | 2 | 0 | Java | Zamora, Michoacán | <img src='https://avatars2.githubusercontent.com/u/11574071?v=3&s=64' width="64" title=''> |
-| 6 | [yucar](https://github.com/yucar) | 2 | 0 | Java | Zamora, Spain | <img src='https://avatars1.githubusercontent.com/u/9248297?v=3&s=64' width="64" title='Rodrigo'> |
+| 5 | [Curicaveri](https://github.com/Curicaveri) | 3 | 0 | Java | Zamora, Michoacan | <img src='https://avatars3.githubusercontent.com/u/6333993?v=3&s=64' width="64" title='Jesus Armando Verduzco Ramirez'> |
+| 6 | [aszinzun](https://github.com/aszinzun) | 2 | 0 | Java | Zamora, Michoacán | <img src='https://avatars2.githubusercontent.com/u/11574071?v=3&s=64' width="64" title=''> |
+| 7 | [yucar](https://github.com/yucar) | 2 | 0 | Java | Zamora, Spain | <img src='https://avatars1.githubusercontent.com/u/9248297?v=3&s=64' width="64" title='Rodrigo'> |
