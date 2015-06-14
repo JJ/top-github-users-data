@@ -1,7 +1,7 @@
 ---
-title: "GitHub users in Spain; May 31st 2015"
+title: "GitHub users in Spain; June 14 2015"
 author: "JJ Merelo"
-date: "31/5/2015"
+date: "14/6/2015"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -53,7 +53,7 @@ In a previous version of this paper @rpubs, we had not been able to obtain all t
 
 #Results
 
-After downloading all users, scraping was performed over the user profiles to extract the following information: number of followers, stars given by the user, stars given to the projects in which the user participates, and raw number of users. This number of users in each province is shown below. Obviously, the provinces with the biggest population do have the bigger number of users.
+After downloading all users, scraping was performed over the user profiles to extract the following information: number of followers, stars given by the user, stars given to the projects in which the user participates, and raw number of users. This number of users in each province is shown below. Obviously, the provinces with the biggest population do have the bigger number of users. The plot below ranks provinces by population (according to official census)
 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
@@ -68,19 +68,20 @@ ggplot( data=province.table.df, aes(x="",y=users,fill=factor(province)))+ geom_b
 
 The users without a declared province form the biggest slice of the pie, with around one quarter of the total number of users. They are followed by Madrid, Barcelona, Valencia, Seville, Granada and Málaga. These provinces, by themselves, host more than half the total community of GitHub users in Spain. 
 
-Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Barcelona emerging as the province with the highest number of GitHub active developers per capita, followed by Granada and Madrid and then by Seville and Saragossa.
+Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Barcelona and Granada emerging as the province with the highest number of GitHub active developers per capita; they are head-to-head and the situation might change from this report to the next, that is a clear winner is not declared. After them the situation is more stable, with Madrid in the third position, followed by Seville and Saragossa (Zaragoza). The province of Córdoba is a distant next. 
+
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,usersrel),y=usersrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
-The situation is similar if we take into account the aggregated contributions by all province users. Once again, Granada emerges as the winner but the position of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. Navarra, due to a single user with more than 20000 contributions, has managed to enter that ranking too.
+The situation is similar if we take into account the aggregated contributions by all declared users in the province. Once again, Granada emerges as the winner but the position of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. Navarra, due to a single user with more than 20000 contributions, has managed to enter that ranking too.
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,contribrel),y=contribrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
-The aggregated number of followers is a bit less surprising, with Madrid and Barcelona on top, but Álava and Bilbao entering the top 5. If we delve into the data this is mainly due to a single user in both cases. 
+The aggregated number of followers, that is, the sum of the users that follow every user in the province, is a bit less surprising, with Madrid and Barcelona on top, but Álava and Bilbao entering the top five. If we delve into the data this is mainly due to a single user in both cases. 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,followersrel),y=followersrel))+geom_bar(stat='identity')+coord_flip()
@@ -92,8 +93,8 @@ The stars given to projects, which is a proxy for popularity, is correlated (but
 ggplot(data.province, aes(x=reorder(province,starsrel),y=starsrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
-Finally, if we consider the number of stars given by users, a new one, Tenerife, gets into the top 10.
-```{r, echo=FALSE,fig.width=10,fig.height=8}
+Finally, if we consider the number of stars given by users, a new one, Tenerife, gets into the top 10. This would be correlated to the "social" activity of users in the province, since *starts* are similar to *likes* in other social platforms: they are issued by users to those projects they like; lots of stars basically mean that users in that province are keen on "favoriting" other projects by giving them stars. 
+```{r userstars, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,userstarsrel),y=userstarsrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
@@ -113,12 +114,11 @@ data.province$scaledy = scaling$points[,2]
 ggplot(data.province, aes(x=scaledx, y=scaledy, colour=factor(CLUST),shape=factor(CLUST)))+geom_point()+ geom_text(aes(label=province,angle=315,hjust=0))
 ```
 
-Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Zaragoza and Granada. A second cluster, in turquoise, includes Sevilla, Navarra, Bilbao and Álava, which some times score in the top 10 in every ranking and in some cases the top 5. The following cluster includes  provinces like Salamanca or Pontevedra with some scores in the top, and vinally the red cluster which does not have anything special to show.
-
-This clustering varies each week, however, although Barcelona, Madrid and Granada are almost always placed in the top cluster, and most provinces grouped in a single cluster. Clusters vary between 3 and 4, depending on the week.
+Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Granada and sometimes another province that is in ocassions Zaragoza, and in others Navarra. The situation in the other clusters is more fluid, with 2 or sometimes three clusters; the second one includes provinces with a certain defining feature (such as total number of stars in projects), like Álava, and finally other one or two clusters with the rest of the province.
 
 #Conclusions
-This paper measures and ranks Spanish provinces by the number of users and other quantities related to productivity (contributions) and popularity (stars, followers). It is a first approximation to community metrics in Spain and it is mainly intended as a reference for future use. It is also an indication of a particular point in time. Future versions will probably change this scenario and it is an interesting line of work to delve on the reason for these changes.
+
+This paper, which is updated every two or three weeks, measures and ranks Spanish provinces by the number of users and other quantities related to productivity (contributions) and popularity (stars, followers). It is a first approximation to community metrics in Spain and it is mainly intended as a reference for future use. It is also an indication of a particular point in time. Future versions will probably change this scenario and it is an interesting line of work to delve on the reason for these changes.
 
 #Acknowledgements
 I am grateful to Francisco Charte for his help creating the pie chart for this paper.
