@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 14 Jun 2014 09:22:53 GMT** hasta **Sun, 14 Jun 2015 09:22:53 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 21 Jun 2014 09:22:40 GMT** hasta **Sun, 21 Jun 2015 09:22:40 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,14 +13,14 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [RobertoIA](https://github.com/RobertoIA) | 192 | 0 | Java | Burgos, Spain | <img src='https://avatars0.githubusercontent.com/u/4304280?v=3&s=64' width="64" title='Roberto Izquierdo'> |
-| 2 | [sl1pkn07](https://github.com/sl1pkn07) | 87 | 0 | Shell | burgos (Spain) | <img src='https://avatars3.githubusercontent.com/u/462213?v=3&s=64' width="64" title='Gustavo Alvarez'> |
+| 1 | [RobertoIA](https://github.com/RobertoIA) | 180 | 0 | Java | Burgos, Spain | <img src='https://avatars0.githubusercontent.com/u/4304280?v=3&s=64' width="64" title='Roberto Izquierdo'> |
+| 2 | [sl1pkn07](https://github.com/sl1pkn07) | 83 | 0 | Shell | burgos (Spain) | <img src='https://avatars3.githubusercontent.com/u/462213?v=3&s=64' width="64" title='Gustavo Alvarez'> |
 | 3 | [naarean](https://github.com/naarean) | 58 | 1 | CSS | Burgos, Spain | <img src='https://avatars3.githubusercontent.com/u/9574895?v=3&s=64' width="64" title='Sergio Alegre Arribas'> |
 | 4 | [zerberros](https://github.com/zerberros) | 48 | 0 | Python | Burgos, Spain | <img src='https://avatars0.githubusercontent.com/u/5930950?v=3&s=64' width="64" title='Jairo'> |
 | 5 | [clopezno](https://github.com/clopezno) | 18 | 1 | Java and Shell | Burgos | <img src='https://avatars2.githubusercontent.com/u/1453744?v=3&s=64' width="64" title='Carlos López'> |
-| 6 | [rmartico](https://github.com/rmartico) | 14 | 0 | Java and XSLT | Burgos | <img src='https://avatars1.githubusercontent.com/u/2535865?v=3&s=64' width="64" title='Raúl Marticorena'> |
-| 7 | [turtulino](https://github.com/turtulino) | 11 | 1 | Shell | Burgos, Spain | <img src='https://avatars0.githubusercontent.com/u/1004178?v=3&s=64' width="64" title='Rodrigo Saiz Camarero'> |
-| 8 | [Zarpen](https://github.com/Zarpen) | 9 | 1 | JavaScript and CSS | Burgos | <img src='https://avatars2.githubusercontent.com/u/1887156?v=3&s=64' width="64" title='Alberto Romo Valverde'> |
+| 6 | [Zarpen](https://github.com/Zarpen) | 15 | 1 | JavaScript and CSS | Burgos | <img src='https://avatars2.githubusercontent.com/u/1887156?v=3&s=64' width="64" title='Alberto Romo Valverde'> |
+| 7 | [rmartico](https://github.com/rmartico) | 12 | 0 | Java and XSLT | Burgos | <img src='https://avatars1.githubusercontent.com/u/2535865?v=3&s=64' width="64" title='Raúl Marticorena'> |
+| 8 | [turtulino](https://github.com/turtulino) | 11 | 1 | Shell | Burgos, Spain | <img src='https://avatars0.githubusercontent.com/u/1004178?v=3&s=64' width="64" title='Rodrigo Saiz Camarero'> |
 | 9 | [pacocardenal](https://github.com/pacocardenal) | 6 | 0 | Objective-C | Burgos | <img src='https://avatars0.githubusercontent.com/u/5442055?v=3&s=64' width="64" title='Paco Cardenal'> |
 | 10 | [Al-Waseem](https://github.com/Al-Waseem) | 5 | 0 | Java | Burgos | <img src='https://avatars2.githubusercontent.com/u/6266689?v=3&s=64' width="64" title='Waseem ALKHALEL'> |
 | 11 | [icruzado](https://github.com/icruzado) | 4 | 1 | Shell | Burgos or Valladolid, Spain | <img src='https://avatars2.githubusercontent.com/u/1931910?v=3&s=64' width="64" title='Ignacio Cruzado Nuño'> |
