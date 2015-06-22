@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 15 Jun 2014 05:33:33 GMT** hasta **Mon, 15 Jun 2015 05:33:33 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 22 Jun 2014 05:33:33 GMT** hasta **Mon, 22 Jun 2015 05:33:33 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,63 +13,62 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [jlblancoc](https://github.com/jlblancoc) | 974 | 197 | C++ | Almeria (Spain) | <img src='https://avatars0.githubusercontent.com/u/5497818?v=3&s=64' width="64" title='Jose-Luis Blanco-Claraco'> |
-| 2 | [josejuansanchez](https://github.com/josejuansanchez) | 808 | 58 | JavaScript | Almería | <img src='https://avatars0.githubusercontent.com/u/888481?v=3&s=64' width="64" title='José Juan Sánchez'> |
-| 3 | [germaaan](https://github.com/germaaan) | 325 | 5 | CSS | Granada / Almería (Andalucía), Spain | <img src='https://avatars1.githubusercontent.com/u/5518719?v=3&s=64' width="64" title='German Martinez'> |
-| 4 | [jghinestrosa](https://github.com/jghinestrosa) | 323 | 2 | JavaScript | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/7010036?v=3&s=64' width="64" title='Jorge García Hinestrosa'> |
-| 5 | [ccamposfuentes](https://github.com/ccamposfuentes) | 279 | 1 | CSS | Granada, Almería, Spain | <img src='https://avatars1.githubusercontent.com/u/6200116?v=3&s=64' width="64" title='Carlos Campos'> |
-| 6 | [Feagurth](https://github.com/Feagurth) | 224 | 0 | Java | Almería | <img src='https://avatars0.githubusercontent.com/u/6003799?v=3&s=64' width="64" title='Feagurth'> |
-| 7 | [JuanjoSalvador](https://github.com/JuanjoSalvador) | 191 | 7 | Java | Almeria, España | <img src='https://avatars1.githubusercontent.com/u/5058655?v=3&s=64' width="64" title='Juan José Salvador'> |
-| 8 | [MiguelAngelLV](https://github.com/MiguelAngelLV) | 187 | 10 | Java | Almería | <img src='https://avatars3.githubusercontent.com/u/638110?v=3&s=64' width="64" title='Miguel Ángel López Vicente'> |
+| 1 | [jlblancoc](https://github.com/jlblancoc) | 969 | 199 | C++ | Almeria (Spain) | <img src='https://avatars0.githubusercontent.com/u/5497818?v=3&s=64' width="64" title='Jose-Luis Blanco-Claraco'> |
+| 2 | [josejuansanchez](https://github.com/josejuansanchez) | 771 | 59 | JavaScript | Almería | <img src='https://avatars0.githubusercontent.com/u/888481?v=3&s=64' width="64" title='José Juan Sánchez'> |
+| 3 | [germaaan](https://github.com/germaaan) | 374 | 5 | CSS | Granada / Almería (Andalucía), Spain | <img src='https://avatars1.githubusercontent.com/u/5518719?v=3&s=64' width="64" title='German Martinez'> |
+| 4 | [ccamposfuentes](https://github.com/ccamposfuentes) | 298 | 1 | CSS | Granada, Almería, Spain | <img src='https://avatars1.githubusercontent.com/u/6200116?v=3&s=64' width="64" title='Carlos Campos'> |
+| 5 | [jghinestrosa](https://github.com/jghinestrosa) | 297 | 2 | JavaScript | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/7010036?v=3&s=64' width="64" title='Jorge García Hinestrosa'> |
+| 6 | [Feagurth](https://github.com/Feagurth) | 213 | 0 | Java | Almería | <img src='https://avatars0.githubusercontent.com/u/6003799?v=3&s=64' width="64" title='Feagurth'> |
+| 7 | [JuanjoSalvador](https://github.com/JuanjoSalvador) | 192 | 7 | Java | Almeria, España | <img src='https://avatars1.githubusercontent.com/u/5058655?v=3&s=64' width="64" title='Juan José Salvador'> |
+| 8 | [MiguelAngelLV](https://github.com/MiguelAngelLV) | 190 | 10 | Java | Almería | <img src='https://avatars3.githubusercontent.com/u/638110?v=3&s=64' width="64" title='Miguel Ángel López Vicente'> |
 | 9 | [SergioRevueltas](https://github.com/SergioRevueltas) | 171 | 1 | HTML | Almería, Spain | <img src='https://avatars0.githubusercontent.com/u/6931657?v=3&s=64' width="64" title='Sergio Revueltas Estrada'> |
-| 10 | [olea](https://github.com/olea) | 165 | 41 | C | Almería (Spain) | <img src='https://avatars2.githubusercontent.com/u/141267?v=3&s=64' width="64" title='Ismael Olea'> |
-| 11 | [carcam](https://github.com/carcam) | 131 | 7 | PHP | Almería, Ceuta, Spain | <img src='https://avatars2.githubusercontent.com/u/1695138?v=3&s=64' width="64" title='Carlos (carcam)'> |
-| 12 | [ernesmb](https://github.com/ernesmb) | 126 | 0 | HTML | Almería | <img src='https://avatars3.githubusercontent.com/u/1096406?v=3&s=400' width="64" title='Ernesto Martínez Becerra'> |
-| 13 | [ualmtorres](https://github.com/ualmtorres) | 113 | 1 | PHP | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/2856222?v=3&s=64' width="64" title='Manolo Torres'> |
-| 14 | [Arasthel](https://github.com/Arasthel) | 105 | 587 | Java | Almería, España | <img src='https://avatars0.githubusercontent.com/u/480955?v=3&s=64' width="64" title='Jorge Martin Espinosa'> |
+| 10 | [olea](https://github.com/olea) | 165 | 42 | C | Almería (Spain) | <img src='https://avatars2.githubusercontent.com/u/141267?v=3&s=64' width="64" title='Ismael Olea'> |
+| 11 | [carcam](https://github.com/carcam) | 134 | 9 | PHP | Almería, Ceuta, Spain | <img src='https://avatars2.githubusercontent.com/u/1695138?v=3&s=64' width="64" title='Carlos (carcam)'> |
+| 12 | [ernesmb](https://github.com/ernesmb) | 126 | 1 | HTML | Almería | <img src='https://avatars3.githubusercontent.com/u/1096406?v=3&s=400' width="64" title='Ernesto Martínez Becerra'> |
+| 13 | [ualmtorres](https://github.com/ualmtorres) | 118 | 1 | PHP | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/2856222?v=3&s=64' width="64" title='Manolo Torres'> |
+| 14 | [Arasthel](https://github.com/Arasthel) | 112 | 588 | Java | Almería, España | <img src='https://avatars0.githubusercontent.com/u/480955?v=3&s=64' width="64" title='Jorge Martin Espinosa'> |
 | 15 | [antoniovm](https://github.com/antoniovm) | 98 | 1 | Java and JavaScript | Almería, España | <img src='https://avatars0.githubusercontent.com/u/6975327?v=3&s=64' width="64" title='Antonio Vicente Martín'> |
 | 16 | [IvanJMembrilla](https://github.com/IvanJMembrilla) | 80 | 0 | ASP | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/7768029?v=3&s=64' width="64" title='Iván J. Membrilla'> |
-| 17 | [zerasul](https://github.com/zerasul) | 76 | 2 | Java | Almeria | <img src='https://avatars1.githubusercontent.com/u/6067824?v=3&s=64' width="64" title='Victor Suarez'> |
+| 17 | [zerasul](https://github.com/zerasul) | 77 | 2 | Java | Almeria | <img src='https://avatars1.githubusercontent.com/u/6067824?v=3&s=64' width="64" title='Victor Suarez'> |
 | 18 | [bumxu](https://github.com/bumxu) | 64 | 27 | JavaScript | Almería, Spain | <img src='https://avatars0.githubusercontent.com/u/1742635?v=3&s=64' width="64" title='Juande Martos'> |
-| 19 | [ualjjcanada](https://github.com/ualjjcanada) | 58 | 0 | Java and HTML | Almería | <img src='https://avatars1.githubusercontent.com/u/11983068?v=3&s=64' width="64" title='Joaquín Cañadas'> |
+| 19 | [ualjjcanada](https://github.com/ualjjcanada) | 63 | 0 | Java | Almería | <img src='https://avatars1.githubusercontent.com/u/11983068?v=3&s=64' width="64" title='Joaquín Cañadas'> |
 | 20 | [avilin](https://github.com/avilin) | 42 | 0 | C# | Almería, España | <img src='https://avatars2.githubusercontent.com/u/7100982?v=3&s=64' width="64" title='Andrés Vicente Linares'> |
-| 21 | [jesmg](https://github.com/jesmg) | 41 | 1 | Arduino | Almería, Spain | <img src='https://avatars2.githubusercontent.com/u/7987855?v=3&s=64' width="64" title='Jesús'> |
-| 22 | [jonasurbano](https://github.com/jonasurbano) | 36 | 0 | Java | Almería (Spain) | <img src='https://avatars0.githubusercontent.com/u/950088?v=3&s=64' width="64" title='Jonás'> |
-| 23 | [jotaperamez](https://github.com/jotaperamez) | 36 | 0 | C# | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/10507381?v=3&s=64' width="64" title='Juan Pedro Ramos Gómez'> |
-| 24 | [javimb](https://github.com/javimb) | 33 | 13 | Python | Almería | <img src='https://avatars2.githubusercontent.com/u/1410846?v=3&s=64' width="64" title='Javi Imbernón'> |
-| 25 | [cristobalmedinalopez](https://github.com/cristobalmedinalopez) | 32 | 0 | Python | Almería | <img src='https://avatars2.githubusercontent.com/u/11335170?v=3&s=64' width="64" title='Cristóbal Medina López'> |
+| 21 | [jesmg](https://github.com/jesmg) | 38 | 1 | Arduino | Almería, Spain | <img src='https://avatars2.githubusercontent.com/u/7987855?v=3&s=64' width="64" title='Jesús'> |
+| 22 | [jotaperamez](https://github.com/jotaperamez) | 36 | 0 | C# | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/10507381?v=3&s=64' width="64" title='Juan Pedro Ramos Gómez'> |
+| 23 | [jonasurbano](https://github.com/jonasurbano) | 36 | 0 | Java | Almería (Spain) | <img src='https://avatars0.githubusercontent.com/u/950088?v=3&s=64' width="64" title='Jonás'> |
+| 24 | [javimb](https://github.com/javimb) | 34 | 13 | Python | Almería | <img src='https://avatars2.githubusercontent.com/u/1410846?v=3&s=64' width="64" title='Javi Imbernón'> |
+| 25 | [cristobalmedinalopez](https://github.com/cristobalmedinalopez) | 33 | 0 | Python | Almería | <img src='https://avatars2.githubusercontent.com/u/11335170?v=3&s=64' width="64" title='Cristóbal Medina López'> |
 | 26 | [xuspitin](https://github.com/xuspitin) | 31 | 0 | CSS | Almería | <img src='https://avatars3.githubusercontent.com/u/8753302?v=3&s=64' width="64" title='Vicent Camarena'> |
-| 27 | [jh2odo](https://github.com/jh2odo) | 28 | 0 | PHP | Spain, Almería | <img src='https://avatars3.githubusercontent.com/u/7497387?v=3&s=64' width="64" title='Jose Aguado'> |
-| 28 | [riki319](https://github.com/riki319) | 22 | 0 | Python | Almería | <img src='https://avatars3.githubusercontent.com/u/1909548?v=3&s=64' width="64" title='Ricardo'> |
-| 29 | [ualabecerra](https://github.com/ualabecerra) | 21 | 0 | XQuery | Almeria | <img src='https://avatars3.githubusercontent.com/u/558072?v=3&s=64' width="64" title='Antonio Becerra Terón'> |
+| 27 | [jrjimenezr](https://github.com/jrjimenezr) | 28 | 0 | JavaScript | Almería | <img src='https://avatars2.githubusercontent.com/u/3315157?v=3&s=64' width="64" title='José Ramón Jiménez Reyes'> |
+| 28 | [jh2odo](https://github.com/jh2odo) | 26 | 0 | PHP | Spain, Almería | <img src='https://avatars3.githubusercontent.com/u/7497387?v=3&s=64' width="64" title='Jose Aguado'> |
+| 29 | [riki319](https://github.com/riki319) | 22 | 0 | Python | Almería | <img src='https://avatars3.githubusercontent.com/u/1909548?v=3&s=64' width="64" title='Ricardo'> |
 | 30 | [EnricGTorrents](https://github.com/EnricGTorrents) | 21 | 0 | Python | Vera, Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/4061261?v=3&s=64' width="64" title='Enric Garcia Torrents'> |
-| 31 | [migtr88](https://github.com/migtr88) | 21 | 1 | JavaScript | Pulpí (Almería) | <img src='https://avatars3.githubusercontent.com/u/9882479?v=3&s=64' width="64" title='Miguel Tabernero'> |
-| 32 | [jrjimenezr](https://github.com/jrjimenezr) | 20 | 0 | JavaScript and CSS | Almería | <img src='https://avatars2.githubusercontent.com/u/3315157?v=3&s=64' width="64" title='José Ramón Jiménez Reyes'> |
+| 31 | [ualabecerra](https://github.com/ualabecerra) | 21 | 0 | XQuery | Almeria | <img src='https://avatars3.githubusercontent.com/u/558072?v=3&s=64' width="64" title='Antonio Becerra Terón'> |
+| 32 | [migtr88](https://github.com/migtr88) | 21 | 1 | JavaScript | Pulpí (Almería) | <img src='https://avatars3.githubusercontent.com/u/9882479?v=3&s=64' width="64" title='Miguel Tabernero'> |
 | 33 | [Fromau5](https://github.com/Fromau5) | 17 | 0 | CSS | Almería, Spain | <img src='https://avatars1.githubusercontent.com/u/8038664?v=3&s=64' width="64" title='Jesús'> |
-| 34 | [valgreens](https://github.com/valgreens) | 16 | 7 | JavaScript | Almería, Spain | <img src='https://avatars1.githubusercontent.com/u/903263?v=3&s=64' width="64" title='Antonio Valverde'> |
-| 35 | [segarci](https://github.com/segarci) | 13 | 0 |  | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/10563441?v=3&s=64' width="64" title='Sebastián García Rodríguez'> |
-| 36 | [robertosalas](https://github.com/robertosalas) | 11 | 0 | HTML | Almería | <img src='https://avatars1.githubusercontent.com/u/11721938?v=3&s=64' width="64" title='Roberto Salas'> |
-| 37 | [HectorVda](https://github.com/HectorVda) | 10 | 0 | Java | Almería (Spain) | <img src='https://avatars2.githubusercontent.com/u/7792924?v=3&s=64' width="64" title='Héctor Valentín'> |
+| 34 | [robertosalas](https://github.com/robertosalas) | 17 | 0 | HTML | Almería | <img src='https://avatars1.githubusercontent.com/u/11721938?v=3&s=64' width="64" title='Roberto Salas'> |
+| 35 | [valgreens](https://github.com/valgreens) | 16 | 7 | JavaScript | Almería, Spain | <img src='https://avatars1.githubusercontent.com/u/903263?v=3&s=64' width="64" title='Antonio Valverde'> |
+| 36 | [segarci](https://github.com/segarci) | 13 | 0 |  | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/10563441?v=3&s=64' width="64" title='Sebastián García Rodríguez'> |
+| 37 | [HectorVda](https://github.com/HectorVda) | 9 | 0 | Java | Almería (Spain) | <img src='https://avatars2.githubusercontent.com/u/7792924?v=3&s=64' width="64" title='Héctor Valentín'> |
 | 38 | [fmcato](https://github.com/fmcato) | 8 | 0 | JavaScript | Almería | <img src='https://avatars0.githubusercontent.com/u/3447226?v=3&s=64' width="64" title='Francisco Camenforte'> |
-| 39 | [YariLorenzo](https://github.com/YariLorenzo) | 6 | 0 | Python and R | Almería, Spain | <img src='https://avatars2.githubusercontent.com/u/9215587?v=3&s=64' width="64" title='YariLorenzo'> |
-| 40 | [jeaveme](https://github.com/jeaveme) | 6 | 1 | CSS | Almería, Spain | <img src='https://avatars0.githubusercontent.com/u/7329741?v=3&s=64' width="64" title='Jesús Avellaneda Menchón'> |
-| 41 | [Alromo](https://github.com/Alromo) | 6 | 0 | C# | Almería | <img src='https://avatars1.githubusercontent.com/u/7301223?v=3&s=64' width="64" title='Alejandro Rodríguez Moreno'> |
-| 42 | [equero](https://github.com/equero) | 6 | 1 | JavaScript | Spain, Almería | <img src='https://avatars1.githubusercontent.com/u/7300634?v=3&s=64' width="64" title='Enrique'> |
-| 43 | [Diego88](https://github.com/Diego88) | 6 | 0 | CSS | Almeria | <img src='https://avatars0.githubusercontent.com/u/10108252?v=3&s=64' width="64" title='Diego'> |
-| 44 | [BeatrizDT](https://github.com/BeatrizDT) | 6 | 0 | Java | Almería | <img src='https://avatars3.githubusercontent.com/u/8617621?v=3&s=64' width="64" title='Beatriz'> |
-| 45 | [jruizp82](https://github.com/jruizp82) | 5 | 0 |  | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/6069778?v=3&s=64' width="64" title='Juan Antonio Ruiz Pintor'> |
-| 46 | [rsaban](https://github.com/rsaban) | 5 | 0 | Python | Almería (Spain) | <img src='https://avatars0.githubusercontent.com/u/4655723?v=3&s=64' width="64" title='Rafael Sabán'> |
-| 47 | [German-Carmona](https://github.com/German-Carmona) | 5 | 0 |  | Almería (España) | <img src='https://avatars3.githubusercontent.com/u/8121405?v=3&s=64' width="64" title='Germán Carmona'> |
-| 48 | [funsecurity](https://github.com/funsecurity) | 3 | 17 | Python | Almería | <img src='https://avatars2.githubusercontent.com/u/7109970?v=3&s=64' width="64" title='funsecurity'> |
+| 39 | [Diego88](https://github.com/Diego88) | 6 | 0 | CSS | Almeria | <img src='https://avatars0.githubusercontent.com/u/10108252?v=3&s=64' width="64" title='Diego'> |
+| 40 | [equero](https://github.com/equero) | 6 | 1 | JavaScript | Spain, Almería | <img src='https://avatars1.githubusercontent.com/u/7300634?v=3&s=64' width="64" title='Enrique'> |
+| 41 | [YariLorenzo](https://github.com/YariLorenzo) | 6 | 0 | Python and R | Almería, Spain | <img src='https://avatars2.githubusercontent.com/u/9215587?v=3&s=64' width="64" title='YariLorenzo'> |
+| 42 | [Alromo](https://github.com/Alromo) | 6 | 0 | C# | Almería | <img src='https://avatars1.githubusercontent.com/u/7301223?v=3&s=64' width="64" title='Alejandro Rodríguez Moreno'> |
+| 43 | [BeatrizDT](https://github.com/BeatrizDT) | 6 | 0 | Java | Almería | <img src='https://avatars3.githubusercontent.com/u/8617621?v=3&s=64' width="64" title='Beatriz'> |
+| 44 | [jruizp82](https://github.com/jruizp82) | 5 | 0 | R | Almería, Spain | <img src='https://avatars3.githubusercontent.com/u/6069778?v=3&s=64' width="64" title='Juan Antonio Ruiz Pintor'> |
+| 45 | [rsaban](https://github.com/rsaban) | 5 | 0 | Python | Almería (Spain) | <img src='https://avatars0.githubusercontent.com/u/4655723?v=3&s=64' width="64" title='Rafael Sabán'> |
+| 46 | [German-Carmona](https://github.com/German-Carmona) | 5 | 0 |  | Almería (España) | <img src='https://avatars3.githubusercontent.com/u/8121405?v=3&s=64' width="64" title='Germán Carmona'> |
+| 47 | [sergat](https://github.com/sergat) | 3 | 0 | R | Almería (Spain) | <img src='https://avatars0.githubusercontent.com/u/8451697?v=3&s=64' width="64" title='Sergio García'> |
+| 48 | [1000io](https://github.com/1000io) | 3 | 5 | CSS | Almería - Spain | <img src='https://avatars3.githubusercontent.com/u/2798648?v=3&s=64' width="64" title='1000io'> |
 | 49 | [marckyes](https://github.com/marckyes) | 3 | 0 |  | Almeria, Spain | <img src='https://avatars0.githubusercontent.com/u/417513?v=3&s=64' width="64" title='Marc'> |
-| 50 | [1000io](https://github.com/1000io) | 3 | 4 | CSS | Almería - Spain | <img src='https://avatars3.githubusercontent.com/u/2798648?v=3&s=64' width="64" title='1000io'> |
-| 51 | [sergat](https://github.com/sergat) | 3 | 0 | R | Almería (Spain) | <img src='https://avatars0.githubusercontent.com/u/8451697?v=3&s=64' width="64" title='Sergio García'> |
-| 52 | [neurodigitaltechnologies](https://github.com/neurodigitaltechnologies) | 2 | 0 | Java | Almería, Spain | <img src='https://avatars0.githubusercontent.com/u/6275593?v=3&s=64' width="64" title='NeuroDigital Technologies'> |
-| 53 | [evoratec](https://github.com/evoratec) | 2 | 3 | JavaScript | Almería, Spain | <img src='https://avatars0.githubusercontent.com/u/490450?v=3&s=64' width="64" title='Juan Antonio Navarro'> |
-| 54 | [emitomas](https://github.com/emitomas) | 2 | 0 | HTML | Almería | <img src='https://avatars0.githubusercontent.com/u/10902048?v=3&s=64' width="64" title='Emilia Tomás'> |
-| 55 | [jucles](https://github.com/jucles) | 2 | 0 | ASP | Almeria | <img src='https://avatars3.githubusercontent.com/u/3337129?v=3&s=64' width="64" title='Jose Uclés'> |
-| 56 | [fmarrabal](https://github.com/fmarrabal) | 2 | 2 | C# | Almería (Spain) | <img src='https://avatars2.githubusercontent.com/u/2758972?v=3&s=64' width="64" title='Francisco Manuel Arrabal Campos'> |
-| 57 | [jmaties](https://github.com/jmaties) | 1 | 15 | PHP | Almeria | <img src='https://avatars3.githubusercontent.com/u/110144?v=3&s=64' width="64" title='Javier Maties'> |
+| 50 | [funsecurity](https://github.com/funsecurity) | 3 | 17 | Python | Almería | <img src='https://avatars2.githubusercontent.com/u/7109970?v=3&s=64' width="64" title='funsecurity'> |
+| 51 | [jeaveme](https://github.com/jeaveme) | 3 | 1 | CSS | Almería, Spain | <img src='https://avatars0.githubusercontent.com/u/7329741?v=3&s=64' width="64" title='Jesús Avellaneda Menchón'> |
+| 52 | [jucles](https://github.com/jucles) | 2 | 0 | ASP | Almeria | <img src='https://avatars3.githubusercontent.com/u/3337129?v=3&s=64' width="64" title='Jose Uclés'> |
+| 53 | [emitomas](https://github.com/emitomas) | 2 | 0 | HTML | Almería | <img src='https://avatars0.githubusercontent.com/u/10902048?v=3&s=64' width="64" title='Emilia Tomás'> |
+| 54 | [fmarrabal](https://github.com/fmarrabal) | 2 | 2 | C# | Almería (Spain) | <img src='https://avatars2.githubusercontent.com/u/2758972?v=3&s=64' width="64" title='Francisco Manuel Arrabal Campos'> |
+| 55 | [neurodigitaltechnologies](https://github.com/neurodigitaltechnologies) | 2 | 0 | Java | Almería, Spain | <img src='https://avatars0.githubusercontent.com/u/6275593?v=3&s=64' width="64" title='NeuroDigital Technologies'> |
+| 56 | [baldboy](https://github.com/baldboy) | 1 | 0 | Ruby | Almería | <img src='https://avatars3.githubusercontent.com/u/545420?v=3&s=64' width="64" title='David Rodríguez López'> |
+| 57 | [enramos](https://github.com/enramos) | 1 | 0 | JavaScript | Almería | <img src='https://avatars3.githubusercontent.com/u/344247?v=3&s=64' width="64" title='Enrique Ramos'> |
 | 58 | [AlbertOne](https://github.com/AlbertOne) | 1 | 0 |  | Almería | <img src='https://avatars2.githubusercontent.com/u/6214529?v=3&s=64' width="64" title='Alberto'> |
-| 59 | [enramos](https://github.com/enramos) | 1 | 0 | JavaScript | Almería | <img src='https://avatars3.githubusercontent.com/u/344247?v=3&s=64' width="64" title='Enrique Ramos'> |
-| 60 | [baldboy](https://github.com/baldboy) | 1 | 0 | Ruby | Almería | <img src='https://avatars3.githubusercontent.com/u/545420?v=3&s=64' width="64" title='David Rodríguez López'> |
+| 59 | [jmaties](https://github.com/jmaties) | 1 | 15 | PHP | Almeria | <img src='https://avatars3.githubusercontent.com/u/110144?v=3&s=64' width="64" title='Javier Maties'> |
