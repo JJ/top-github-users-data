@@ -75,7 +75,7 @@ Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the
 ggplot(data.province, aes(x=reorder(province,usersrel),y=usersrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
-The situation is similar if we take into account the aggregated contributions by all declared users in the province. Once again, Granada emerges as the winner but the position of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. Navarra, due to a single user with more than 20000 contributions, has managed to enter that ranking too.
+The situation is similar if we take into account the aggregated contributions by all users  that have declared their province. Once again, Granada emerges as the winner but the position of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. Navarra, due to a single user with more than 20000 contributions, has managed to enter that ranking too, and directly to the second position, with Madrid a distant third. The first 6 positions seem consolidated (and closed by Valladolid), but Bilbao and Sevilla are very close in the 7th and 8th, and Valencia, Asturias and Gipuzkoa (represented by its capital city, Donostya), vying for the next positions.
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,contribrel),y=contribrel))+geom_bar(stat='identity')+coord_flip()
@@ -93,7 +93,7 @@ The stars given to projects, which is a proxy for popularity, is correlated (but
 ggplot(data.province, aes(x=reorder(province,starsrel),y=starsrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
-Finally, if we consider the number of stars given by users, a new one, Tenerife, gets into the top 10. This would be correlated to the "social" activity of users in the province, since *starts* are similar to *likes* in other social platforms: they are issued by users to those projects they like; lots of stars basically mean that users in that province are keen on "favoriting" other projects by giving them stars. 
+Finally, if we consider the number of stars given by users, a new one, Tenerife, gets into the top 10. This would be correlated to the "social" activity of users in the province, since *stars* are similar to *likes* in other social platforms: they are issued by users to those projects they like; lots of stars basically mean that users in that province are keen on "favoriting" other projects by giving them stars. 
 ```{r userstars, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,userstarsrel),y=userstarsrel))+geom_bar(stat='identity')+coord_flip()
 ```
