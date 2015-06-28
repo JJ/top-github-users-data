@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 21 Jun 2014 09:31:48 GMT** hasta **Sun, 21 Jun 2015 09:31:48 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 28 Jun 2014 09:32:24 GMT** hasta **Sun, 28 Jun 2015 09:32:24 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,7 +13,7 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [rauldiazpoblete](https://github.com/rauldiazpoblete) | 277 | 1 |  | Cuenca, España | <img src='https://avatars1.githubusercontent.com/u/1359792?v=3&s=64' width="64" title='Raúl Díaz Poblete'> |
+| 1 | [rauldiazpoblete](https://github.com/rauldiazpoblete) | 391 | 1 |  | Cuenca, España | <img src='https://avatars1.githubusercontent.com/u/1359792?v=3&s=64' width="64" title='Raúl Díaz Poblete'> |
 | 2 | [DesarrollandoAndroid](https://github.com/DesarrollandoAndroid) | 60 | 0 | Java | Cuenca, España | <img src='https://avatars1.githubusercontent.com/u/7956170?v=3&s=64' width="64" title='Desarrollando Android'> |
 | 3 | [Tebo555](https://github.com/Tebo555) | 51 | 0 |  | Cuenca | <img src='https://avatars1.githubusercontent.com/u/3661837?v=3&s=64' width="64" title='Esteban Vintimilla'> |
 | 4 | [jhonnathanp27](https://github.com/jhonnathanp27) | 1 | 0 |  | Cuenca | <img src='https://avatars3.githubusercontent.com/u/12394226?v=3&s=64' width="64" title='jhonnathan Paul'> |
