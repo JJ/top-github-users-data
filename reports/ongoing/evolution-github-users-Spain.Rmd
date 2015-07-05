@@ -1,0 +1,37 @@
+---
+title: 'Github users in Spain: Evolution of number of users'
+author: "JJ Merelo"
+date: "5/6/2015"
+output: html_document
+bibliography: gh-rankings.bib
+---
+
+```{r, echo=FALSE, message=FALSE,results='hide',warning=FALSE}
+
+#load libraries
+library(ggplot2)
+# Remember to run first 
+# ./get-versions-csv.pl data/processed/aggregated-top-Spain.csv > data/processed/aggregated-top-Spain-evol.csv
+agg.top.Spain.evol <- read.csv("../../data/processed/aggregated-top-Spain-evol.csv",sep=';')
+agg.top.Spain.evol$idu <- as.numeric(row.names(agg.top.Spain.evol))
+```
+
+##Abstract
+
+>The number of users in a particular platform constrained to a topographical place like Spain changes in time, due to several factors: changes in usage patterns and change in the number of users; and this last can be due too to several different reasons: popularity of the platform  or popularity of the ranking itself, that makes people add their place of origin to their profile so that they can show up in the ránking.
+>In this report we will show how, since we started measuring the number of users in Spain and published the rankings, the number of followers, contributions and users has changed. We will also try to find out the reasons why that has happened.
+
+#Introduction
+
+
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(agg.top.Spain.evol,aes(x=idu,y=users))+geom_line()+geom_point()
+```
+
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(agg.top.Spain.evol,aes(x=users,y=followers))+geom_line()+geom_point()
+```
+
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(agg.top.Spain.evol,aes(x=users,y=contributions))+geom_line()+geom_point()
+```
