@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 28 Jun 2014 09:31:07 GMT** hasta **Sun, 28 Jun 2015 09:31:07 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 05 Jul 2014 09:31:09 GMT** hasta **Sun, 05 Jul 2015 09:31:09 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,14 +13,14 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [jmendiara](https://github.com/jmendiara) | 283 | 74 | JavaScript | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/851359?v=3&s=64' width="64" title='Javier Mendiara'> |
-| 2 | [fernand0](https://github.com/fernand0) | 114 | 6 | Python | Huesca-Zaragoza, Spain | <img src='https://avatars3.githubusercontent.com/u/2467?v=3&s=64' width="64" title='Fernando Tricas García'> |
-| 3 | [fgarcialainez](https://github.com/fgarcialainez) | 76 | 39 | Java | Huesca (Spain) | <img src='https://avatars0.githubusercontent.com/u/1755561?v=3&s=64' width="64" title='Felix Garcia Lainez'> |
+| 1 | [jmendiara](https://github.com/jmendiara) | 286 | 75 | JavaScript | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/851359?v=3&s=64' width="64" title='Javier Mendiara'> |
+| 2 | [fernand0](https://github.com/fernand0) | 109 | 6 | Python | Huesca-Zaragoza, Spain | <img src='https://avatars3.githubusercontent.com/u/2467?v=3&s=64' width="64" title='Fernando Tricas García'> |
+| 3 | [fgarcialainez](https://github.com/fgarcialainez) | 76 | 40 | Java | Huesca (Spain) | <img src='https://avatars0.githubusercontent.com/u/1755561?v=3&s=64' width="64" title='Felix Garcia Lainez'> |
 | 4 | [lopezmuzas](https://github.com/lopezmuzas) | 65 | 1 | PHP | Barbastro. Huesca. Spain. | <img src='https://avatars3.githubusercontent.com/u/1397384?v=3&s=64' width="64" title='Antonio López Muzás'> |
 | 5 | [hbiarge](https://github.com/hbiarge) | 31 | 16 | C# | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/473010?v=3&s=64' width="64" title='Hugo Biarge'> |
 | 6 | [jcalejero](https://github.com/jcalejero) | 9 | 1 | R | Huesca | <img src='https://avatars3.githubusercontent.com/u/3702479?v=3&s=64' width="64" title='Jesus Armand Calejero Roman'> |
-| 7 | [jchine](https://github.com/jchine) | 8 | 2 | JavaScript | Fraga, Huesca, España (Spain) | <img src='https://avatars3.githubusercontent.com/u/1701751?v=3&s=64' width="64" title='Jonathan'> |
+| 7 | [adgllorente](https://github.com/adgllorente) | 9 | 2 | JavaScript | Huesca | <img src='https://avatars2.githubusercontent.com/u/1067480?v=3&s=64' width="64" title='Adrián Gómez'> |
 | 8 | [cvinacua](https://github.com/cvinacua) | 7 | 0 | R | Huesca | <img src='https://avatars3.githubusercontent.com/u/7510063?v=3&s=64' width="64" title='Chema Vinacua'> |
-| 9 | [adgllorente](https://github.com/adgllorente) | 6 | 2 | JavaScript | Huesca | <img src='https://avatars2.githubusercontent.com/u/1067480?v=3&s=64' width="64" title='Adrián Gómez'> |
+| 9 | [jchine](https://github.com/jchine) | 7 | 2 | JavaScript | Fraga, Huesca, España (Spain) | <img src='https://avatars3.githubusercontent.com/u/1701751?v=3&s=64' width="64" title='Jonathan'> |
 | 10 | [maikel112233](https://github.com/maikel112233) | 6 | 0 | JavaScript | huesca | <img src='https://avatars1.githubusercontent.com/u/3323392?v=3&s=64' width="64" title='maikel112233'> |
 | 11 | [isaiasanchez](https://github.com/isaiasanchez) | 4 | 0 |  | Huesca - Spain | <img src='https://avatars2.githubusercontent.com/u/8542819?v=3&s=64' width="64" title='Isaias Sanchez'> |
