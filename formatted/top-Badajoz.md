@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 05 Jul 2014 09:09:08 GMT** hasta **Sun, 05 Jul 2015 09:09:08 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Wed, 16 Jul 2014 16:02:22 GMT** hasta **Thu, 16 Jul 2015 16:02:22 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,34 +13,36 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [raultm](https://github.com/raultm) | 213 | 7 | PHP | Almendralejo | <img src='https://avatars0.githubusercontent.com/u/659494?v=3&s=64' width="64" title='Raul Tierno'> |
+| 1 | [raultm](https://github.com/raultm) | 182 | 7 | PHP | Almendralejo | <img src='https://avatars0.githubusercontent.com/u/659494?v=3&s=64' width="64" title='Raul Tierno'> |
 | 2 | [jormaral](https://github.com/jormaral) | 80 | 15 | JavaScript | (Badajoz), Spain | <img src='https://avatars2.githubusercontent.com/u/827073?v=3&s=64' width="64" title='Jorge Martín'> |
 | 3 | [MiguelHidalgo1991](https://github.com/MiguelHidalgo1991) | 61 | 0 | Java | Almendralejo | <img src='https://avatars1.githubusercontent.com/u/10829078?v=3&s=64' width="64" title='Miguel'> |
 | 4 | [manumora](https://github.com/manumora) | 56 | 3 | Python | Mérida, Spain | <img src='https://avatars1.githubusercontent.com/u/1093702?v=3&s=64' width="64" title='Manuel Mora Gordillo'> |
 | 5 | [jgalvezalegre](https://github.com/jgalvezalegre) | 47 | 0 | JavaScript and CSS | Badajoz, Spain | <img src='https://avatars1.githubusercontent.com/u/2463880?v=3&s=64' width="64" title='Jesús Gálvez'> |
 | 6 | [manolodd](https://github.com/manolodd) | 46 | 5 | JavaScript | (Badajoz) Spain | <img src='https://avatars2.githubusercontent.com/u/5189679?v=3&s=64' width="64" title='Manuel Domínguez-Dorado'> |
-| 7 | [jredrejo](https://github.com/jredrejo) | 41 | 8 | Python | Mérida - Spain | <img src='https://avatars1.githubusercontent.com/u/1008178?v=3&s=64' width="64" title='José L. Redrejo Rodríguez'> |
-| 8 | [ecerrillo](https://github.com/ecerrillo) | 21 | 0 | Python | Mérida, Spain | <img src='https://avatars3.githubusercontent.com/u/2815518?v=3&s=64' width="64" title='Enrique Cerrillo Cuenca'> |
-| 9 | [pgilfernandez](https://github.com/pgilfernandez) | 19 | 1 |  | Badajoz, Spain | <img src='https://avatars0.githubusercontent.com/u/5942369?v=3&s=64' width="64" title='Pablo Gil'> |
-| 10 | [pacovila](https://github.com/pacovila) | 15 | 0 | Shell | Badajoz, Spain | <img src='https://avatars2.githubusercontent.com/u/3647096?v=3&s=64' width="64" title='Francisco Vila'> |
-| 11 | [Venturich](https://github.com/Venturich) | 13 | 0 | Java | Almendralejo | <img src='https://avatars0.githubusercontent.com/u/9534688?v=3&s=64' width="64" title='Ventura Preciado Sánchez'> |
-| 12 | [davidcamaleon](https://github.com/davidcamaleon) | 12 | 0 | JavaScript and CSS | Don Benito (Badajoz) | <img src='https://avatars3.githubusercontent.com/u/12777274?v=3&s=64' width="64" title='David López'> |
-| 13 | [jeagudo](https://github.com/jeagudo) | 10 | 2 | Arduino and Matlab | Mérida, Spain | <img src='https://avatars3.githubusercontent.com/u/9417214?v=3&s=64' width="64" title='J. Enrique Agudo'> |
+| 7 | [jredrejo](https://github.com/jredrejo) | 39 | 8 | Python | Mérida - Spain | <img src='https://avatars1.githubusercontent.com/u/1008178?v=3&s=64' width="64" title='José L. Redrejo Rodríguez'> |
+| 8 | [pgilfernandez](https://github.com/pgilfernandez) | 25 | 1 |  | Badajoz, Spain | <img src='https://avatars0.githubusercontent.com/u/5942369?v=3&s=64' width="64" title='Pablo Gil'> |
+| 9 | [ecerrillo](https://github.com/ecerrillo) | 21 | 0 | Python | Mérida, Spain | <img src='https://avatars3.githubusercontent.com/u/2815518?v=3&s=64' width="64" title='Enrique Cerrillo Cuenca'> |
+| 10 | [davidcamaleon](https://github.com/davidcamaleon) | 15 | 0 | JavaScript and CSS | Don Benito (Badajoz) | <img src='https://avatars3.githubusercontent.com/u/12777274?v=3&s=64' width="64" title='David López'> |
+| 11 | [pacovila](https://github.com/pacovila) | 15 | 0 | Shell | Badajoz, Spain | <img src='https://avatars2.githubusercontent.com/u/3647096?v=3&s=64' width="64" title='Francisco Vila'> |
+| 12 | [Venturich](https://github.com/Venturich) | 13 | 0 | Java | Almendralejo | <img src='https://avatars0.githubusercontent.com/u/9534688?v=3&s=64' width="64" title='Ventura Preciado Sánchez'> |
+| 13 | [jeagudo](https://github.com/jeagudo) | 10 | 1 | Arduino and Matlab | Mérida, Spain | <img src='https://avatars3.githubusercontent.com/u/9417214?v=3&s=64' width="64" title='J. Enrique Agudo'> |
 | 14 | [sergiocasero](https://github.com/sergiocasero) | 10 | 0 | JavaScript and HTML | Badajoz | <img src='https://avatars2.githubusercontent.com/u/10833202?v=3&s=64' width="64" title='Sergio Casero hernández'> |
-| 15 | [Huaypitufo](https://github.com/Huaypitufo) | 8 | 0 |  | Mérida | <img src='https://avatars0.githubusercontent.com/u/5815235?v=3&s=64' width="64" title='Oscar'> |
-| 16 | [garciacarmonaam](https://github.com/garciacarmonaam) | 8 | 0 | C# and C++ | Quintana de la Serena, Badajoz, Spain | <img src='https://avatars0.githubusercontent.com/u/8081322?v=3&s=64' width="64" title='Ángel Manuel García Carmona'> |
+| 15 | [javgueram](https://github.com/javgueram) | 9 | 0 | JavaScript and CSS | Badajoz | <img src='https://avatars1.githubusercontent.com/u/9891953?v=3&s=64' width="64" title='Javier Guerrero Ramírez'> |
+| 16 | [Huaypitufo](https://github.com/Huaypitufo) | 8 | 0 |  | Mérida | <img src='https://avatars0.githubusercontent.com/u/5815235?v=3&s=64' width="64" title='Oscar'> |
 | 17 | [EduardoRT](https://github.com/EduardoRT) | 5 | 0 |  | Mérida | <img src='https://avatars2.githubusercontent.com/u/1114422?v=3&s=64' width="64" title='Eduardo Reyes'> |
-| 18 | [alonsoir](https://github.com/alonsoir) | 5 | 3 | Java | Badajoz, Spain | <img src='https://avatars2.githubusercontent.com/u/2405946?v=3&s=64' width="64" title='Alonso'> |
+| 18 | [albertocabello](https://github.com/albertocabello) | 3 | 0 | JavaScript | Badajoz, Spain | <img src='https://avatars1.githubusercontent.com/u/3274653?v=3&s=64' width="64" title='Alberto Cabello Sánchez'> |
 | 19 | [fablabmerida](https://github.com/fablabmerida) | 3 | 0 |  | Mérida | <img src='https://avatars0.githubusercontent.com/u/11643689?v=3&s=64' width="64" title='FabLAB Mérida'> |
 | 20 | [Javier-varez](https://github.com/Javier-varez) | 3 | 2 | Objective-C | Badajoz, Spain | <img src='https://avatars3.githubusercontent.com/u/5116453?v=3&s=64' width="64" title='Francisco Javier Alvarez Garcia'> |
 | 21 | [acaso](https://github.com/acaso) | 3 | 0 | Python | Mérida, Badajoz, Spain | <img src='https://avatars0.githubusercontent.com/u/976381?v=3&s=64' width="64" title='Alberto Caso'> |
-| 22 | [albertocabello](https://github.com/albertocabello) | 3 | 0 | JavaScript | Badajoz, Spain | <img src='https://avatars1.githubusercontent.com/u/3274653?v=3&s=64' width="64" title='Alberto Cabello Sánchez'> |
+| 22 | [alonsoir](https://github.com/alonsoir) | 3 | 3 | Java | Badajoz, Spain | <img src='https://avatars2.githubusercontent.com/u/2405946?v=3&s=64' width="64" title='Alonso'> |
 | 23 | [sirym](https://github.com/sirym) | 3 | 0 |  | Badajoz | <img src='https://avatars3.githubusercontent.com/u/8791586?v=3&s=64' width="64" title='SIRYM'> |
-| 24 | [ronaldjosue](https://github.com/ronaldjosue) | 2 | 0 |  | Mérida | <img src='https://avatars1.githubusercontent.com/u/12862066?v=3&s=64' width="64" title='Ronald Angulo'> |
-| 25 | [RobertoRodriguezGuerrero](https://github.com/RobertoRodriguezGuerrero) | 2 | 0 | Visual Basic and CSS | Badajoz | <img src='https://avatars3.githubusercontent.com/u/12857052?v=3&s=64' width="64" title='Roberto Rodriguez Guerrero'> |
-| 26 | [KurroCantos](https://github.com/KurroCantos) | 2 | 0 | Objective-C | Badajoz (Spain) | <img src='https://avatars0.githubusercontent.com/u/8928294?v=3&s=64' width="64" title='Kurro'> |
-| 27 | [javerage](https://github.com/javerage) | 1 | 0 |  | Mérida | <img src='https://avatars1.githubusercontent.com/u/1126834?v=3&s=64' width="64" title='Javerage'> |
-| 28 | [Ldiab](https://github.com/Ldiab) | 1 | 0 |  | Mérida, Spain | <img src='https://avatars3.githubusercontent.com/u/10482936?v=3&s=64' width="64" title='Luis Miguel Díaz Abril'> |
-| 29 | [branigan](https://github.com/branigan) | 1 | 3 | PHP and JavaScript | Almendralejo | <img src='https://avatars2.githubusercontent.com/u/1716790?v=3&s=64' width="64" title='Emilio Ortiz'> |
-| 30 | [davidvalverde](https://github.com/davidvalverde) | 1 | 0 | ActionScript | Badajoz | <img src='https://avatars2.githubusercontent.com/u/1055256?v=3&s=64' width="64" title='David Valverde'> |
-| 31 | [afrasilv](https://github.com/afrasilv) | 1 | 0 | JavaScript | Cáceres/Badajoz (Extremadura) - Spain | <img src='https://avatars1.githubusercontent.com/u/9256924?v=3&s=64' width="64" title='Alejandro Franco Silva'> |
+| 24 | [lmazus](https://github.com/lmazus) | 3 | 0 |  | Jerez de los Caballeros (Badajoz) | <img src='https://avatars3.githubusercontent.com/u/8288319?v=3&s=64' width="64" title='Luis Mazuecos'> |
+| 25 | [KurroCantos](https://github.com/KurroCantos) | 2 | 0 | Objective-C | Badajoz (Spain) | <img src='https://avatars0.githubusercontent.com/u/8928294?v=3&s=64' width="64" title='Kurro'> |
+| 26 | [ronaldjosue](https://github.com/ronaldjosue) | 2 | 0 |  | Mérida | <img src='https://avatars1.githubusercontent.com/u/12862066?v=3&s=64' width="64" title='Ronald Angulo'> |
+| 27 | [garciacarmonaam](https://github.com/garciacarmonaam) | 2 | 0 | C# and C++ | Quintana de la Serena, Badajoz, Spain | <img src='https://avatars0.githubusercontent.com/u/8081322?v=3&s=64' width="64" title='Ángel Manuel García Carmona'> |
+| 28 | [RobertoRodriguezGuerrero](https://github.com/RobertoRodriguezGuerrero) | 2 | 0 | Visual Basic and CSS | Badajoz | <img src='https://avatars3.githubusercontent.com/u/12857052?v=3&s=64' width="64" title='Roberto Rodriguez Guerrero'> |
+| 29 | [davidvalverde](https://github.com/davidvalverde) | 1 | 0 | ActionScript | Badajoz | <img src='https://avatars2.githubusercontent.com/u/1055256?v=3&s=64' width="64" title='David Valverde'> |
+| 30 | [javerage](https://github.com/javerage) | 1 | 0 |  | Mérida | <img src='https://avatars1.githubusercontent.com/u/1126834?v=3&s=64' width="64" title='Javerage'> |
+| 31 | [afrasilv](https://github.com/afrasilv) | 1 | 0 | Java | Cáceres/Badajoz (Extremadura) - Spain | <img src='https://avatars1.githubusercontent.com/u/9256924?v=3&s=64' width="64" title='Alejandro Franco Silva'> |
+| 32 | [Ldiab](https://github.com/Ldiab) | 1 | 0 |  | Mérida, Spain | <img src='https://avatars3.githubusercontent.com/u/10482936?v=3&s=64' width="64" title='Luis Miguel Díaz Abril'> |
+| 33 | [branigan](https://github.com/branigan) | 1 | 3 | PHP and JavaScript | Almendralejo | <img src='https://avatars2.githubusercontent.com/u/1716790?v=3&s=64' width="64" title='Emilio Ortiz'> |

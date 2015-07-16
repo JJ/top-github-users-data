@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 05 Jul 2014 09:41:03 GMT** hasta **Sun, 05 Jul 2015 09:41:03 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Wed, 16 Jul 2014 16:34:40 GMT** hasta **Thu, 16 Jul 2015 16:34:40 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,4 +13,4 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [seravb](https://github.com/seravb) | 44 | 1 | Python | Granada, Melilla, Spain | <img src='https://avatars3.githubusercontent.com/u/1315992?v=3&s=64' width="64" title='Serafín Vélez'> |
+| 1 | [seravb](https://github.com/seravb) | 41 | 1 | Python | Granada, Melilla, Spain | <img src='https://avatars3.githubusercontent.com/u/1315992?v=3&s=64' width="64" title='Serafín Vélez'> |
