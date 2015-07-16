@@ -1,8 +1,9 @@
 ---
-title: "Github users in Spain: a report on geographical distribution of open source production"
+title: 'Github users in Spain: a report on geographical distribution of open source
+  production'
 author: "JJ Merelo"
-date: "27/6/2015"
-output: pdf_document
+date: "16/7/2015"
+output: html_document
 bibliography: gh-rankings.bib
 ---
 
@@ -68,14 +69,14 @@ ggplot( data=province.table.df, aes(x="",y=users,fill=factor(province)))+ geom_b
 
 The users without a declared province form the biggest slice of the pie, with around one quarter of the total number of users. They are followed by Madrid, Barcelona, Valencia, Seville, Granada and Málaga. These provinces, by themselves, host more than half the total community of GitHub users in Spain. 
 
-Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Barcelona and Granada emerging as the province with the highest number of GitHub active developers per capita; they are head-to-head and the situation might change from this report to the next, that is a clear winner is not declared. After them the situation is more stable, with Madrid in the third position, followed by Seville and Saragossa (Zaragoza). The province of Córdoba is a distant next. 
+Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Barcelona and Granada emerging as the province with the highest number of GitHub active developers per capita; they are head-to-head and the situation might change from this report to the next; that is, a clear winner is not declared. After them the situation is more stable, with Madrid in the third position, followed by Seville and Saragossa (Zaragoza), Gipuzkoa (represented by its main city, Bilbao), Valencia and Valladolid. The province of Córdoba is a distant next, with Coruña coming up as the last of the top 10.
 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,usersrel),y=usersrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
-The situation is similar if we take into account the aggregated contributions by all users  that have declared their province. Once again, Granada emerges as the winner but the position of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. Navarra, due to a single user with more than 20000 contributions, has managed to enter that ranking too, and directly to the second position, with Madrid a distant third. The first 6 positions seem consolidated (and closed by Valladolid), but Bilbao and Sevilla are very close in the 7th and 8th, and Valencia, Asturias and Gipuzkoa (represented by its capital city, Donostya), vying for the next positions.
+The situation is similar if we take into account the aggregated contributions by all users that have declared their province. Once again, Granada emerges as the winner, with Navarra, largely due to a single user, as the second. Next, the positions of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. The first 6 positions seem consolidated (and closed by Zaragoza), but Bilbao and Sevilla are very close in the 7th and 8th, and Valencia and Gipuzkoa (represented by its capital city, Donostya), vying for the next positions up to the tenth.
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,contribrel),y=contribrel))+geom_bar(stat='identity')+coord_flip()
@@ -114,7 +115,7 @@ data.province$scaledy = scaling$points[,2]
 ggplot(data.province, aes(x=scaledx, y=scaledy, colour=factor(CLUST),shape=factor(CLUST)))+geom_point()+ geom_text(aes(label=province,angle=315,hjust=0))
 ```
 
-Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Granada and sometimes another province that is in ocassions Zaragoza, and in others Navarra. The situation in the other clusters is more fluid, with 2 or sometimes three clusters; the second one includes provinces with a certain defining feature (such as total number of stars in projects), like Álava, and finally other one or two clusters with the rest of the province.
+Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Granada and sometimes another province or set of provinces that might include Navarra, Valladolid and Álava. The situation in the other clusters is more fluid, with 2 or sometimes three clusters; the second one includes provinces with a certain defining feature (such as total number of stars in projects), like Álava, and finally other one or two clusters with the rest of the province.
 
 #Conclusions
 
