@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Thu, 17 Jul 2014 15:55:39 GMT** hasta **Fri, 17 Jul 2015 15:55:39 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Thu, 24 Jul 2014 06:19:52 GMT** hasta **Fri, 24 Jul 2015 06:19:52 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -26,10 +26,10 @@
 | 11 | [Razican](https://github.com/Razican) | 700 | 12 | Java | Bilbao, Spain | <img src='https://avatars0.githubusercontent.com/u/597469?v=3&s=64' width="64" title='Iban Eguia'> |
 | 12 | [ragerri](https://github.com/ragerri) | 676 | 2 | Java | Donostia-San Sebastian | <img src='https://avatars3.githubusercontent.com/u/419327?v=3&s=64' width="64" title='Rodrigo Agerri'> |
 | 13 | [rmhdev](https://github.com/rmhdev) | 567 | 33 | PHP | Donostia | <img src='https://avatars3.githubusercontent.com/u/593433?v=3&s=64' width="64" title='Rober Martín H'> |
-| 14 | [merqurio](https://github.com/merqurio) | 527 | 30 | Python | Basque Country | <img src='https://avatars2.githubusercontent.com/u/1485056?v=3&s=64' width="64" title='Gabi de Maeztu'> |
+| 14 | [merqurio](https://github.com/merqurio) | 529 | 30 | Python | Basque Country | <img src='https://avatars2.githubusercontent.com/u/1485056?v=3&s=64' width="64" title='Gabi de Maeztu'> |
 | 15 | [arkaitzgarro](https://github.com/arkaitzgarro) | 501 | 2 | JavaScript | Donostia | <img src='https://avatars1.githubusercontent.com/u/1712467?v=3&s=64' width="64" title='Arkaitz Garro'> |
 | 16 | [jonan](https://github.com/jonan) | 480 | 62 | Java | Bilbao, Spain | <img src='https://avatars0.githubusercontent.com/u/1110193?v=3&s=64' width="64" title='Jon Ander Peñalba'> |
-| 17 | [xezpeleta](https://github.com/xezpeleta) | 455 | 3 | Shell | Basque Country | <img src='https://avatars3.githubusercontent.com/u/1846038?v=3&s=64' width="64" title='Xabi'> |
+| 17 | [xezpeleta](https://github.com/xezpeleta) | 454 | 3 | Shell | Basque Country | <img src='https://avatars3.githubusercontent.com/u/1846038?v=3&s=64' width="64" title='Xabi'> |
 | 18 | [juanmanuelsanchez](https://github.com/juanmanuelsanchez) | 381 | 0 | JavaScript | Leioa, Vizcaya | <img src='https://avatars2.githubusercontent.com/u/8442821?v=3&s=64' width="64" title='Juan Manuel Sánchez 'jsonp''> |
 | 19 | [MikelS](https://github.com/MikelS) | 370 | 0 | JavaScript | Getxo | <img src='https://avatars1.githubusercontent.com/u/1764699?v=3&s=64' width="64" title='Mikel'> |
 | 20 | [javray](https://github.com/javray) | 329 | 6 | JavaScript | Spain, Bilbao | <img src='https://avatars0.githubusercontent.com/u/454310?v=3&s=64' width="64" title='Fco. Javier Martín Carrasco'> |
@@ -43,7 +43,7 @@
 | 28 | [xala3pa](https://github.com/xala3pa) | 248 | 9 | Python | Bilbao | <img src='https://avatars3.githubusercontent.com/u/655613?v=3&s=64' width="64" title='Álvaro Salazar'> |
 | 29 | [Josebaseba](https://github.com/Josebaseba) | 238 | 21 | JavaScript | Bilbao | <img src='https://avatars0.githubusercontent.com/u/1160665?v=3&s=64' width="64" title='Joseba Legarreta'> |
 | 30 | [xabikip](https://github.com/xabikip) | 238 | 3 | PHP | Gipuzkoa, Euskal Herria | <img src='https://avatars1.githubusercontent.com/u/1109793?v=3&s=64' width="64" title='Xabi'> |
-| 31 | [Nicolab](https://github.com/Nicolab) | 225 | 91 | JavaScript | Bidart, Euskadi (France) | <img src='https://avatars1.githubusercontent.com/u/1688162?v=3&s=64' width="64" title='Nicolas Talle'> |
+| 31 | [Nicolab](https://github.com/Nicolab) | 221 | 92 | JavaScript | Bidart, Euskadi (France) | <img src='https://avatars1.githubusercontent.com/u/1688162?v=3&s=64' width="64" title='Nicolas Talle'> |
 | 32 | [memaldi](https://github.com/memaldi) | 211 | 13 | Python | Barakaldo | <img src='https://avatars1.githubusercontent.com/u/1871269?v=3&s=64' width="64" title='Mikel Emaldi'> |
 | 33 | [jonarrien](https://github.com/jonarrien) | 194 | 1 | Python | Portugalete | <img src='https://avatars3.githubusercontent.com/u/1249415?v=3&s=64' width="64" title='Jon Arrien'> |
 | 34 | [jonlatorre](https://github.com/jonlatorre) | 184 | 6 | Python | Bilbao | <img src='https://avatars2.githubusercontent.com/u/767432?v=3&s=64' width="64" title='Jon Latorre'> |
@@ -51,7 +51,7 @@
 | 36 | [mikel-egana-aranguren](https://github.com/mikel-egana-aranguren) | 169 | 6 | Shell | Bilbo | <img src='https://avatars2.githubusercontent.com/u/3883671?v=3&s=64' width="64" title='Mikel Egaña Aranguren'> |
 | 37 | [endSly](https://github.com/endSly) | 153 | 234 | Ruby | Bilbao, Spain | <img src='https://avatars1.githubusercontent.com/u/189045?v=3&s=64' width="64" title='Endika Gutiérrez'> |
 | 38 | [anderipartek](https://github.com/anderipartek) | 146 | 1 | HTML | Bilbao | <img src='https://avatars2.githubusercontent.com/u/11519980?v=3&s=64' width="64" title='Ander Ipartek'> |
-| 39 | [joxeankoret](https://github.com/joxeankoret) | 144 | 485 | Python | Basque Country | <img src='https://avatars3.githubusercontent.com/u/2945834?v=3&s=64' width="64" title='Joxean'> |
+| 39 | [joxeankoret](https://github.com/joxeankoret) | 143 | 488 | Python | Basque Country | <img src='https://avatars3.githubusercontent.com/u/2945834?v=3&s=64' width="64" title='Joxean'> |
 | 40 | [aitiba](https://github.com/aitiba) | 133 | 2 | JavaScript | Donostia - San Sebastián | <img src='https://avatars1.githubusercontent.com/u/1209012?v=3&s=64' width="64" title='Aitor Ibañez'> |
 | 41 | [naveda89](https://github.com/naveda89) | 129 | 5 | Ruby | Bilbao, Spain | <img src='https://avatars3.githubusercontent.com/u/1290374?v=3&s=64' width="64" title='Alvaro Naveda'> |
 | 42 | [karliky](https://github.com/karliky) | 129 | 38 | JavaScript | Bilbao | <img src='https://avatars1.githubusercontent.com/u/881069?v=3&s=64' width="64" title='Carlos Hernández Gómez'> |
@@ -188,19 +188,19 @@
 | 173 | [mobandme](https://github.com/mobandme) | 7 | 61 | Java | Bilbao | <img src='https://avatars2.githubusercontent.com/u/2050974?v=3&s=64' width="64" title='Txus Ballesteros'> |
 | 174 | [kronosnhz](https://github.com/kronosnhz) | 7 | 0 | Java | Bilbao | <img src='https://avatars3.githubusercontent.com/u/952714?v=3&s=64' width="64" title='Aitor'> |
 | 175 | [eleektro](https://github.com/eleektro) | 7 | 0 | Arduino | Bilbao, Basque Country | <img src='https://avatars0.githubusercontent.com/u/1743876?v=3&s=64' width="64" title='Ander'> |
-| 176 | [Azpidatziak](https://github.com/Azpidatziak) | 7 | 2 | Shell | Basque Country (Navarre) | <img src='https://avatars3.githubusercontent.com/u/962124?v=3&s=64' width="64" title='Xabier Aramendi'> |
-| 177 | [jalonsors](https://github.com/jalonsors) | 7 | 0 | Shell | Basque Country | <img src='https://avatars3.githubusercontent.com/u/8478801?v=3&s=64' width="64" title=''> |
-| 178 | [MikelAguirreRodrigo](https://github.com/MikelAguirreRodrigo) | 6 | 0 | Perl and Shell | Bº Sarriena s/n, Leioa 48940, Bizkaia, Spain | <img src='https://avatars0.githubusercontent.com/u/11208119?v=3&s=64' width="64" title='Mikel Aguirre Rodrigo'> |
-| 179 | [elmer](https://github.com/elmer) | 6 | 56 | Ruby | Nueva Vizcaya, PH | <img src='https://avatars0.githubusercontent.com/u/6617?v=3&s=64' width="64" title='Elmer Rivera'> |
-| 180 | [mikeliturbe](https://github.com/mikeliturbe) | 6 | 0 | Shell and VimL | Basque Country | <img src='https://avatars3.githubusercontent.com/u/2519847?v=3&s=64' width="64" title='Mikel Iturbe Urretxa'> |
-| 181 | [shadowfax](https://github.com/shadowfax) | 6 | 32 | PHP | Bilbao, Spain | <img src='https://avatars1.githubusercontent.com/u/735316?v=3&s=64' width="64" title=''> |
-| 182 | [Aingeru72](https://github.com/Aingeru72) | 5 | 0 | Java | Bilbao | <img src='https://avatars0.githubusercontent.com/u/5485183?v=3&s=64' width="64" title='Aingeru'> |
-| 183 | [visualex](https://github.com/visualex) | 5 | 5 | JavaScript | Bilbao | <img src='https://avatars0.githubusercontent.com/u/3214697?v=3&s=64' width="64" title='Aleksandr Bogdanov'> |
+| 176 | [jalonsors](https://github.com/jalonsors) | 7 | 0 | Shell | Basque Country | <img src='https://avatars3.githubusercontent.com/u/8478801?v=3&s=64' width="64" title=''> |
+| 177 | [MikelAguirreRodrigo](https://github.com/MikelAguirreRodrigo) | 6 | 0 | Perl and Shell | Bº Sarriena s/n, Leioa 48940, Bizkaia, Spain | <img src='https://avatars0.githubusercontent.com/u/11208119?v=3&s=64' width="64" title='Mikel Aguirre Rodrigo'> |
+| 178 | [elmer](https://github.com/elmer) | 6 | 56 | Ruby | Nueva Vizcaya, PH | <img src='https://avatars0.githubusercontent.com/u/6617?v=3&s=64' width="64" title='Elmer Rivera'> |
+| 179 | [Azpidatziak](https://github.com/Azpidatziak) | 6 | 2 | Shell | Basque Country (Navarre) | <img src='https://avatars3.githubusercontent.com/u/962124?v=3&s=64' width="64" title='Xabier Aramendi'> |
+| 180 | [shadowfax](https://github.com/shadowfax) | 6 | 32 | PHP | Bilbao, Spain | <img src='https://avatars1.githubusercontent.com/u/735316?v=3&s=64' width="64" title=''> |
+| 181 | [Aingeru72](https://github.com/Aingeru72) | 5 | 0 | Java | Bilbao | <img src='https://avatars0.githubusercontent.com/u/5485183?v=3&s=64' width="64" title='Aingeru'> |
+| 182 | [Gusinato95](https://github.com/Gusinato95) | 5 | 1 | C++ | Bilbao | <img src='https://avatars2.githubusercontent.com/u/8956328?v=3&s=64' width="64" title='Rubén Sánchez'> |
+| 183 | [Mugatik](https://github.com/Mugatik) | 5 | 0 | R and Matlab | Bilbao - Spain | <img src='https://avatars0.githubusercontent.com/u/10899213?v=3&s=64' width="64" title='Aitor Urresti'> |
 | 184 | [jacoobs](https://github.com/jacoobs) | 5 | 0 |  | Bilbao, Pais Vasco | <img src='https://avatars1.githubusercontent.com/u/13317754?v=3&s=64' width="64" title='noel duque'> |
 | 185 | [jagumiel](https://github.com/jagumiel) | 5 | 0 | Java | Bilbao | <img src='https://avatars0.githubusercontent.com/u/3950722?v=3&s=64' width="64" title='Jose Ángel'> |
 | 186 | [eloygbm](https://github.com/eloygbm) | 5 | 0 | Python and Shell | Bilbao | <img src='https://avatars0.githubusercontent.com/u/1526249?v=3&s=64' width="64" title='eloy garcia-borreguero melero'> |
-| 187 | [Mugatik](https://github.com/Mugatik) | 5 | 0 | R and Matlab | Bilbao - Spain | <img src='https://avatars0.githubusercontent.com/u/10899213?v=3&s=64' width="64" title='Aitor Urresti'> |
-| 188 | [Gusinato95](https://github.com/Gusinato95) | 5 | 1 | C++ | Bilbao | <img src='https://avatars2.githubusercontent.com/u/8956328?v=3&s=64' width="64" title='Rubén Sánchez'> |
+| 187 | [visualex](https://github.com/visualex) | 5 | 5 | JavaScript | Bilbao | <img src='https://avatars0.githubusercontent.com/u/3214697?v=3&s=64' width="64" title='Aleksandr Bogdanov'> |
+| 188 | [mikeliturbe](https://github.com/mikeliturbe) | 5 | 0 | Shell and VimL | Basque Country | <img src='https://avatars3.githubusercontent.com/u/2519847?v=3&s=64' width="64" title='Mikel Iturbe Urretxa'> |
 | 189 | [manwe](https://github.com/manwe) | 5 | 0 | Shell | Bilbao | <img src='https://avatars3.githubusercontent.com/u/632038?v=3&s=64' width="64" title='Jon Bonilla'> |
 | 190 | [biojazzard](https://github.com/biojazzard) | 5 | 34 | JavaScript | BIlbao | <img src='https://avatars1.githubusercontent.com/u/351506?v=3&s=64' width="64" title='Alfredo Llanos'> |
 | 191 | [jonathanSS](https://github.com/jonathanSS) | 5 | 0 | R and Mathematica | Donostia-San Sebastián, Gipuzkoa, Spain. | <img src='https://avatars0.githubusercontent.com/u/5776656?v=3&s=64' width="64" title='Jonathan Ortigosa-Hernández'> |
@@ -217,7 +217,7 @@
 | 202 | [alvcarmona](https://github.com/alvcarmona) | 4 | 0 | JavaScript and CSS | Bilbao - Spain | <img src='https://avatars2.githubusercontent.com/u/6863842?v=3&s=64' width="64" title='Alvaro Carmona'> |
 | 203 | [arkaitzj](https://github.com/arkaitzj) | 4 | 24 | JavaScript | Bilbao | <img src='https://avatars2.githubusercontent.com/u/91765?v=3&s=64' width="64" title='Arkaitz Jimenez'> |
 | 204 | [g0re](https://github.com/g0re) | 3 | 0 |  | Madrid / Bilbao | <img src='https://avatars0.githubusercontent.com/u/426078?v=3&s=64' width="64" title='Gorka'> |
-| 205 | [agonirena](https://github.com/agonirena) | 3 | 0 | PHP | Elgoibar, Basque Country | <img src='https://avatars0.githubusercontent.com/u/443969?v=3&s=64' width="64" title='Ander Goñi'> |
+| 205 | [jled7](https://github.com/jled7) | 3 | 0 | C++ and Java | Basque Country | <img src='https://avatars2.githubusercontent.com/u/7061080?v=3&s=64' width="64" title='Led'> |
 | 206 | [fernandopr](https://github.com/fernandopr) | 3 | 0 | CSS | Donostia-San Sebastián | <img src='https://avatars2.githubusercontent.com/u/8049397?v=3&s=64' width="64" title='Fernando Perez'> |
 | 207 | [borjalanseros](https://github.com/borjalanseros) | 3 | 0 |  | Donostia-San Sebastian | <img src='https://avatars2.githubusercontent.com/u/6699461?v=3&s=64' width="64" title='Borja Lanseros'> |
 | 208 | [xabiamu](https://github.com/xabiamu) | 3 | 0 | Java | Donostia-San Sebastian | <img src='https://avatars2.githubusercontent.com/u/869975?v=3&s=64' width="64" title='Xabier'> |
@@ -237,8 +237,8 @@
 | 222 | [space-invader](https://github.com/space-invader) | 3 | 0 |  | Bilbao, Spain | <img src='https://avatars1.githubusercontent.com/u/10393919?v=3&s=64' width="64" title='Josu'> |
 | 223 | [iratxepinedo](https://github.com/iratxepinedo) | 3 | 0 | C | Bilbao | <img src='https://avatars2.githubusercontent.com/u/12416407?v=3&s=64' width="64" title='Iratxe Pinedo'> |
 | 224 | [atekoa](https://github.com/atekoa) | 3 | 1 | Arduino | Bilbao | <img src='https://avatars3.githubusercontent.com/u/5947222?v=3&s=64' width="64" title=''> |
-| 225 | [abeaumont](https://github.com/abeaumont) | 3 | 15 | Dylan | Gasteiz, Basque Country | <img src='https://avatars3.githubusercontent.com/u/80059?v=3&s=64' width="64" title='Alfredo Beaumont'> |
-| 226 | [jled7](https://github.com/jled7) | 3 | 0 | C++ and Java | Basque Country | <img src='https://avatars2.githubusercontent.com/u/7061080?v=3&s=64' width="64" title='Led'> |
+| 225 | [agonirena](https://github.com/agonirena) | 3 | 0 | PHP | Elgoibar, Basque Country | <img src='https://avatars0.githubusercontent.com/u/443969?v=3&s=64' width="64" title='Ander Goñi'> |
+| 226 | [abeaumont](https://github.com/abeaumont) | 3 | 15 | Dylan | Gasteiz, Basque Country | <img src='https://avatars3.githubusercontent.com/u/80059?v=3&s=64' width="64" title='Alfredo Beaumont'> |
 | 227 | [fjaviernieto](https://github.com/fjaviernieto) | 2 | 0 | Java | Bilbao | <img src='https://avatars3.githubusercontent.com/u/10978241?v=3&s=64' width="64" title='Javi N.'> |
 | 228 | [davidlallana](https://github.com/davidlallana) | 2 | 0 | Ruby | Bilbao | <img src='https://avatars1.githubusercontent.com/u/4436407?v=3&s=64' width="64" title='David Lallana'> |
 | 229 | [jatniel](https://github.com/jatniel) | 2 | 0 |  | Donostia - Gipuzkoa | <img src='https://avatars3.githubusercontent.com/u/1070744?v=3&s=64' width="64" title='Jatniel Guzmán'> |

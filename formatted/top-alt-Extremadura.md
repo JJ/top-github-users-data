@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Thu, 17 Jul 2014 15:55:38 GMT** hasta **Fri, 17 Jul 2015 15:55:38 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Thu, 24 Jul 2014 06:19:52 GMT** hasta **Fri, 24 Jul 2015 06:19:52 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,7 +13,7 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [ljmanso](https://github.com/ljmanso) | 785 | 1 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width="64" title='Luis J. Manso'> |
+| 1 | [ljmanso](https://github.com/ljmanso) | 801 | 1 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width="64" title='Luis J. Manso'> |
 | 2 | [raultm](https://github.com/raultm) | 182 | 7 | PHP | Almendralejo | <img src='https://avatars0.githubusercontent.com/u/659494?v=3&s=64' width="64" title='Raul Tierno'> |
 | 3 | [jormaral](https://github.com/jormaral) | 80 | 15 | JavaScript | (Badajoz), Spain | <img src='https://avatars2.githubusercontent.com/u/827073?v=3&s=64' width="64" title='Jorge Martín'> |
 | 4 | [spaceisstrange](https://github.com/spaceisstrange) | 78 | 0 | CSS | Cáceres, Spain | <img src='https://avatars2.githubusercontent.com/u/6024783?v=3&s=64' width="64" title='Fran González'> |
