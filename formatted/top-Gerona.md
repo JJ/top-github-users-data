@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Wed, 16 Jul 2014 15:56:41 GMT** hasta **Thu, 16 Jul 2015 15:56:41 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 26 Jul 2014 09:00:08 GMT** hasta **Sun, 26 Jul 2015 09:00:08 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,58 +13,58 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [repejota](https://github.com/repejota) | 1784 | 32 | JavaScript | Girona | <img src='https://avatars1.githubusercontent.com/u/36673?v=3&s=64' width="64" title='Raül Pérez'> |
-| 2 | [ecarreras](https://github.com/ecarreras) | 861 | 36 | Python | Girona | <img src='https://avatars0.githubusercontent.com/u/294235?v=3&s=64' width="64" title='Eduard Carreras'> |
-| 3 | [jaimeiniesta](https://github.com/jaimeiniesta) | 368 | 714 | Ruby | Girona, Spain | <img src='https://avatars1.githubusercontent.com/u/2629?v=3&s=64' width="64" title='Jaime Iniesta'> |
-| 4 | [nucliweb](https://github.com/nucliweb) | 264 | 22 | CSS | Girona, Spain | <img src='https://avatars2.githubusercontent.com/u/1307927?v=3&s=64' width="64" title='Joan Leon'> |
-| 5 | [viric](https://github.com/viric) | 175 | 9 | C | Girona | <img src='https://avatars2.githubusercontent.com/u/66664?v=3&s=64' width="64" title='viric'> |
+| 1 | [repejota](https://github.com/repejota) | 1831 | 39 | JavaScript | Girona | <img src='https://avatars1.githubusercontent.com/u/36673?v=3&s=64' width="64" title='Raül Pérez'> |
+| 2 | [ecarreras](https://github.com/ecarreras) | 859 | 36 | Python | Girona | <img src='https://avatars0.githubusercontent.com/u/294235?v=3&s=64' width="64" title='Eduard Carreras'> |
+| 3 | [jaimeiniesta](https://github.com/jaimeiniesta) | 368 | 715 | Ruby | Girona, Spain | <img src='https://avatars1.githubusercontent.com/u/2629?v=3&s=64' width="64" title='Jaime Iniesta'> |
+| 4 | [nucliweb](https://github.com/nucliweb) | 262 | 22 | CSS | Girona, Spain | <img src='https://avatars2.githubusercontent.com/u/1307927?v=3&s=64' width="64" title='Joan Leon'> |
+| 5 | [viric](https://github.com/viric) | 183 | 9 | C | Girona | <img src='https://avatars2.githubusercontent.com/u/66664?v=3&s=64' width="64" title='viric'> |
 | 6 | [recarens](https://github.com/recarens) | 170 | 0 | C# and Java | Girona | <img src='https://avatars0.githubusercontent.com/u/7501288?v=3&s=64' width="64" title='Eric Recarens'> |
-| 7 | [mcomas](https://github.com/mcomas) | 142 | 0 | R | Girona | <img src='https://avatars0.githubusercontent.com/u/4439719?v=3&s=64' width="64" title='Marc'> |
+| 7 | [mcomas](https://github.com/mcomas) | 141 | 0 | R | Girona | <img src='https://avatars0.githubusercontent.com/u/4439719?v=3&s=64' width="64" title='Marc'> |
 | 8 | [orioltestart](https://github.com/orioltestart) | 88 | 0 | HTML | Girona | <img src='https://avatars0.githubusercontent.com/u/7087134?v=3&s=64' width="64" title='Oriol Testart'> |
 | 9 | [Dokman](https://github.com/Dokman) | 62 | 3 | Shell | Spain,Girona,Arbúcies | <img src='https://avatars2.githubusercontent.com/u/2290904?v=3&s=64' width="64" title='Sergi Canaleta Fondó'> |
-| 10 | [arnautorrent](https://github.com/arnautorrent) | 50 | 0 | CSS | Banyoles, Girona | <img src='https://avatars0.githubusercontent.com/u/10051615?v=3&s=64' width="64" title='Arnau Torrent'> |
-| 11 | [marcmascort](https://github.com/marcmascort) | 50 | 0 |  | Girona | <img src='https://avatars1.githubusercontent.com/u/3595718?v=3&s=64' width="64" title='Marc Mascort Bou'> |
-| 12 | [eparreno](https://github.com/eparreno) | 47 | 143 | Ruby | Girona | <img src='https://avatars2.githubusercontent.com/u/3028?v=3&s=64' width="64" title='Emili Parreno'> |
-| 13 | [omascaros](https://github.com/omascaros) | 47 | 0 | CSS | Palafrugell, Girona | <img src='https://avatars0.githubusercontent.com/u/7448568?v=3&s=64' width="64" title='Oscar Mascarós'> |
-| 14 | [frontday](https://github.com/frontday) | 45 | 0 | JavaScript | Girona (Catalunya, Spain) | <img src='https://avatars0.githubusercontent.com/u/2950939?v=3&s=64' width="64" title='Daniel Fornells'> |
+| 10 | [marcmascort](https://github.com/marcmascort) | 50 | 0 |  | Girona | <img src='https://avatars1.githubusercontent.com/u/3595718?v=3&s=64' width="64" title='Marc Mascort Bou'> |
+| 11 | [arnautorrent](https://github.com/arnautorrent) | 50 | 0 | CSS | Banyoles, Girona | <img src='https://avatars0.githubusercontent.com/u/10051615?v=3&s=64' width="64" title='Arnau Torrent'> |
+| 12 | [eparreno](https://github.com/eparreno) | 45 | 143 | Ruby | Girona | <img src='https://avatars2.githubusercontent.com/u/3028?v=3&s=64' width="64" title='Emili Parreno'> |
+| 13 | [frontday](https://github.com/frontday) | 45 | 0 | JavaScript | Girona (Catalunya, Spain) | <img src='https://avatars0.githubusercontent.com/u/2950939?v=3&s=64' width="64" title='Daniel Fornells'> |
+| 14 | [omascaros](https://github.com/omascaros) | 42 | 0 | CSS | Palafrugell, Girona | <img src='https://avatars0.githubusercontent.com/u/7448568?v=3&s=64' width="64" title='Oscar Mascarós'> |
 | 15 | [gerardguiu](https://github.com/gerardguiu) | 37 | 0 | JavaScript | Girona | <img src='https://avatars1.githubusercontent.com/u/5679102?v=3&s=64' width="64" title='Gerard Guiu'> |
-| 16 | [enr00ted](https://github.com/enr00ted) | 32 | 0 | JavaScript and CSS | Besalú, Girona, Spain | <img src='https://avatars3.githubusercontent.com/u/3756926?v=3&s=64' width="64" title='Iulian Gabriel Cata'> |
-| 17 | [tramuntanal](https://github.com/tramuntanal) | 32 | 8 | Ruby | Girona | <img src='https://avatars3.githubusercontent.com/u/199462?v=3&s=64' width="64" title='Oliver HV'> |
-| 18 | [mgarcia96](https://github.com/mgarcia96) | 28 | 3 | PHP | Figueres, Girona | <img src='https://avatars2.githubusercontent.com/u/6561770?v=3&s=64' width="64" title='Marc Garcia Torrent'> |
-| 19 | [davidberneda](https://github.com/davidberneda) | 24 | 24 | JavaScript | Girona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/1636163?v=3&s=64' width="64" title='David Berneda'> |
-| 20 | [sangar82](https://github.com/sangar82) | 23 | 62 | PHP | Girona | <img src='https://avatars2.githubusercontent.com/u/524030?v=3&s=64' width="64" title='Iván Sanchez'> |
-| 21 | [AbelToy](https://github.com/AbelToy) | 21 | 8 | ActionScript | Girona | <img src='https://avatars1.githubusercontent.com/u/147130?v=3&s=64' width="64" title='Abel Toy'> |
+| 16 | [tramuntanal](https://github.com/tramuntanal) | 32 | 8 | Ruby | Girona | <img src='https://avatars3.githubusercontent.com/u/199462?v=3&s=64' width="64" title='Oliver HV'> |
+| 17 | [mgarcia96](https://github.com/mgarcia96) | 28 | 3 | PHP | Figueres, Girona | <img src='https://avatars2.githubusercontent.com/u/6561770?v=3&s=64' width="64" title='Marc Garcia Torrent'> |
+| 18 | [davidberneda](https://github.com/davidberneda) | 24 | 24 | JavaScript | Girona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/1636163?v=3&s=64' width="64" title='David Berneda'> |
+| 19 | [enr00ted](https://github.com/enr00ted) | 23 | 0 | JavaScript and CSS | Besalú, Girona, Spain | <img src='https://avatars3.githubusercontent.com/u/3756926?v=3&s=64' width="64" title='Iulian Gabriel Cata'> |
+| 20 | [sangar82](https://github.com/sangar82) | 22 | 62 | PHP | Girona | <img src='https://avatars2.githubusercontent.com/u/524030?v=3&s=64' width="64" title='Iván Sanchez'> |
+| 21 | [AbelToy](https://github.com/AbelToy) | 20 | 8 | ActionScript | Girona | <img src='https://avatars1.githubusercontent.com/u/147130?v=3&s=64' width="64" title='Abel Toy'> |
 | 22 | [josepsitjar](https://github.com/josepsitjar) | 18 | 0 | Shell | girona | <img src='https://avatars2.githubusercontent.com/u/6552008?v=3&s=64' width="64" title='josep sitjar'> |
 | 23 | [Carlesla](https://github.com/Carlesla) | 16 | 2 | R | Girona, Catalonia | <img src='https://avatars3.githubusercontent.com/u/1863714?v=3&s=64' width="64" title='Carles López Arpí'> |
 | 24 | [lluisvicens](https://github.com/lluisvicens) | 14 | 0 |  | Girona | <img src='https://avatars0.githubusercontent.com/u/1196051?v=3&s=64' width="64" title='Lluís'> |
 | 25 | [dsoms](https://github.com/dsoms) | 14 | 2 | Shell | Girona, Catalonia | <img src='https://avatars0.githubusercontent.com/u/912243?v=3&s=64' width="64" title='David Soms'> |
-| 26 | [quanticbyte](https://github.com/quanticbyte) | 13 | 0 | JavaScript and CSS | LA Bisbal d'Emporda Girona | <img src='https://avatars2.githubusercontent.com/u/3942394?v=3&s=64' width="64" title='Pau Catalan Corrales'> |
-| 27 | [x3sp3d3s](https://github.com/x3sp3d3s) | 12 | 1 |  | Girona | <img src='https://avatars0.githubusercontent.com/u/6019037?v=3&s=64' width="64" title='Albert Céspedes Esteve'> |
-| 28 | [jongurutz](https://github.com/jongurutz) | 12 | 0 | HTML | Girona | <img src='https://avatars2.githubusercontent.com/u/13014808?v=3&s=64' width="64" title=''> |
-| 29 | [ewiggin](https://github.com/ewiggin) | 12 | 2 | Shell | Girona | <img src='https://avatars2.githubusercontent.com/u/657517?v=3&s=64' width="64" title='Mario Martinez'> |
-| 30 | [jcampana](https://github.com/jcampana) | 12 | 0 | C# | Girona | <img src='https://avatars0.githubusercontent.com/u/1982571?v=3&s=64' width="64" title='Javier Campaña Pulido'> |
+| 26 | [ewiggin](https://github.com/ewiggin) | 14 | 2 | Shell | Girona | <img src='https://avatars2.githubusercontent.com/u/657517?v=3&s=64' width="64" title='Mario Martinez'> |
+| 27 | [quanticbyte](https://github.com/quanticbyte) | 13 | 0 | JavaScript and CSS | LA Bisbal d'Emporda Girona | <img src='https://avatars2.githubusercontent.com/u/3942394?v=3&s=64' width="64" title='Pau Catalan Corrales'> |
+| 28 | [jcampana](https://github.com/jcampana) | 12 | 0 | C# | Girona | <img src='https://avatars0.githubusercontent.com/u/1982571?v=3&s=64' width="64" title='Javier Campaña Pulido'> |
+| 29 | [jongurutz](https://github.com/jongurutz) | 12 | 0 | HTML | Girona | <img src='https://avatars2.githubusercontent.com/u/13014808?v=3&s=64' width="64" title=''> |
+| 30 | [rashgaroc](https://github.com/rashgaroc) | 11 | 0 | JavaScript and HTML | Platja d'Aro (Girona) | <img src='https://avatars1.githubusercontent.com/u/4775648?v=3&s=64' width="64" title='Elías Vázquez Enríquez'> |
 | 31 | [PepJorge](https://github.com/PepJorge) | 11 | 0 |  | Girona | <img src='https://avatars2.githubusercontent.com/u/3807514?v=3&s=64' width="64" title='Josep Jorge'> |
-| 32 | [rashgaroc](https://github.com/rashgaroc) | 11 | 0 | JavaScript and HTML | Platja d'Aro (Girona) | <img src='https://avatars1.githubusercontent.com/u/4775648?v=3&s=64' width="64" title='Elías Vázquez Enríquez'> |
-| 33 | [metabarpark](https://github.com/metabarpark) | 10 | 0 | R | Blanes (Girona), Spain | <img src='https://avatars0.githubusercontent.com/u/11095890?v=3&s=64' width="64" title='Owen S. Wangensteen'> |
-| 34 | [xus](https://github.com/xus) | 10 | 3 | PHP | Girona | <img src='https://avatars1.githubusercontent.com/u/588312?v=3&s=64' width="64" title='xus'> |
+| 32 | [metabarpark](https://github.com/metabarpark) | 10 | 0 | R | Blanes (Girona), Spain | <img src='https://avatars0.githubusercontent.com/u/11095890?v=3&s=64' width="64" title='Owen S. Wangensteen'> |
+| 33 | [xus](https://github.com/xus) | 10 | 3 | PHP | Girona | <img src='https://avatars1.githubusercontent.com/u/588312?v=3&s=64' width="64" title='xus'> |
+| 34 | [x3sp3d3s](https://github.com/x3sp3d3s) | 9 | 1 |  | Girona | <img src='https://avatars0.githubusercontent.com/u/6019037?v=3&s=64' width="64" title='Albert Céspedes Esteve'> |
 | 35 | [elmeunick9](https://github.com/elmeunick9) | 9 | 0 | C++ and Makefile | Girona, Catalunya | <img src='https://avatars1.githubusercontent.com/u/4674207?v=3&s=64' width="64" title='Robert Planas'> |
 | 36 | [murtra](https://github.com/murtra) | 8 | 0 | Ruby | Girona, Spain | <img src='https://avatars0.githubusercontent.com/u/1818725?v=3&s=64' width="64" title='Almudena Garcia'> |
 | 37 | [tothomweb](https://github.com/tothomweb) | 7 | 0 |  | Girona | <img src='https://avatars1.githubusercontent.com/u/4431015?v=3&s=64' width="64" title='TOTHOMweb'> |
 | 38 | [tkanzakic](https://github.com/tkanzakic) | 7 | 1 | Ruby | Girona, Catalonia, Spain | <img src='https://avatars3.githubusercontent.com/u/884028?v=3&s=64' width="64" title='Takeichi Kanzaki Cabrera'> |
 | 39 | [marclr](https://github.com/marclr) | 7 | 1 | JavaScript | Girona | <img src='https://avatars3.githubusercontent.com/u/3474291?v=3&s=64' width="64" title='Marc López Roca'> |
 | 40 | [Avengis](https://github.com/Avengis) | 7 | 0 | JavaScript | Girona, Catalonia, Spain | <img src='https://avatars3.githubusercontent.com/u/339539?v=3&s=64' width="64" title='Xan Torres'> |
-| 41 | [ralcala](https://github.com/ralcala) | 6 | 0 | R | Girona, Spain | <img src='https://avatars3.githubusercontent.com/u/6516047?v=3&s=64' width="64" title='Roberto J. Alcalá Sánchez'> |
-| 42 | [lastpoke](https://github.com/lastpoke) | 6 | 0 |  | Girona | <img src='https://avatars2.githubusercontent.com/u/9743885?v=3&s=64' width="64" title='David'> |
+| 41 | [lastpoke](https://github.com/lastpoke) | 6 | 0 |  | Girona | <img src='https://avatars2.githubusercontent.com/u/9743885?v=3&s=64' width="64" title='David'> |
+| 42 | [ralcala](https://github.com/ralcala) | 6 | 0 | R | Girona, Spain | <img src='https://avatars3.githubusercontent.com/u/6516047?v=3&s=64' width="64" title='Roberto J. Alcalá Sánchez'> |
 | 43 | [johnny32](https://github.com/johnny32) | 5 | 0 | JavaScript | Girona, Spain | <img src='https://avatars1.githubusercontent.com/u/3924718?v=3&s=64' width="64" title='Jonathan Clara'> |
-| 44 | [luismasserral](https://github.com/luismasserral) | 3 | 0 | CSS and JavaScript | Hostalric, Girona, Spain | <img src='https://avatars1.githubusercontent.com/u/5336391?v=3&s=64' width="64" title='Luis Mas Serral'> |
-| 45 | [marccamacho](https://github.com/marccamacho) | 3 | 0 |  | Girona | <img src='https://avatars2.githubusercontent.com/u/7396184?v=3&s=64' width="64" title='Marc Camacho Cateura'> |
-| 46 | [ribugent](https://github.com/ribugent) | 3 | 0 | Perl | Girona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/1180455?v=3&s=64' width="64" title='Gerard Ribugent Navarro'> |
-| 47 | [antonio-manuel](https://github.com/antonio-manuel) | 3 | 0 |  | Girona | <img src='https://avatars3.githubusercontent.com/u/11867984?v=3&s=64' width="64" title='Antonio Manuel'> |
-| 48 | [YerayAlonso](https://github.com/YerayAlonso) | 2 | 1 | Java | Girona | <img src='https://avatars1.githubusercontent.com/u/1788228?v=3&s=64' width="64" title='Yeray'> |
-| 49 | [albertsanchez](https://github.com/albertsanchez) | 2 | 0 | PHP | Girona | <img src='https://avatars2.githubusercontent.com/u/7221778?v=3&s=64' width="64" title='Albert Sánchez'> |
-| 50 | [francesccasadella](https://github.com/francesccasadella) | 2 | 0 |  | Girona | <img src='https://avatars1.githubusercontent.com/u/7600601?v=3&s=64' width="64" title='Francesc'> |
+| 44 | [antonio-manuel](https://github.com/antonio-manuel) | 5 | 0 | Java | Girona | <img src='https://avatars3.githubusercontent.com/u/11867984?v=3&s=64' width="64" title='Antonio Manuel'> |
+| 45 | [ribugent](https://github.com/ribugent) | 3 | 0 | Perl | Girona, Catalonia | <img src='https://avatars2.githubusercontent.com/u/1180455?v=3&s=64' width="64" title='Gerard Ribugent Navarro'> |
+| 46 | [marccamacho](https://github.com/marccamacho) | 3 | 0 |  | Girona | <img src='https://avatars2.githubusercontent.com/u/7396184?v=3&s=64' width="64" title='Marc Camacho Cateura'> |
+| 47 | [luismasserral](https://github.com/luismasserral) | 3 | 0 | CSS and JavaScript | Hostalric, Girona, Spain | <img src='https://avatars1.githubusercontent.com/u/5336391?v=3&s=64' width="64" title='Luis Mas Serral'> |
+| 48 | [francesccasadella](https://github.com/francesccasadella) | 2 | 0 |  | Girona | <img src='https://avatars1.githubusercontent.com/u/7600601?v=3&s=64' width="64" title='Francesc'> |
+| 49 | [serg123e](https://github.com/serg123e) | 2 | 0 | Ruby | Lloret de Mar (Girona), Spain | <img src='https://avatars2.githubusercontent.com/u/4356025?v=3&s=64' width="64" title='Sergey'> |
+| 50 | [YerayAlonso](https://github.com/YerayAlonso) | 2 | 1 | Java | Girona | <img src='https://avatars1.githubusercontent.com/u/1788228?v=3&s=64' width="64" title='Yeray'> |
 | 51 | [davidrv](https://github.com/davidrv) | 2 | 2 | Ruby | Girona | <img src='https://avatars1.githubusercontent.com/u/61644?v=3&s=64' width="64" title='David Ramirez'> |
-| 52 | [serg123e](https://github.com/serg123e) | 2 | 0 | Ruby | Lloret de Mar (Girona), Spain | <img src='https://avatars2.githubusercontent.com/u/4356025?v=3&s=64' width="64" title='Sergey'> |
-| 53 | [buenoudg](https://github.com/buenoudg) | 1 | 0 | JavaScript | Girona | <img src='https://avatars3.githubusercontent.com/u/7921670?v=3&s=64' width="64" title='Antonio Bueno'> |
-| 54 | [Gaucho-9](https://github.com/Gaucho-9) | 1 | 0 |  | Girona, Spain | <img src='https://avatars0.githubusercontent.com/u/6517150?v=3&s=64' width="64" title='David'> |
+| 52 | [albertsanchez](https://github.com/albertsanchez) | 2 | 0 | PHP | Girona | <img src='https://avatars2.githubusercontent.com/u/7221778?v=3&s=64' width="64" title='Albert Sánchez'> |
+| 53 | [Gaucho-9](https://github.com/Gaucho-9) | 2 | 0 |  | Girona, Spain | <img src='https://avatars0.githubusercontent.com/u/6517150?v=3&s=64' width="64" title='David'> |
+| 54 | [buenoudg](https://github.com/buenoudg) | 1 | 0 | JavaScript | Girona | <img src='https://avatars3.githubusercontent.com/u/7921670?v=3&s=64' width="64" title='Antonio Bueno'> |
 | 55 | [edumag](https://github.com/edumag) | 1 | 0 | CSS | Les Olives - Garrigoles Girona | <img src='https://avatars3.githubusercontent.com/u/2844220?v=3&s=64' width="64" title='Eduardo'> |

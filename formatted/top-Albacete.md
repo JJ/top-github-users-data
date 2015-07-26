@@ -2,7 +2,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Wed, 16 Jul 2014 16:15:30 GMT** hasta **Thu, 16 Jul 2015 16:15:30 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 26 Jul 2014 09:17:24 GMT** hasta **Sun, 26 Jul 2015 09:17:24 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -13,25 +13,25 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-| 1 | [Worllhmar](https://github.com/Worllhmar) | 237 | 0 | Python | Albacete, Spain | <img src='https://avatars3.githubusercontent.com/u/5214869?v=3&s=64' width="64" title='Manuel'> |
+| 1 | [Worllhmar](https://github.com/Worllhmar) | 274 | 0 | Python | Albacete, Spain | <img src='https://avatars3.githubusercontent.com/u/5214869?v=3&s=64' width="64" title='Manuel'> |
 | 2 | [sjimenez77](https://github.com/sjimenez77) | 189 | 2 | JavaScript | Albacete, Spain | <img src='https://avatars3.githubusercontent.com/u/2870004?v=3&s=64' width="64" title='Santos Jiménez Linares'> |
 | 3 | [jantoniomartin](https://github.com/jantoniomartin) | 139 | 15 | Python | Albacete, Spain | <img src='https://avatars1.githubusercontent.com/u/439759?v=3&s=64' width="64" title='Jose Antonio Martin Prieto'> |
-| 4 | [jgallud](https://github.com/jgallud) | 76 | 1 | JavaScript | Albacete | <img src='https://avatars0.githubusercontent.com/u/5364288?v=3&s=64' width="64" title='Jose A. Gallud'> |
-| 5 | [r0i](https://github.com/r0i) | 63 | 0 | Makefile | Hellin, Albacete, España | <img src='https://avatars2.githubusercontent.com/u/5457573?v=3&s=64' width="64" title='DarkSideTeam'> |
+| 4 | [jgallud](https://github.com/jgallud) | 72 | 1 | JavaScript | Albacete | <img src='https://avatars0.githubusercontent.com/u/5364288?v=3&s=64' width="64" title='Jose A. Gallud'> |
+| 5 | [r0i](https://github.com/r0i) | 64 | 0 | Makefile | Hellin, Albacete, España | <img src='https://avatars2.githubusercontent.com/u/5457573?v=3&s=64' width="64" title='DarkSideTeam'> |
 | 6 | [jialonso](https://github.com/jialonso) | 54 | 0 |  | Albacete | <img src='https://avatars3.githubusercontent.com/u/9167780?v=3&s=64' width="64" title='Juan Ignacio Alonso-Barba'> |
-| 7 | [tesorieror](https://github.com/tesorieror) | 46 | 0 | JavaScript | Albacete, Spain | <img src='https://avatars3.githubusercontent.com/u/5547744?v=3&s=64' width="64" title='Ricardo Tesoriero'> |
+| 7 | [tesorieror](https://github.com/tesorieror) | 39 | 0 | JavaScript | Albacete, Spain | <img src='https://avatars3.githubusercontent.com/u/5547744?v=3&s=64' width="64" title='Ricardo Tesoriero'> |
 | 8 | [dbuedo](https://github.com/dbuedo) | 37 | 0 | Python | Albacete, Spain | <img src='https://avatars1.githubusercontent.com/u/5249948?v=3&s=64' width="64" title='David Buedo'> |
 | 9 | [CsanchezC](https://github.com/CsanchezC) | 34 | 0 |  | Albacete | <img src='https://avatars0.githubusercontent.com/u/8025600?v=3&s=64' width="64" title='Carlos Sánchez Cifuentes'> |
 | 10 | [Spinlogic](https://github.com/Spinlogic) | 29 | 0 | Java | Albacete | <img src='https://avatars1.githubusercontent.com/u/5713270?v=3&s=64' width="64" title='Spinlogic'> |
-| 11 | [amon-ra](https://github.com/amon-ra) | 19 | 10 | Python | Albacete | <img src='https://avatars2.githubusercontent.com/u/1049676?v=3&s=64' width="64" title='Juan Ramón'> |
+| 11 | [amon-ra](https://github.com/amon-ra) | 20 | 10 | Python | Albacete | <img src='https://avatars2.githubusercontent.com/u/1049676?v=3&s=64' width="64" title='Juan Ramón'> |
 | 12 | [ecdani](https://github.com/ecdani) | 15 | 0 | HTML | Albacete | <img src='https://avatars2.githubusercontent.com/u/4211293?v=3&s=64' width="64" title='Dani'> |
 | 13 | [dawidhml](https://github.com/dawidhml) | 14 | 0 | JavaScript | Albacete | <img src='https://avatars2.githubusercontent.com/u/2924981?v=3&s=64' width="64" title='David Muñoz'> |
-| 14 | [jacintoArias](https://github.com/jacintoArias) | 8 | 0 | C | Albacete, Spain | <img src='https://avatars1.githubusercontent.com/u/7511199?v=3&s=64' width="64" title='Jacinto Arias'> |
-| 15 | [AmadorNavarro](https://github.com/AmadorNavarro) | 7 | 9 | Objective-C | Albacete | <img src='https://avatars3.githubusercontent.com/u/2777799?v=3&s=64' width="64" title='Amador Navarro Lucas'> |
-| 16 | [javato](https://github.com/javato) | 6 | 0 | C | Albacete | <img src='https://avatars2.githubusercontent.com/u/8853295?v=3&s=64' width="64" title='Javier Roldán'> |
-| 17 | [Manugardi](https://github.com/Manugardi) | 5 | 1 | Shell | Albacete, Spain | <img src='https://avatars1.githubusercontent.com/u/10785921?v=3&s=64' width="64" title='Manu'> |
-| 18 | [arion1953](https://github.com/arion1953) | 4 | 0 | Java | 02001 - Albacete (Spain) | <img src='https://avatars1.githubusercontent.com/u/4731865?v=3&s=64' width="64" title='Jesus Valero Bleda'> |
-| 19 | [ociu](https://github.com/ociu) | 4 | 4 | Python and JavaScript | Albacete | <img src='https://avatars3.githubusercontent.com/u/4182785?v=3&s=64' width="64" title='Oscar Ciudad'> |
+| 14 | [jcozar87](https://github.com/jcozar87) | 10 | 0 |  | Albacete, Spain | <img src='https://avatars1.githubusercontent.com/u/9693217?v=3&s=64' width="64" title='Javier Cózar del Olmo'> |
+| 15 | [jacintoArias](https://github.com/jacintoArias) | 8 | 0 | C | Albacete, Spain | <img src='https://avatars1.githubusercontent.com/u/7511199?v=3&s=64' width="64" title='Jacinto Arias'> |
+| 16 | [AmadorNavarro](https://github.com/AmadorNavarro) | 7 | 9 | Objective-C | Albacete | <img src='https://avatars3.githubusercontent.com/u/2777799?v=3&s=64' width="64" title='Amador Navarro Lucas'> |
+| 17 | [javato](https://github.com/javato) | 6 | 0 | C | Albacete | <img src='https://avatars2.githubusercontent.com/u/8853295?v=3&s=64' width="64" title='Javier Roldán'> |
+| 18 | [Manugardi](https://github.com/Manugardi) | 5 | 1 | Shell | Albacete, Spain | <img src='https://avatars1.githubusercontent.com/u/10785921?v=3&s=64' width="64" title='Manu'> |
+| 19 | [ociu](https://github.com/ociu) | 3 | 4 | Python and JavaScript | Albacete | <img src='https://avatars3.githubusercontent.com/u/4182785?v=3&s=64' width="64" title='Oscar Ciudad'> |
 | 20 | [RiazaValverde](https://github.com/RiazaValverde) | 2 | 0 |  | España, Albacete | <img src='https://avatars1.githubusercontent.com/u/5055295?v=3&s=64' width="64" title='José Antonio Riaza Valverde'> |
-| 21 | [ppalazon](https://github.com/ppalazon) | 1 | 8 | Java | Albacete | <img src='https://avatars3.githubusercontent.com/u/451795?v=3&s=64' width="64" title='Pablo Palazon'> |
-| 22 | [Chopete](https://github.com/Chopete) | 1 | 0 |  | Albacete (Spain) | <img src='https://avatars3.githubusercontent.com/u/10121520?v=3&s=64' width="64" title='Sergio Gomez Navarro'> |
+| 21 | [Chopete](https://github.com/Chopete) | 1 | 0 |  | Albacete (Spain) | <img src='https://avatars3.githubusercontent.com/u/10121520?v=3&s=64' width="64" title='Sergio Gomez Navarro'> |
+| 22 | [ppalazon](https://github.com/ppalazon) | 1 | 8 | Java | Albacete | <img src='https://avatars3.githubusercontent.com/u/451795?v=3&s=64' width="64" title='Pablo Palazon'> |
