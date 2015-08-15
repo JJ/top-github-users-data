@@ -13,22 +13,22 @@ alexsavio;San Sebastián, Spain;Donostia;13;713;6;28;Python
 ragerri;Donostia-San Sebastian;Donostia;8;657;2;1;Java
 rmhdev;Donostia;Donostia;3;536;34;32;PHP
 jonan;Bilbao, Spain;Bilbao;37;484;66;61;Java
-xezpeleta;Basque Country;Euskadi;6;455;3;88;Shell
-merqurio;Basque Country;Euskadi;9;400;31;322;Python
+xezpeleta;Basque Country;Euskadi;6;463;3;91;Shell
+merqurio;Basque Country;Euskadi;11;409;33;328;Python
 juanmanuelsanchez;Leioa, Vizcaya;Bilbao;0;385;0;0;JavaScript
 MikelS;Getxo;Bilbao;3;369;0;21;JavaScript
 javray;Spain, Bilbao;Bilbao;1;329;6;11;JavaScript
 cat2608;Bilbao;Bilbao;43;301;4;3;JavaScript
+jonabasque;Vitoria-Gasteiz (Basque Country);Euskadi;13;289;3;127;JavaScript
 edlectrico;Bilbao (Spain);Bilbao;15;283;6;8;Java
 haas85;Bilbao;Bilbao;11;282;20;3;JavaScript
 erichlf;Bilbao, Basque Country -- Spain;Bilbao;4;277;0;18;TeX
-jonabasque;Vitoria-Gasteiz (Basque Country);Euskadi;13;265;3;125;PHP
 Skillath;Lasarte-Oria, Gipuzkoa;Donostia;5;263;1;0;C#
 anajuaristi;Gipuzkoa (spain);Donostia;13;263;0;0;Makefile
 xala3pa;Bilbao;Bilbao;22;248;9;359;Python
 Josebaseba;Bilbao;Bilbao;24;238;22;89;JavaScript
 xabikip;Gipuzkoa, Euskal Herria;Donostia;18;233;3;65;PHP
-Nicolab;Bidart, Euskadi (France);Euskadi;22;221;92;204;JavaScript
+Nicolab;Bidart, Euskadi (France);Euskadi;23;225;98;204;JavaScript
 memaldi;Barakaldo;Bilbao;19;207;13;60;Python
 jonlatorre;Bilbao;Bilbao;0;191;6;11;Python
 rsleno;Bilbao, Spain;Bilbao;5;183;0;5;Python
@@ -36,7 +36,7 @@ jonarrien;Portugalete;Bilbao;12;181;1;440;Python
 mikel-egana-aranguren;Bilbo;Bilbao;12;169;6;62;Shell
 anderipartek;Bilbao;Bilbao;12;164;1;8;CSS
 endSly;Bilbao, Spain;Bilbao;20;157;238;253;Ruby
-joxeankoret;Basque Country;Euskadi;82;145;497;30;Python
+joxeankoret;Basque Country;Euskadi;88;151;520;33;Python
 aitiba;Donostia - San Sebastián;Donostia;10;133;2;39;JavaScript
 naveda89;Bilbao, Spain;Bilbao;22;129;5;650;Ruby
 olaldiko;Basque Country;Euskadi;7;126;0;4;JavaScript
@@ -48,7 +48,7 @@ uorbe001;Bilbao, Bizkaia;Bilbao;9;108;25;14;JavaScript
 tomasmax;Bilbao;Bilbao;9;105;11;249;Java
 aberigle;Barakaldo;Bilbao;19;100;25;40;CSS
 unaguil;Bilbao;Bilbao;16;97;9;12;Python
-josuigoa;Basque Country;Euskadi;4;96;40;10;Haxe
+josuigoa;Basque Country;Euskadi;4;96;41;11;Haxe
 gexplorer;Bilbao;Bilbao;1;91;1;7;CSS
 b0rxa;Donostia, Spain;Donostia;0;89;2;0;R
 Falc;Bilbao, Spain;Bilbao;17;89;37;626;PHP
@@ -141,12 +141,12 @@ Ricewind1512;Basque Country;Euskadi;0;14;0;1;
 sergiotosa;Bilbao;Bilbao;0;14;0;0;R
 fernandiez;Bilbao;Bilbao;2;14;1;12;PHP
 TxemaPuente;Bilbao;Bilbao;0;12;0;0;PHP
+noeliaoses;Basque Country;Euskadi;0;12;0;0;R
 etxahun;Getxo - Bizkaia;Bilbao;0;12;0;4;PHP
-jarfil;Bilbao, Spain;Bilbao;0;11;1;50;Shell
-noeliaoses;Basque Country;Euskadi;0;11;0;0;R
-zerjioang;Bilbao;Bilbao;1;11;2;0;Java
 GustavoUriarte;Euskal Herria / Basque Country;Euskadi;1;11;0;2;CSS
+zerjioang;Bilbao;Bilbao;1;11;2;0;Java
 zetagor;Bilbao;Bilbao;4;11;1;3;Shell
+jarfil;Bilbao, Spain;Bilbao;0;11;1;50;Shell
 Joseba84;San Sebastián;Donostia;1;10;0;15;CSS
 WeedBilbaoGaming;Bilbao, Euskal Herria;Bilbao;0;10;0;0;CMake
 mikelf;Bilbao;Bilbao;0;10;0;0;Python
@@ -190,7 +190,7 @@ eloygbm;Bilbao;Bilbao;12;5;0;12;Python and Shell
 jagumiel;Bilbao;Bilbao;0;5;0;0;Java
 eneko89;Bilbao, Vizcaya;Bilbao;9;5;9;171;Java
 biojazzard;BIlbao;Bilbao;7;5;34;325;JavaScript
-mikeliturbe;Basque Country;Euskadi;5;5;0;64;Shell and VimL
+mikeliturbe;Basque Country;Euskadi;5;5;0;68;Shell and VimL
 jacoobs;Bilbao, Pais Vasco;Bilbao;0;5;0;0;
 Gusinato95;Bilbao;Bilbao;4;5;1;2;C++
 anarranz;Basque Country, Europe;Euskadi;0;4;0;0;
@@ -205,13 +205,13 @@ Hoddix;Bilbao;Bilbao;0;4;1;0;PHP
 fralmei;Bilbao;Bilbao;0;3;0;0;JavaScript
 guigomez;Bilbao;Bilbao;0;3;0;0;JavaScript
 dlores;Bilbao;Bilbao;3;3;0;6;
-abeaumont;Gasteiz, Basque Country;Euskadi;12;3;15;111;Dylan
+agonirena;Elgoibar, Basque Country;Euskadi;0;3;0;0;PHP
 fernandopr;Donostia-San Sebastián;Donostia;0;3;0;0;CSS
 xabiamu;Donostia-San Sebastian;Donostia;1;3;0;21;Java
 Legrandk;Donostia;Donostia;3;3;0;2;JavaScript
 ander2;Donostia;Donostia;1;3;1;9;JavaScript
+abeaumont;Gasteiz, Basque Country;Euskadi;12;3;15;111;Dylan
 jled7;Basque Country;Euskadi;0;3;0;2;C++ and Java
-agonirena;Elgoibar, Basque Country;Euskadi;0;3;0;0;PHP
 borjalanseros;Donostia-San Sebastian;Donostia;0;3;0;0;
 g0re;Madrid / Bilbao;Bilbao;0;3;0;17;
 SocialSound;Bizkaia;Bilbao;1;3;2;0;Arduino
