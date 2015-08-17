@@ -1,7 +1,7 @@
 ---
 title: 'Github users in Spain: Evolution of number of users'
 author: "JJ Merelo"
-date: "23/7/2015"
+date: "17/8/2015"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -26,9 +26,15 @@ agg.top.Spain.evol$idu <- as.numeric(row.names(agg.top.Spain.evol))
 Since the end of 2014, we have been tracking the users that feature Spain or one of its autnomous regions, provinces or main cities in their profile.
 
 #Results
+
+First we would like to check what has happened to the number of users, how they have evolved in time. This is shown below.
+
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(agg.top.Spain.evol,aes(x=idu,y=users))+geom_line()+geom_point()
 ```
+
+The `x` axis is an arbitrary scale that simply represents every time we have generated a new set of users, which happends usually every week, but not always. there have been new users practically every time except for two or three occassions, which might be attributed to errors in the GitHub API, which does not always return all users. In general, In general and in less than one year, the number has increased around 20%, going from under 9000 to close than 11000.
+
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(agg.top.Spain.evol,aes(x=users,y=followers))+geom_line()+geom_point()
