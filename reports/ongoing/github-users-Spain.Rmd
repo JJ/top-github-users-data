@@ -2,7 +2,7 @@
 title: 'Github users in Spain: a report on geographical distribution of open source
   production'
 author: "JJ Merelo"
-date: "16/7/2015"
+date: "17/8/2015"
 output: html_document
 bibliography: gh-rankings.bib
 ---
