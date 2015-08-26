@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 16 Aug 2014 09:31:04 GMT** hasta **Sun, 16 Aug 2015 09:31:04 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Tue, 26 Aug 2014 11:48:26 GMT** hasta **Wed, 26 Aug 2015 11:48:26 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
 
@@ -14,6 +14,6 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [alazuga](https://github.com/alazuga) | 94 | 0 | C | Teruel-Zaragoza (Spain) | <img src='https://avatars3.githubusercontent.com/u/6850099?v=3&s=64' width="64" title='Alberto Azuara'> |
-|![up](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/up.gif) 2 | [gelsilva](https://github.com/gelsilva) | 19 | 0 | JavaScript and CSS | Teruel | <img src='https://avatars3.githubusercontent.com/u/2872196?v=3&s=64' width="64" title='Ángel Silva'> |
-|![down](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/down.gif) 3 | [rochesto](https://github.com/rochesto) | 15 | 0 | PHP | Teruel | <img src='https://avatars1.githubusercontent.com/u/4068052?v=3&s=64' width="64" title='Rochesto E'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [alazuga](https://github.com/alazuga) | 94 | 0 | C | Teruel-Zaragoza (Spain) | <img src='https://avatars3.githubusercontent.com/u/6850099?v=3&s=64' width="64" title='Alberto Azuara'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [gelsilva](https://github.com/gelsilva) | 26 | 0 | JavaScript and CSS | Teruel | <img src='https://avatars3.githubusercontent.com/u/2872196?v=3&s=64' width="64" title='Ángel Silva'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [rochesto](https://github.com/rochesto) | 16 | 0 | PHP | Teruel | <img src='https://avatars1.githubusercontent.com/u/4068052?v=3&s=64' width="64" title='Rochesto E'> |
