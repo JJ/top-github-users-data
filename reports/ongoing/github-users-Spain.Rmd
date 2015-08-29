@@ -2,7 +2,7 @@
 title: 'Github users in Spain: a report on geographical distribution of open source
   production'
 author: "JJ Merelo"
-date: "17/8/2015"
+date: "29/8/2015"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -69,7 +69,11 @@ ggplot( data=province.table.df, aes(x="",y=users,fill=factor(province)))+ geom_b
 
 The users without a declared province form the biggest slice of the pie, with around one quarter of the total number of users. They are followed by Madrid, Barcelona, Valencia, Seville, Granada and Málaga. These provinces, by themselves, host more than half the total community of GitHub users in Spain. 
 
-Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Barcelona and Granada emerging as the province with the highest number of GitHub active developers per capita; they are head-to-head and the situation might change from this report to the next; that is, a clear winner is not declared. After them the situation is more stable, with Madrid in the third position, followed by Seville and Saragossa (Zaragoza), Gipuzkoa (represented by its main city, Bilbao), Valencia and Valladolid. The province of Córdoba is a distant next, with Coruña coming up as the last of the top 10.
+Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Barcelona, Madrid and Granada emerging as the province with the highest number of GitHub active developers per capita; they are head-to-head and the situation might change from one report to the next; that is, a clear winner is not declared.
+
+>In this the fact that GitHub search returns different numbers in two consecutive requests might play a role. There is always some degree of uncertainty.
+
+After them the situation is more stable, with Madrid in the third position, followed by Seville and Saragossa (Zaragoza), Gipuzkoa (represented by its main city, Bilbao), Valencia and Valladolid. The province of Córdoba is a distant next, with Coruña coming up as the last of the top 10.
 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
