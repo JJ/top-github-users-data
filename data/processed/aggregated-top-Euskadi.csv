@@ -1,254 +1,275 @@
 login; location; place; followers; contributions; stars; user_stars; language
-benatespina;Santurtzi, Basque Country;Bilbao;14;1967;12;68;CSS
-soyjavi;Bilbao ✈︎ Chiang Mai;Bilbao;782;1375;886;99;CoffeeScript
-uesteibar;San Sebastián;Donostia;29;1357;5;8;JavaScript
-ojoven;Donostia - San Sebastián;Donostia;12;1258;12;17;PHP
-erral;Eibar, Gipuzkoa, Basque Country;Donostia;8;1179;17;44;Python
-porduna;Bilbao;Bilbao;39;1069;3;45;Python
-aldatsa;Usurbil, Gipuzkoa (EH);Donostia;9;1033;1;47;Shell
-gorkalaucirica;Bilbao;Bilbao;7;999;62;77;PHP
-Razican;Bilbao, Spain;Bilbao;22;796;11;26;Java
-alexsavio;San Sebastián, Spain;Donostia;13;703;6;30;Python
-7flying;Bilbao;Bilbao;2;679;1;33;Python
-ragerri;Donostia-San Sebastian;Donostia;8;647;2;1;Java
-rmhdev;Donostia;Donostia;3;582;34;34;PHP
-jonan;Bilbao, Spain;Bilbao;40;495;74;61;Java
-xezpeleta;Basque Country;Euskadi;6;463;3;91;Shell
-merqurio;Basque Country;Euskadi;11;416;33;331;Python
-daviddesancho;Donostia - San Sebastián;Donostia;9;399;0;4;Python
-juanmanuelsanchez;Leioa, Vizcaya;Bilbao;0;388;0;0;JavaScript
-erichlf;Bilbao, Basque Country -- Spain;Bilbao;5;329;1;17;TeX
+benatespina;Santurtzi, Basque Country;Bilbao;14;2044;14;58;CSS
+ojoven;Donostia - San Sebastián;Donostia;12;1424;12;17;PHP
+uesteibar;San Sebastián;Donostia;29;1359;5;8;JavaScript
+soyjavi;Bilbao ✈︎ Chiang Mai;Bilbao;782;1328;889;99;CoffeeScript
+porduna;Bilbao;Bilbao;39;1162;3;45;Python
+erral;Eibar, Gipuzkoa, Basque Country;Donostia;8;1059;17;44;Python
+gorkalaucirica;Bilbao;Bilbao;7;1033;65;76;PHP
+aldatsa;Usurbil, Gipuzkoa (EH);Donostia;9;953;2;47;Shell
+ibc;Bilbao & Madrid;Bilbao;66;919;146;77;JavaScript
+Razican;Bilbao, Spain;Bilbao;22;873;11;26;Java
+alexsavio;San Sebastián, Spain;Donostia;13;759;6;30;Python
+7flying;Bilbao;Bilbao;2;682;1;33;Python
+ragerri;Donostia-San Sebastian;Donostia;8;640;2;1;Java
+rmhdev;Donostia;Donostia;3;582;35;34;PHP
+jonan;Bilbao, Spain;Bilbao;43;501;81;60;Java
+xezpeleta;Basque Country;Euskadi;6;476;3;96;Shell
+merqurio;Basque Country;Euskadi;11;425;36;335;Python
+edlectrico;Bilbao (Spain);Bilbao;16;368;6;9;Java
+juanmanuelsanchez;Leioa, Vizcaya;Bilbao;0;366;0;0;JavaScript
+erichlf;Bilbao, Basque Country -- Spain;Bilbao;6;363;1;17;TeX
+MikelS;Getxo;Bilbao;3;354;0;21;JavaScript
+daviddesancho;Donostia - San Sebastián;Donostia;9;336;0;4;Python
 javray;Spain, Bilbao;Bilbao;1;329;6;11;JavaScript
-edlectrico;Bilbao (Spain);Bilbao;15;319;6;8;Java
-cat2608;Bilbao;Bilbao;43;309;4;3;JavaScript
-MikelS;Getxo;Bilbao;3;299;0;21;JavaScript
-memaldi;Barakaldo;Bilbao;19;298;13;60;Python
+cat2608;Bilbao;Bilbao;43;302;5;3;JavaScript
 jonabasque;Vitoria-Gasteiz (Basque Country);Euskadi;13;283;3;128;JavaScript
-anajuaristi;Gipuzkoa (spain);Donostia;13;262;0;0;Makefile
-haas85;Bilbao;Bilbao;11;258;20;3;JavaScript
 Skillath;Lasarte-Oria, Gipuzkoa;Donostia;5;258;1;0;C#
-xala3pa;Bilbao;Bilbao;23;252;9;359;Python
-Josebaseba;Bilbao;Bilbao;24;238;23;92;JavaScript
+memaldi;Barakaldo;Bilbao;19;253;13;60;Python
+haas85;Bilbao;Bilbao;11;251;19;3;JavaScript
+anajuaristi;Gipuzkoa (spain);Donostia;13;236;0;0;Makefile
+Josebaseba;Bilbao;Bilbao;24;227;29;96;JavaScript
+rsleno;Bilbao, Spain;Bilbao;5;224;0;5;Python
 xabikip;Gipuzkoa, Euskal Herria;Donostia;18;222;3;68;PHP
-Nicolab;Bidart, Euskadi (France);Euskadi;23;217;100;204;JavaScript
-rsleno;Bilbao, Spain;Bilbao;5;210;0;5;Python
-mikel-egana-aranguren;Bilbo;Bilbao;13;194;7;65;Shell
-jonlatorre;Bilbao;Bilbao;0;191;12;11;Python
-endSly;Bilbao, Spain;Bilbao;20;181;241;255;Ruby
-anderipartek;Bilbao;Bilbao;12;180;1;9;CSS
-jonarrien;Portugalete;Bilbao;12;174;1;440;Python
-joxeankoret;Basque Country;Euskadi;89;151;531;35;Python
+endSly;Bilbao, Spain;Bilbao;21;193;243;255;Ruby
+jonlatorre;Bilbao;Bilbao;0;190;6;11;Python
+anderipartek;Bilbao;Bilbao;12;188;1;10;CSS
+Nicolab;Bidart, Euskadi (France);Euskadi;26;185;106;205;JavaScript
+mikel-egana-aranguren;Bilbo;Bilbao;13;176;7;70;Shell
+joxeankoret;Basque Country;Euskadi;94;151;555;35;Python
+jonarrien;Portugalete;Bilbao;12;150;1;440;Python
+ddniel16;Bilbao;Bilbao;0;134;0;57;JavaScript
 aitiba;Donostia - San Sebastián;Donostia;10;132;2;39;JavaScript
-naveda89;Bilbao, Spain;Bilbao;23;129;5;668;Ruby
-ddniel16;Bilbao;Bilbao;0;128;0;54;JavaScript
-karliky;Bilbao;Bilbao;56;127;38;241;JavaScript
-olaldiko;Basque Country;Euskadi;7;126;0;4;JavaScript
-cmoro-deusto;Bilbao;Bilbao;9;117;6;75;Shell
+naveda89;Bilbao, Spain;Bilbao;23;131;6;689;Ruby
+olaldiko;Basque Country;Euskadi;7;127;0;4;Java
+karliky;Bilbao;Bilbao;56;118;38;244;JavaScript
+cmoro-deusto;Bilbao;Bilbao;9;117;7;75;Shell
 tomasmax;Bilbao;Bilbao;9;105;11;251;Java
-aberigle;Barakaldo;Bilbao;19;100;25;40;CSS
-josuigoa;Basque Country;Euskadi;4;96;41;11;Haxe
-Sulley38;Pasaia, Gipuzkoa;Donostia;5;95;1;1;C++
-gexplorer;Bilbao;Bilbao;1;92;1;8;CSS
-b0rxa;Donostia, Spain;Donostia;0;89;2;0;R
-BBerastegui;Bilbao - Barcelona - Anywhere;Bilbao;6;88;0;5;Go
+josuigoa;Basque Country;Euskadi;4;104;41;11;Haxe
+Sulley38;Pasaia, Gipuzkoa;Donostia;5;102;1;1;C++
+Gontxal0;Donostia;Donostia;7;102;1;55;Shell
+aberigle;Barakaldo;Bilbao;19;99;26;40;CSS
+gexplorer;Bilbao;Bilbao;1;98;1;10;CSS
+b0rxa;Donostia, Spain;Donostia;0;94;2;0;R
+BBerastegui;Bilbao - Barcelona - Anywhere;Bilbao;6;91;1;10;Go
+jabesga;Bilbao, ES;Bilbao;0;90;0;10;Python
 RubenBRR;Bilbao - Spain;Bilbao;0;88;0;0;Java
-Falc;Bilbao, Spain;Bilbao;17;87;37;630;PHP
+Falc;Bilbao, Spain;Bilbao;17;87;37;648;PHP
 DaniSancas;Bilbao, Spain;Bilbao;7;87;0;9;PHP
-Gontxal0;Donostia;Donostia;6;84;1;55;Shell
-jabiinfante;Bilbao;Bilbao;8;84;2;22;JavaScript
-franckalbinet;Bayonne, Basque country, France;Euskadi;2;83;0;3;JavaScript
-uorbe001;Bilbao, Bizkaia;Bilbao;9;78;25;14;JavaScript
-aitoralmeida;Bilbao;Bilbao;15;77;14;53;Python
-H0R5E;Bilbao;Bilbao;0;77;0;0;HTML
+jabiinfante;Bilbao;Bilbao;8;85;2;23;JavaScript
+franckalbinet;Bayonne, Basque country, France;Euskadi;2;78;0;3;JavaScript
+H0R5E;Bilbao;Bilbao;0;78;0;0;HTML
+juaristi;Donostia-San Sebastián;Donostia;1;77;1;0;C
 txapelgorri;Bilbao;Bilbao;2;76;0;9;
 mediascape;Donostia;Donostia;11;76;0;0;JavaScript
-jabesga;Bilbao, ES;Bilbao;0;74;0;10;Python
-juaristi;Donostia-San Sebastián;Donostia;1;72;1;0;C
-MikelDelTio;Bilbao;Bilbao;0;69;10;2;Java and JavaScript
-hanbzu;Bilbao;Bilbao;2;69;3;28;Shell
-unaipme;Ordizia, Gipuzkoa;Donostia;2;69;0;0;Java
+aitoralmeida;Bilbao;Bilbao;15;74;14;54;Python
+unaipme;Ordizia, Gipuzkoa;Donostia;2;71;0;0;Java
+hanbzu;Bilbao;Bilbao;2;70;3;28;Shell
+MikelDelTio;Bilbao;Bilbao;0;69;5;2;Java and JavaScript
+jonanderdev;Bilbao, Spain.;Bilbao;0;69;2;3;CSS
+ZenekeZene;Bilbao, Vizcaya, Spain;Bilbao;0;69;1;3;C#
 berganza;Bilbao;Bilbao;96;68;110;80;Objective-C
-jonanderdev;Bilbao, Spain.;Bilbao;0;66;2;2;CSS
+jontorrado;Bilbao, Spain;Bilbao;4;66;0;0;Shell and PHP
+vssnake;Santurtzi;Bilbao;2;66;1;17;Java
 b1-66er;Bilbao;Bilbao;0;65;0;0;
 AdrianNunez;Basque Country, Spain;Euskadi;6;65;0;0;Java
-StrongeLeeroy;Donostia - San Sebastián;Donostia;3;64;8;7;JavaScript
+StrongeLeeroy;Donostia - San Sebastián;Donostia;5;64;11;7;JavaScript
+Ondiz;Bilbao (Spain);Bilbao;0;64;0;0;Matlab
+raul-arrieta;Bilbao ≜ Lekitto;Bilbao;0;62;0;4;JavaScript
 Nahikariii;Bilbao, Bizkaia;Bilbao;5;62;2;2;C
-vssnake;Santurtzi;Bilbao;2;62;1;17;Java
-Ondiz;Bilbao (Spain);Bilbao;0;61;0;0;Matlab
+ornitorrincos;Bilbao;Bilbao;2;60;16;3;C
 JAT91011;Barakaldo, Vizcaya, Spain;Bilbao;1;58;0;2;Java
-lingo;Granada, Spain.  Previously in Brighton, UK, Bilbao, Euskadi / España, Chiapas, México and New Zealand;Bilbao;16;57;78;39;JavaScript
-unaguil;Bilbao;Bilbao;16;57;10;12;Python
+juananpe;Irún, Gipuzkoa;Donostia;6;56;3;55;R
+lingo;Granada, Spain.  Previously in Brighton, UK, Bilbao, Euskadi / España, Chiapas, México and New Zealand;Bilbao;16;55;79;39;JavaScript
 ekaitz-zarraga;Bilbao (Spain);Bilbao;0;54;0;0;C++
-juananpe;Irún, Gipuzkoa;Donostia;6;53;3;53;R
 sheilapbi;San Sebastián;Donostia;21;53;0;4;PHP and JavaScript
+unaguil;Bilbao;Bilbao;16;52;10;12;Python
 andoni-eguiluz;Bilbao;Bilbao;19;50;4;0;Java
 devcfgc;Bilbao;Bilbao;1;49;1;1;Java
-xaaleja;Santurtzi (Bizkaia);Bilbao;2;47;0;2;PHP
-jontorrado;Bilbao, Spain;Bilbao;3;46;0;0;Shell and PHP
+uorbe001;Bilbao, Bizkaia;Bilbao;10;48;26;14;JavaScript
+malkiah;Bilbao;Bilbao;0;48;1;1;HTML
+ggalmazor;Donostia;Donostia;32;45;97;73;JavaScript
+andersagarduy;Bilbao;Bilbao;8;45;0;0;Ruby
 deadsunrise;Bilbao, Spain;Bilbao;1;45;68;82;Ruby
-ornitorrincos;Bilbao;Bilbao;1;44;16;3;C
 Imanolea;Bilbao;Bilbao;4;44;0;0;Java
-bamsbamx;Bilbao;Bilbao;2;41;22;4;Java and HTML
+bamsbamx;Bilbao;Bilbao;2;42;22;8;Java and HTML
 yuki;Bilbao;Bilbao;5;41;13;6;JavaScript
-txusinho;Bilbao, center of the known universe;Bilbao;7;40;5;13;JavaScript
-pittuxx;Bilbao;Bilbao;0;38;0;0;JavaScript
+pittuxx;Bilbao;Bilbao;0;41;0;0;JavaScript
+amurguzur;Donostia;Donostia;2;40;0;1;Java
+f3rguz;Bilbao;Bilbao;0;38;0;0;CSS
 Queky;Bilbao, Spain;Bilbao;3;38;0;0;Java
-ggalmazor;Donostia;Donostia;32;38;97;73;JavaScript
-jmartinezot;Donostia;Donostia;1;37;0;0;C++
 Elpayoquedibuja;Bilbao;Bilbao;0;37;2;2;CSS and JavaScript
-artberri;Barakaldo;Bilbao;64;36;88;12;JavaScript
+jmartinezot;Donostia;Donostia;1;37;0;0;C++
+artberri;Barakaldo;Bilbao;65;36;89;12;JavaScript
+xaaleja;Santurtzi (Bizkaia);Bilbao;2;36;0;2;PHP
+txusinho;Bilbao, center of the known universe;Bilbao;7;36;5;13;JavaScript
 mberasategi;Donostia;Donostia;1;33;2;56;CSS
 ibannieto;Bilbao, Basque Country;Bilbao;11;32;1;62;Makefile
-gechevarria;Bilbao;Bilbao;0;31;0;0;D
+AritzaSm;Barakaldo;Bilbao;0;32;1;9;JavaScript
 Cortadai;Santurtzi (Vizcaya);Bilbao;0;31;0;0;CSS and HTML
-AritzaSm;Barakaldo;Bilbao;0;31;1;6;JavaScript
+gechevarria;Bilbao;Bilbao;0;31;0;0;D
 Quest10;Bilbao, Basque Country -- Spain;Bilbao;1;31;0;10;Emacs Lisp
-amurguzur;Donostia;Donostia;2;31;0;1;Java
-josuhercearsuaga;Andoain, Gipuzkoa;Donostia;3;29;0;2;JavaScript and CSS
-AnderPijoan;Bilbao;Bilbao;11;29;32;4;Java
-JPG-Consulting;Bilbao, Spain;Bilbao;0;29;1;1;PHP
-irenenovo;Bilbao;Bilbao;3;28;1;0;JavaScript
-basoko;Bilbao, Spain;Bilbao;10;28;1;69;Shell
+JPG-Consulting;Bilbao, Spain;Bilbao;0;31;1;1;PHP
+neelravi;Donostia San Sebastian, Spain;Donostia;0;30;0;0;JavaScript
+josuhercearsuaga;Andoain, Gipuzkoa;Donostia;4;29;0;2;JavaScript and CSS
+internetmosquito;Bilbao;Bilbao;2;28;2;6;Python
+basoko;Bilbao, Spain;Bilbao;11;28;1;69;Shell
 blizarazu;Donostia;Donostia;1;28;2;7;Java
-internetmosquito;Bilbao;Bilbao;2;26;2;6;Python
-asiermarques;Barakaldo, Vizcaya, España;Bilbao;66;26;46;26;PHP
-andersagarduy;Bilbao;Bilbao;8;25;0;0;Ruby
+irenenovo;Bilbao;Bilbao;4;28;1;0;JavaScript
+estraviz;Bilbao, Spain;Bilbao;3;28;1;86;HTML
+AnderPijoan;Bilbao;Bilbao;11;26;33;4;Java
+asiermarques;Barakaldo, Vizcaya, España;Bilbao;67;25;46;27;PHP
 mikelzorrilla;Donostia;Donostia;0;24;0;0;JavaScript
-Txotxopue;Bilbao;Bilbao;2;23;0;0;C# and GLSL
 AitorAlejandro;Bilbao;Bilbao;0;23;0;155;CSS and HTML
-ZenekeZene;Bilbao, Vizcaya, Spain;Bilbao;0;23;0;2;C#
-Erly;Santurtzi, Spain;Bilbao;1;23;9;4;Java
+m1k3lm;Bilbao;Bilbao;3;23;6;7;Python
+Erly;Santurtzi, Spain;Bilbao;1;23;9;5;Java
+Txotxopue;Bilbao;Bilbao;2;23;0;0;C# and GLSL
 joruiz;Bilbao;Bilbao;24;23;4;0;C++
-m1k3lm;Bilbao;Bilbao;3;22;6;7;Python
 jaimehrubiks;Bilbao, Spain;Bilbao;1;21;2;1;Makefile
 Eggop92;Bilbao;Bilbao;0;19;0;1;Java
+rjgarciam;San Sebastián/Seville, Spain;Donostia;2;19;0;8;
 koldohernandez;Bilbao;Bilbao;1;18;1;0;JavaScript and Shell
-neelravi;Donostia San Sebastian, Spain;Donostia;0;18;0;0;JavaScript
-etxahun;Getxo - Bizkaia;Bilbao;0;18;0;4;PHP
+lukasmonk;Portugalete-Spain;Bilbao;1;17;15;1;Python
+marcosfeijoo;Bilbao, Spain;Bilbao;0;17;0;0;Python
 missuks;San Sebastián;Donostia;3;17;0;0;JavaScript and CSS
-lukasmonk;Portugalete-Spain;Bilbao;1;17;16;1;Python
-rjgarciam;San Sebastián/Seville, Spain;Donostia;2;17;0;8;CSS
-estraviz;Bilbao, Spain;Bilbao;3;16;1;80;R
 eloygbm;Bilbao;Bilbao;12;16;0;13;Python and Shell
-spolex;Derio, Bizkaia, Euskal Herria;Bilbao;3;16;0;0;Java
 IonAlberdi;Donostia - San Sebastian;Donostia;0;16;0;0;Java
+spolex;Derio, Bizkaia, Euskal Herria;Bilbao;3;16;0;0;Java
+TxusLopez;Bilbao (Spain);Bilbao;0;16;0;0;Java and Python
 Ar4n3;Basque Country, Spain;Euskadi;1;15;2;0;Objective-C
-janogarcia;San Sebastián, Spain.;Donostia;10;15;1;98;CSS
+jacoobs;Bilbao, Pais Vasco;Bilbao;0;15;0;0;HTML
+anderpg;Bilbao;Bilbao;0;15;0;0;CSS
 fernandiez;Bilbao;Bilbao;2;14;1;13;PHP
 Ricewind1512;Basque Country;Euskadi;0;14;0;1;
-iarenaza;Basque Country;Euskadi;9;14;6;7;PHP
+janogarcia;San Sebastián, Spain.;Donostia;10;14;1;98;CSS
+iarenaza;Basque Country;Euskadi;9;13;6;7;PHP
+etxahun;Getxo - Bizkaia;Bilbao;0;12;0;4;PHP
+TxemaPuente;Bilbao;Bilbao;0;12;0;0;PHP
+txistumoto;Las Arenas (Getxo);Bilbao;0;12;0;0;Java
 noeliaoses;Basque Country;Euskadi;0;12;0;0;R
-zerjioang;Bilbao;Bilbao;1;11;2;0;Java
-zetagor;Bilbao;Bilbao;4;11;1;3;Shell
-Edurnita;Bilbao, Spain;Bilbao;1;11;0;0;R and HTML
 GustavoUriarte;Euskal Herria / Basque Country;Euskadi;0;11;0;2;CSS
+Edurnita;Bilbao, Spain;Bilbao;1;11;0;0;R and HTML
+zerjioang;Bilbao;Bilbao;1;11;2;0;Java
+jonathanSS;Donostia-San Sebastián, Gipuzkoa, Spain.;Donostia;1;11;0;1;Mathematica
+zetagor;Bilbao;Bilbao;4;11;1;4;Shell
+jarfil;Bilbao, Spain;Bilbao;0;11;1;50;Shell
+ascalotoru;Bilbao;Bilbao;1;10;2;4;CSS
 Joseba84;San Sebastián;Donostia;1;10;0;18;CSS
+mikelf;Bilbao;Bilbao;0;10;0;0;Python
 WeedBilbaoGaming;Bilbao, Euskal Herria;Bilbao;0;10;0;0;CMake
 jmarti-theinit;Bilbao;Bilbao;3;10;3;3;JavaScript
-mikelf;Bilbao;Bilbao;0;10;0;0;Python
-ascalotoru;Bilbao;Bilbao;1;10;2;4;CSS
 ander-ansuategi;Eibar, Gipuzkoa, Spain;Donostia;0;10;0;0;CMake and C++
-RubenAgudo;Bilbao;Bilbao;2;9;3;18;Java
-landerog;Erandio, Bizkaia;Bilbao;9;9;0;3;
+ielcoro;Bilbao;Bilbao;3;9;8;18;C#
+RubenAgudo;Bilbao;Bilbao;2;9;3;17;Java
 JHereu;Bilbao, Spain;Bilbao;0;9;0;0;
-oggers;Bilbao - Spain;Bilbao;1;8;1;2;Python
-izmendi;Bizkaia;Bilbao;0;8;2;1;CSS
-xpander001;Bilbao / Glasgow;Bilbao;13;8;0;41;JavaScript
-dbujan;Bilbao;Bilbao;2;8;0;0;
-astromedia;Basque Country, Spain;Euskadi;0;8;0;0;JavaScript
-donostiarra;Donostia-San Sebastián;Donostia;0;8;0;0;Makefile
-JonJG;Donostia;Donostia;2;8;0;5;CSS
+landerog;Erandio, Bizkaia;Bilbao;9;9;0;3;
+xpander001;Bilbao / Glasgow;Bilbao;13;8;0;45;JavaScript
+izmendi;Bizkaia;Bilbao;0;8;1;1;CSS
 Facon;Bilbao, Spain;Bilbao;0;8;0;26;Java and Pascal
+donostiarra;Donostia-San Sebastián;Donostia;0;8;0;0;Makefile
+LuisIba;Bilbao;Bilbao;0;8;0;0;Modelica
+dbujan;Bilbao;Bilbao;2;8;0;0;FORTRAN
+astromedia;Basque Country, Spain;Euskadi;0;8;0;0;JavaScript
+JonJG;Donostia;Donostia;2;8;0;5;CSS
+Endika84;Bilbao;Bilbao;0;7;0;0;CSS
 aritzolaba;Bilbao;Bilbao;1;7;36;0;CSS
 taniarv;Bilbao/Spain;Bilbao;2;7;6;15;Ruby
-olatz87;Donostia, Euskal Herria;Donostia;1;7;1;1;Perl
-mobandme;Bilbao;Bilbao;18;7;61;11;Java
 eleektro;Bilbao, Basque Country;Bilbao;0;7;0;2;Arduino
+oggers;Bilbao - Spain;Bilbao;1;7;1;2;Python
+kronosnhz;Bilbao;Bilbao;3;7;0;7;Java
+werfas;Basauri;Bilbao;0;7;0;0;CSS
 libargutxi;Eibar, Gipuzkoa;Donostia;1;7;0;0;Python
+olatz87;Donostia, Euskal Herria;Donostia;1;7;1;1;Perl
 Azpidatziak;Basque Country (Navarre);Euskadi;0;7;2;5;Shell
-jalonsors;Basque Country;Euskadi;0;7;0;2;JavaScript
-kronosnhz;Bilbao;Bilbao;3;7;0;1;Java
-ielcoro;Bilbao;Bilbao;3;7;8;18;C#
-Endika84;Bilbao;Bilbao;0;7;0;0;CSS
-shadowfax;Bilbao, Spain;Bilbao;1;6;32;16;PHP
+mobandme;Bilbao;Bilbao;18;7;61;11;Java
 elmer;Nueva Vizcaya, PH;Bilbao;18;6;56;598;Ruby
-MikelAguirreRodrigo;Bº Sarriena s/n, Leioa 48940, Bizkaia, Spain;Bilbao;0;6;0;0;Perl and Shell
 aarmijo;Bilbao;Bilbao;0;6;1;0;Java
-biojazzard;BIlbao;Bilbao;7;5;34;326;JavaScript
-eneko89;Bilbao, Vizcaya;Bilbao;10;5;9;178;Java
+sergiotosa;Bilbao;Bilbao;0;6;0;0;R
+MikelAguirreRodrigo;Bº Sarriena s/n, Leioa 48940, Bizkaia, Spain;Bilbao;0;6;0;0;Perl and Shell
+shadowfax;Bilbao, Spain;Bilbao;1;6;32;16;PHP
 BorjaSantosZorrozua;Leioa BISCAY (SPAIN);Bilbao;0;5;0;0;R
-visualex;Bilbao;Bilbao;2;5;5;4;JavaScript
-jonathanSS;Donostia-San Sebastián, Gipuzkoa, Spain.;Donostia;0;5;0;0;R and Mathematica
-alvcarmona;Bilbao - Spain;Bilbao;1;5;0;0;JavaScript and CSS
-Gusinato95;Bilbao;Bilbao;4;5;1;2;C++
-mikeliturbe;Basque Country;Euskadi;5;5;0;71;Shell and VimL
-manwe;Bilbao;Bilbao;17;5;0;17;Shell
-Aingeru72;Bilbao;Bilbao;0;5;0;0;Java
+jled7;Basque Country;Euskadi;0;5;0;3;C++
+mikeliturbe;Basque Country;Euskadi;5;5;0;73;Shell and VimL
+jalonsors;Basque Country;Euskadi;0;5;0;2;JavaScript
+eneko89;Bilbao, Vizcaya;Bilbao;12;5;12;185;JavaScript
 jagumiel;Bilbao;Bilbao;0;5;0;0;Java
-IkasMakers;Eibar (Gipuzkoa);Donostia;0;4;0;0;
-asier-laukoa;Bilbao;Bilbao;0;4;0;1;Java
+Aingeru72;Bilbao;Bilbao;0;5;0;0;Java
+biojazzard;BIlbao;Bilbao;7;5;34;326;JavaScript
+manwe;Bilbao;Bilbao;17;5;0;17;Shell
+Mugatik;Bilbao - Spain;Bilbao;0;5;0;0;R and Matlab
+Gusinato95;Bilbao;Bilbao;4;5;1;2;C++
+alvcarmona;Bilbao - Spain;Bilbao;1;5;0;0;JavaScript and CSS
 arkaitzj;Bilbao;Bilbao;6;4;24;5;JavaScript
+anarranz;Basque Country, Europe;Euskadi;0;4;0;0;
+visualex;Bilbao;Bilbao;2;4;5;4;JavaScript
 pacosal;Bilbao;Bilbao;3;4;12;0;Java
 hilgroth;Bilbao;Bilbao;2;4;0;41;CMake
-anarranz;Basque Country, Europe;Euskadi;0;4;0;0;
-SocialSound;Bizkaia;Bilbao;2;3;2;0;Arduino
-ander2;Donostia;Donostia;1;3;1;9;JavaScript
-borya09;Bilbao;Bilbao;8;3;5;14;CSS
+IkasMakers;Eibar (Gipuzkoa);Donostia;0;4;0;0;
+ipinto;Bilbao, Spain;Bilbao;2;4;0;2;CSS and HTML
+itxasoespina;Getxo, Vizcaya, Spain;Bilbao;0;4;0;0;CSS
+iker93;Bilbao;Bilbao;0;4;0;0;Java
+Hoddix;Bilbao;Bilbao;0;4;1;0;PHP
 cruzki;Bilbao, Basque Country, Spain;Bilbao;0;3;3;13;
-glapuente;Barakaldo;Bilbao;0;3;0;0;Java
-g0re;Madrid / Bilbao;Bilbao;0;3;0;17;
+guigomez;Bilbao;Bilbao;0;3;0;0;JavaScript
+g0re;Madrid / Bilbao;Bilbao;0;3;0;18;
+borya09;Bilbao;Bilbao;8;3;5;14;JavaScript
 bordemof;Bilbao (Spain);Bilbao;14;3;0;16;JavaScript
-atekoa;Bilbao;Bilbao;0;3;1;4;Arduino
-vinito3;bilbao/spain;Bilbao;0;3;0;1;Java
-fralmei;Bilbao;Bilbao;0;3;0;0;JavaScript
+SocialSound;Bizkaia;Bilbao;2;3;2;0;Arduino
+glapuente;Barakaldo;Bilbao;0;3;0;0;Java
 sperezhoyos;Bilbao (Spain);Bilbao;0;3;0;0;Python
 space-invader;Bilbao, Spain;Bilbao;0;3;0;0;
+vinito3;bilbao/spain;Bilbao;0;3;0;1;Java
+atekoa;Bilbao;Bilbao;1;3;1;4;Arduino
 iratxepinedo;Bilbao;Bilbao;0;3;0;0;C
-guigomez;Bilbao;Bilbao;0;3;0;0;JavaScript
-xabiamu;Donostia-San Sebastian;Donostia;1;3;0;22;Java
-borjalanseros;Donostia-San Sebastian;Donostia;0;3;0;0;
-hirikilabs;Donostia / San Sebastián;Donostia;0;3;0;0;
+dosdaperez;Barakaldo;Bilbao;0;3;0;0;Python
+fralmei;Bilbao;Bilbao;0;3;0;0;JavaScript
+xabiamu;Donostia-San Sebastian;Donostia;1;3;0;24;Java
 fernandopr;Donostia-San Sebastián;Donostia;0;3;0;0;CSS
+borjalanseros;Donostia-San Sebastian;Donostia;0;3;0;0;
+hirikilabs;Donostia / San Sebastián;Donostia;0;3;0;1;
 Legrandk;Donostia;Donostia;3;3;0;2;JavaScript
-agonirena;Elgoibar, Basque Country;Euskadi;0;3;0;0;PHP
+gorkavicente;San Sebastián;Donostia;0;3;0;10;
+ander2;Donostia;Donostia;1;3;1;9;JavaScript
 abeaumont;Gasteiz, Basque Country;Euskadi;12;3;15;111;Dylan
-jled7;Basque Country;Euskadi;0;3;0;2;C++ and Java
-dlores;Bilbao;Bilbao;3;2;0;6;
-jatniel;Donostia - Gipuzkoa;Donostia;5;2;0;174;
-pouillon;Donostia-San Sebastián, Spain;Donostia;0;2;0;10;C and Shell
-YEIZON;DONOSTIA SAN SEBASTIAN;Donostia;1;2;2;3;JavaScript
-aitor-garcia-p;Donostia - San Sebastián;Donostia;0;2;0;0;Java
-utolosa002;Lezo, Gipuzkoa;Donostia;4;2;0;7;Java
 bingenortuzar;Bilbao;Bilbao;0;2;0;1;JavaScript
-MrCorrales;Bilbao;Bilbao;0;2;0;0;
-gorkavicente;San Sebastián;Donostia;0;2;0;10;
+dlores;Bilbao;Bilbao;3;2;0;6;
 davidlallana;Bilbao;Bilbao;12;2;0;0;Ruby
-kirikoro;Bilbao;Bilbao;0;2;0;4;CSS
-jpaniagua;Bizkaia, Spain;Bilbao;0;2;0;0;
 thooby;Bilbao;Bilbao;2;2;14;13;Ruby
-dosdaperez;Barakaldo;Bilbao;0;2;0;0;Python
-aansuategui;Basque Country;Euskadi;0;2;0;0;
-xPret;Bilbao;Bilbao;11;1;3;0;Java
-pcuriel;Bilbao;Bilbao;15;1;5;8;R
-MalkavianBilbao;Bilbao (Spain);Bilbao;0;1;0;0;
-HAP1969;Bilbao;Bilbao;0;1;0;0;
-gblancog;Basauri, Vizcaya, Spain;Bilbao;1;1;0;0;Java
-jcarranzae;Bilbao;Bilbao;0;1;0;0;CSS
-easibeacon;Bilbao, Spain;Bilbao;1;1;13;0;Java
-romanrandom;Bilbao;Bilbao;4;1;0;93;JavaScript and Java
-PCADAV;Bilbao;Bilbao;0;1;0;0;
-igormarkaida;Bilbao;Bilbao;0;1;0;0;R
-MikelSalazar;Bilbao, Europe;Bilbao;0;1;0;4;
-Gudadantza;Portugalete, Basque Country, Spain;Bilbao;0;1;2;2;Racket
-aholab;Bilbao, Spain;Bilbao;0;1;0;0;HTML and JavaScript
-MENCEY31;Bilbao;Bilbao;0;1;0;0;
-cpolo;Bilbao;Bilbao;2;1;0;0;
-nandoquintana;Bilbao, Basque Country, Spain;Bilbao;9;1;0;11;Python
-javierBarandiaran;Donostia-San Seabstián (Spain);Donostia;0;1;0;4;
+aitor-garcia-p;Donostia - San Sebastián;Donostia;0;2;0;0;Java
+lunzueta;Donostia, Basque Country, Spain;Donostia;1;2;1;11;CMake
+pouillon;Donostia-San Sebastián, Spain;Donostia;0;2;0;10;C and Shell
+kirikoro;Bilbao;Bilbao;0;2;0;4;CSS
+jatniel;Donostia - Gipuzkoa;Donostia;5;2;0;174;
+agonirena;Elgoibar, Basque Country;Euskadi;0;2;0;0;PHP
+MrCorrales;Bilbao;Bilbao;0;2;0;0;
+asier-laukoa;Bilbao;Bilbao;0;2;0;1;Java
+fjaviernieto;Bilbao;Bilbao;0;2;0;1;Java
+ldavidsb;Bilbao, Spain;Bilbao;0;2;0;0;R
+jpaniagua;Bizkaia, Spain;Bilbao;0;2;0;0;
+utolosa002;Lezo, Gipuzkoa;Donostia;4;2;0;7;Java
 lopezator;Donostia;Donostia;3;1;2;1;JavaScript
-lunzueta;Donostia, Basque Country, Spain;Donostia;1;1;0;9;
-miguelprada;San Sebastián;Donostia;0;1;0;6;
-dopegaar;Donostia-San Sebastian, Gipuzkoa, Spain;Donostia;0;1;0;0;
+JeremiasPerez;Donostia - San Sebastián;Donostia;0;1;0;0;JavaScript
+MENCEY31;Bilbao;Bilbao;0;1;0;0;
+MalkavianBilbao;Bilbao (Spain);Bilbao;0;1;0;0;
+MikelSalazar;Bilbao, Europe;Bilbao;0;1;0;4;
+cpolo;Bilbao;Bilbao;2;1;0;0;
+inakioplus;Bilbao;Bilbao;0;1;0;0;
+sharem;Bilbao;Bilbao;19;1;4;21;JavaScript
+nagorefrias;Bilbao;Bilbao;1;1;0;0;
+jcarranzae;Bilbao;Bilbao;0;1;0;0;CSS
+julicrack;Getxo;Bilbao;0;1;1;2;CSS
+PCADAV;Bilbao;Bilbao;0;1;0;0;
+gblancog;Basauri, Vizcaya, Spain;Bilbao;1;1;0;0;Java
+HAP1969;Bilbao;Bilbao;0;1;0;0;
+pcuriel;Bilbao;Bilbao;15;1;5;8;R
+aholab;Bilbao, Spain;Bilbao;0;1;0;0;HTML and JavaScript
+xPret;Bilbao;Bilbao;11;1;4;0;Java
+nandoquintana;Bilbao, Basque Country, Spain;Bilbao;9;1;0;11;Python
 yandroskaos;Bilbao;Bilbao;0;1;0;0;C++
+igormarkaida;Bilbao;Bilbao;0;1;0;0;R
+easibeacon;Bilbao, Spain;Bilbao;1;1;14;0;Java
+YEIZON;DONOSTIA SAN SEBASTIAN;Donostia;0;1;2;3;JavaScript
+javierBarandiaran;Donostia-San Seabstián (Spain);Donostia;0;1;0;4;
+dopegaar;Donostia-San Sebastian, Gipuzkoa, Spain;Donostia;0;1;0;0;
 acuartango;Basque Country;Euskadi;0;1;0;1;Shell
-aldakur;Basque Country;Euskadi;1;1;1;1;Java and JavaScript
+aldakur;Basque Country;Euskadi;2;1;1;1;Java and JavaScript
