@@ -2,8 +2,8 @@
 title: 'Github users in Spain: a report on geographical distribution of open source
   production'
 author: "JJ Merelo"
-date: "29/8/2015"
-output: html_document
+date: "21/9/2015"
+output: pdf_document
 bibliography: gh-rankings.bib
 ---
 
@@ -69,18 +69,17 @@ ggplot( data=province.table.df, aes(x="",y=users,fill=factor(province)))+ geom_b
 
 The users without a declared province form the biggest slice of the pie, with around one quarter of the total number of users. They are followed by Madrid, Barcelona, Valencia, Seville, Granada and Málaga. These provinces, by themselves, host more than half the total community of GitHub users in Spain. 
 
-Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Barcelona, Madrid and Granada emerging as the province with the highest number of GitHub active developers per capita; they are head-to-head and the situation might change from one report to the next; that is, a clear winner is not declared.
-
->In this the fact that GitHub search returns different numbers in two consecutive requests might play a role. There is always some degree of uncertainty.
-
-After them the situation is more stable, with Madrid in the third position, followed by Seville and Saragossa (Zaragoza), Gipuzkoa (represented by its main city, Bilbao), Valencia and Valladolid. The province of Córdoba is a distant next, with Coruña coming up as the last of the top 10.
-
+Except for Valencia, Barcelona and Madrid, the rest of the provinces are not the most populated in Spain. That is why, if we take into account the population, dividing the number of GitHub users by the provincial population (as published by the National Statistics Institute), the situation is somewhat different, with Barcelona, Madrid and Granada emerging as the provinces with the highest number of GitHub active developers per capita; they are head-to-head and the situation might change from one report to the next; that is, a clear winner cannot be declared outright.
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,usersrel),y=usersrel))+geom_bar(stat='identity')+coord_flip()
 ```
 
-The situation is similar if we take into account the aggregated contributions by all users that have declared their province. Once again, Granada emerges as the winner, with Navarra, largely due to a single user, as the second. Next, the positions of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. The first 6 positions seem consolidated (and closed by Zaragoza), but Bilbao and Sevilla are very close in the 7th and 8th, and Valencia and Gipuzkoa (represented by its capital city, Donostya), vying for the next positions up to the tenth.
+>About this result, the fact that GitHub API searches return different numbers in two consecutive requests might play a role. There is always some degree of uncertainty.
+
+After these provinces the situation is more stable, with Seville in the 4th position, followed by Saragossa (Zaragoza), Valladolid, Bizkaia (represented by its main city, Bilbao), Valencia and Córdoba. The province of A Coruña is a distant nextand closes the top 10.
+
+The situation is similar if we take into account the aggregated contributions by all users that have declared their province. Once again, Granada emerges as the winner, with Navarra, largely due to a single user, as the second. Next, the positions of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. The first 6 positions seem consolidated, at least in the last few months, and closed by Zaragoza, but Bilbao and Sevilla are very close in the 7th and 8th, and Álava and Asturias, vying for the next positions up to the tenth. The next positions are very close and the situation is not stable for the time being, with Jaén, Donostia and Valencia virtually with the same number of contributions per person. 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,contribrel),y=contribrel))+geom_bar(stat='identity')+coord_flip()
@@ -105,7 +104,7 @@ ggplot(data.province, aes(x=reorder(province,userstarsrel),y=userstarsrel))+geom
 
 The graphs above imply that there are different classes in the provinces in Spain. We have performed clustering using mclust (@mclust,@mclustmanual) using as representation for each province the relative values plotted above and obtained this division into four clusters.
 
-```{r cluster, echo=FALSE,fig.width=10,fig.height=8}
+```{r cluster, echo=FALSE,warning=FALSE,fig.width=10,fig.height=8}
 data.province.rel <- data.frame(users=data.province$usersrel, contrib=data.province$contribrel, stars=data.province$starsrel, userstars=data.province$userstarsrel )
 
 data.province.clust <- Mclust(data.province.rel)
@@ -123,7 +122,7 @@ Apparently, one cluster includes the provinces with the highest productivity and
 
 #Conclusions
 
-This paper, which is updated every two or three weeks, measures and ranks Spanish provinces by the number of users and other quantities related to productivity (contributions) and popularity (stars, followers). It is a first approximation to community metrics in Spain and it is mainly intended as a reference for future use. It is also an indication of a particular point in time. Future versions will probably change this scenario and it is an interesting line of work to delve on the reason for these changes.
+This paper, which is updated every two or three weeks, measures and ranks Spanish provinces by the number of users and other quantities related to productivity (contributions) and project and developer popularity (stars, followers). It is a first approximation to community metrics in Spain and it is mainly intended as a reference for future use. It is also an indication of a particular point in time. Future versions will probably change this scenario and it is an interesting line of work to delve on the reason for these changes.
 
 #Acknowledgements
 I am grateful to Francisco Charte for his help creating the pie chart for this paper.
