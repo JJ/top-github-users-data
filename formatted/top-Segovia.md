@@ -3,9 +3,9 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 20 Sep 2014 09:33:19 GMT** hasta **Sun, 20 Sep 2015 09:33:19 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 27 Sep 2014 09:33:44 GMT** hasta **Sun, 27 Sep 2015 09:33:44 GMT**.
 
-  Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
+  Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
   Los [datos](https://github.com/JJ/top-github-users-data/tree/master/data) tienen una licencia libre y los puedes usar como desees, pero te agradeceríamos que si se usan en alguna publicación, referenciaras [*GitHub rankings and its impact on the local free software development community*](https://thewinnower.com/papers/github-rankings-and-its-impact-on-the-local-free-software-development-community). Puedes [observar](https://github.com/JJ/top-github-users-data/subscription) el repositorio si quieres ser notificado de la actualización de los ránkings.
 
@@ -16,7 +16,7 @@
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [alvardsoler](https://github.com/alvardsoler) | 80 | 0 | Java | Madrid / Segovia | <img src='https://avatars2.githubusercontent.com/u/4102837?v=3&s=64' width="64" title=''> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [carlosdelucas92](https://github.com/carlosdelucas92) | 62 | 0 | JavaScript | Segovia City | <img src='https://avatars2.githubusercontent.com/u/10717935?v=3&s=64' width="64" title='Carlos de Lucas Sanz'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [PhoneixS](https://github.com/PhoneixS) | 57 | 0 | Java | Segovia | <img src='https://avatars3.githubusercontent.com/u/1279539?v=3&s=64' width="64" title='Javier Alfonso'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [PhoneixS](https://github.com/PhoneixS) | 55 | 0 | Java | Segovia | <img src='https://avatars3.githubusercontent.com/u/1279539?v=3&s=64' width="64" title='Javier Alfonso'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [robertobermejo](https://github.com/robertobermejo) | 40 | 3 | PHP | Segovia | <img src='https://avatars2.githubusercontent.com/u/221931?v=3&s=64' width="64" title='Roberto Bermejo Martinez'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 5 | [guiyens](https://github.com/guiyens) | 36 | 3 | JavaScript | Segovia | <img src='https://avatars2.githubusercontent.com/u/1494204?v=3&s=64' width="64" title='Guillermo Ramos Vega'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 6 | [iMartinezMateu](https://github.com/iMartinezMateu) | 6 | 4 | Shell | Segovia, Spain | <img src='https://avatars1.githubusercontent.com/u/9308066?v=3&s=64' width="64" title='Iván Martínez Mateu'> |

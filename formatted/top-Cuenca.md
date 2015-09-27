@@ -3,9 +3,9 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 20 Sep 2014 09:28:57 GMT** hasta **Sun, 20 Sep 2015 09:28:57 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 27 Sep 2014 09:29:23 GMT** hasta **Sun, 27 Sep 2015 09:29:23 GMT**.
 
-  Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex). Actualizado todas las semanas.
+  Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
   Los [datos](https://github.com/JJ/top-github-users-data/tree/master/data) tienen una licencia libre y los puedes usar como desees, pero te agradeceríamos que si se usan en alguna publicación, referenciaras [*GitHub rankings and its impact on the local free software development community*](https://thewinnower.com/papers/github-rankings-and-its-impact-on-the-local-free-software-development-community). Puedes [observar](https://github.com/JJ/top-github-users-data/subscription) el repositorio si quieres ser notificado de la actualización de los ránkings.
 
@@ -14,7 +14,7 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [rauldiazpoblete](https://github.com/rauldiazpoblete) | 460 | 1 |  | Cuenca, España | <img src='https://avatars1.githubusercontent.com/u/1359792?v=3&s=64' width="64" title='Raúl Díaz Poblete'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [rauldiazpoblete](https://github.com/rauldiazpoblete) | 466 | 1 |  | Cuenca, España | <img src='https://avatars1.githubusercontent.com/u/1359792?v=3&s=64' width="64" title='Raúl Díaz Poblete'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [DesarrollandoAndroid](https://github.com/DesarrollandoAndroid) | 60 | 0 | Java | Cuenca, España | <img src='https://avatars1.githubusercontent.com/u/7956170?v=3&s=64' width="64" title='Desarrollando Android'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 3 | [ftacurip](https://github.com/ftacurip) | 17 | 0 | C# | Cuenca | <img src='https://avatars2.githubusercontent.com/u/13069456?v=3&s=64' width="64" title='Fredy Tacuri'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 4 | [Tebo555](https://github.com/Tebo555) | 13 | 0 |  | Cuenca | <img src='https://avatars1.githubusercontent.com/u/3661837?v=3&s=64' width="64" title='Esteban Vintimilla'> |
