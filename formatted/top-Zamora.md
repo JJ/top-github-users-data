@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 27 Sep 2014 09:30:29 GMT** hasta **Sun, 27 Sep 2015 09:30:29 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 04 Oct 2014 09:31:09 GMT** hasta **Sun, 04 Oct 2015 09:31:09 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -14,8 +14,8 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [crueda](https://github.com/crueda) | 340 | 0 | Python | Valladolid - Zamora (Spain) | <img src='https://avatars0.githubusercontent.com/u/1956285?v=3&s=64' width="64" title='Carlos Rueda Morales'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [leopaglia](https://github.com/leopaglia) | 69 | 2 | C | Lomas de Zamora, Buenos Aires | <img src='https://avatars3.githubusercontent.com/u/4120036?v=3&s=64' width="64" title='Leonardo Paglialunga'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [crueda](https://github.com/crueda) | 349 | 0 | Python | Valladolid - Zamora (Spain) | <img src='https://avatars0.githubusercontent.com/u/1956285?v=3&s=64' width="64" title='Carlos Rueda Morales'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [leopaglia](https://github.com/leopaglia) | 70 | 2 | C | Lomas de Zamora, Buenos Aires | <img src='https://avatars3.githubusercontent.com/u/4120036?v=3&s=64' width="64" title='Leonardo Paglialunga'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [arcxyz](https://github.com/arcxyz) | 38 | 3 | JavaScript | Madrid and Zamora (Spain) | <img src='https://avatars0.githubusercontent.com/u/185002?v=3&s=64' width="64" title='Alejandro Rodríguez'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [amaliahern](https://github.com/amaliahern) | 28 | 15 | Ruby | Valladolid - Zamora (Spain) | <img src='https://avatars3.githubusercontent.com/u/304761?v=3&s=64' width="64" title='Amalia Hernandez'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 5 | [Roberth1203](https://github.com/Roberth1203) | 13 | 0 | C# | Zamora de Hidalgo, Mich | <img src='https://avatars0.githubusercontent.com/u/10360581?v=3&s=64' width="64" title='Roberto Arroyo'> |
