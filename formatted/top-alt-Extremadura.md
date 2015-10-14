@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Tue, 07 Oct 2014 05:39:22 GMT** hasta **Wed, 07 Oct 2015 05:39:22 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Tue, 14 Oct 2014 05:39:28 GMT** hasta **Wed, 14 Oct 2015 05:39:28 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -14,7 +14,7 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [ljmanso](https://github.com/ljmanso) | 862 | 2 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width="64" title='Luis J. Manso'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [ljmanso](https://github.com/ljmanso) | 839 | 2 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width="64" title='Luis J. Manso'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [spaceisstrange](https://github.com/spaceisstrange) | 115 | 3 | Python | Cáceres, Spain | <img src='https://avatars2.githubusercontent.com/u/6024783?v=3&s=64' width="64" title='Fran González'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [jormaral](https://github.com/jormaral) | 80 | 17 | JavaScript | (Badajoz), Spain | <img src='https://avatars2.githubusercontent.com/u/827073?v=3&s=64' width="64" title='Jorge Martín'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [MrSuid](https://github.com/MrSuid) | 68 | 1 | Java | Cáceres, Spain | <img src='https://avatars0.githubusercontent.com/u/3399621?v=3&s=64' width="64" title='Óscar Caballero'> |
@@ -24,7 +24,7 @@
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 8 | [alvar0hurtad0](https://github.com/alvar0hurtad0) | 50 | 5 | PHP | Cáceres, Spain | <img src='https://avatars0.githubusercontent.com/u/1130114?v=3&s=64' width="64" title='Alvaro J. Hurtado Villegas'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 9 | [jgalvezalegre](https://github.com/jgalvezalegre) | 47 | 0 | JavaScript and CSS | Badajoz, Spain | <img src='https://avatars1.githubusercontent.com/u/2463880?v=3&s=64' width="64" title='Jesús Gálvez'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 10 | [manolodd](https://github.com/manolodd) | 46 | 6 | JavaScript | (Badajoz) Spain | <img src='https://avatars2.githubusercontent.com/u/5189679?v=3&s=64' width="64" title='Manuel Domínguez-Dorado'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 11 | [team-ecos](https://github.com/team-ecos) | 45 | 0 | CSS | Extremadura | <img src='https://avatars3.githubusercontent.com/u/9051594?v=3&s=64' width="64" title='Ecos'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 11 | [team-ecos](https://github.com/team-ecos) | 44 | 0 | CSS | Extremadura | <img src='https://avatars3.githubusercontent.com/u/9051594?v=3&s=64' width="64" title='Ecos'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 12 | [DuffmanCC](https://github.com/DuffmanCC) | 35 | 0 | CSS | Cáceres | <img src='https://avatars2.githubusercontent.com/u/10270656?v=3&s=64' width="64" title='Carlos Ortiz'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 13 | [pgilfernandez](https://github.com/pgilfernandez) | 33 | 1 | Batchfile | Badajoz, Spain | <img src='https://avatars0.githubusercontent.com/u/5942369?v=3&s=64' width="64" title='Pablo Gil'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 14 | [jredrejo](https://github.com/jredrejo) | 32 | 8 | Python | Mérida - Spain | <img src='https://avatars1.githubusercontent.com/u/1008178?v=3&s=64' width="64" title='José L. Redrejo Rodríguez'> |
