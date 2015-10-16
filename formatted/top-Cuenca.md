@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 04 Oct 2014 09:30:03 GMT** hasta **Sun, 04 Oct 2015 09:30:03 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Thu, 16 Oct 2014 06:25:25 GMT** hasta **Fri, 16 Oct 2015 06:25:25 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -14,7 +14,7 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [rauldiazpoblete](https://github.com/rauldiazpoblete) | 467 | 1 |  | Cuenca, España | <img src='https://avatars1.githubusercontent.com/u/1359792?v=3&s=64' width="64" title='Raúl Díaz Poblete'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [rauldiazpoblete](https://github.com/rauldiazpoblete) | 495 | 1 |  | Cuenca, España | <img src='https://avatars1.githubusercontent.com/u/1359792?v=3&s=64' width="64" title='Raúl Díaz Poblete'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [DesarrollandoAndroid](https://github.com/DesarrollandoAndroid) | 60 | 0 | Java | Cuenca, España | <img src='https://avatars1.githubusercontent.com/u/7956170?v=3&s=64' width="64" title='Desarrollando Android'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 3 | [ftacurip](https://github.com/ftacurip) | 17 | 0 | C# | Cuenca | <img src='https://avatars2.githubusercontent.com/u/13069456?v=3&s=64' width="64" title='Fredy Tacuri'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 4 | [Tebo555](https://github.com/Tebo555) | 13 | 0 |  | Cuenca | <img src='https://avatars1.githubusercontent.com/u/3661837?v=3&s=64' width="64" title='Esteban Vintimilla'> |

@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 04 Oct 2014 09:36:33 GMT** hasta **Sun, 04 Oct 2015 09:36:33 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Thu, 16 Oct 2014 06:31:53 GMT** hasta **Fri, 16 Oct 2015 06:31:53 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -14,6 +14,6 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [pablomario](https://github.com/pablomario) | 229 | 0 | PHP | Soria, Spain | <img src='https://avatars1.githubusercontent.com/u/4464094?v=3&s=64' width="64" title='Pablo Mario'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [pablomario](https://github.com/pablomario) | 197 | 0 | PHP | Soria, Spain | <img src='https://avatars1.githubusercontent.com/u/4464094?v=3&s=64' width="64" title='Pablo Mario'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [statickidz](https://github.com/statickidz) | 13 | 3 | JavaScript | Soria | <img src='https://avatars1.githubusercontent.com/u/7888227?v=3&s=64' width="64" title='Adrián Barrio Andrés'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 3 | [IcuScc](https://github.com/IcuScc) | 12 | 0 | Swift and Java | Soria | <img src='https://avatars3.githubusercontent.com/u/5454095?v=3&s=64' width="64" title='Sergio'> |
