@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Thu, 16 Oct 2014 06:15:13 GMT** hasta **Fri, 16 Oct 2015 06:15:13 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 18 Oct 2014 09:22:03 GMT** hasta **Sun, 18 Oct 2015 09:22:03 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script](https://github.com/JJ/top-github-users)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -15,7 +15,7 @@
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [Worllhmar](https://github.com/Worllhmar) | 228 | 0 | HTML | Albacete, Spain | <img src='https://avatars3.githubusercontent.com/u/5214869?v=3&s=64' width="64" title='Manuel'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [sjimenez77](https://github.com/sjimenez77) | 154 | 3 | JavaScript | Albacete, Spain | <img src='https://avatars3.githubusercontent.com/u/2870004?v=3&s=64' width="64" title='Santos Jiménez Linares'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [sjimenez77](https://github.com/sjimenez77) | 143 | 3 | JavaScript | Albacete, Spain | <img src='https://avatars3.githubusercontent.com/u/2870004?v=3&s=64' width="64" title='Santos Jiménez Linares'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [jantoniomartin](https://github.com/jantoniomartin) | 139 | 15 | Python | Albacete, Spain | <img src='https://avatars1.githubusercontent.com/u/439759?v=3&s=64' width="64" title='Jose Antonio Martin Prieto'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [jcozar87](https://github.com/jcozar87) | 91 | 0 |  | Albacete, Spain | <img src='https://avatars1.githubusercontent.com/u/9693217?v=3&s=64' width="64" title='Javier Cózar del Olmo'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 5 | [jgallud](https://github.com/jgallud) | 69 | 2 | JavaScript | Albacete | <img src='https://avatars0.githubusercontent.com/u/5364288?v=3&s=64' width="64" title='Jose A. Gallud'> |
@@ -28,7 +28,7 @@
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 12 | [ecdani](https://github.com/ecdani) | 15 | 0 | HTML | Albacete | <img src='https://avatars2.githubusercontent.com/u/4211293?v=3&s=64' width="64" title='Dani'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 13 | [dawidhml](https://github.com/dawidhml) | 10 | 0 | JavaScript | Albacete | <img src='https://avatars2.githubusercontent.com/u/2924981?v=3&s=64' width="64" title='David Muñoz'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 14 | [javato](https://github.com/javato) | 9 | 1 | Java and C | Albacete | <img src='https://avatars2.githubusercontent.com/u/8853295?v=3&s=64' width="64" title='Javier Roldán'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 15 | [fjdolz](https://github.com/fjdolz) | 5 | 0 | HTML and JavaScript | Albacete | <img src='https://avatars3.githubusercontent.com/u/14316925?v=3&s=64' width="64" title='javier dolz'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 15 | [fjdolz](https://github.com/fjdolz) | 5 | 0 | HTML | Albacete | <img src='https://avatars3.githubusercontent.com/u/14316925?v=3&s=64' width="64" title='javier dolz'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 16 | [Manugardi](https://github.com/Manugardi) | 5 | 1 | Shell | Albacete, Spain | <img src='https://avatars1.githubusercontent.com/u/10785921?v=3&s=64' width="64" title='Manu'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 17 | [CsanchezC](https://github.com/CsanchezC) | 2 | 0 |  | Albacete | <img src='https://avatars0.githubusercontent.com/u/8025600?v=3&s=64' width="64" title='Carlos Sánchez Cifuentes'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 18 | [augurarte](https://github.com/augurarte) | 2 | 0 |  | Albacete (Spain) | <img src='https://avatars1.githubusercontent.com/u/1676126?v=3&s=64' width="64" title='Miguel Lopez'> |
