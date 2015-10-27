@@ -15,7 +15,9 @@ library(mclust)
 library(MASS)
 
 # Remember to run first 
-#./agg-csv.pl > data/processed/data-per-province.csv               
+#./agg-csv.pl > data/processed/data-per-province.csv  
+# and
+# ./get-languages.pl > ../data/processed/place-language.csv
 
 data.province <- read.csv('../../data/processed/data-per-province.csv',sep=';')
 data.province$usersrel <- data.province$users / data.province$population
@@ -38,6 +40,11 @@ language.table <- table(github.user.data$language)
 language.table.acc <- head(language.table,n=20)
 language.table.acc['Others'] = sum(as.vector(tail(language.table,n=-20)))
 language.table.df <- data.frame( language=names(language.table.acc),users= as.vector(language.table.acc))
+# languages split
+language.province <- read.csv("../../data/processed/place-language.csv")
+language.top20 <- as.data.frame(summary(language.province$language, max=25))
+language.top20.df <- data.frame(language=row.names(language.top20),
+                                devs=language.top20$"summary(language.province$language, max = 25)")
 ```
 
 ##Abstract
@@ -119,6 +126,13 @@ ggplot(data.province, aes(x=scaledx, y=scaledy, colour=factor(CLUST),shape=facto
 ```
 
 Apparently, one cluster includes the provinces with the highest productivity and then two provinces which excel in the number of stars given to projects participated by developers there: Madrid, Barcelona, Granada and sometimes another province or set of provinces that might include Navarra, Valladolid and Álava. The situation in the other clusters is more fluid, with 2 or sometimes three clusters; the second one includes provinces with a certain defining feature (such as total number of stars in projects), like Álava, and finally other one or two clusters with the rest of the province.
+
+#Language popularity
+
+GitHub assigns, a bit weirdly sometimes, a language to every user. It is not clear how weighing is done, but it is almost always a good representative of the language that user is most fluent it. Here is the global distribution
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot( data=language.top20.df, aes(x="",y=devs,fill=factor(language)))+ geom_bar(width=1,stat='identity') + coord_polar(theta='y')
+```
 
 #Conclusions
 
