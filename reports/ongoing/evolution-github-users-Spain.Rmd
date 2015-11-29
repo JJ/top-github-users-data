@@ -1,7 +1,7 @@
 ---
 title: 'Github users in Spain: Evolution of number of users'
 author: "JJ Merelo"
-date: "17/8/2015"
+date: "29/10/2015"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -18,7 +18,7 @@ agg.top.Spain.evol$idu <- as.numeric(row.names(agg.top.Spain.evol))
 
 ##Abstract
 
->The number of users in a particular software development platform constrained to a topographical place like Spain changes in time, due to several factors: changes in usage patterns and change in the number of users; and this last can be due too to several different reasons: popularity of the platform  or popularity of the ranking itself, that makes people add their place of origin to their profile so that they can show up in the ránking.
+>The number of users in a particular software development platform constrained to a topographical place like Spain changes in time, due to several factors: changes in usage patterns and change in the number of users. This last can be due too to several different reasons: popularity of the platform  or popularity of the ranking itself, that makes people add their place of origin to their profile so that they can show up in the ránking.
 >In this report we will show how, since we started measuring the number of users in Spain and published the rankings, the number of followers, contributions and users has changed. We will also try to find out the reasons why that has happened.
 
 #Introduction
