@@ -1,1522 +1,1538 @@
 login; location; place; followers; contributions; stars; user_stars; language
-JJ;Granada, Spain, Europe;Granada;259;4995;388;142;Perl
-javacasm;Granada, Jaén (Spain);Granada;10;2263;7;52;Java
-pleonex;Granada, Andalucía, Spain;Andalucía;28;2023;45;122;C#
-bameda;Madrid, Jaén, Spain, España;Jaén;82;1580;77;164;Python
-vistiyos;Granada;Granada;2;1437;0;2;PHP
-eparejatobes;Granada, Spain;Granada;29;1357;2;459;JavaScript
-javilonas;Sevilla, Andalucía,  (España);Andalucía;19;1350;36;0;Shell
-iblancasa;Granada, Andalucía, Spain;Andalucía;35;1281;41;87;JavaScript
-leliel12;Cordoba;Córdoba;7;1278;2;8;Python
-demiurgosoft;Granada,Spain;Granada;34;1218;20;6;JavaScript
-josedom24;Utrera, Sevilla, Andalucía, Spain;Andalucía;22;1209;3;1;Python
-danigb;seville, spain;Sevilla;21;1145;119;274;JavaScript
-PabloCastellano;Málaga, Spain;Málaga;39;1082;55;209;Python
-jsierles;Sevilla, Spain;Sevilla;140;1046;394;136;Ruby
-Foxandxss;Cádiz, Spain;Cádiz;147;1038;1130;103;JavaScript
-laughedelic;Spain, Granada;Granada;42;1011;114;638;Scala
-aesedepece;Málaga, Spain;Málaga;37;990;8;53;JavaScript
-andresgnlez;Madrid / Málaga;Málaga;1;990;0;2;JavaScript
-julian-garrido;Granada (Spain);Granada;2;967;1;2;Java
-josejuansanchez;Almería;Almería;25;950;66;89;JavaScript
-jlblancoc;Almeria (Spain);Almería;48;887;158;116;CMake
-fdavidcl;Granada, Spain;Granada;44;880;33;170;Makefile
-aplanas;Málaga, Spain;Málaga;4;849;3;37;Shell
-M42;Granada, Spain;Granada;60;844;36;83;TeX
-yosymfony;Granada, Spain;Granada;25;792;67;183;PHP
-fcharte;Jaén, Granada, Spain;Granada;14;765;20;11;R
-pablopareja;Granada, Spain;Granada;30;745;47;66;Java
-lmdiazangulo;Granada, Spain;Granada;6;736;0;7;
-antonio;Huelva, Spain;Huelva;118;735;22;124;Ruby
-unintendedbear;Granada, Spain;Granada;22;728;2;9;Perl
-ivanortegaalba;Granada, Jaén, Spain;Granada;23;723;4;17;CSS
-germaaan;Granada / Almería (Andalucía), Spain;Almería;40;712;7;60;JavaScript
+JJ;Granada, Spain, Europe;Granada;262;5123;389;145;Perl
+javacasm;Granada, Jaén (Spain);Granada;13;2390;9;52;Java
+pleonex;Granada, Andalucía, Spain;Andalucía;28;2066;45;123;C#
+javilonas;Sevilla, Andalucía,  (España);Andalucía;19;1957;36;0;Shell
+bameda;Madrid, Jaén, Spain, España;Jaén;82;1575;81;167;Python
+vistiyos;Granada;Granada;2;1417;0;2;PHP
+eparejatobes;Granada, Spain;Granada;29;1405;2;459;JavaScript
+iblancasa;Granada, Andalucía, Spain;Andalucía;36;1305;55;90;JavaScript
+demiurgosoft;Granada,Spain;Granada;34;1245;20;9;JavaScript
+josedom24;Utrera, Sevilla, Andalucía, Spain;Andalucía;22;1222;3;1;Python
+danigb;seville, spain;Sevilla;22;1205;125;278;JavaScript
+leliel12;Cordoba;Córdoba;7;1192;2;8;Python
+PabloCastellano;Málaga, Spain;Málaga;40;1099;55;209;Python
+fcharte;Jaén, Granada, Spain;Granada;14;1068;20;12;R
+Foxandxss;Cádiz, Spain;Cádiz;149;1061;1149;104;JavaScript
+jsierles;Sevilla, Spain;Sevilla;140;1055;398;136;Ruby
+andresgnlez;Madrid / Málaga;Málaga;1;1019;0;2;JavaScript
+laughedelic;Spain, Granada;Granada;42;1017;115;638;Scala
+julian-garrido;Granada (Spain);Granada;2;972;1;2;Python
+josejuansanchez;Almería;Almería;26;957;66;89;JavaScript
+jlblancoc;Almeria (Spain);Almería;48;890;162;118;CMake
+fdavidcl;Granada, Spain;Granada;44;870;33;172;Makefile
+aplanas;Málaga, Spain;Málaga;4;858;3;38;Shell
+M42;Granada, Spain;Granada;61;800;36;84;TeX
+yosymfony;Granada, Spain;Granada;25;779;67;185;PHP
+lmdiazangulo;Granada, Spain;Granada;6;741;0;8;
+germaaan;Granada / Almería (Andalucía), Spain;Almería;41;741;7;69;JavaScript
+antonio;Huelva, Spain;Huelva;118;739;22;124;Ruby
+unintendedbear;Granada, Spain;Granada;23;724;2;9;Perl
+pablopareja;Granada, Spain;Granada;30;715;47;66;Java
+ivanortegaalba;Granada, Jaén, Spain;Granada;23;706;4;17;CSS
+javiersantos;Seville, Spain;Sevilla;35;677;256;26;Java
 skarbat;Malaga, Spain;Málaga;2;670;2;4;Python
-JAFS6;Granada, Spain;Granada;3;650;0;0;C#
+Moliholy;Jaén, Spain;Jaén;6;665;4;16;Java
+acanas;Granada, Spain;Granada;40;660;15;16;Makefile
 andreshp;Granada, Spain;Granada;40;641;17;38;Python
-kalta;Málaga, Spain;Málaga;37;640;228;59;Erlang
-lrlopez;Linares, Jaén, Andalucía, Spain;Andalucía;17;632;6;185;PHP
-javiersantos;Seville, Spain;Sevilla;30;623;195;24;Java
-acanas;Granada, Spain;Granada;40;618;15;15;Makefile
-Moliholy;Jaén, Spain;Jaén;6;611;4;16;Java
+kalta;Málaga, Spain;Málaga;40;639;231;61;Erlang
+JAFS6;Granada, Spain;Granada;3;635;0;0;C#
+lrlopez;Linares, Jaén, Andalucía, Spain;Andalucía;17;635;6;185;PHP
+algui91;Granada, España;Granada;91;618;15;61;Shell
 jdesiloniz;Cádiz, Spain;Cádiz;14;588;0;2;Swift
-algui91;Granada, España;Granada;90;569;15;60;Shell
-JoseTomasTocino;Cádiz, Spain;Cádiz;26;566;33;35;JavaScript
-Neniah;Huelva, Spain;Huelva;24;553;37;13;CSS
-javipacheco;Cádiz, Spain;Cádiz;146;522;93;158;Java
-julioxus;Granada, Spain;Granada;10;520;8;2;Shell
-bott17;Granada, España;Granada;8;519;1;5;Java
-ernestoalejo;Granada, Spain;Granada;12;514;79;163;JavaScript
-juanAFernandez;Granada;Granada;21;500;1;30;Shell
-vrivas;Jaen, Jaén, Granada, Spain;Granada;19;494;3;6;JavaScript
-FranciscoNaveros;Granada, Spain;Granada;3;483;0;0;JavaScript
-ManuelLR;Sevilla;Sevilla;10;481;0;4;HTML
-pacastillo;Granada (Andalucía, Spain);Andalucía;15;476;4;0;Java
-potray;Granada, Spain;Granada;4;476;0;0;JavaScript
-bladecoder;Córdoba, Spain;Córdoba;5;475;46;0;Shell
-angeljcc;Granada (Spain);Granada;10;474;0;8;JavaScript
-renatolrr;Granada;Granada;22;468;9;34;CSS
-Makova;Granada, Spain;Granada;31;458;7;123;Shell
-fblupi;Granada (Spain);Granada;7;455;1;0;JavaScript
-pbaeyens;Granada, Spain;Granada;23;453;3;33;Haskell
+Neniah;Huelva, Spain;Huelva;26;586;37;13;CSS
+JoseTomasTocino;Cádiz, Spain;Cádiz;26;560;33;35;JavaScript
+JArandaIzquierdo;Granada (Spain);Granada;10;545;1;11;HTML
+alvaro-gr;Granada;Granada;0;522;0;0;CSS
+javipacheco;Cádiz, Spain;Cádiz;146;521;93;158;Java
+julioxus;Granada, Spain;Granada;11;520;8;2;Shell
+vrivas;Jaen, Jaén, Granada, Spain;Granada;20;512;3;6;HTML
+bott17;Granada, España;Granada;8;508;1;5;Java
+bladecoder;Córdoba, Spain;Córdoba;5;498;49;0;Shell
+FranciscoNaveros;Granada, Spain;Granada;3;493;0;0;JavaScript
+ManuelLR;Sevilla;Sevilla;11;492;0;4;HTML
+juanAFernandez;Granada;Granada;22;487;1;30;Shell
+angeljcc;Granada (Spain);Granada;10;477;0;8;JavaScript
+pacastillo;Granada (Andalucía, Spain);Andalucía;15;475;4;0;Java
+renatolrr;Granada;Granada;22;467;9;36;CSS
+Makova;Granada, Spain;Granada;33;464;7;127;Shell
+ernestoalejo;Granada, Spain;Granada;12;463;79;163;JavaScript
+fblupi;Granada (Spain);Granada;7;459;1;0;JavaScript
+loverajoel;Córdoba;Córdoba;15;451;257;43;JavaScript
+pbaeyens;Granada, Spain;Granada;23;448;3;33;Haskell
 victordiaz;Granada (Spain);Granada;53;441;30;50;Java
-loverajoel;Córdoba;Córdoba;15;440;251;41;JavaScript
-Virako;Sevilla;Sevilla;26;427;10;5;Python
-brianstorti;Córdoba, Spain;Córdoba;48;426;138;0;Ruby
-pitbulk;Seville;Sevilla;39;426;35;113;PHP
-JArandaIzquierdo;Granada (Spain);Granada;10;424;1;10;HTML
-fergunet;Granada;Granada;56;422;13;10;Java
-ban007;Málaga/España;Málaga;0;420;0;0;PHP
-javiergarridomellado;Granada, Spain;Granada;2;411;0;0;HTML
-analca3;Granada, Andalucía, Spain;Andalucía;29;408;27;55;Python
+ban007;Málaga/España;Málaga;0;438;0;0;PHP
+JCristobal;Jaén, Granada;Granada;6;437;6;51;CSS
+Virako;Sevilla;Sevilla;26;431;10;5;Python
+fergunet;Granada;Granada;57;428;13;10;Java
+pitbulk;Seville;Sevilla;39;427;36;113;PHP
+javiergarridomellado;Granada, Spain;Granada;2;420;0;0;HTML
+brianstorti;Córdoba, Spain;Córdoba;48;418;138;0;Ruby
+franexposito;Granada, Spain;Granada;12;410;1;5;CSS
+analca3;Granada, Andalucía, Spain;Andalucía;30;408;27;57;Python
 daviddetena;Cordoba, Spain;Córdoba;0;407;0;0;Objective-C
-agarciamontoro;Granada, Andalucía, Spain;Andalucía;35;405;16;68;Shell
-franexposito;Granada, Spain;Granada;12;405;1;4;CSS
-JCristobal;Jaén, Granada;Granada;6;398;6;48;CSS
-davidgasquez;Granada, Spain;Granada;21;395;38;62;C++
-Deathsbreed;Seville, Spain;Sevilla;3;383;2;27;Java
-Talocha;Córdoba - Spanish;Córdoba;0;377;0;0;PHP
-recena;Sevilla, España;Sevilla;4;374;0;8;Java
+agarciamontoro;Granada, Andalucía, Spain;Andalucía;35;402;17;68;Shell
+potray;Granada, Spain;Granada;4;396;0;0;JavaScript
+davidgasquez;Granada, Spain;Granada;21;392;38;63;C++
+recena;Sevilla, España;Sevilla;4;386;0;8;Java
+rafaparadela;Cádiz, Spain;Cádiz;38;384;10;22;CSS
+segura2010;Granada;Granada;3;383;7;31;JavaScript
+Talocha;Córdoba - Spanish;Córdoba;0;379;0;0;PHP
+Deathsbreed;Seville, Spain;Sevilla;3;371;2;27;Java
 albertomolina;Sevilla, Spain;Sevilla;42;370;3;6;Python
-rafaparadela;Cádiz, Spain;Cádiz;38;360;10;22;CSS
-LuisJoseSanchez;Málaga (Spain);Málaga;57;349;9;14;CSS
-jesusgn90;Granada;Granada;5;348;4;1;CSS
-rafael1193;Granada (Spain), Grenoble (France);Granada;9;346;9;88;Shell
-danigm;Córdoba (España);Córdoba;50;345;73;35;Python
-vterron;Granada, Spain;Granada;92;345;73;47;Python
-trishagee;Sevilla, Spain;Sevilla;245;343;159;10;Java
-mgidney;Jerez;Cádiz;0;340;2;3;Python
-rubenlh91;Málaga;Málaga;0;335;0;0;
-fedefernandez;Sevilla, Spain;Sevilla;19;332;71;42;Java
-Delawen;Sevilla;Sevilla;42;330;10;4;JavaScript
-FranBarrera;Sevilla, Spain;Sevilla;15;329;0;0;Python
+jesusgn90;Granada;Granada;5;362;4;1;CSS
+LuisJoseSanchez;Málaga (Spain);Málaga;57;350;9;14;CSS
+rafael1193;Granada (Spain), Grenoble (France);Granada;9;343;9;88;Shell
+trishagee;Sevilla, Spain;Sevilla;253;340;160;10;Java
+fedefernandez;Sevilla, Spain;Sevilla;20;339;71;42;Java
+danigm;Córdoba (España);Córdoba;50;337;73;35;Python
 pedroj;Sevilla, Spain;Sevilla;22;329;17;24;R
-raiben;Granada;Granada;8;328;8;1;Java
+FranBarrera;Sevilla, Spain;Sevilla;15;328;0;0;Python
+Angelmmiguel;Sevilla;Sevilla;18;326;102;95;Java
+rubenlh91;Málaga;Málaga;0;325;0;0;
 dmsgago;Sevilla, Andalucía, España;Andalucía;1;324;0;0;CSS
-CoDanny;Malaga, Spain;Málaga;6;323;0;5;JavaScript and CSS
-Angelmmiguel;Sevilla;Sevilla;17;323;101;92;Java
-MalGanis2;Huelva, Spain;Huelva;1;316;0;0;HTML
-MiguelAngelLV;Almería;Almería;8;311;14;2;Java
+raiben;Granada;Granada;8;324;8;1;Java
+CoDanny;Malaga, Spain;Málaga;6;322;0;5;JavaScript and CSS
+Delawen;Sevilla;Sevilla;43;322;10;4;JavaScript
+MalGanis2;Huelva, Spain;Huelva;1;320;0;0;HTML
+nerviozzo;Chipiona;Cádiz;1;319;0;1;HTML
+enpi;Granada;Granada;7;316;2;4;Java
+MiguelAngelLV;Almería;Almería;8;315;14;2;Java
 jlsuarezdiaz;Granada, Spain;Granada;7;309;3;2;Java and TeX
-pabarcgar;Seville, Spain;Sevilla;1;307;1;5;Java
-antorof;Granada, Spain;Granada;5;304;5;15;Java
-nerviozzo;Chipiona;Cádiz;1;303;0;1;HTML
-helfio;Granada, Spain;Granada;8;301;0;39;Python
+gabriel-stan;Granada;Granada;1;307;0;4;Python
 JuanjoSalvador;Almeria, España;Almería;15;298;9;30;Shell
-ccamposfuentes;Granada, Almería, Spain;Almería;7;297;0;4;CSS
-enpi;Granada;Granada;7;296;2;4;Java
+rafaellg8;Granada;Granada;2;297;1;2;Python
+pabarcgar;Seville, Spain;Sevilla;1;296;1;5;Java
+Jamargle;Jaén;Jaén;3;296;0;1;Java
+romilgildo;Granada;Granada;2;295;1;0;HTML
+helfio;Granada, Spain;Granada;9;293;0;40;Python
 Bigomby;Sevilla, Spain;Sevilla;9;293;1;44;C++
-romilgildo;Granada;Granada;2;291;0;0;HTML
 Jogua;Granada;Granada;3;291;0;0;JavaScript
-cerberillo;Sevilla, Spain;Sevilla;14;284;26;84;Objective-C
-psicobyte;Granada, Spain;Granada;41;271;17;9;Python
-JA-Gonz;Granada;Granada;3;268;0;1;Python
-jmvargas;Los Palacios y Villafranca, Sevilla;Sevilla;5;257;0;211;Objective-C and Java
-BraulioVM;Málaga & Granada, Spain;Granada;21;256;15;44;JavaScript
-hugobarzano;Granada;Granada;4;256;0;0;Python
-rafaellg8;Granada;Granada;2;254;1;1;Python
-Nesta;Sevilla;Sevilla;42;253;29;49;JavaScript
+crayfishx;Málaga, Spain;Málaga;39;288;230;23;Puppet
+ccamposfuentes;Granada, Almería, Spain;Almería;7;288;0;4;CSS
+antorof;Granada, Spain;Granada;5;283;5;15;Java
+lorenmanu;Granada;Granada;1;280;0;0;Python
+cerberillo;Sevilla, Spain;Sevilla;14;279;26;84;Objective-C
+hugobarzano;Granada;Granada;4;276;0;0;Python
+aesedepece;Málaga, Spain;Málaga;37;273;8;53;JavaScript
+JA-Gonz;Granada;Granada;4;264;0;1;Python
+juanlu91;Sevilla;Sevilla;0;263;0;2;Java
+AntonioPozo;Granada;Granada;2;261;0;0;HTML
+inyenia;Sevilla;Sevilla;0;261;0;0;Java
+santidediego;Granada;Granada;6;260;0;4;Python
+BraulioVM;Málaga & Granada, Spain;Granada;21;254;16;44;JavaScript
+Nitrosito;Granada, Spain;Granada;14;253;11;29;C++
 i52gagrj;Málaga;Málaga;0;253;0;0;CSS
-santidediego;Granada;Granada;6;251;0;2;Python
-crayfishx;Málaga, Spain;Málaga;38;250;228;21;Puppet
-juanlu91;Sevilla;Sevilla;0;247;0;2;Java
-EduardOckerse;Málaga (Spain);Málaga;1;246;0;7;Java
-togacharls;Granada;Granada;1;246;0;2;Java and Shell
-frangarcj;Almería;Almería;8;244;37;21;C
-Darth-ATA;Granada, Spain;Granada;15;244;2;8;HTML
+alexislucena;Granada, Spain;Granada;2;247;0;10;
+psicobyte;Granada, Spain;Granada;41;245;17;9;Python
+carlosrodlop;Seville, Spain.;Sevilla;2;244;0;0;JavaScript
 juanluisrp;Sevilla;Sevilla;30;244;11;57;JavaScript
-carlosrodlop;Seville, Spain.;Sevilla;2;242;0;0;JavaScript
-Nitrosito;Granada, Spain;Granada;14;241;11;28;C++
-JesusTinoco;Sevilla, Spain;Sevilla;5;240;0;103;Java
-mresti;Granada, Spain;Granada;25;239;2;279;Java
-brovador;Sevilla;Sevilla;10;236;34;310;Objective-C
-alfonsoperez;Seville, Spain;Sevilla;14;235;11;221;JavaScript
-themakerbb;Granada;Granada;1;234;3;1;JavaScript
+Darth-ATA;Granada, Spain;Granada;15;244;2;8;HTML
+frangarcj;Almería;Almería;8;244;37;21;C
+mresti;Granada, Spain;Granada;26;242;2;287;Java
+togacharls;Granada;Granada;1;241;0;2;Java and Shell
+JesusTinoco;Sevilla, Spain;Sevilla;5;240;0;108;Java
+alfonsoperez;Seville, Spain;Sevilla;14;239;11;223;JavaScript
+EduardOckerse;Málaga (Spain);Málaga;1;239;0;7;Java
+jmvargas;Los Palacios y Villafranca, Sevilla;Sevilla;5;239;0;223;Objective-C and Java
+brovador;Sevilla;Sevilla;10;237;34;311;Objective-C
+manuabalos;Sevilla;Sevilla;3;235;0;0;HTML
 AlvaroFaure;Málaga;Málaga;0;234;0;0;
-aDaneInSpain;Granada, Spain;Granada;3;233;0;2;JavaScript
-hopsor;Jerez de la Frontera, Cádiz, ES;Cádiz;5;232;4;30;Ruby
-felgari;Seville, Spain;Sevilla;1;232;1;5;Python
-inyenia;Sevilla;Sevilla;0;230;0;0;Java
+themakerbb;Granada;Granada;1;234;3;1;JavaScript
+hopsor;Jerez de la Frontera, Cádiz, ES;Cádiz;5;233;6;30;Ruby
 jesusba;Dos Hermanas, Sevilla;Sevilla;20;229;0;0;Python
-Neko250;Malaga, Spain;Málaga;4;227;2;277;HTML
-manuabalos;Sevilla;Sevilla;3;227;0;0;HTML
-anamariamv;Cádiz, Spain;Cádiz;21;221;0;9;
-jghinestrosa;Almería, Spain;Almería;4;218;2;2;JavaScript
-lorenmanu;Granada;Granada;1;218;0;0;Python
-hektor7;Seville, Spain;Sevilla;1;218;1;7;Java
-alexislucena;Granada, Spain;Granada;2;216;0;10;
-neon520;Granada;Granada;7;216;0;0;Python
+alfem;Seville, Andalusia, Spain;Andalucía;7;229;9;76;Python
+klashxx;Almería , Spain;Almería;7;227;9;74;Shell
+aDaneInSpain;Granada, Spain;Granada;3;224;0;2;JavaScript
+anamariamv;Cádiz, Spain;Cádiz;21;223;0;9;
+felgari;Seville, Spain;Sevilla;1;222;1;5;Python
+neon520;Granada;Granada;7;217;0;2;Python
+jsuarezruiz;Sevilla;Sevilla;18;217;31;14;C#
 ajnebro;Málaga (Spain);Málaga;15;216;0;1;Java
+jghinestrosa;Almería, Spain;Almería;4;216;2;2;JavaScript
 ranea;Granada, Spain;Granada;12;215;3;3;Python
-jsuarezruiz;Sevilla;Sevilla;18;214;31;12;C#
-klashxx;Almería , Spain;Almería;6;213;9;70;Shell
-jraddaoui;Seville, Spain;Sevilla;4;212;0;18;PHP
-albatronic;Maracena - Granada - Spain;Granada;0;210;1;1;PHP
-manuelcanga;Sevilla;Sevilla;1;209;0;4;
-softwarejimenez;Granada , Spain;Granada;27;208;6;5;C++
-MatiPruvost;Córdoba;Córdoba;2;208;3;8;JavaScript
-luqueburgosjm;Granada;Granada;4;207;0;11;HTML
-alfem;Seville, Andalusia, Spain;Andalucía;7;206;9;75;Python
-sergiormb;Córdoba, Spain;Córdoba;10;203;3;5;CSS
-goinnn;Seville, Spain;Sevilla;51;203;312;186;Python
-jesusgollonet;Malaga, Spain;Málaga;90;203;253;150;Shell
-haydenyoung;Granada, Spain;Granada;1;200;0;1;PHP
-fjruizruano;Granada, Spain;Granada;4;200;7;9;Python
-cesar2;Granada;Granada;0;199;0;0;HTML
-jaalonso;Sevilla (España);Sevilla;1;199;0;42;Haskell
+Nesta;Sevilla;Sevilla;42;214;29;49;JavaScript
+jraddaoui;Seville, Spain;Sevilla;4;210;0;18;PHP
+luqueburgosjm;Granada;Granada;4;210;0;12;HTML
+softwarejimenez;Granada , Spain;Granada;28;208;6;5;C++
+jaalonso;Sevilla (España);Sevilla;1;205;0;42;Haskell
+ricpelo;Sanlúcar de Barrameda (Cádiz);Cádiz;13;205;20;18;C
+albatronic;Maracena - Granada - Spain;Granada;0;204;1;1;PHP
+sergiormb;Córdoba, Spain;Córdoba;10;203;3;12;CSS
+cesar2;Granada;Granada;0;202;0;0;HTML
+amuniz;Sevilla (Spain);Sevilla;3;201;4;6;Java
+acasadoquijada;Granada, Spain;Granada;12;200;8;13;Python
+haydenyoung;Granada, Spain;Granada;1;198;0;1;PHP
+fjruizruano;Granada, Spain;Granada;4;197;7;9;Python
 fnavarrogonzalez;Granada, España.;Granada;11;196;1;6;Python
-ricpelo;Sanlúcar de Barrameda (Cádiz);Cádiz;12;195;20;17;C
-pmmre;Granada;Granada;0;194;0;0;Python
-soutoner;Málaga;Málaga;7;193;0;27;Java
-AntonioPozo;Granada;Granada;2;191;0;0;CSS
-juanjepl;Seville, Spain;Sevilla;6;190;0;5;HTML
+pmmre;Granada;Granada;0;195;0;0;Python
+pablogsal;Granada, Spain;Granada;12;193;5;35;Python
+soutoner;Málaga;Málaga;7;193;0;29;Java
+damarro;Granada;Granada;2;191;0;0;C++ and C
 TatyPerson;Cádiz;Cádiz;2;190;0;0;Java
-pablogsal;Granada, Spain;Granada;11;189;5;34;Python
-damarro;Granada;Granada;2;189;0;0;C++ and C
-jesusr;Sevilla Y Jaén, Spain;Jaén;8;188;0;32;JavaScript
-aborrero;Seville - Spain;Sevilla;8;188;19;55;Shell
+juanjepl;Seville, Spain;Sevilla;6;190;0;5;HTML
+aborrero;Seville - Spain;Sevilla;8;190;19;55;Shell
+JuanLuisGarciaBorrego;Estepa (Sevilla);Sevilla;10;188;2;114;PHP
+MatiPruvost;Córdoba;Córdoba;2;187;3;8;JavaScript
 FranciscoJaranaCamacho;Dos Hermanas, Sevilla;Sevilla;2;187;0;0;Python
-NCordon;Granada, Spain;Granada;30;186;12;27;C++
-jmcerrejon;Huelva, Spain;Huelva;2;185;34;18;Shell
-JuanLuisGarciaBorrego;Estepa (Sevilla);Sevilla;10;184;2;114;PHP
-Jamargle;Jaén;Jaén;3;181;0;1;Java
-acasadoquijada;Granada, Spain;Granada;12;181;8;10;Python
-lammoth;Seville, Spain;Sevilla;13;180;12;34;JavaScript
-3DRoberto;Seville. Spain;Sevilla;9;179;1;34;CSS and JavaScript
-Pakillo;Sevilla, Spain;Sevilla;58;178;106;467;R
-drzippie;Sevilla, Spain;Sevilla;10;177;9;150;Go
-Feagurth;Almería;Almería;5;177;0;0;Java
-DavidGSola;Granada, Spain;Granada;4;177;0;3;Java
-MarFerPra;Granada;Granada;8;176;3;2;Python
-dariopalminio;Córdoba;Córdoba;1;175;3;3;TeX
-aleonalcaide;Córdoba (Spain);Córdoba;3;174;0;2;Java
+jesusr;Sevilla Y Jaén, Spain;Jaén;8;186;0;32;JavaScript
+3DRoberto;Seville. Spain;Sevilla;10;185;1;34;CSS and JavaScript
+jaivalz;Málaga, Spain;Málaga;0;185;1;1;HTML
+NCordon;Granada, Spain;Granada;30;184;12;27;C++
+jmcerrejon;Huelva, Spain;Huelva;2;184;34;18;Shell
+jesusgollonet;Malaga, Spain;Málaga;90;182;254;150;Shell
+rogegg;Granada, Andalucía, España;Andalucía;14;182;8;4;CSS
+Neko250;Malaga, Spain;Málaga;5;180;2;281;HTML
+dariopalminio;Córdoba;Córdoba;1;178;3;3;TeX
+lammoth;Seville, Spain;Sevilla;13;176;12;34;JavaScript
+Pakillo;Sevilla, Spain;Sevilla;59;175;107;476;R
+Feagurth;Almería;Almería;5;173;0;0;Java
+goinnn;Seville, Spain;Sevilla;51;173;312;186;Python
 manderley;Málaga, Spain;Málaga;2;171;1;2;CSS
+alvarosaco;Córdoba (Spain);Córdoba;26;170;15;62;CSS
 miguelangelrdguez;Granada;Granada;1;170;0;0;JavaScript
-ramako;Granada;Granada;2;167;6;3;JavaScript
-josemam;Los Villares (Jaén) ⇆ Granada;Granada;6;166;1;2;C++
-rogegg;Granada, Andalucía, España;Andalucía;14;166;8;4;CSS
-acharluk;Jaén, Granada, Andalucía, Spain;Andalucía;13;166;0;15;Java
-jemole;Sevilla & Madrid, Spain;Sevilla;4;166;8;2;CSS
-albertorb;Seville;Sevilla;3;163;0;0;Python
-mariohm;Granada;Granada;9;162;1;2;JavaScript
-jesusbriales;Malaga;Málaga;3;161;1;1;Matlab
-jorgeles;Granada;Granada;2;161;1;0;Java
+jemole;Sevilla & Madrid, Spain;Sevilla;4;169;8;2;CSS
+juanderuiz;Málaga, Spain;Málaga;0;169;0;0;JavaScript
+josemam;Los Villares (Jaén) ⇆ Granada;Granada;6;168;1;2;C++
+aleonalcaide;Córdoba (Spain);Córdoba;3;168;0;2;Java
+acharluk;Jaén, Granada, Andalucía, Spain;Andalucía;13;167;0;16;Java
+DavidGSola;Granada, Spain;Granada;4;166;0;3;Java
+ramako;Granada;Granada;2;166;3;3;JavaScript
+Jarotru;Granada;Granada;1;165;0;0;Python
+davidperezgar;Granada, Spain;Granada;2;164;1;100;JavaScript
+jesusbriales;Malaga;Málaga;3;162;3;1;Matlab
+JesGor;Granada, Spain;Granada;4;162;1;2;Python
+jmrodriguez90;Granada, España;Granada;0;162;0;0;JavaScript
 dasolma;Seville;Sevilla;2;160;0;2;Python
-Amab;Granada, Spain;Granada;15;160;14;31;HTML
-gloob;Sevilla, Spain;Sevilla;39;157;72;79;C
+mariohm;Granada;Granada;9;156;1;2;JavaScript
+sn1k;Granada;Granada;2;156;0;0;CSS
 devnatres;Granada (Spain);Granada;0;155;0;0;CSS
-sn1k;Granada;Granada;2;155;0;0;CSS
-gabriel-stan;Granada;Granada;1;155;0;1;Python
-alvarosaco;Córdoba (Spain);Córdoba;26;154;15;62;CSS
-oxcar103;Granada, Spain;Granada;27;154;1;44;TeX
+nashgul;Sevilla;Sevilla;1;154;0;0;Python
+gloob;Sevilla, Spain;Sevilla;39;154;72;80;C
+albertorb;Seville;Sevilla;3;154;0;0;Python
+lrdzero;Granada;Granada;0;153;0;0;Java
+cabrera-dcc;Córdoba (Spain);Córdoba;1;153;0;0;JavaScript
 Valencia1904;Sevilla;Sevilla;16;152;0;0;Python
-olea;Almería (Spain);Almería;22;152;46;36;Python
-javigonz;Málaga, Spain;Málaga;4;151;13;73;JavaScript
+olea;Almería (Spain);Almería;22;152;47;36;Python
+mabarrbai;Granada, Spain;Granada;0;152;0;0;Python
+jorgeles;Granada;Granada;2;152;1;0;Java
 Fasgort;Spain, Andalucia;Andalucía;2;151;3;2;C++
-javierav;Córdoba, España;Córdoba;23;151;3;403;Shell
 pagutierrez;Córdoba, Spain;Córdoba;5;151;0;0;Java and Python
+javigonz;Málaga, Spain;Málaga;4;151;13;73;JavaScript
+jonnny0;Granada;Granada;3;150;0;0;JavaScript
+jfrancisco4490;Granada, España;Granada;2;150;0;0;JavaScript
+toblerone554;Granada,Spain;Granada;7;150;2;1;CSS
+carcam;Almería, Ceuta, Spain;Almería;8;150;10;6;PHP
 soasada;Málaga - Spain;Málaga;7;150;1;2;Java
+javierav;Córdoba, España;Córdoba;23;149;3;403;Shell
 javiexfiliana7;Granada;Granada;0;149;0;0;JavaScript
 antonioluna;Dos Hermanas, Sevilla;Sevilla;0;149;0;0;Python
-cabrera-dcc;Córdoba (Spain);Córdoba;1;149;0;0;JavaScript
-mabarrbai;Granada, Spain;Granada;0;149;0;0;Python
-davidperezgar;Granada, Spain;Granada;2;149;1;100;JavaScript
-carcam;Almería, Ceuta, Spain;Almería;8;149;10;6;PHP
-juanderuiz;Málaga, Spain;Málaga;0;147;0;0;JavaScript
-JesGor;Granada, Spain;Granada;4;147;1;2;Python
-segura2010;Granada;Granada;3;146;7;31;JavaScript
-Thraxs;Seville, Spain;Sevilla;1;146;0;0;C#
+tommypeps;Málaga, España;Málaga;10;148;21;203;Objective-C
+pedrogazquez;Granada;Granada;0;147;0;1;Python
+Thraxs;Seville, Spain;Sevilla;2;146;0;0;C#
+bcbweb;Seville;Sevilla;1;146;0;8;JavaScript
+msmaldonado;Granada;Granada;7;146;1;0;HTML
 MarcosGinel;Sevilla;Sevilla;2;145;0;0;Python
 juanfranrv;Granada (Spain);Granada;5;145;1;3;CSS
-lrdzero;Granada;Granada;0;144;0;0;Java
-Rubenmp;Granada;Granada;1;144;0;0;Makefile
 marcosbc;Seville, Spain;Sevilla;1;144;0;30;PHP
-toblerone554;Granada,Spain;Granada;7;143;2;1;CSS
+Rubenmp;Granada;Granada;1;144;0;0;Makefile
+oldlastman;cádiz;Cádiz;7;143;2;8;JavaScript
 davidvweb;Granada, Spain;Granada;1;143;0;0;
-oldlastman;cádiz;Cádiz;6;143;2;8;JavaScript
-bcbweb;Seville;Sevilla;1;142;0;8;JavaScript
+pedritomelenas;Granada;Granada;7;142;9;1;HTML
 AdrianJB;Dos Hemanas, Sevilla;Sevilla;6;142;0;0;Python
-nashgul;Sevilla;Sevilla;1;142;0;0;Python
-dacmail;Huelva-Málaga;Huelva;18;141;18;84;PHP
 Adyrhan;Cadiz, Los barrios;Cádiz;12;141;6;24;JavaScript
-jaimecp89;Sevilla, Spain;Sevilla;1;141;3;2;Java and C++
-spaniakos;Malaga, Spain;Málaga;7;140;5;3;C++
-dmolina;Cádiz;Cádiz;3;139;5;5;Java
-keilovecraft;Seville;Sevilla;11;138;0;4;JavaScript
-pedritomelenas;Granada;Granada;6;137;5;1;HTML
-tommypeps;Málaga, España;Málaga;10;137;18;201;Objective-C
+dacmail;Huelva-Málaga;Huelva;18;141;18;84;PHP
+PabloTorrecillas;Granada, Spain;Granada;2;139;0;0;HTML
+AngelValera;Granada;Granada;0;138;0;0;HTML
+carlosrdrz;Sevilla;Sevilla;9;136;5;106;Ruby
 Ciorraga;Jaén, Andalucía, España;Andalucía;4;136;1;1;PHP
-guillermochica;Granada, de Jaén;Granada;4;136;2;11;JavaScript
-carlosrdrz;Sevilla;Sevilla;9;136;5;103;Ruby
-ezequielo;Málaga;Málaga;0;135;0;0;Python
-amian84;Seville;Sevilla;21;135;40;35;Ruby
-sergiogvz;Granada, Spain;Granada;3;135;0;0;Python
-luismagr;Jerez de la Frontera, Cádiz, Andalucía, España;Andalucía;11;134;15;53;PHP
-araluce;Granada;Granada;2;134;0;0;HTML
+jacintocapote;jerez de la frontera;Cádiz;13;136;0;0;PHP
+dmolina;Cádiz;Cádiz;3;135;5;5;Java
+alcasla;Granada;Granada;2;135;0;0;HTML
 ualmtorres;Almería, Spain;Almería;5;134;1;0;PHP
-jmrodriguez90;Granada, España;Granada;0;132;0;0;JavaScript and Java
-alasarr;Sevilla;Sevilla;9;132;0;20;
+araluce;Granada;Granada;2;134;0;0;HTML
+luismagr;Jerez de la Frontera, Cádiz, Andalucía, España;Andalucía;12;134;15;54;PHP
+alasarr;Sevilla;Sevilla;9;133;0;21;
+jesuspa17;Sevilla;Sevilla;0;133;0;0;Java and HTML
 rrgonzalez1992;El Puerto de Santa María;Cádiz;0;132;0;0;Java
-fran;Sevilla;Sevilla;31;131;16;27;JavaScript
-dongrego89;Córdoba;Córdoba;12;130;0;0;C
-JoseMHR;Malaga;Málaga;16;130;9;219;Java
-pedrogazquez;Granada;Granada;0;130;0;1;Python
-AngelValera;Granada;Granada;0;129;0;0;HTML
-capynet;Spain - Granada;Granada;9;129;15;6;JavaScript
-amorag;Granada, Spain;Granada;4;129;0;0;
-pjmolina;Seville, Spain;Sevilla;2;128;1;13;JavaScript
-mbarrientos;Málaga;Málaga;4;128;0;0;Java
-jacintocapote;jerez de la frontera;Cádiz;13;127;0;0;PHP
-sigcorporativo-ja;Sevilla, España;Sevilla;3;126;0;0;HTML
+ezequielo;Málaga;Málaga;0;132;0;0;Python
+aserranogomez;GRANADA;Granada;0;131;0;0;Makefile
+jaimecp89;Sevilla, Spain;Sevilla;1;131;3;2;Java and C++
+fran;Sevilla;Sevilla;31;131;16;28;JavaScript
+migueib17;Granada;Granada;2;131;0;0;CSS
+MarFerPra;Granada;Granada;8;130;1;4;Python
+JoseMHR;Malaga;Málaga;18;130;9;219;Java
+spaniakos;Malaga, Spain;Málaga;7;130;5;3;C++
+oxcar103;Granada, Spain;Granada;27;129;1;45;TeX
+jresinas;Sevilla;Sevilla;2;128;2;0;Ruby
+pjmolina;Seville, Spain;Sevilla;3;128;1;13;JavaScript
 victor1995mv;Córdoba, Spain;Córdoba;15;126;0;0;CSS
+mbarrientos;Málaga;Málaga;4;126;0;0;Java
+sigcorporativo-ja;Sevilla, España;Sevilla;3;126;0;0;HTML
 nono9119;Andújar;Jaén;0;126;0;1;Java
-FarK;Sevilla;Sevilla;8;125;15;23;C
-migueib17;Granada;Granada;2;124;0;0;HTML
-jresinas;Sevilla;Sevilla;2;124;2;0;Ruby
+FarK;Sevilla;Sevilla;9;125;15;23;C
+capynet;Spain - Granada;Granada;9;124;16;6;JavaScript
+dongrego89;Córdoba;Córdoba;13;124;0;0;C
+keilovecraft;Seville;Sevilla;11;123;0;4;JavaScript
 baenans;Málaga (Spain);Málaga;27;123;4;8;Python
-jalopezsuarez;Almeria (Spain);Almería;4;123;29;36;CSS
 OdeiRZ;Linares;Jaén;2;123;0;0;PHP
-aserranogomez;GRANADA;Granada;0;123;0;0;Python
-msmaldonado;Granada;Granada;7;122;1;0;C#
-Jarotru;Granada;Granada;1;120;0;0;Python
-jmorenov;Granada, Spain;Granada;0;120;0;11;Java
+jalopezsuarez;Almeria (Spain);Almería;4;122;29;38;CSS
+amorag;Granada, Spain;Granada;4;121;0;0;
+sergiogvz;Granada, Spain;Granada;3;120;0;0;Python
+dvcarrillo;Granada, Spain;Granada;6;120;0;6;C++
 sigdeletras;Córdoba (spain);Córdoba;10;120;14;6;JavaScript
-PabloTorrecillas;Granada, Spain;Granada;2;119;0;0;HTML
-cjferba;Granada;Granada;4;119;2;11;Python
+KevValle;San Fernando, Cádiz;Cádiz;3;120;0;0;Python
 vtellez;Seville (Spain);Sevilla;8;119;1;9;CSS
+cjferba;Granada;Granada;4;119;2;12;Python
 santiagopuerta;Granada, Spain;Granada;7;118;6;30;PHP
-dvcarrillo;Granada, Spain;Granada;5;118;0;6;C++
-franlu;Granada, Spain;Granada;13;118;1;18;Python
-janiversen;malaga, spain;Málaga;1;117;0;1;Arduino
-KevValle;San Fernando, Cádiz;Cádiz;3;116;0;0;Python
+franlu;Granada, Spain;Granada;13;117;1;18;Python
+janiversen;malaga, spain;Málaga;1;116;0;1;Arduino
 jamj2000;Andalusia, Spain;Andalucía;4;116;1;2;C++
+amian84;Seville;Sevilla;21;116;40;35;Ruby
 alfonsito92;Granada;Granada;3;116;0;0;Java
+terceranexus6;Granada;Granada;17;115;14;46;HTML
 diblex;Cordoba Spain;Córdoba;6;115;0;8;JavaScript
-pmarinr;Granada, Spain;Granada;15;114;12;14;C#
-alvaromm;Granada, Spain;Granada;5;113;0;1;CSS
 ciherraiz;Granada Spain;Granada;0;113;0;1;Python
+jesmorc;Granada;Granada;1;113;0;2;JavaScript
 Squallium;Sevilla (Spain);Sevilla;8;112;1;31;JavaScript
 burasu;El Puerto de Santa Maria, Cadiz. Spain;Cádiz;3;112;1;26;CSS
-jesuspa17;Sevilla;Sevilla;0;112;0;0;Java and HTML
-divadcr;Granada;Granada;7;111;1;8;PHP
-zombites;Sevilla, Andalucía;Andalucía;1;111;0;3;CSS
-i32ropie;Cordoba, Spain.;Córdoba;9;111;4;13;Python
-silt99;Granada;Granada;0;111;0;0;Shell
 danmarcab;Cádiz, Spain;Cádiz;2;110;2;1;Elixir
-juanghurtado;Seville (Spain);Sevilla;25;109;49;185;JavaScript
-javism;Córdoba, Spain;Córdoba;28;109;4;5;C++
+juanghurtado;Seville (Spain);Sevilla;25;108;49;185;JavaScript
+rafaharo;Seville;Sevilla;24;108;10;51;Java
 FranFT;Granada, Spain;Granada;1;108;1;1;C++
-JMailloH;Granada - Spain;Granada;7;108;0;0;Python
-terceranexus6;Granada;Granada;12;108;10;42;HTML
 IvanCoronado;Sevilla;Sevilla;4;107;9;9;JavaScript
-rafaharo;Seville;Sevilla;23;106;9;51;Java
+zombites;Sevilla, Andalucía;Andalucía;1;107;0;3;CSS
+jmorenov;Granada, Spain;Granada;1;106;0;11;Java
+ibaca;Málaga, España;Málaga;9;106;17;272;Java
 algm;Linares;Jaén;5;106;1;34;JavaScript
-Cs4r;Granada, Spain;Granada;6;105;0;27;Java
+naoxink;Málaga - Spain;Málaga;3;106;80;68;JavaScript
+manolotello7;Pinos del Valle;Granada;0;105;0;1;Python and Makefile
 ramon-rd;Granada;Granada;2;105;3;2;Java
-sramirez;Granada;Granada;10;105;25;7;Scala
+Cs4r;Granada, Spain;Granada;6;105;0;27;Java
+sramirez;Granada;Granada;10;105;26;7;Scala
+tuxskar;Marbella, Málaga, Spain;Málaga;34;104;19;62;Python
+guillermochica;Granada, de Jaén;Granada;5;104;2;11;JavaScript
 angajime;Vélez-Málaga;Málaga;10;104;3;51;CSS
-jesmorc;Granada;Granada;1;104;0;2;JavaScript
-alcasla;Granada;Granada;2;104;0;0;HTML
-tuxskar;Marbella, Málaga, Spain;Málaga;33;104;19;62;Python
-plutec;Málaga (Spain);Málaga;7;103;5;70;Python
-Abrahanfer;Cádiz(Spain);Cádiz;10;102;3;62;JavaScript
+plutec;Málaga (Spain);Málaga;7;103;5;71;Python
 pablovg2;Sevilla;Sevilla;6;102;4;15;CSS
-leolara;Malaga, Spain;Málaga;26;101;4;13;JavaScript
-erseco;Granada, Spain;Granada;51;101;8;59;C++
 JCEntrena;Granada;Granada;13;101;4;6;TeX
 CristinaPerea;Seville, Spain;Sevilla;3;101;0;0;Python
-manolotello7;Pinos del Valle;Granada;0;100;0;1;Python
-jfrancisco4490;Granada, España;Granada;2;100;0;0;JavaScript
-naoxink;Málaga - Spain;Málaga;3;100;158;61;JavaScript
+Abrahanfer;Cádiz(Spain);Cádiz;10;101;3;63;JavaScript
+erseco;Granada, Spain;Granada;52;101;8;60;C++
+pmarinr;Granada, Spain;Granada;17;100;12;14;C#
+javism;Córdoba, Spain;Córdoba;28;100;4;5;C++
 christian-cl;Málaga;Málaga;0;100;0;0;Java
-Danmarjim;Seville;Sevilla;1;99;1;12;Ruby
 dramirezt;Málaga;Málaga;3;99;1;7;Python
-ibaca;Málaga, España;Málaga;9;99;17;268;Java
-pedroparra;Cordoba;Córdoba;10;97;3;148;JavaScript
-fjtorres;Sanlúcar de barrameda (España);Cádiz;1;97;0;21;Java
+Danmarjim;Seville;Sevilla;1;99;1;12;Ruby
+dandelea;Sevilla;Sevilla;1;99;0;1;Java
 chelu;Seville, Spain;Sevilla;4;97;18;9;Java
+louri91;Granada;Granada;4;97;0;3;JavaScript
+divadcr;Granada;Granada;7;97;1;8;PHP
 david-alejo;Camino de los Descubrimientos S/N. 41092, Sevilla (Spain);Sevilla;0;97;0;1;CMake
-dariosky;Malaga, Spain;Málaga;1;96;1;18;CSS
-dlazaro66;Granada;Granada;32;96;643;55;Java
+dariosky;Malaga, Spain;Málaga;1;96;2;18;CSS
+leolara;Malaga, Spain;Málaga;25;96;4;13;JavaScript
+dlazaro66;Granada;Granada;32;96;648;56;Java
+silt99;Granada;Granada;0;95;0;0;Shell
 ssuria;Madrid, Sevilla;Sevilla;0;95;0;0;
+pedroparra;Cordoba;Córdoba;10;95;3;149;JavaScript
+albertogarf91;Granada;Granada;1;94;0;0;JavaScript and HTML
 albertomoreno;Granada, Spain;Granada;3;94;3;8;JavaScript
+JMailloH;Granada - Spain;Granada;7;94;0;0;Python
+fjtorres;Sanlúcar de barrameda (España);Cádiz;1;94;0;21;Java
 franciscodr;Cádiz, Spain;Cádiz;9;94;3;11;Shell
-mgmacias95;Granada, Spain;Granada;23;93;17;23;TeX
+pacocp;Granada;Granada;4;93;0;13;Python
 RicardoRodriguezArg;Cordoba;Córdoba;1;93;0;0;C++
-josemazo;Seville, Spain;Sevilla;9;92;37;34;Python
-albmarvil;Seville, Spain;Sevilla;2;91;4;6;Java
+josemazo;Seville, Spain;Sevilla;9;93;37;34;Python
+mgmacias95;Granada, Spain;Granada;23;93;19;23;TeX
+Samuc;Granada;Granada;1;92;1;1;JavaScript
+jemromerol;Granada, Spain;Granada;2;92;3;11;Python
+JaviSG91;Granada;Granada;0;91;0;0;JavaScript
 amatellanes;Málaga, Spain;Málaga;35;91;84;24;CSS
+albmarvil;Seville, Spain;Sevilla;3;91;4;6;Java
 SeHarrys;Granada;Granada;1;90;1;36;Perl
-antoniovm;Almería, España;Almería;6;90;1;4;Java
-gstvrmrlpz;Granada;Granada;2;90;0;0;
-albertogarf91;Granada;Granada;1;89;0;0;JavaScript
+Amab;Granada, Spain;Granada;15;90;14;31;HTML
 IsabelTenar;Granada, España;Granada;7;89;2;0;CSS
-n0ni0;Chiclana de la Frontera;Cádiz;2;88;0;5;PHP
-franjial;Córdoba;Córdoba;1;88;0;14;Python
+Negrero;sevilla;Sevilla;1;89;6;4;Java
 miguelRCabello;Granada, Spain;Granada;2;88;0;0;
-adperezmorales;Seville;Sevilla;23;87;37;10;JavaScript
-camilocot;Málaga;Málaga;4;87;5;79;JavaScript
-pedrazamiguez;Seville, Spain;Sevilla;0;87;0;0;CSS
-Alayala;Granada, España;Granada;3;87;0;1;Shell
 deonvdv;Cadiz, Spain;Cádiz;0;87;0;0;JavaScript
+javsalgar;Seville, Spain;Sevilla;0;87;0;0;CMake
 jpgriffo;Seville, Spain;Sevilla;8;87;3;76;Go
-louri91;Granada;Granada;4;87;0;3;JavaScript
-Crixo24;Granada;Granada;4;86;0;2;C#
-wynkth;Málaga, Spain;Málaga;15;86;6;3;Java
+Alayala;Granada, España;Granada;3;87;0;1;Shell
+adperezmorales;Seville;Sevilla;23;87;37;10;JavaScript
+angellinares;Sevilla, Spain;Sevilla;21;87;2;134;C#
+camilocot;Málaga;Málaga;4;87;5;79;JavaScript
+Digdgeo;Seville, Spain;Sevilla;0;86;0;0;Python
+antoniovm;Almería, España;Almería;6;86;1;4;Java
 TommyHernandez;Granada;Granada;8;86;1;8;CSS
 Salvaaragon;San Fernando, Cádiz;Cádiz;0;85;0;1;Java
-deantares;Granada (Spain);Granada;22;84;10;10;Shell
+n0ni0;Chiclana de la Frontera;Cádiz;2;85;0;5;PHP
+alvaromm;Granada, Spain;Granada;5;84;0;1;CSS
+lumley;Granada;Granada;5;84;3;16;Java
+JacintoCC;Granada;Granada;17;83;7;2;C++
+Crixo24;Granada;Granada;4;83;0;2;C#
 PSanchezR;Granada, España.;Granada;1;83;3;1;Java
-yonatan24891;Granada, Spain;Granada;0;82;1;1;Shell
-gasparms;Jaén,Spain,Europe;Jaén;7;82;3;43;Shell
-javsalgar;Seville, Spain;Sevilla;0;82;0;0;CMake
+gstvrmrlpz;Granada;Granada;2;83;0;0;
+currix;Huelva (Spain);Huelva;1;83;3;2;Perl
 pablocastilla;Seville, Spain;Sevilla;8;82;26;4;C#
-Negrero;sevilla;Sevilla;1;82;6;4;Java
-sgomez;Córdoba, Spain;Córdoba;32;81;21;73;PHP
-dandelea;Sevilla;Sevilla;1;81;0;1;Java
-gasparfm;Málaga;Málaga;11;81;10;68;C++
+yonatan24891;Granada, Spain;Granada;0;82;1;1;Shell
 MGautier;Granada, Spain;Granada;2;81;1;0;TeX
-angellinares;Sevilla, Spain;Sevilla;20;81;1;133;C#
-manumorante;Granada <> Gibraltar;Granada;18;80;2;40;CSS
+wynkth;Málaga, Spain;Málaga;15;81;6;3;Java
+sgomez;Córdoba, Spain;Córdoba;32;81;21;73;PHP
+franjial;Córdoba;Córdoba;1;81;0;14;Python
+Nerian;Seville, Spain;Sevilla;27;81;992;299;Ruby
+Zireck;Málaga, Spain;Málaga;0;81;4;123;Java and Perl
 cparadela;Granada;Granada;0;80;0;1;PHP
-albertoqa;Granada, Spain;Granada;3;80;1;2;C++
+manumorante;Granada <> Gibraltar;Granada;18;80;2;40;CSS
 mdottavio;Córdoba;Córdoba;1;79;7;6;JavaScript
-Digdgeo;Seville, Spain;Sevilla;0;79;0;0;Python
-ablanco;Sevilla;Sevilla;27;79;197;95;Python
+svlog;Málaga;Málaga;0;79;0;0;Makefile
+luisromangz;Seville, Spain;Sevilla;3;79;0;11;JavaScript
+penyaskito;Sevilla, Spain;Sevilla;82;79;21;117;PHP
+ablanco;Sevilla;Sevilla;27;79;198;95;Python
+mpvillafranca;Granada;Granada;8;79;0;1;JavaScript
 jesustxk;Almería, Spain;Almería;5;79;0;0;Java
-mpvillafranca;Granada;Granada;8;78;0;1;JavaScript
-Gandio;Cádiz Spain;Cádiz;4;78;0;0;Java
+LuisFcoOrtiz;Andalucia, Spain;Andalucía;2;79;0;0;Java
 jjsalinas;Granada, Spain;Granada;2;78;0;1;Python
 jjdenis;Málaga, Spain;Málaga;2;78;1;1;Python
+Corpexin;Algeciras (Cádiz);Cádiz;0;78;0;0;Java
 alejandronb;Sevilla;Sevilla;15;78;0;0;Python
-JaviSG91;Granada;Granada;0;78;0;0;JavaScript
-Samuc;Granada;Granada;1;78;0;0;JavaScript
-koji3;Graná, Spain;Granada;4;77;2;6;Shell
-edupg1;Granada (Spain);Granada;3;77;0;0;Java
-mjgr0013;Jaén;Jaén;1;76;0;0;PHP
-jrfern;Málaga;Málaga;3;76;0;6;Python
+koji3;Graná, Spain;Granada;4;77;2;7;Shell
+Griger;Granada;Granada;7;77;0;4;TeX
+javiergama8;Baza, Granada;Granada;0;77;1;0;Shell
 BLL75;Málaga;Málaga;4;76;2;3;PHP
-Zireck;Málaga, Spain;Málaga;0;76;4;123;Java and Perl
-Mangu93;Malaga, Andalusia.;Andalucía;8;76;2;35;Java
-svlog;Málaga;Málaga;0;76;0;0;Makefile
-javisr;Sevilla;Sevilla;6;76;3;7;JavaScript
 azpe;Granada Spain;Granada;0;76;0;0;PHP
-JacintoCC;Granada;Granada;17;75;7;2;C++
-lumley;Granada;Granada;5;75;3;15;Java
-Joseja8;Jaén(Jaén);Jaén;8;75;2;8;Java
-manuelprg;Málaga;Málaga;0;75;0;0;CSS
+molocohb;Granada, Spain;Granada;4;76;0;0;CSS
+gasparfm;Málaga;Málaga;12;76;10;69;C++
+deantares;Granada (Spain);Granada;22;76;10;10;Shell
+Mangu93;Malaga, Andalusia.;Andalucía;8;76;2;42;Java
+mjgr0013;Jaén;Jaén;1;76;0;0;PHP
+Joseja8;Jaén(Jaén);Jaén;9;75;2;8;Java
 benigala;seville - spain;Sevilla;0;75;0;0;
+manuelprg;Málaga;Málaga;0;75;0;0;CSS
 damalaga;Málaga;Málaga;4;75;1;0;Python
-javiergama8;Baza, Granada;Granada;0;74;1;0;Shell
-molocohb;Granada, Spain;Granada;4;74;0;0;CSS
-dodero;Cádiz;Cádiz;3;74;0;3;CSS
+adalsa91;Granada;Granada;0;74;0;1;Shell
+Gandio;Cádiz Spain;Cádiz;4;74;0;0;Java
 david-romero;Seville, Spain;Sevilla;0;74;0;1;Java
-Nerian;Seville, Spain;Sevilla;27;74;990;299;Ruby
 davilovick;Sevilla;Sevilla;7;74;0;5;Shell
-rafaelxavi;Málaga, Spain;Málaga;6;73;0;1;JavaScript and CSS
-manuellunaperez;Dos Hermanas (Sevilla);Sevilla;9;73;0;0;Python
-ainokila;Granada-Spain;Granada;5;73;6;2;C++
-zerasul;Almeria;Almería;8;73;3;6;Java
+dodero;Cádiz;Cádiz;3;74;0;3;CSS
+jrfern;Málaga;Málaga;3;73;0;6;Python
 fpalacioschaves;Málaga;Málaga;0;73;0;0;PHP
-Corpexin;Algeciras (Cádiz);Cádiz;0;72;0;0;Java
-jgallegoweb;Granada;Granada;5;72;0;0;PHP
-currix;Huelva (Spain);Huelva;1;72;3;2;Perl
+zerasul;Almeria;Almería;8;73;3;6;Java
+ainokila;Murcia-Granada-Spain;Granada;6;73;6;2;C++
+manuellunaperez;Dos Hermanas (Sevilla);Sevilla;9;73;0;0;Python
+Mangulomx;Jaen;Jaén;1;72;0;0;JavaScript
+javisr;Sevilla;Sevilla;6;72;3;7;JavaScript
+juangranadilla;Córdoba;Córdoba;3;72;0;45;Java and JavaScript
 javiermadueno;Córdoba;Córdoba;2;71;2;20;JavaScript
 calvellido;Villamartín (Andalucía);Andalucía;0;71;2;16;CSS
-adalsa91;Granada;Granada;0;71;0;1;Shell
-luisromangz;Seville, Spain;Sevilla;3;70;0;10;JavaScript
-alebupal;Granada;Granada;0;70;0;0;Java
-VictorCoronas;Granada, Spain;Granada;3;70;0;3;Python
-juangranadilla;Córdoba;Córdoba;3;69;0;45;Java and JavaScript
-JaviRubio;Granada;Granada;2;69;3;1;Python
-penyaskito;Sevilla, Spain;Sevilla;82;69;20;117;PHP
+jgallegoweb;Granada;Granada;5;71;0;0;PHP
+jmmauricio;Sevilla, Spain;Sevilla;3;70;0;2;Python
+ejimenez;Córdoba;Córdoba;9;70;1;13;Python
+Arasthel;Almería, España;Almería;59;70;643;69;Java
 FernandoGaliay;Sevilla, España.;Sevilla;0;69;2;13;Java
-ejimenez;Córdoba;Córdoba;9;68;1;13;Python
-JuanfranRobles;Granada (España);Granada;1;68;1;0;Java
-i32petoj;Córdoba, Spain;Córdoba;15;68;0;3;Java
-jmmauricio;Sevilla, Spain;Sevilla;3;68;0;2;Python
+edupg1;Granada (Spain);Granada;3;69;0;0;Java
+JaviRubio;Granada;Granada;2;69;3;1;Python
 raimundojimenez;Jerez de la Frontera - Cádiz - España (SPAIN);Cádiz;0;68;0;0;R
+AnabelGRios;Granada;Granada;11;68;0;3;C#
+JuanfranRobles;Granada (España);Granada;1;68;1;0;Java
+diegojmaldonado;Córdoba;Córdoba;5;68;0;69;Ruby
+i32petoj;Córdoba, Spain;Córdoba;15;68;0;3;Java
+ShinFDuran;Málaga (Spain);Málaga;0;68;0;0;JavaScript
+rafaelxavi;Málaga, Spain;Málaga;6;67;0;1;JavaScript and CSS
 abarrachina;Seville;Sevilla;5;67;4;7;PHP
-pacocp;Granada;Granada;3;67;0;12;Python
-drkameleon;Granada, España;Granada;10;66;37;25;Shell
-Arasthel;Almería, España;Almería;59;66;643;69;Java
 bogdananas;Granada Spain;Granada;2;66;1;1;HTML
+drkameleon;Granada, España;Granada;10;66;38;25;Shell
 MercAddons;Granada;Granada;12;66;2;0;Ruby and Java
-malfario;Granada;Granada;3;65;13;361;Shell
 Che931;Huelva;Huelva;0;65;0;0;Python
-ualjjcanada;Almería;Almería;2;65;0;0;Java
+ahdiaz;Seville, Spain;Sevilla;23;65;13;27;Shell
 andresgomezfrr;Sevilla;Sevilla;6;65;0;11;Java
-rubenlagus;Granada;Granada;13;64;52;11;Java
-Griger;Granada;Granada;8;64;0;4;TeX
-josearcosaneas;Granada;Granada;0;64;0;0;JavaScript
-ahdiaz;Seville, Spain;Sevilla;23;64;13;27;Shell
-LuisFcoOrtiz;Andalucia, Spain;Andalucía;1;63;0;0;PHP
-rlopc;Granada;Granada;4;62;0;0;R
-rephus;Málaga;Málaga;1;62;1;2;C and Arduino
+ualjjcanada;Almería;Almería;2;65;0;0;Java
+rubenlagus;Granada;Granada;14;64;56;11;Java
+roberquesada;Granada (Spain);Granada;15;64;0;6;Ruby
+drzippie;Sevilla, Spain;Sevilla;10;63;9;150;Go
+nelboudjay;Malaga, Spain;Málaga;0;63;1;0;Java
+srmf9;Granada;Granada;1;63;1;1;Python
+malfario;Granada;Granada;3;62;13;362;Shell
+navarrozuara;Córdoba;Córdoba;4;62;0;0;Java
+i32ropie;Cordoba, Spain.;Córdoba;10;62;4;13;Python
+VictorCoronas;Granada, Spain;Granada;3;62;0;3;Python
 hamena;Cádiz, Spain;Cádiz;4;62;0;0;C++
-Juanjdurillo;Innsbruck - Málaga;Málaga;2;61;0;0;Java
+rlopc;Granada;Granada;4;62;0;0;R
+rephus;Málaga;Málaga;1;61;1;2;C and Arduino
 vencejo;Almeria;Almería;9;61;2;16;Python
-j0sete;Málaga;Málaga;2;61;1;3;Java
+Juanjdurillo;Innsbruck - Málaga;Málaga;2;61;0;0;Java
+alebupal;Granada;Granada;0;61;0;0;Java
+rafaeling;Córdoba;Córdoba;2;61;0;0;Java
 magvugr;Granada;Granada;1;61;0;0;Python
-LuisGonzalez2014;Granada;Granada;1;60;0;0;C# and Java
-jotaraul;Málaga, Spain;Málaga;3;60;6;2;C++
-pedropena;Jaén, Spain;Jaén;6;60;13;5;C
+RadW2020;Almería, Spain;Almería;2;61;1;18;JavaScript
+josearcosaneas;Granada;Granada;0;60;0;0;JavaScript
 ignaciofatou;Ubrique;Cádiz;1;60;0;0;Java
-aleherse;Granada;Granada;11;59;3;160;PHP
-AnabelGRios;Granada;Granada;11;59;0;2;C#
-drubioa;Puerto Real;Cádiz;0;59;0;0;Java
+albertoqa;Granada, Spain;Granada;3;60;1;2;C++
+jotaraul;Málaga, Spain;Málaga;3;60;7;2;C++
+pedropena;Jaén, Spain;Jaén;6;60;13;5;C
 amolinasalazar;Granada, Spain;Granada;3;59;1;0;PHP
-Georgevik;Granada;Granada;1;59;0;0;Python
+Adrirc8;Granada, Spain;Granada;2;59;1;3;HTML
+miguelfervi;Granada, Spain;Granada;1;59;0;1;JavaScript
 reyic;GRANADA;Granada;2;59;0;0;Python
-MarcosJF;Granada (España);Granada;0;59;0;0;Shell
-alvaroroyo;Sevilla;Sevilla;1;58;0;0;Java and Visual Basic
-JMGuisadoG;Seville, Spain;Sevilla;3;58;0;0;Java
-PeRDy;Málaga;Málaga;5;58;3;0;Python
-Rauleinstein;Granada;Granada;2;58;0;1;CSS
+educorzo;Granada;Granada;3;58;0;0;Java
 makixun;Granada, Spain;Granada;11;58;0;1;C++
 Ariacus;Granada, Spain.;Granada;6;58;0;2;Shell
+PeRDy;Málaga;Málaga;5;58;3;0;Python
+alvaroroyo;Sevilla;Sevilla;1;58;0;0;Java and Visual Basic
+drubioa;Puerto Real;Cádiz;0;58;0;0;Java
+albertogallego;Córdoba, Spain;Córdoba;19;57;3;36;JavaScript
 pakitochus;Granada;Granada;2;57;0;15;Python and Matlab
-albertogallego;Córdoba, Spain;Córdoba;19;57;3;33;JavaScript
-JuanMNGA;Chiclana, Cádiz;Cádiz;9;56;1;5;Java
-RadW2020;Granada, Spain;Granada;2;56;1;18;JavaScript
-kharenzze;Granada, Spain;Granada;5;56;1;5;JavaScript
+salva83;Málaga;Málaga;0;57;0;0;JavaScript and CSS
+LuisSuall;Granada;Granada;9;57;1;1;Python and Shell
 vicmonmena;Sevilla;Sevilla;1;56;2;4;Java
+JuanMNGA;Chiclana, Cádiz;Cádiz;9;56;1;6;Java
+DavidRVi;Granada;Granada;1;56;0;2;C++
+kharenzze;Granada, Spain;Granada;5;56;1;5;JavaScript
 josemiguelmota;Cádiz;Cádiz;1;55;1;0;CSS
-JAClaveroGarcia;Málaga;Málaga;10;55;0;0;JavaScript
 J-Rios;Málaga, Spain;Málaga;1;55;3;4;Arduino
-criscosg;Sevilla;Sevilla;0;55;0;0;PHP
-juananruiz;Sevilla, Spain;Sevilla;2;55;3;49;PHP
+j0sete;Málaga;Málaga;2;55;1;3;Java
+cmorillo;Puente-Genil, Córdoba, Spain;Córdoba;2;55;0;1;
+JAClaveroGarcia;Málaga;Málaga;11;55;0;0;JavaScript
 bumxu;Almería, Spain;Almería;5;54;32;26;JavaScript
+jccuevas;Campus Científico Tecnológico de Linares;Jaén;4;54;0;0;Java and C
 salvatejero;Sevilla;Sevilla;2;54;11;1;Java
-miguelfervi;Granada, Spain;Granada;1;54;0;1;Python
 felvida;Cordoba-SPAIN;Córdoba;0;54;0;0;JavaScript
-pablogs9;Granada;Granada;2;54;3;0;HTML
-lingo;Granada, Spain.  Previously in Brighton, UK, Bilbao, Euskadi / España, Chiapas, México and New Zealand;Granada;16;53;85;40;JavaScript
-luishexen;Granada;Granada;0;53;0;0;HTML and JavaScript
+MarcosJF;Granada (España);Granada;0;53;0;0;Shell
 Rubenrod18;Spain, Cordoba;Córdoba;5;53;0;0;JavaScript
-Jick9536;Granada;Granada;2;53;2;0;Java
+juananruiz;Sevilla, Spain;Sevilla;2;53;3;49;PHP
+luishexen;Granada;Granada;0;53;0;0;HTML and JavaScript
+nachobit;GRANADA;Granada;1;53;0;0;JavaScript
+mafraba;Sevilla, Spain;Sevilla;0;53;1;1;Ruby
 j0taele;Malaga;Málaga;0;53;1;4;JavaScript
-laudisa93;Sevilla;Sevilla;2;53;0;0;Python
-josecamachop;Granada;Granada;3;53;4;0;Matlab
-educorzo;Granada;Granada;3;53;0;0;Java
-jemromerol;Granada, Spain;Granada;2;52;3;11;Python
-roberquesada;Granada (Spain);Granada;14;52;0;5;Ruby
-fabianvaccaro;Malaga, Spain;Málaga;0;52;0;0;C#
-Leontes;Granada, Spain;Granada;7;52;0;0;CMake
+pablogs9;Granada;Granada;2;53;3;0;HTML
+lingo;Granada, Spain.  Previously in Brighton, UK, Bilbao, Euskadi / España, Chiapas, México and New Zealand;Granada;16;53;85;40;JavaScript
+DavdRoman;Seville, Spain;Sevilla;127;53;1658;124;Ruby
+criscosg;Sevilla;Sevilla;0;53;0;0;PHP
 alextoni;Granada;Granada;3;52;0;0;
-DavdRoman;Seville, Spain;Sevilla;126;52;1651;117;Ruby
-roccozanni;Seville, Spain;Sevilla;8;51;20;22;JavaScript
+Leontes;Granada, Spain;Granada;9;52;0;0;CMake
+ehooo;Malaga (Spain);Málaga;6;52;1;6;Python
+fabianvaccaro;Malaga, Spain;Málaga;0;52;0;0;C#
+cristobalmedinalopez;Almería;Almería;7;52;0;7;Python
+josecamachop;Granada;Granada;3;52;4;0;Matlab
 ale91rf;Algeciras;Cádiz;1;51;0;0;Swift and Java
 carlosramosgonz;Cádiz, Spain;Cádiz;0;51;0;3;C++
+MarcosCobena;Sevilla;Sevilla;3;51;10;3;C#
+laudisa93;Sevilla;Sevilla;2;51;0;0;Python
 jfranguerrero;Granada (Spain);Granada;1;51;0;0;
-ehooo;Malaga (Spain);Málaga;6;51;1;6;Python
+AntonioPerezRivera;Jerez de la Frontera, Cádiz;Cádiz;2;51;0;0;Python
 Montagon;Cádiz;Cádiz;16;51;9;13;JavaScript
 mwlmc;Granada, España;Granada;1;51;0;0;Shell
-AntonioPerezRivera;Jerez de la Frontera, Cádiz;Cádiz;2;51;0;0;Python
+jmcampmany;Cádiz;Cádiz;3;50;0;40;Shell
 jrbalsas;Jaén - Spain;Jaén;13;50;5;35;Java
-pablolmedorado;Sevilla;Sevilla;0;50;0;9;JavaScript
-MarcosCobena;Sevilla;Sevilla;3;50;5;2;C#
 albertobeiz;Sevilla, Spain;Sevilla;9;50;0;1;JavaScript
-DavidRVi;Granada;Granada;1;50;0;2;C++
 jmml97;Granada, España;Granada;5;50;7;1;HTML
-miguelprados;Seville, Spain;Sevilla;0;49;0;0;
+pabagan;Córdoba, Spain;Córdoba;1;50;0;0;JavaScript
+Rauleinstein;Granada;Granada;2;49;0;1;CSS
 hawk31;Seville, Spain;Sevilla;3;49;8;4;C
-navarrozuara;Córdoba;Córdoba;4;49;0;0;Java
-mafraba;Sevilla, Spain;Sevilla;0;49;1;1;Ruby
-ualabecerra;Almeria;Almería;3;48;0;0;XQuery
-jccuevas;Campus Científico Tecnológico de Linares;Jaén;4;48;0;0;Java and C
-cristobalmedinalopez;Almería;Almería;7;48;0;7;Python
-exodous;Granada;Granada;0;48;0;1;Arduino
-jmrosell;Granada, Spain;Granada;1;48;0;0;Java
-amesclir;Seville, Spain;Sevilla;11;48;0;1;R and HTML
+ppcano;Huelva (ES), Stockholm (SE);Huelva;20;49;86;135;JavaScript
+miguelprados;Seville, Spain;Sevilla;0;49;0;0;Ruby
 crisstosso;Medina Sidonia, Cádiz;Cádiz;0;48;1;0;Shell
+Gaedr;Granada, Spain;Granada;6;48;2;2;Java
+SergioPadilla;Granada, Spain;Granada;9;48;0;1;HTML
+exodous;Granada;Granada;0;48;0;1;Arduino
+amesclir;Seville, Spain;Sevilla;11;48;0;1;R and HTML
+pablolmedorado;Sevilla;Sevilla;0;48;0;9;JavaScript
+ElenaTellez;Málaga;Málaga;5;48;0;2;Java
+ualabecerra;Almeria;Almería;3;48;0;0;XQuery
+Georgevik;Granada;Granada;1;47;0;0;Python
 kartojal;Málaga, Spain;Málaga;2;47;3;1;Shell and ApacheConf
 Totemika;Málaga, Spain;Málaga;34;47;1;26;C#
-ACruz91;Córdoba;Córdoba;3;47;0;0;HTML
-marcnava13;Granada, España;Granada;2;47;0;10;JavaScript
-Olivencia;Granada, Spain;Granada;1;47;0;0;C++
-nachobit;GRANADA;Granada;1;47;0;0;JavaScript
-SergioXp;Sevilla;Sevilla;3;47;0;0;Makefile
 sidi-mohamed;sevilla;Sevilla;0;47;0;0;Python and Shell
-LuqueDaniel;Córdoba - Spain;Córdoba;5;46;25;77;Python
-ElenaTellez;Málaga;Málaga;5;46;0;2;Java
+Olivencia;Granada, Spain;Granada;1;47;0;0;C++
+ACruz91;Córdoba;Córdoba;3;47;0;0;HTML
+marcnava13;Granada, España;Granada;2;47;0;11;JavaScript
+afmorris;Seville, OH;Sevilla;2;46;0;0;C#
 CesarCamposS;Huelva;Huelva;0;46;0;0;JavaScript
+LuqueDaniel;Córdoba - Spain;Córdoba;5;46;25;77;Python
 pebosch;Granada, Spain;Granada;4;46;17;14;Java
-RNogales94;Granada, Spain;Granada;19;46;2;13;Java
-gilcu2;Malaga;Málaga;0;45;0;1;Scala
+Sinkmanu;Malaga, Spain;Málaga;7;45;8;82;Python
+CarlosML27;Mollina, Málaga, Spain;Málaga;5;45;0;0;Java
 crlorenzo7;granada;Granada;0;45;0;0;Python
 BraulioV;Granada, Spain;Granada;12;45;5;9;Python
-ppcano;Huelva (ES), Stockholm (SE);Huelva;20;45;86;135;JavaScript
-SergioPadilla;Granada, Spain;Granada;8;45;0;1;HTML
-Sinkmanu;Malaga, Spain;Málaga;7;45;8;81;Python
-CarlosML27;Mollina, Málaga, Spain;Málaga;5;45;0;0;Java
-cpu82;Granada, Spain;Granada;6;44;0;9;Shell
-Gaedr;Granada, Spain;Granada;4;44;2;2;Java
+Caballerog;Málaga;Málaga;12;45;6;13;JavaScript
+gilcu2;Malaga;Málaga;0;45;0;1;Scala
 Luisre;Granada;Granada;1;44;1;2;Java and HTML
-jlyoung;Málaga, Spain;Málaga;8;44;2;1;Python
+cpu82;Granada, Spain;Granada;6;44;0;10;Makefile
+jlyoung;Málaga, Spain;Málaga;8;44;2;2;Python
 DrankoLQ;Córdoba, Spain;Córdoba;6;44;1;73;CSS
-Setibi;Malaga;Málaga;0;43;1;2;JavaScript
+ST2Labs;Cordoba (Spain);Córdoba;2;44;1;18;Python
+flopezcanti;Sevilla, The world!;Sevilla;7;44;1;15;JavaScript
 Jose-Luis;Sevilla;Sevilla;0;43;0;5;VimL
-elotrojj;Granada, Andalucía, Spain, Europe;Andalucía;1;43;0;0;
-felmoltor;Madrid / Jaén;Jaén;20;43;36;14;Ruby
+pablo33;Sevilla;Sevilla;0;43;2;2;Python and Shell
 MAInformatico;Granada;Granada;2;43;0;1;Python
+LuisGonzalez2014;Granada;Granada;3;43;1;0;C# and Java
 aklxao2;Jaén, Spain;Jaén;0;43;0;0;R
-jmcampmany;Cádiz;Cádiz;3;43;0;34;Shell and Python
-visego;Málaga;Málaga;1;43;0;3;Java
-elaget;Sevilla;Sevilla;2;42;0;21;
+Setibi;Malaga;Málaga;0;43;1;2;JavaScript
+visego;Málaga;Málaga;1;43;1;3;Java
+elotrojj;Granada, Andalucía, Spain, Europe;Andalucía;1;43;0;0;
+jmrosell;Granada, Spain;Granada;1;43;0;0;Java
 reddevilrau;Cádiz, Spain;Cádiz;8;42;1;6;Shell
+AlbertoGarciaSanchez;Alcalá de Guadaíra, Sevilla;Sevilla;2;42;0;1;Python
 miguelpedregosa;Granada (Spain);Granada;0;42;5;42;JavaScript
-deibit;Málaga, Spain;Málaga;22;42;75;230;Python
-pabagan;Córdoba, Spain;Córdoba;1;42;0;0;JavaScript
-pablo33;Sevilla;Sevilla;0;41;2;2;Python and Shell
-p92camcj;Córdoba, España;Córdoba;7;41;4;2;Python
-NachE;Granada;Granada;9;41;6;25;Python
-drmillan;Seville;Sevilla;10;41;11;38;Java
-bi0xid;Sevilla, Spain;Sevilla;24;41;24;71;PHP
+deibit;Málaga, Spain;Málaga;22;42;75;231;Python
+RNogales94;Granada, Spain;Granada;19;42;2;13;Java
+elaget;Sevilla;Sevilla;2;42;0;21;
 System25;Sevilla;Sevilla;1;41;0;0;Ruby
-Sergio22;Sevilla;Sevilla;0;41;0;0;Python
-LuisSuall;Granada;Granada;9;41;1;1;Python and Shell
+bi0xid;Sevilla, Spain;Sevilla;24;41;24;71;PHP
+NachE;Granada;Granada;9;41;6;25;Python
+p92camcj;Córdoba, España;Córdoba;7;41;4;2;Python
 javierburongarcia;Cordoba, Spain;Córdoba;20;40;7;167;JavaScript
-srmf9;Granada;Granada;1;40;1;1;Python
-Darhen89;Jerez de la Frontera;Cádiz;0;40;0;0;HTML
-serrodcal;Seville;Sevilla;3;40;2;8;Java
-jorgejbarra;Sevilla;Sevilla;3;40;0;5;Java
 emilioramirez;Córdoba;Córdoba;8;40;5;19;Python
 alvaromoo;Córdoba, España;Córdoba;0;40;0;1;CSS
-jjrr1984;Granada, Spain;Granada;0;39;0;2;HTML
+jorgejbarra;Sevilla;Sevilla;3;40;0;5;Java
+Darhen89;Jerez de la Frontera;Cádiz;0;40;0;0;HTML
+oslugr;Granada, SPAIN;Granada;90;39;115;12;Shell
+serrodcal;Seville;Sevilla;3;39;2;9;Java
 emoronayuso;Sevilla;Sevilla;15;39;0;0;C
+aleherse;Granada;Granada;11;39;3;161;PHP
+jjrr1984;Granada, Spain;Granada;0;39;0;2;HTML
+jonasurbano;Almería (Spain);Almería;2;39;0;66;Java
 jjimenezlopez;Granada, Spain;Granada;11;39;11;106;JavaScript
-oslugr;Granada, SPAIN;Granada;88;38;115;12;Shell
 rjgarciam;San Sebastián/Seville, Spain;Sevilla;3;38;0;8;HTML and CSS
-xuspitin;Almería;Almería;2;38;0;0;HTML
 deidigitalis;Seville, Spain;Sevilla;0;38;1;1;C# and HTML
-fmsanjuan;Sevilla, Spain;Sevilla;2;38;0;29;Java
-Schbk77;Granada;Granada;2;38;0;7;Java
+xuspitin;Almería;Almería;2;38;0;0;HTML
+felmoltor;Madrid / Jaén;Jaén;20;37;36;14;Ruby
+jnillo;Sevilla;Sevilla;22;37;11;39;Ruby
+teritriano;Spain, Jerez;Cádiz;1;37;0;1;C++
+lupidan;Granada, Spain;Granada;30;37;209;9;Objective-C
+Cerv1;Granada;Granada;3;37;1;3;C++
+pirobtumen;Granada, Spain;Granada;1;37;0;1;JavaScript
 jesusaguilera;Andalucía;Andalucía;1;37;0;0;JavaScript
 almome;El Puerto de Santa María, Cádiz;Cádiz;2;37;0;0;Python
-teritriano;Spain, Jerez;Cádiz;1;37;0;1;C++
-jnillo;Sevilla;Sevilla;22;37;11;38;Ruby
-lupidan;Granada, Spain;Granada;30;37;210;9;Objective-C
-flopezcanti;Sevilla, The world!;Sevilla;3;37;1;14;JavaScript
-villamany;Cadiz, Spain;Cádiz;5;37;10;1;C#
-jonasurbano;Almería (Spain);Almería;2;37;0;66;Java
-hector9;Huelva;Huelva;0;36;0;0;HTML
-lyon-17;Andalucia, Spain;Andalucía;0;36;0;0;CSS
-CristinaMR;Seville, Brussels;Sevilla;2;36;0;1;Shell
-tato469;Córdoba, Spain;Córdoba;8;36;46;16;Objective-C
-jesuschicano;Cordoba (Spain);Córdoba;4;36;2;2;CSS
 Surt;Granada;Granada;10;36;53;113;PHP
 jruizp82;Almería, Spain;Almería;0;36;0;0;R
-jotaperamez;Almería, Spain;Almería;5;36;0;2;C#
-moiarcsan;Sevilla;Sevilla;13;36;2;7;JavaScript
+tato469;Córdoba, Spain;Córdoba;8;36;46;16;Objective-C
+jesuschicano;Cordoba (Spain);Córdoba;4;36;2;2;CSS
+hector9;Huelva;Huelva;0;36;0;0;HTML
+lyon-17;Andalucia, Spain;Andalucía;0;36;0;0;CSS
 sbellidov;Malaga (Spain);Málaga;0;36;0;1;JavaScript and CSS
-KashaMalaga;Málaga, Spain;Málaga;10;36;125;1;Shell
-afmorris;Seville, OH;Sevilla;2;36;0;0;C#
-jcheca;Cordoba - Spain;Córdoba;0;35;0;0;HTML
-robertohueso;Granada, Spain;Granada;12;35;0;7;Makefile
+villamany;Cadiz, Spain;Cádiz;5;36;10;1;C#
+jotaperamez;Almería, Spain;Almería;5;36;0;2;C#
+CristinaMR;Seville, Brussels;Sevilla;2;36;0;1;Shell
+fmsanjuan;Sevilla, Spain;Sevilla;2;36;0;29;Java
+dtrillo;Córdoba - Spain;Córdoba;5;35;1;66;Python
 cgp989;cordoba;Córdoba;1;35;0;0;ApacheConf
-miguelcent;Sevilla, Spain;Sevilla;0;35;0;0;Java
+VaneCGo;Málaga, España;Málaga;16;35;1;219;Ruby
+robertohueso;Granada, Spain;Granada;12;35;0;9;Makefile
 gdabi;Las Lagunillas Campus, Jaén, Spain;Jaén;6;35;0;1;Java
-VaneCGo;Málaga, España;Málaga;16;35;1;214;Ruby
-dtrillo;Córdoba - Spain;Córdoba;5;35;1;67;Python
+miguelcent;Sevilla, Spain;Sevilla;0;35;0;0;Java
 jgdaimiel;Sevilla;Sevilla;1;35;0;1;JavaScript
-jantequera;Seville;Sevilla;17;34;0;15;Ruby
-enriquemgc;Sevilla, Spain;Sevilla;7;34;0;248;JavaScript
-MartaAndres;Granada, Spain;Granada;12;34;0;5;Makefile
-Samu92;Granada;Granada;6;34;0;3;Shell
-AlbertoGarciaSanchez;Alcalá de Guadaíra, Sevilla;Sevilla;2;34;0;1;Python
+jantequera;Seville;Sevilla;18;34;0;15;Ruby
 jlbellido;Sevilla;Sevilla;16;34;5;0;PHP
-GuilledelaCruz;Sevilla, Spain;Sevilla;10;34;2;0;Java
-marcoslgm;Sevilla;Sevilla;5;33;0;4;JavaScript
-Jesux11;Granada (España);Granada;0;33;0;0;Shell
-Jesusmcs;Granada;Granada;2;33;0;0;JavaScript
+GuilledelaCruz;Sevilla, Spain;Sevilla;11;34;2;0;Java
+enriquemgc;Sevilla, Spain;Sevilla;7;34;0;248;JavaScript
+moiarcsan;Sevilla;Sevilla;13;34;2;7;JavaScript
+dpinelo;Seville, Spain;Sevilla;0;34;2;3;QMake
+WeekendArchaeo;Málaga (Spain);Málaga;1;34;1;0;Arduino
+MartaAndres;Granada, Spain;Granada;12;34;0;5;Makefile
 NestorsImagination;Granada - España;Granada;0;33;0;0;
-manuparra;Granada, Spain;Granada;5;33;0;2;TeX
-dacioleal;Cádiz, Spain;Cádiz;5;33;0;0;Objective-C and Swift
-Firenz;Cádiz (Spain);Cádiz;8;33;4;7;C#
-josemanso;Cádiz;Cádiz;0;33;0;1;JavaScript
 dejandomarcas;Sevilla;Sevilla;5;33;3;286;JavaScript
-MiguelAngelCollado;Sevilla;Sevilla;0;33;0;0;R
+Firenz;Cádiz (Spain);Cádiz;8;33;4;7;C#
+dacioleal;Cádiz, Spain;Cádiz;5;33;0;0;Objective-C and Swift
+manuparra;Granada, Spain;Granada;5;33;0;2;TeX
 pescabias;Seville;Sevilla;1;33;0;1;Objective-C
-aaroca;Sevilla;Sevilla;4;32;9;17;HTML
-guillermijas;Málaga, Spain;Málaga;1;32;1;1;Java and C#
-Antoniolm;Granada;Granada;3;32;0;0;
-nitehack;Spain, Granada;Granada;11;32;4;20;C
-Cerv1;Granada;Granada;3;32;2;1;C++
+marcoslgm;Sevilla;Sevilla;5;33;0;4;JavaScript
+MiguelAngelCollado;Sevilla;Sevilla;0;33;0;0;R
+aaroca;Sevilla;Sevilla;4;33;9;18;HTML
+ppgllrd;Málaga, Spain;Málaga;2;33;4;0;Haskell
+pramos7;Sevilla, España;Sevilla;0;32;0;0;JavaScript
 AlejandroReBa;Marbella (Málaga);Málaga;5;32;0;1;Java
-davidsf;Málaga;Málaga;1;32;9;9;Shell
+david11988;Córdoba;Córdoba;4;32;0;0;Python
+Antoniolm;Granada;Granada;3;32;0;0;
+Jick9536;Granada;Granada;2;32;2;0;Java
+davidsf;Málaga;Málaga;1;32;18;9;Shell
+vengador;Jerez de la Frontera;Cádiz;24;32;1;6;JavaScript
+guillermijas;Málaga, Spain;Málaga;1;32;1;1;Java and C#
 MrWeeeee;Sevilla, Spain;Sevilla;4;32;0;19;Java
 JavierJF;Sevilla, España;Sevilla;10;32;3;2;C++
-pramos7;Sevilla, España;Sevilla;0;32;0;0;JavaScript
 fernandogmar;Sevilla, Spain;Sevilla;5;32;115;21;JavaScript
-vengador;Jerez de la Frontera;Cádiz;24;32;1;6;JavaScript
-david11988;Córdoba;Córdoba;4;32;0;0;Python
+IvanoAlvino;Granada, Spain;Granada;0;31;2;6;Java
+mitomono;Granada;Granada;4;31;0;0;Java
+Jesux11;Granada (España);Granada;0;31;0;0;Shell
+Samu92;Granada;Granada;6;31;0;3;Shell
+jarodriguezg;Tarifa;Cádiz;0;31;0;2;CSS
 sergiopenjob;MALAGA, SPAIN;Málaga;0;31;0;0;Java and VimL
-dpinelo;Seville, Spain;Sevilla;0;31;2;3;QMake
-ppgllrd;Málaga, Spain;Málaga;2;31;4;0;Haskell
-IvanoAlvino;Granada, Spain;Granada;0;31;2;5;Java
-Caes95;Montería, Córdoba - Colombia.;Córdoba;8;30;2;11;JavaScript and Ruby
-valenciaj;Mijas Costa, Málaga, Spain;Málaga;1;30;0;8;Perl and PHP
-guillerodriguez;Málaga, Spain;Málaga;0;30;0;33;JavaScript
-sergiowebberty;Málaga;Málaga;0;30;0;0;CSS
-krachenko;Seville,Spain;Sevilla;1;30;2;4;C++
-joscani;Córdoba, Spain;Córdoba;7;30;2;11;R
-SergioRevueltas;Almería, Spain;Almería;7;30;3;6;CSS
-dpradov;Sevilla, Spain;Sevilla;0;30;10;0;Batchfile
-saradelrio;Granada;Granada;5;30;0;0;Java
+nievesvvd;Granada, Spain;Granada;6;30;0;0;
 felipet;Granada, Spain;Granada;2;30;1;27;C
-creativo;Cadiz;Cádiz;0;30;1;2;JavaScript
+nitehack;Spain, Granada;Granada;11;30;4;21;C
 juanolalla;Granada, Spain;Granada;4;30;5;1;JavaScript
-marlenelis;Granada;Granada;0;29;4;4;C++
-tresdk;Granada, Spain;Granada;0;29;0;4;Ruby
-jacobodeharo;Granada, Spain;Granada;5;29;11;7;C++
-damenla;Jerez de la Frontera;Cádiz;1;29;0;0;JavaScript and CSS
+SergioRevueltas;Almería, Spain;Almería;7;30;3;6;CSS
+sergiowebberty;Málaga;Málaga;0;30;0;0;CSS
+juniorcastillo;malaga;Málaga;7;30;0;0;Java
+BrandConstantin;Málaga;Málaga;10;30;0;0;HTML and Java
+guillerodriguez;Málaga, Spain;Málaga;0;30;0;33;JavaScript
+valenciaj;Mijas Costa, Málaga, Spain;Málaga;1;30;0;8;Perl and PHP
+Caes95;Montería, Córdoba - Colombia.;Córdoba;8;30;2;17;JavaScript and Ruby
+dpradov;Sevilla, Spain;Sevilla;0;30;10;0;Batchfile
+creativo;Cadiz;Cádiz;0;30;1;2;JavaScript
+yazquez;Spain, Seville;Sevilla;0;30;0;0;Java and HTML
+saradelrio;Granada;Granada;6;30;0;0;Java
+krachenko;Seville,Spain;Sevilla;1;30;2;4;C++
+Schbk77;Granada;Granada;2;30;0;7;Java
 klomoli;Granada, Spain;Granada;5;29;1;62;JavaScript
+marlenelis;Granada;Granada;0;29;4;4;C++
+jacobodeharo;Granada, Spain;Granada;5;29;11;7;C++
+Billygaliano;Jaén;Jaén;0;29;0;0;Java
+damenla;Jerez de la Frontera;Cádiz;1;29;0;0;JavaScript and CSS
 juanconde;Sevilla (Spain);Sevilla;0;29;0;0;Ruby
-ivanportillo;Córdoba, Spain;Córdoba;18;28;4;20;JavaScript
-dariomolina;Cordoba;Córdoba;3;28;0;0;C++
-Kinnonii;Córdoba, Spain;Córdoba;0;28;1;0;Java
-jrjimenezr;Almería;Almería;1;28;0;0;JavaScript
+cosmopod;Seville (Spain);Sevilla;9;28;13;5;C#
 gabrifdez89;Jaén (Spain);Jaén;4;28;0;3;JavaScript
-rcmorano;Seville;Sevilla;31;28;63;58;Shell
-jadiez;Sevilla;Sevilla;0;28;0;0;JavaScript and CSS
 fracalcar;Jerez de La Frontera;Cádiz;0;28;0;0;
+victoriano;Granada, Spain;Granada;46;28;15;473;JavaScript
+Kinnonii;Córdoba, Spain;Córdoba;0;28;1;0;Java
+ivanportillo;Córdoba, Spain;Córdoba;18;28;4;20;JavaScript
+jadiez;Sevilla;Sevilla;0;28;0;0;JavaScript and CSS
 franciscotrillo;Gines / Sevilla;Sevilla;2;28;0;1;Java and XML
 manueltoscanoferrera;Seville, Andalusia, Spain;Andalucía;1;28;1;0;Java
-jiparis;Seville;Sevilla;15;27;16;836;Java
-cosmopod;Seville (Spain);Sevilla;9;27;13;5;C#
-bodypheo;Málaga, Andalucía,Spain;Andalucía;5;27;3;54;Python
+jrjimenezr;Almería;Almería;1;28;0;0;JavaScript
+rgomezlabra;Sevilla;Sevilla;0;27;0;0;JavaScript and CSS
 Gafeju;Almería (Spain);Almería;1;27;0;0;Python
-arauzo;Cordoba (Spain);Córdoba;2;27;0;1;JavaScript
-jedelwey;San José de la Rinconada (Sevilla);Sevilla;3;27;3;5;CSS
-juniorcastillo;malaga;Málaga;6;27;0;0;Java
+jiparis;Seville;Sevilla;15;27;16;838;Java
+ffgiraldez;Sevilla, Spain;Sevilla;17;27;136;46;Java
+rcmorano;Seville;Sevilla;31;27;63;58;Shell
+bodypheo;Málaga, Andalucía,Spain;Andalucía;6;27;3;54;Python
+vicenteherrera;Sevilla, Spain;Sevilla;1;27;1;13;JavaScript
+jmherruzo;Añora, Córdoba;Córdoba;2;27;0;4;C
+arauzo;Cordoba (Spain);Córdoba;2;27;1;1;JavaScript
 LuisRuizDelFresno;Málaga, Spain;Málaga;0;27;0;0;R
 Marsupio;Málaga;Málaga;0;27;0;3;CSS
-rgomezlabra;Sevilla;Sevilla;0;27;0;0;JavaScript and CSS
-vicenteherrera;Sevilla, Spain;Sevilla;1;27;1;13;JavaScript
-Rafaesp;Sevilla, España;Sevilla;2;26;9;15;Java
-kingoodie;Sevilla;Sevilla;1;26;2;5;HTML
-frandai;Granada;Granada;2;26;1;0;Shell
-victoriano;Granada, Spain;Granada;45;26;15;472;JavaScript
-nRaiker;Granada;Granada;3;26;0;0;
-dscdac;Granada;Granada;2;26;0;0;JavaScript
-gbvalor;Ogijares - Granada (Spain);Granada;1;26;2;0;C and CMake
-jmherruzo;Añora, Córdoba;Córdoba;2;26;0;4;C
-juanrmn;Seville, Spain;Sevilla;4;26;54;45;Python
-ernestoperinan;Cádiz;Cádiz;1;26;0;0;Puppet
-nochemax;Cadiz España;Cádiz;1;26;3;3;Arduino
-Gamxini;Jerez de la Frontera;Cádiz;4;26;0;1;Python
+dscdac;Granada;Granada;3;26;0;0;JavaScript
 goyoac;Málaga (Spain);Málaga;0;26;0;1;R
-Josan-Coba;Granada, Spain, Europe;Granada;2;25;0;10;HTML
-josecsh;Granada;Granada;1;25;0;1;Shell
-Maverick94;Spain, Granada;Granada;4;25;0;0;C++ and Makefile
-omarsotillo;Córdoba;Córdoba;18;25;1;20;CSS
-froyster;Málaga, Spain;Málaga;0;25;0;1;CSS
-dariogf;Malaga;Málaga;2;25;18;13;Ruby
-mgarenas;Granada-Spain;Granada;6;25;1;1;Shell
+gbvalor;Ogijares - Granada (Spain);Granada;1;26;2;0;C and CMake
+balate;Granada-Málaga. Spain;Granada;0;26;2;1;JavaScript
+ernestoperinan;Cádiz;Cádiz;1;26;0;0;Puppet
+Gamxini;Jerez de la Frontera;Cádiz;4;26;0;1;Python
+nochemax;Cadiz España;Cádiz;1;26;3;3;Arduino
+kingoodie;Sevilla;Sevilla;1;26;2;5;HTML
+nRaiker;Granada;Granada;3;26;0;0;
+juanrmn;Seville, Spain;Sevilla;4;26;54;46;Python
 lulivi;Granada;Granada;4;25;0;1;Python
 olmo;Granada, Spain;Granada;3;25;9;6;JavaScript
+xexugarcia95;Armilla - Granada;Granada;0;25;0;0;C
+Maverick94;Spain, Granada;Granada;4;25;0;0;C++ and Makefile
 sergiogm93;Granada;Granada;0;25;0;0;HTML and JavaScript
-jmescpos;Sevilla;Sevilla;4;25;0;0;Python
+dariogf;Malaga;Málaga;2;25;18;13;Ruby
+omarsotillo;Córdoba;Córdoba;18;25;1;20;CSS
+froyster;Málaga, Spain;Málaga;0;25;0;1;CSS
+drmillan;Seville;Sevilla;10;25;11;39;Java
 fjcarreterox;Seville, Spain;Sevilla;6;25;0;3;PHP
-jlsalvador;Sevilla. España (Spain).;Sevilla;5;25;4;29;JavaScript
-Lifka;Granada;Granada;6;24;0;9;C
-Manuel-Jesus;Los Palacios y Villafranca, Sevilla;Sevilla;18;24;0;0;Python and Shell
-JMPostigo;Sevilla;Sevilla;0;24;1;0;C++
-ismaelhamed;Sevilla, Spain;Sevilla;2;24;0;90;C#
-ffgiraldez;Sevilla, Spain;Sevilla;14;24;40;47;Java
-Joncy;Seville;Sevilla;5;24;1;2;JavaScript
-Pablo126;Granada;Granada;4;24;0;0;Groovy
-Tedezed;Utrera (Sevilla);Sevilla;15;24;1;13;Python
-ekiscrim;Granada, Spain;Granada;5;24;0;14;CSS
-BrandConstantin;Málaga;Málaga;10;24;0;0;HTML and Java
-nandosola;Málaga, Spain;Málaga;27;24;12;98;Ruby
-dagohe;Malaga (Spain);Málaga;0;24;0;0;Rust
+jlsalvador;Sevilla. España (Spain).;Sevilla;5;25;4;30;JavaScript
 victor-ferrer;Málaga, Spain;Málaga;1;24;4;8;Java
-Eudaric;Granada;Granada;7;24;0;1;Python
+ekiscrim;Granada, Spain;Granada;5;24;0;14;CSS
+dagohe;Malaga (Spain);Málaga;0;24;0;0;Rust
+flparedes;Huelva - Spain;Huelva;0;24;0;0;Java
+Joncy;Seville;Sevilla;5;24;1;2;JavaScript
+Tedezed;Utrera (Sevilla);Sevilla;15;24;1;13;Python
+JMPostigo;Sevilla;Sevilla;0;24;1;0;C++
+Manuel-Jesus;Los Palacios y Villafranca, Sevilla;Sevilla;18;24;0;0;Python and Shell
+jcdotnet;Málaga;Málaga;3;24;0;3;JavaScript
+dariomolina;Cordoba;Córdoba;3;24;0;0;C++
+nandosola;Málaga, Spain;Málaga;27;24;12;98;Ruby
+Tonylu11;Córdoba, Andalucia, España;Andalucía;3;24;0;1;Java
 andresmaeso;Granada;Granada;2;24;0;0;PHP
-jh2odo;Spain, Almería;Almería;2;23;1;5;PHP
-AlbertoCejas;Cádiz;Cádiz;6;23;8;7;Java
-FPerezP;Chiclana de la Frontera;Cádiz;23;23;12;33;CSS
+josecsh;Granada;Granada;1;24;0;1;Shell
+Eudaric;Granada;Granada;8;24;0;1;Python
+Pablo126;Granada;Granada;4;24;0;0;Groovy
+frandai;Granada;Granada;2;24;1;0;Shell
+jedelwey;San José de la Rinconada (Sevilla);Sevilla;3;23;3;5;CSS
 JJLongoria;Malaga;Málaga;0;23;0;0;
-alejandrocq;Jaén/Granada - España;Granada;1;23;0;0;Java
+alep;Córdoba;Córdoba;17;23;6;58;Python
+asermax;Córdoba;Córdoba;4;23;23;32;Python
 i12maroa;La Carlota (Córdoba) & Córdoba;Córdoba;0;23;0;0;
-alep;Córdoba;Córdoba;17;23;6;55;Python
-xnandersson;Malaga;Málaga;5;23;5;2;Shell
-WeekendArchaeo;Málaga (Spain);Málaga;1;23;1;0;Arduino
-0x;Málaga, Spain;Málaga;2;23;1;1;CSS
-manuelvelez;Malaga;Málaga;0;23;0;0;Cucumber
-augsalmur;Sevilla;Sevilla;1;23;0;0;
-Tonylu11;Córdoba, Andalucia, España;Andalucía;3;23;0;1;Java
-flparedes;Huelva - Spain;Huelva;0;23;0;0;Java
+Rafaesp;Sevilla, España;Sevilla;2;23;9;15;Java
+KashaMalaga;Málaga, Spain;Málaga;10;23;126;1;Shell
 BeardOverflow;Jaén, Andalucía, España;Andalucía;1;23;1;1;Shell
-tarsys;Almería;Almería;0;22;0;1;Java
-CristinaHG;Granada;Granada;3;22;0;0;R
-balate;Granada-Málaga. Spain;Granada;0;22;2;1;JavaScript
-Lynares;Granada;Granada;0;22;0;0;
-asermax;Córdoba;Córdoba;4;22;23;31;Python
-ejimz;Sevilla;Sevilla;21;22;32;8;Ruby
-i5513;Sevilla;Sevilla;0;22;5;5;Perl
-jaime-rey;sevilla;Sevilla;0;22;1;1;Java
-jmjurado23;Córdoba;Córdoba;2;22;6;7;Java
+jh2odo;Spain, Almería;Almería;2;23;1;5;PHP
+FPerezP;Chiclana de la Frontera;Cádiz;23;23;12;33;CSS
+manuelvelez;Malaga;Málaga;0;23;0;0;Cucumber
+xnandersson;Malaga;Málaga;5;23;5;2;Shell
+0x;Málaga, Spain;Málaga;2;23;1;1;CSS
+augsalmur;Sevilla;Sevilla;1;23;0;0;
+migueloop;Seville;Sevilla;1;23;2;3;JavaScript
+alejandrocq;Jaén/Granada - España;Granada;1;23;0;0;Java
+Jesusmcs;Granada;Granada;2;23;0;0;JavaScript
 adsuar;Sevilla, Spain;Sevilla;0;22;0;0;R
-juancroldan;Sevilla, Spain;Sevilla;1;22;1;1;Python
-ACNestor;Seville, Spain;Sevilla;0;22;0;0;R
-JaviToro;Sevilla;Sevilla;0;22;0;0;PHP
-jmchia;Andalucía;Andalucía;4;22;2;11;Python
-WanManolo;Granada;Granada;2;22;8;7;JavaScript
-xexugarcia95;Armilla - Granada;Granada;0;22;0;0;C
+WanManolo;Granada;Granada;2;22;4;7;JavaScript
+CristinaHG;Granada;Granada;5;22;0;0;R
+AlbertoCejas;Cádiz;Cádiz;6;22;8;7;Java
+i5513;Sevilla;Sevilla;0;22;5;5;Perl
 the-mentalaist;Málaga;Málaga;1;22;0;1;Eagle and Arduino
-mgoncas;Sevilla;Sevilla;0;21;0;0;PHP
-migueloop;Seville;Sevilla;1;21;1;2;JavaScript
-lucbpz;Sevilla, Spain;Sevilla;1;21;2;0;Matlab
+jmjurado23;Córdoba;Córdoba;2;22;3;7;Java
+Lynares;Granada;Granada;0;22;0;0;
+ACNestor;Seville, Spain;Sevilla;0;22;0;0;R
+jaime-rey;sevilla;Sevilla;0;22;1;1;Java
+JaviToro;Sevilla;Sevilla;0;22;0;0;PHP
+jesmg;Almería, Spain;Almería;4;22;1;0;HTML
+tarsys;Almería;Almería;0;22;0;1;Java
+jmchia;Andalucía;Andalucía;4;22;2;11;Python
 fsancho;Sevilla, España;Sevilla;2;21;1;5;NetLogo
+ismaelhamed;Sevilla, Spain;Sevilla;2;21;0;90;C#
 gabrigm;Granada;Granada;0;21;0;0;
-irfaelo;Cádiz;Cádiz;0;21;0;0;PHP
-rafaeling;Córdoba;Córdoba;2;21;0;0;Java
 alvaroziqar;Granada (Spain);Granada;0;21;0;0;CSS
-jrgonzalezg;Granada, Spain;Granada;9;20;1;18;Java
-alediator;Sevilla, Spain;Sevilla;22;20;24;33;Java
-u-Hand;Seville, Spain;Sevilla;0;20;0;0;
-javimb;Almería;Almería;17;20;13;12;Python
-miguel55;Granada;Granada;2;20;0;0;Java
-VidelaRosa;Málaga;Málaga;7;20;4;1;JavaScript
-lastko;Seville, Spain;Sevilla;3;20;1;10;Shell
-AlexSayHello;Córdoba, España;Córdoba;0;20;2;2;PHP
-Belelros;Seville;Sevilla;35;20;132;86;JavaScript
-alerodcal;Seville (Spain);Sevilla;0;20;0;0;C++
-alvaromurillo;Seville, Spain;Sevilla;12;20;5;188;Objective-C
-proyecto;Utrera, Sevilla, Spain;Sevilla;1;20;0;5;Ruby
+mgoncas;Sevilla;Sevilla;0;21;0;0;PHP
+superjosan;Baena (Córdoba, España);Córdoba;0;21;0;0;HTML
+irfaelo;Cádiz;Cádiz;0;21;0;0;PHP
+jmescpos;Sevilla;Sevilla;4;21;0;0;Python
 Jose-A-Alonso;Sevilla;Sevilla;0;20;0;0;HTML and CSS
+alvaromurillo;Seville, Spain;Sevilla;12;20;5;188;Objective-C
+Belelros;Seville;Sevilla;35;20;132;86;JavaScript
+alediator;Sevilla, Spain;Sevilla;22;20;24;33;Java
+miguel55;Granada;Granada;2;20;0;0;Java
+jrgonzalezg;Granada, Spain;Granada;9;20;1;20;Java
+i02lomom;Córdoba;Córdoba;1;20;0;0;Java
+u-Hand;Seville, Spain;Sevilla;0;20;0;0;
+AlexSayHello;Córdoba, España;Córdoba;0;20;2;2;PHP
 agomezmoron;Seville, Spain;Sevilla;2;20;5;2;JavaScript and Shell
-efoncubierta;Cádiz;Cádiz;8;19;0;29;Java
-juandesant;Jodrell Bank Observatory, SK11 9DL, UK, before Instituto de Astrofísica de Andalucía, Granada, E-18008, European Southern Observatory, Munich, D-80805;Andalucía;9;19;6;298;Python
-rociortegag;Granada;Granada;0;19;0;0;JavaScript and CSS
-PPeMg;Granada;Granada;4;19;0;1;Java
-nanocity;Córdoba, España;Córdoba;6;19;11;26;Ruby
-jsbsan;Dos Hermanas, Sevilla, España;Sevilla;1;19;3;3;Gettext Catalog
-asuarezt;Seville (Spain);Sevilla;0;19;0;0;R and Rebol
+joseEnrique;Seville;Sevilla;1;20;0;0;Python
+javimb;Almería;Almería;17;20;13;12;Python
+proyecto;Utrera, Sevilla, Spain;Sevilla;1;20;0;5;Ruby
+VidelaRosa;Málaga;Málaga;7;20;4;1;JavaScript
+joseliki;sevilla;Sevilla;8;20;0;0;Python
+alerodcal;Seville (Spain);Sevilla;0;20;0;0;C++
+roberjc;Sevilla City negro!;Sevilla;0;20;0;0;Python
+SergioGasquez;Granada,Spain;Granada;3;19;0;12;C
+lastko;Seville, Spain;Sevilla;3;19;1;10;Shell
+jsbsan;Dos Hermanas, Sevilla, España;Sevilla;2;19;3;3;Gettext Catalog
 mviera;Seville;Sevilla;25;19;39;13;Python
-jesmg;Almería, Spain;Almería;4;19;1;0;HTML
-notnilk;Almería;Almería;5;19;0;0;CSS
+cmayo;El Puerto de Santa María;Cádiz;0;19;1;31;JavaScript
+efoncubierta;Cádiz;Cádiz;8;19;0;29;Java
 Josepujol;Sevilla;Sevilla;1;19;0;0;Arduino
-roberjc;Sevilla City negro!;Sevilla;0;19;0;0;Python
 Exergy123;Málaga;Málaga;2;19;1;31;Python
+asuarezt;Seville (Spain);Sevilla;0;19;0;0;R and Rebol
+juandesant;Jodrell Bank Observatory, SK11 9DL, UK, before Instituto de Astrofísica de Andalucía, Granada, E-18008, European Southern Observatory, Munich, D-80805;Andalucía;9;19;6;301;Python
+notnilk;Almería;Almería;5;19;0;0;CSS
 mendrugory;Málaga (Spain);Málaga;3;18;4;14;Python
-Nachox07;Málaga, Spain;Málaga;2;18;0;11;Shell
-e98cuenc;Málaga;Málaga;3;18;12;30;Python
-jneight;Granada;Granada;21;18;63;217;Python
-Billygaliano;Jaén;Jaén;0;18;0;0;Java
-joseEnrique;Seville;Sevilla;1;18;0;0;Python
-llinacont;Sevilla;Sevilla;0;18;1;0;JavaScript
-josemhb;Sevilla;Sevilla;1;18;0;0;
-josemlp91;Granada;Granada;7;18;4;12;Java
-boris-burgos;Granada, Spain;Granada;2;18;0;0;
-JuanJavier1979;Málaga;Málaga;1;18;2;7;PHP
-cmayo;El Puerto de Santa María;Cádiz;0;18;1;30;JavaScript
 Sgitario;Málaga;Málaga;0;18;1;0;Java
-migtr88;Pulpí (Almería);Almería;0;18;1;0;JavaScript
-superjosan;Baena (Córdoba, España);Córdoba;0;17;0;0;HTML
-fmcato;Almería;Almería;0;17;0;9;JavaScript
-binarysqueeze;Málaga, Spain;Málaga;4;17;0;24;JavaScript
-linuxonrails;Málaga, Spain;Málaga;3;17;9;154;Ruby
-rastydnb;Madrid/Sevilla;Sevilla;7;17;3;17;PHP
-HorusGoul;Seville, Spain;Sevilla;3;17;2;5;JavaScript
-jorgegalindocruces;San Fernando, Cadiz, España;Cádiz;40;17;3;27;HTML
-juliancoder;Cádiz (Spain);Cádiz;0;17;0;0;JavaScript
-JaimeJesusSerrano;Cádiz;Cádiz;1;17;0;1;
-nickel;Seville (Spain);Sevilla;26;17;30;27;Ruby
-jamarboledas;Córdoba;Córdoba;4;17;0;0;ApacheConf
-skrr;Córdoba, Spain;Córdoba;0;17;0;4;Python
-robertosalas;Almería;Almería;0;17;0;0;HTML
-sambrista;Córdoba, Spain;Córdoba;1;17;0;4;C
-msanchezmora;Córdoba, Spain;Córdoba;7;17;0;17;JavaScript
-pedrocoleta;HUELVA - SPAIN;Huelva;0;17;0;0;
-silviofdez;Seville, Spain;Sevilla;0;17;0;0;Python and Shell
-javiertrujillo;Sevilla,Spain;Sevilla;0;17;0;0;Arduino and CSS
-checa;Linares;Jaén;1;17;0;0;PHP
-Yussoft;Granada;Granada;7;17;0;0;C#
-titosemi;München, Deutschland , Granada, España;Granada;23;17;12;166;Shell
-angelolea;Granada (Spain);Granada;9;17;0;30;
+JuanJavier1979;Málaga;Málaga;1;18;2;7;PHP
+Nachox07;Málaga, Spain;Málaga;2;18;0;11;Shell
+HorusGoul;Seville, Spain;Sevilla;3;18;2;5;JavaScript
+jneight;Granada;Granada;22;18;63;217;Python
+llinacont;Sevilla;Sevilla;0;18;1;0;JavaScript
+boris-burgos;Granada, Spain;Granada;2;18;0;0;
+josemhb;Sevilla;Sevilla;1;18;0;0;
+josemlp91;Granada;Granada;7;18;4;13;Java
 Pyrebyte;Granada, Spain;Granada;0;17;0;0;Java
 nikars;Granada;Granada;1;17;0;0;Java
-jamesduncombe;London / Sevilla;Sevilla;3;16;12;30;Ruby
-alberto-martin;Granada (Spain);Granada;0;16;0;1;R
+angelolea;Granada (Spain);Granada;9;17;0;30;
+eurodev;Jerez de la Frontera;Cádiz;22;17;11;20;Shell
+binarysqueeze;Málaga, Spain;Málaga;4;17;0;24;JavaScript
+e98cuenc;Málaga;Málaga;3;17;12;30;Python
+jamarboledas;Córdoba;Córdoba;4;17;0;0;ApacheConf
+msanchezmora;Córdoba, Spain;Córdoba;7;17;0;17;JavaScript
+skrr;Córdoba, Spain;Córdoba;0;17;0;4;Python
+titosemi;München, Deutschland , Granada, España;Granada;23;17;12;166;Shell
+JaimeJesusSerrano;Cádiz;Cádiz;1;17;0;1;
+nickel;Seville (Spain);Sevilla;26;17;30;27;Ruby
+rastydnb;Madrid/Sevilla;Sevilla;7;17;3;17;PHP
+ejimz;Sevilla;Sevilla;21;17;33;8;Ruby
+frantello;Huelva, Andalucia, Spain;Andalucía;0;17;0;2;JavaScript
+pedrocoleta;HUELVA - SPAIN;Huelva;0;17;0;0;
+jorgegalindocruces;San Fernando, Cadiz, España;Cádiz;40;17;3;27;HTML
+robertosalas;Almería;Almería;0;17;0;0;HTML
+fmcato;Almería;Almería;0;17;0;9;JavaScript
+juliancoder;Cádiz (Spain);Cádiz;0;17;0;0;JavaScript
+javiertrujillo;Sevilla,Spain;Sevilla;0;17;0;0;Arduino and CSS
 antoniogarcia78;Sevilla (Spain);Sevilla;3;16;1;29;PHP
+d13sasap;Córdoba;Córdoba;1;16;0;0;Java
+sambrista;Córdoba, Spain;Córdoba;1;16;0;4;C
+joseluisillana;Málaga (Spain);Málaga;0;16;1;4;JavaScript
 icardenasr;Seville, Spain;Sevilla;0;16;0;0;HTML
-trialsolution;Seville area;Sevilla;2;16;10;28;GAMS
-pcaro;Sevilla;Sevilla;10;16;2;358;Python
 angelnavarro;Sevilla, España;Sevilla;3;16;5;4;Java
-ADoncel;Granada (España);Granada;3;16;0;0;C
 KeoH;Sevilla, Spain;Sevilla;1;16;7;12;CSS
-javierescobarcerezo;Granada, Spain;Granada;1;16;0;0;C#
-pastahito;Seville, Spain;Sevilla;0;16;0;0;Python
-iPablo;Sevilla;Sevilla;2;15;0;2;JavaScript
-Caballerog;Málaga;Málaga;6;15;1;11;JavaScript
-jagame;Málaga;Málaga;0;15;0;0;Java
-JoseAntonioMR;Córdoba, Spain;Córdoba;3;15;0;1;
-i72dibef;Córdoba (Spain);Córdoba;1;15;0;0;Shell and C
-i02lomom;Córdoba;Córdoba;1;15;0;0;Java
-SergioGasquez;Granada,Spain;Granada;3;15;0;12;C
-aAlgarraCullell;Granada;Granada;0;15;0;0;
-frantello;Huelva, Andalucia, Spain;Andalucía;0;15;0;2;JavaScript
-Indavelopers;Almería, Spain;Almería;0;15;0;1;HTML
-jmmateos;Jerez, Spain;Cádiz;0;15;10;0;JavaScript
-illanos;Sevilla;Sevilla;0;15;0;0;
-CieNTi;Sevilla, Spain;Sevilla;0;15;0;0;JavaScript
-eurodev;Jerez de la Frontera;Cádiz;22;15;11;20;Shell
-ndsrf;Málaga, Spain;Málaga;1;15;1;0;C#
-MariaPaniw;Cadiz, Spain;Cádiz;0;15;0;0;R
-jamayo;Málaga (Spain);Málaga;9;15;0;1;Java
+rubgombar1;Alcalá de Guadaíra, Sevilla;Sevilla;0;16;0;0;HTML
+pcaro;Sevilla;Sevilla;10;16;2;364;Python
 jfigueruela;Sevilla (Spain);Sevilla;3;15;1;5;CSS
-raprav;Almería;Almería;7;15;0;20;JavaScript
-jmvictorio;Seville;Sevilla;0;15;0;0;Objective-C
-rflnavas;Sevilla;Sevilla;1;14;0;0;HTML
-DNxt;Sevilla, Andalucía, Spain;Andalucía;0;14;0;0;Matlab
+raprav;Almería;Almería;7;15;0;21;JavaScript
+JeMaCheHi;Granada, Spain;Granada;1;15;3;5;QMake
+MariaPaniw;Cadiz, Spain;Cádiz;0;15;0;0;R
+jagame;Málaga;Málaga;0;15;0;0;Java
+jamayo;Málaga (Spain);Málaga;9;15;0;1;Java
+Indavelopers;Almería, Spain;Almería;0;15;0;1;HTML
+CieNTi;Sevilla, Spain;Sevilla;1;15;0;0;JavaScript
+iPablo;Sevilla;Sevilla;2;15;0;2;JavaScript
+trialsolution;Seville area;Sevilla;2;15;10;28;GAMS
+i72dibef;Córdoba (Spain);Córdoba;1;15;0;0;Shell and C
+aolivares;Granada, Spain;Granada;2;15;0;0;Matlab
+illanos;Sevilla;Sevilla;0;15;0;0;
+aAlgarraCullell;Granada;Granada;0;15;0;0;
+mgarenas;Granada-Spain;Granada;6;15;1;1;Shell
+JoseAntonioMR;Córdoba, Spain;Córdoba;3;15;0;1;
+alexcastano;Sevilla;Sevilla;2;15;8;28;Ruby
+ADoncel;Granada (España);Granada;6;14;0;0;C
 josancardenasm;CORDOBA;Córdoba;0;14;1;15;Processing
-sergiogomez;Madrid - Córdoba;Córdoba;6;14;36;100;Ruby
-torresj;Granada;Granada;9;14;6;1;CSS
 VicenteCantonPaterna;Granada, Spain;Granada;4;14;1;0;Java
-guyikcgg;Granada;Granada;4;14;0;5;Shell
-Stoo0rmq;ETSIIT , Granada;Granada;3;14;0;1;Java and HTML
-gabmarfer;Cádiz;Cádiz;1;14;0;1;Objective-C and Ruby
-d13sasap;Córdoba;Córdoba;1;14;0;0;Java
-rhuelga;Málaga, Spain;Málaga;0;14;11;41;C
-jofera;Málaga;Málaga;7;14;1;14;Java
-erny;Sevilla, Spain;Sevilla;9;14;12;5;Python
+Granaino81;Granada;Granada;0;14;0;0;
+drsromero;Sevilla;Sevilla;1;14;0;0;
 sdavidg;Sevilla, España;Sevilla;0;14;0;1;JavaScript
-pulimento;Seville, Spain;Sevilla;7;14;11;87;CSS
+rflnavas;Sevilla;Sevilla;1;14;0;0;HTML
+torresj;Granada;Granada;9;14;6;1;CSS
+roccozanni;Seville, Spain;Sevilla;8;14;20;22;JavaScript
+guyikcgg;Granada;Granada;4;14;0;5;Shell
+rhuelga;Málaga, Spain;Málaga;0;14;12;41;C
+jofera;Málaga;Málaga;7;14;2;14;Java
+gabmarfer;Cádiz;Cádiz;1;14;0;1;Objective-C and Ruby
+Stoo0rmq;ETSIIT , Granada;Granada;3;14;0;1;Java and HTML
 salrodgom;Seville;Sevilla;1;14;0;0;FORTRAN
-josdan;Seville;Sevilla;2;14;0;0;
-rgarcia-martin;Sevilla;Sevilla;0;14;1;2;PHP
-alexcastano;Sevilla;Sevilla;2;14;8;28;Ruby
-ppadial;Malaga;Málaga;2;13;1;18;Shell
-anamariasdiaz;Granada;Granada;0;13;0;0;JavaScript
-rafitamolin;Sevilla, Spain;Sevilla;0;13;1;4;Java
-fermarval;Seville, Spain;Sevilla;0;13;0;11;Java
-cobeete;Sevilla;Sevilla;3;13;0;27;JavaScript
-agdg;Alcalá de Guadaira. Sevilla. España;Sevilla;0;13;0;0;Shell
-Jorge-Dona;Sevilla;Sevilla;1;13;0;0;R
+pulimento;Seville, Spain;Sevilla;7;14;11;87;CSS
 jeimxx;Seville, Spain;Sevilla;0;13;1;0;JavaScript
-OlmoVisedo;Andalucía;Andalucía;0;13;0;0;
-joseluisillana;Málaga (Spain);Málaga;0;13;1;4;Java
-riki319;Almería;Almería;2;13;0;5;Python
+LorenzoGodino;Sevilla;Sevilla;0;13;0;0;CSS
+cobeete;Sevilla;Sevilla;3;13;0;27;JavaScript
 segarci;Almería, Spain;Almería;3;13;0;5;
+rafitamolin;Sevilla, Spain;Sevilla;0;13;1;4;Java
+Jorge-Dona;Sevilla;Sevilla;1;13;0;0;R
+jmmateos;Jerez, Spain;Cádiz;0;13;12;0;JavaScript
 cyberguijarro;Cádiz, Spain;Cádiz;3;13;17;2;Python
-manuti;Málaga, Spain;Málaga;19;13;15;371;Shell
-JeMaCheHi;Granada, Spain;Granada;1;13;3;4;QMake
+erny;Sevilla, Spain;Sevilla;9;13;12;5;Python
+agdg;Alcalá de Guadaira. Sevilla. España;Sevilla;0;13;0;0;Shell
+migtr88;Pulpí (Almería);Almería;0;13;1;0;JavaScript
+OlmoVisedo;Andalucía;Andalucía;0;13;0;0;
+manuti;Málaga, Spain;Málaga;19;13;15;374;Shell
+albertoitrsgroup;Málaga, Spain;Málaga;0;13;0;1;HTML
 FROSADO;Malaga, Spain;Málaga;0;13;0;0;Groovy
-calambrenet;Andalucía (España);Andalucía;1;12;2;4;Java
-davFlores;Almería;Almería;0;12;0;0;Java
-notfrombrooklyn;Seville, Spain;Sevilla;1;12;0;34;PHP
-dmarrufo;Sevilla;Sevilla;5;12;0;0;VimL
+ppadial;Malaga;Málaga;2;13;1;20;Shell
+ajncespedes;Granada;Granada;2;13;0;1;C#
+ugeHidalgo;Granada;Granada;0;13;0;0;C#
+Yussoft;Granada;Granada;7;13;0;0;Ruby
+anamariasdiaz;Granada;Granada;0;13;0;0;JavaScript
 crishnakh;Sevilla;Sevilla;0;12;3;9;JavaScript and PHP
-alexwing;Sevilla;Sevilla;0;12;0;0;JavaScript and CSS
-Bradox;Sevilla;Sevilla;0;12;3;8;Ruby
-PBarri;Sevilla;Sevilla;1;12;0;1;JavaScript
-japarejo;Sevilla, Spain;Sevilla;0;12;0;2;Java
-joseleo;Jaén;Jaén;2;12;0;0;HTML
-ravefu;Granada, Andalucía, España (Spain);Andalucía;1;12;0;0;CSS
-Perezcastro;Priego de Córdoba, Andalucía, España;Andalucía;0;12;0;0;HTML and CSS
-CarlosCondor;Sevilla/Zafra (Spain);Sevilla;11;12;9;70;JavaScript
-nicobot;Granada, Spain;Granada;3;12;1;6;JavaScript
-Stratford;Granada;Granada;1;12;0;0;JavaScript
-fenomenog4;Granada;Granada;2;12;13;57;Ruby
-dojoplus;Granada;Granada;0;12;0;1;
-gabrimac;Granada;Granada;1;12;1;8;Ruby
-Koltharius;Granada, Spain;Granada;13;12;1;9;Makefile
-pablobacho;Cadiz, Spain;Cádiz;1;12;0;0;C
-SorianoMarmol;Córdoba (España);Córdoba;0;12;0;0;HTML
-miguelcalero;Córdoba, Spain;Córdoba;10;12;0;5;JavaScript
 gcorpas;Málaga;Málaga;1;12;0;5;
 fjgargon;Madrid - Málaga;Málaga;0;12;0;0;HTML
+gabrimac;Granada;Granada;1;12;1;8;Ruby
+fenomenog4;Granada;Granada;2;12;13;57;Ruby
+pablobacho;Cadiz, Spain;Cádiz;1;12;0;0;C
+alberto-martin;Granada (Spain);Granada;0;12;0;1;R
+adri95cadiz;Granada;Granada;0;12;0;0;Makefile and Lex
+nicobot;Granada, Spain;Granada;3;12;1;6;JavaScript
+Koltharius;Granada, Spain;Granada;13;12;1;10;Makefile
+dojoplus;Granada;Granada;0;12;0;1;
+joseleo;Jaén;Jaén;2;12;0;0;HTML
+rcanop;Ronda (Málaga) / Jaén - España;Jaén;0;12;0;0;JavaScript
+ravefu;Granada, Andalucía, España (Spain);Andalucía;1;12;0;0;CSS
 ajmatas;Málaga, Spain;Málaga;5;12;0;11;Perl
+jmvictorio;Seville;Sevilla;0;12;0;0;Objective-C
+alexwing;Sevilla;Sevilla;0;12;0;0;JavaScript and CSS
+jamesduncombe;London / Sevilla;Sevilla;4;12;8;8;Ruby
+CarlosCondor;Sevilla/Zafra (Spain);Sevilla;11;12;9;70;JavaScript
+juancroldan;Sevilla, Spain;Sevilla;1;12;1;1;Python
+notfrombrooklyn;Seville, Spain;Sevilla;1;12;0;34;PHP
+dmarrufo;Sevilla;Sevilla;5;12;0;0;VimL
+calambrenet;Andalucía (España);Andalucía;1;12;2;4;Java
+Perezcastro;Priego de Córdoba, Andalucía, España;Andalucía;0;12;0;0;HTML and CSS
+checa;Linares;Jaén;1;12;0;0;PHP
+japarejo;Sevilla, Spain;Sevilla;0;12;0;2;Java
+davFlores;Almería;Almería;0;12;0;0;Java
+miguelcalero;Córdoba, Spain;Córdoba;10;12;0;5;JavaScript
+SorianoMarmol;Córdoba (España);Córdoba;0;12;0;0;HTML
+AWCruz;Seville;Sevilla;2;11;0;0;CSS
+diegogran94;Granada, Spain;Granada;7;11;1;20;Python
 politeles;Granada, Spain;Granada;4;11;0;9;Java
 paolaalmedina;granada;Granada;0;11;0;0;
-ngdelamo;Granada, Spain;Granada;3;11;3;3;Java
-AWCruz;Seville;Sevilla;2;11;0;0;CSS
-TomRaftery;Seville, Spain;Sevilla;0;11;0;0;
-mechero;Málaga;Málaga;1;11;2;0;Java
-manuelpancorbo;Jaén, Spain;Jaén;9;11;1;24;Java and Groovy
-rcanop;Ronda (Málaga) / Jaén - España;Jaén;0;11;0;0;JavaScript
-miksansegundo;Málaga;Málaga;1;11;0;77;JavaScript
-narudocap;Málaga (Spain);Málaga;0;11;0;0;Java
-3oheme;Jerez de la Frontera, Spain;Cádiz;11;11;12;28;CSS
-alvarogonzalezalvarez;Jerez de la Frontera;Cádiz;0;11;3;3;CSS
-ma3se;Seville;Sevilla;2;11;0;0;
-JesusMorenoMontiel;Málaga;Málaga;9;11;0;0;PHP and CSS
-cmorillo;Puente-Genil, Córdoba, Spain;Córdoba;2;11;0;1;
-drsromero;Sevilla;Sevilla;0;11;0;0;
+PBarri;Sevilla;Sevilla;1;11;0;1;JavaScript
 jctrey;Granada;Granada;2;11;0;0;
-diegogran94;Granada, Spain;Granada;7;11;1;19;Python
+ngdelamo;Granada, Spain;Granada;3;11;3;3;Java
+Stratford;Granada;Granada;1;11;0;0;JavaScript
 oskyar;Granada;Granada;11;11;6;10;CSS
-darkbox;Spain/Córdoba;Córdoba;3;10;44;4;Java
-isma907;Cordoba;Córdoba;0;10;0;1;CSS
+miksansegundo;Málaga;Málaga;1;11;0;84;JavaScript
+Korjam;Málaga;Málaga;4;11;0;1;C#
+ndsrf;Málaga, Spain;Málaga;1;11;1;0;C#
+mechero;Málaga;Málaga;1;11;2;0;Java
+JesusMorenoMontiel;Málaga;Málaga;9;11;0;0;PHP and CSS
+narudocap;Málaga (Spain);Málaga;0;11;0;0;Java
+sergiogomez;Madrid - Córdoba;Córdoba;6;11;36;100;Ruby
+jospergon;Sevilla;Sevilla;3;11;2;3;Ruby
+Bradox;Sevilla;Sevilla;0;11;3;8;Ruby
+TomRaftery;Seville, Spain;Sevilla;0;11;0;0;
+juancazalla;Jaén / Madrid;Jaén;12;11;0;42;Ruby
+rgarcia-martin;Sevilla;Sevilla;0;11;1;2;PHP
+ma3se;Seville;Sevilla;2;11;0;0;
+alvarogonzalezalvarez;Jerez de la Frontera;Cádiz;0;11;3;3;CSS
+Lifka;Granada;Granada;6;10;0;9;C
+garridev;Seville;Sevilla;2;10;2;19;Python
 ElizabethMoreno;Sevilla;Sevilla;6;10;0;0;Python
-ricardpriet;Sevilla, Spain;Sevilla;0;10;0;0;CSS
 smartinm;Sevilla, España;Sevilla;3;10;58;6;PHP
-amrecio;Seville, Spain;Sevilla;2;10;2;2;Shell
-orta-sanz;Huelva (Spain);Huelva;5;10;3;24;JavaScript
-HectorVda;Almería (Spain);Almería;2;10;0;0;Java
-pedrojas;Seville, Spain;Sevilla;0;10;0;0;C++ and C
-JJBocanegra;Seville;Sevilla;1;10;0;17;HTML
-tianyuan87;Granada,Spain;Granada;2;10;0;1;Python
+fj-marmol;Algeciras, Spain;Cádiz;0;10;0;0;HTML and CSS
+ricardpriet;Sevilla, Spain;Sevilla;0;10;0;0;CSS
 JasonGarcia;Granada;Granada;0;10;0;0;
+JJBocanegra;Seville;Sevilla;1;10;0;17;HTML
+mimopo;Sevilla, Spain;Sevilla;1;10;6;24;JavaScript
+scottalanmiller;Andalusia, Spain;Andalucía;0;10;1;1;
+pedrojas;Seville, Spain;Sevilla;0;10;0;0;C++ and C
+onuba;Seville, Spain;Sevilla;1;10;2;1;Java
+vicruiser;Seville;Sevilla;0;10;0;0;R
+AlbertFX91;Seville;Sevilla;4;10;1;3;Python and PHP
+evokraken;Seville;Sevilla;0;10;0;4;ASP
+amrecio;Seville, Spain;Sevilla;2;10;2;2;Shell
+aW4KeNiNG;Granada, Spain;Granada;3;10;5;280;ActionScript
+tianyuan87;Granada,Spain;Granada;2;10;0;1;Python
+HectorVda;Almería (Spain);Almería;2;10;0;0;Java
+fcogutierrez;Málaga (Spain);Málaga;0;10;0;0;
+danipv;Málaga, Spain;Málaga;6;10;2;21;JavaScript
+rubengooj;Malaga;Málaga;3;10;2;1;CMake and C++
+fgomezk-NetSur;Mijas, Málaga, España;Málaga;1;10;0;0;
+laracabrera;Malaga, Spain;Málaga;0;10;0;1;JavaScript
+valgreens;Almería, Spain;Almería;20;10;7;199;JavaScript
+Bultako;Granada, Spain;Granada;5;10;4;3;Python
+orta-sanz;Huelva (Spain);Huelva;5;10;3;26;JavaScript
 klyone;Granada;Granada;8;10;2;0;C
 motrilenho;Motril;Granada;0;10;0;0;CSS
-jesusarubio;Motril (Spain);Granada;1;10;0;1;C
-aliavc96;Granada (Spain);Granada;1;10;0;0;C++
-Bultako;Granada, Spain;Granada;5;10;4;3;Python
-Katovit;Granada;Granada;4;10;0;0;C
-AlbertFX91;Seville;Sevilla;4;10;1;1;Python and PHP
-vicruiser;Seville;Sevilla;0;10;0;0;R
-LuisTJap;Sevilla;Sevilla;6;10;0;14;JavaScript and CSS
-scottalanmiller;Andalusia, Spain;Andalucía;0;10;1;1;
-evokraken;Seville;Sevilla;0;10;0;3;ASP
-dandev237;Málaga;Málaga;3;10;1;3;Java and C#
-laracabrera;Malaga, Spain;Málaga;0;10;0;1;JavaScript
-danipv;Málaga, Spain;Málaga;6;10;2;20;JavaScript
-rubengooj;Malaga;Málaga;3;10;2;0;CMake and C++
-estebanpua;Málaga;Málaga;2;10;0;1;Java and R
-fgomezk-NetSur;Mijas, Málaga, España;Málaga;1;10;0;0;
-fcogutierrez;Málaga (Spain);Málaga;0;10;0;0;
+darkbox;Spain/Córdoba;Córdoba;3;10;45;4;Java
+isma907;Cordoba;Córdoba;0;10;0;1;CSS
 MikeMoralesDEV;Córdoba - Spain;Córdoba;1;10;0;0;HTML
-goana;Granada;Granada;0;9;0;0;HTML and CSS
-mcpina;granada;Granada;0;9;0;0;JavaScript
-Korjam;Málaga;Málaga;4;9;0;1;C#
-abueesp;Sevilla / London / Manaus;Sevilla;6;9;2;16;Python
-EvaristoGZ;Dos Hermanas, Sevilla;Sevilla;13;9;0;0;Python
-albertofortes;Seville, Spain;Sevilla;10;9;11;42;JavaScript
-DeathlyFlags;Seville;Sevilla;0;9;1;0;Java
-genimarca;Jaén, Spain;Jaén;1;9;0;2;
-jjlopezg;Jaen;Jaén;0;9;1;8;Python
-AntonMM;Sevilla;Sevilla;3;9;0;4;Ruby
-jacmaes;Seville, Spain;Sevilla;3;9;5;549;PHP and JavaScript
-JvrBaena;Sevilla;Sevilla;17;9;27;36;JavaScript
-AlbertoImpl;Sevilla;Sevilla;4;9;0;30;Dart
-pperejon;Seville;Sevilla;0;9;0;6;PHP
-sagoca;Sevilla;Sevilla;0;9;0;1;Objective-C
+aliavc96;Granada (Spain);Granada;1;10;0;0;C++
 zerjillo;Granada, Spain;Granada;3;9;0;0;
-ninioperdido;Granada, Spain;Granada;3;9;2;102;Python
-emigue;Málaga, Spain;Málaga;7;9;1;20;Python
-martinezdelariva;Granada;Granada;16;9;167;42;Objective-C
-franlara91;Huetor Vega (Granada);Granada;0;9;0;0;JavaScript and CSS
-percevaq;Granada -Spain-;Granada;0;9;0;3;Python and Java
-ignaciocara;Granada;Granada;0;9;0;0;Python
-manuelruizm;Granada, Spain;Granada;0;9;0;0;C++ and Java
-JoseluGallardo;Málaga;Málaga;8;9;0;0;C#
-naigos;Granada;Granada;0;9;0;0;Java and PHP
-ajncespedes;Granada;Granada;2;9;0;1;C#
-JosePV;Granada;Granada;1;9;1;0;Shell
-pjmartos;Málaga, Spain;Málaga;0;9;0;0;Java
-sergiotudela;Málaga, Spain;Málaga;8;9;0;40;Scala
-davidmb91;Sanlúcar de Barrameda (Cádiz) - Spain;Cádiz;5;9;1;69;PHP
-bumbledev;Cordoba;Córdoba;0;9;0;0;
-shokimc;Córdoba, España;Córdoba;2;9;0;0;PHP
-carlosccb;Córdoba, Spain;Córdoba;0;9;0;0;Matlab and Shell
+EvaristoGZ;Dos Hermanas, Sevilla;Sevilla;13;9;0;0;Python
 josergb;Jerez de la Frontera;Cádiz;22;9;7;5;JavaScript and Python
-seravb;Granada, Melilla, Spain;Granada;14;8;1;6;Python
-juandavarju;Granada;Granada;2;8;0;0;Python and PHP
-hectortosa;Granada;Granada;2;8;0;4;JavaScript
-fransinvodka;Granada, Spain;Granada;1;8;0;0;C++
-baheredia;Granada, Spain;Granada;0;8;0;0;Elm
-AGM-GR;Granada;Granada;0;8;0;0;Ruby
-fontanon;Sevilla;Sevilla;51;8;40;72;Python
-bsh314;Seville, Spain;Sevilla;1;8;0;2;
-jacarvajal;Sevilla;Sevilla;3;8;0;0;PHP
-jajapon;Sevilla;Sevilla;1;8;0;0;HTML
-fveredas;Málaga, Spain;Málaga;0;8;0;0;
-jlsuarezs;Málaga;Málaga;6;8;3;377;JavaScript
-Ilgrim;Malaga;Málaga;4;8;3;8;Perl
-juancazalla;Jaén / Madrid;Jaén;12;8;0;32;Ruby
-valgreens;Almería, Spain;Almería;19;8;7;198;JavaScript
-mhv745;Almería;Almería;0;8;0;0;PHP
-jsbalsera;Sevilla;Sevilla;31;8;17;44;PHP
-Jukar;Seville, Spain;Sevilla;0;8;0;0;
-jcromero70;Cabra - Córdoba - Andalucia - España;Andalucía;2;8;0;3;PHP
-dvdesn;Seville;Sevilla;0;8;0;0;JavaScript
-kikoseijo;Andalucía, Málaga.;Andalucía;0;8;1;6;JavaScript
+3oheme;Jerez de la Frontera, Spain;Cádiz;11;9;12;28;CSS
+sergiotudela;Málaga, Spain;Málaga;8;9;0;41;Scala
+joseluisrt;Malaga, Spain;Málaga;7;9;1;31;Python
+pjmartos;Málaga, Spain;Málaga;0;9;0;0;Java
+emigue;Málaga, Spain;Málaga;7;9;1;20;Python
+JoseluGallardo;Málaga;Málaga;8;9;0;0;C#
+nanocity;Córdoba, España;Córdoba;6;9;11;26;Ruby
+carlosccb;Córdoba, Spain;Córdoba;0;9;0;0;Matlab and Shell
+jjlopezg;Jaen;Jaén;0;9;1;8;Python
+ignaciocara;Granada;Granada;0;9;0;0;Python
+percevaq;Granada -Spain-;Granada;0;9;0;3;Python and Java
+martinezdelariva;Granada;Granada;16;9;167;42;Objective-C
+ninioperdido;Granada, Spain;Granada;3;9;2;102;Python
+davidmb91;Sanlúcar de Barrameda (Cádiz) - Spain;Cádiz;5;9;1;69;PHP
+mcpina;granada;Granada;0;9;0;0;JavaScript
+JosePV;Granada;Granada;1;9;1;0;Shell
+goana;Granada;Granada;0;9;0;0;HTML and CSS
+naigos;Granada;Granada;0;9;0;0;Java and PHP
+manuelruizm;Granada, Spain;Granada;0;9;0;0;C++ and Java
+pperejon;Seville;Sevilla;0;9;0;6;PHP
+AntonMM;Sevilla;Sevilla;3;9;0;4;Ruby
+DeathlyFlags;Seville;Sevilla;0;9;1;0;Java
+JvrBaena;Sevilla;Sevilla;17;9;27;36;JavaScript
+albertofortes;Seville, Spain;Sevilla;10;9;11;42;JavaScript
+jacmaes;Seville, Spain;Sevilla;3;9;5;549;PHP and JavaScript
+sagoca;Sevilla;Sevilla;0;9;0;1;Objective-C
+abueesp;Sevilla / London / Manaus;Sevilla;6;9;2;16;Python
+AlbertoImpl;Sevilla;Sevilla;4;9;1;33;Dart
+antgamdia;Sevilla;Sevilla;0;9;0;0;
+juandavarju;Granada;Granada;3;8;0;0;Python and PHP
 mhauptma73;Granada;Granada;1;8;0;18;PHP
-vzenix;Granada, Spain;Granada;1;8;0;1;PHP
-SamuelGJ;Córdoba, Spain;Córdoba;1;8;0;1;JavaScript
-Prosumidor;Granada;Granada;1;8;0;3;R
-bristoll;España,Granada/Las Palmas G.C.;Granada;0;8;1;2;Ruby
-robertomagan;Granada (Spain);Granada;0;8;0;0;C++
-aW4KeNiNG;Granada, Spain;Granada;3;8;5;279;ActionScript
-eliasdefrancisco;Jerez de la fontera;Cádiz;3;8;3;6;HTML
-Carrega;La Linea (Cadiz);Cádiz;0;8;0;0;Java
-Jaimerocel96;Cádiz, Spain;Cádiz;1;8;0;0;
+Amrojano;Granada (España);Granada;0;8;0;0;C++
+estebanpua;Málaga;Málaga;2;8;0;1;Java and R
 jlfalcon;Jerez de la frontera;Cádiz;7;8;0;0;HTML
-rosanamontes;Granada;Granada;2;7;0;1;CSS
-Zomig;Algeciras;Cádiz;0;7;0;6;Java
-alsanchez86;Sevilla;Sevilla;4;7;3;9;CSS
-pabloescribanoloza;Seville;Sevilla;3;7;6;20;C#
-FernandoJRS;Seville;Sevilla;1;7;0;0;Java and Python
-LeidysCordero;Monteria-Cordoba;Córdoba;0;7;0;0;
-maylutu;Seville;Sevilla;0;7;0;0;CSS
-onuba;Seville, Spain;Sevilla;1;7;1;1;Java
-luinix;Seville, Spain;Sevilla;17;7;3;3;JavaScript
-ugeHidalgo;Granada;Granada;0;7;0;0;C#
-victor-cruz;Granada - Spain;Granada;5;7;4;14;JavaScript
+eliasdefrancisco;Jerez de la fontera;Cádiz;3;8;3;7;HTML
+hectortosa;Granada;Granada;2;8;0;5;JavaScript
+Jaimerocel96;Cádiz, Spain;Cádiz;1;8;0;0;
+Carrega;La Linea (Cadiz);Cádiz;0;8;0;0;Java
+jlsuarezs;Málaga;Málaga;6;8;3;382;JavaScript
+fveredas;Málaga, Spain;Málaga;0;8;0;0;
+SamuelGJ;Córdoba, Spain;Córdoba;1;8;0;1;JavaScript
+jcromero70;Cabra - Córdoba - Andalucia - España;Andalucía;2;8;0;3;PHP
+kikoseijo;Andalucía, Málaga.;Andalucía;0;8;1;6;JavaScript
+mhv745;Almería;Almería;0;8;0;0;PHP
+vlledo;Jaén;Jaén;6;8;1;2;Ruby
+killgt;Málaga, España;Málaga;4;8;2;10;PHP
+fransinvodka;Granada, Spain;Granada;1;8;0;0;C++
+vzenix;Granada, Spain;Granada;1;8;0;1;PHP
+Prosumidor;Granada;Granada;1;8;0;3;R
+baheredia;Granada, Spain;Granada;0;8;0;0;Elm
+bristoll;España,Granada/Las Palmas G.C.;Granada;0;8;1;2;Ruby
+seravb;Granada, Melilla, Spain;Granada;14;8;1;6;Python
+Ilgrim;Malaga;Málaga;4;8;3;8;Perl
+josdan;Seville;Sevilla;2;8;0;0;
+fontanon;Sevilla;Sevilla;51;8;40;72;Python
+jsbalsera;Sevilla;Sevilla;31;8;17;44;PHP
+jajapon;Sevilla;Sevilla;1;8;0;0;HTML
+Jukar;Seville, Spain;Sevilla;0;8;0;0;
+dvdesn;Seville;Sevilla;0;8;0;0;JavaScript
+bsh314;Seville, Spain;Sevilla;1;8;0;3;
+LuisTJap;Sevilla;Sevilla;6;8;0;14;JavaScript and CSS
+jacarvajal;Sevilla;Sevilla;3;8;0;0;PHP
+AGM-GR;Granada;Granada;0;7;0;0;Ruby
 rperezperez;Granada;Granada;1;7;5;13;Ruby
-jaberme;Almería;Almería;2;7;0;0;Makefile and Java
-funsecurity;Almería;Almería;4;7;28;5;Python
-RubenPer94;Granada;Granada;2;7;0;0;C#
-danramirez;Cádiz (Spain);Cádiz;3;7;22;20;Java
-antcc;Granada;Granada;0;7;0;0;Shell
-izarodsos;Sevilla;Sevilla;1;7;0;0;HTML and CSS
-samuelguegon89;Dos Hermanas (Sevilla);Sevilla;10;7;0;0;Python
-jorgecorrea;Seville, Spain;Sevilla;0;7;3;4;Python
-falconmfm;Seville;Sevilla;0;7;1;1;Python
-Prodigy92;España, Huelva;Huelva;0;7;1;6;Java
-vlledo;Jaén;Jaén;6;7;1;2;Ruby
-ivanmunozt;Martos (Jaén);Jaén;2;7;0;4;Java
-oarrivi;Málaga, Spain;Málaga;0;7;1;1;C#
-killgt;Málaga, España;Málaga;4;7;2;9;PHP
 ancabi;Malaga;Málaga;1;7;0;0;Java
-luishg;Málaga;Málaga;0;7;3;1;C
-rafarq;Malaga;Málaga;1;7;1;0;Shell
+RubenPer94;Granada;Granada;2;7;0;0;C#
+oarrivi;Málaga, Spain;Málaga;0;7;1;1;C#
+LeidysCordero;Monteria-Cordoba;Córdoba;0;7;0;0;
 ahcruz;Cordoba;Córdoba;0;7;0;0;JavaScript
-GOYUSO;Sevilla;Sevilla;0;6;0;0;JavaScript
-olihough;Cadiz, Spain;Cádiz;0;6;0;0;C
-nessa;Cádiz;Cádiz;8;6;5;10;Shell
-luisgarciacarra;Tarifa, Spain;Cádiz;0;6;0;0;HTML
-nespapu;Seville;Sevilla;1;6;0;1;Objective-C and JavaScript
-pbanos;Sevilla (Spain);Sevilla;2;6;5;11;Ruby
-y2josei;Back in Seville (Spain);Sevilla;9;6;2;21;PHP
-JoseBuba;Jaén;Jaén;0;6;0;0;HTML
-MarcialSanchez;Jaén;Jaén;2;6;0;4;Java
-p22ruloi;Córdoba, Spain;Córdoba;2;6;0;1;
-santiandrade;Málaga (Spain);Málaga;3;6;1;10;HTML
-castorm;Malaga, Spain;Málaga;2;6;0;44;Shell
-josedonas;Málaga;Málaga;1;6;0;0;Java
+geowe;Córdoba, Andalucía (España);Andalucía;0;7;0;1;
+Zomig;Algeciras;Cádiz;0;7;0;6;Java
+blanca-vela;San Fernando (Cádiz);Cádiz;0;7;0;0;
+funsecurity;Almería;Almería;4;7;28;5;Python
+jaberme;Almería;Almería;2;7;0;0;Makefile and Java
+rafarq;Malaga;Málaga;1;7;1;0;Shell
+ivanmunozt;Martos (Jaén);Jaén;2;7;0;4;Java
+MarcialSanchez;Jaén;Jaén;2;7;0;5;Java
+jcayetano;Málaga, SP;Málaga;4;7;0;56;Groovy
+luishg;Málaga;Málaga;0;7;3;1;C
+Prodigy92;España, Huelva;Huelva;0;7;1;6;Java
+victor-cruz;Granada - Spain;Granada;5;7;4;14;JavaScript
+rosanamontes;Granada;Granada;2;7;0;1;CSS
+antcc;Granada;Granada;0;7;0;0;Shell
+luinix;Seville, Spain;Sevilla;17;7;3;3;JavaScript
+falconmfm;Seville;Sevilla;0;7;1;1;Python
+jorgecorrea;Seville, Spain;Sevilla;0;7;3;4;Python
+alsanchez86;Sevilla;Sevilla;4;7;3;10;CSS
+pabloescribanoloza;Seville;Sevilla;3;7;6;20;C#
+natete;Sevilla;Sevilla;1;7;0;0;
+layane;Sevilla;Sevilla;1;7;0;1;Java
+FernandoJRS;Seville;Sevilla;1;7;0;0;Java and Python
+izarodsos;Sevilla;Sevilla;1;7;0;0;HTML and CSS
+maylutu;Seville;Sevilla;0;7;0;0;CSS
+samuelguegon89;Dos Hermanas (Sevilla);Sevilla;10;7;0;0;Python
+santiandrade;Málaga (Spain);Málaga;3;6;2;10;HTML
 jojuann;Málaga;Málaga;4;6;0;0;Java
-jcpenuela;Sevilla (Andalucía - España);Andalucía;1;6;0;4;Python
-sadoza;Huelva;Huelva;1;6;0;0;PHP
-joaquinbarranco;Málaga (Spain);Málaga;0;6;0;0;R
-MiguelGarciaBenitez;Sevilla;Sevilla;1;6;0;0;
-layane;Sevilla;Sevilla;1;6;0;0;Java
-Alromo;Almería;Almería;0;6;0;0;C#
-1000io;Almería - Spain;Almería;0;6;8;9;CSS
-BeatrizDT;Almería;Almería;0;6;0;0;Java
 Diego88;Almeria;Almería;0;6;0;0;CSS
-videoMonkey;Malaga, Spain;Málaga;1;6;3;98;JavaScript
-joseluisrt;Malaga, Spain;Málaga;7;6;1;29;Python
-jfc4github;Malaga (Spain);Málaga;0;6;0;0;R
-Zpecter;Málaga (Spain);Málaga;0;6;0;2;C#
-polisea;Granada;Granada;1;6;1;2;HTML
-LomoDorovich;Granada;Granada;0;6;0;0;C#
+1000io;Almería - Spain;Almería;0;6;8;9;CSS
+Alromo;Almería;Almería;0;6;0;0;C#
+BeatrizDT;Almería;Almería;0;6;0;0;Java
 RosaOR;Granada;Granada;0;6;0;1;
-eulselmo;Granada;Granada;0;6;0;0;
-ElenaMerelo;Granada, Spain.;Granada;6;6;2;0;CSS
-interdevel;Granada (Spain);Granada;4;6;0;44;PHP
+joaquinbarranco;Málaga (Spain);Málaga;0;6;0;0;R
+castorm;Malaga, Spain;Málaga;2;6;0;45;Shell
+JoseBuba;Jaén;Jaén;0;6;0;0;HTML
 bertoa;Malaga;Málaga;0;6;0;0;Java and R
-jcayetano;Málaga, SP;Málaga;4;6;0;55;Groovy
+jfc4github;Malaga (Spain);Málaga;0;6;0;0;R
+dandev237;Málaga;Málaga;4;6;1;3;Java and C#
+danramirez;Cádiz (Spain);Cádiz;3;6;23;20;Java
+sadoza;Huelva;Huelva;1;6;0;0;PHP
+luisgarciacarra;Tarifa, Spain;Cádiz;0;6;0;0;HTML
+polisea;Granada;Granada;1;6;1;2;HTML
+ElenaMerelo;Granada, Spain.;Granada;6;6;2;0;CSS
+robertomagan;Granada (Spain);Granada;0;6;0;0;C++
+eulselmo;Granada;Granada;0;6;0;0;
+interdevel;Granada (Spain);Granada;4;6;0;44;PHP
+josedonas;Málaga;Málaga;1;6;0;0;Java
+nessa;Cádiz;Cádiz;8;6;5;10;Shell
+shokimc;Córdoba, España;Córdoba;2;6;0;0;PHP
+jcpenuela;Sevilla (Andalucía - España);Andalucía;2;6;0;4;Python
+olihough;Cadiz, Spain;Cádiz;0;6;0;0;C
+GOYUSO;Sevilla;Sevilla;0;6;0;0;JavaScript
+y2josei;Back in Seville (Spain);Sevilla;9;6;2;21;PHP
+pbanos;Sevilla (Spain);Sevilla;2;6;5;11;Ruby
+nespapu;Seville;Sevilla;1;6;0;1;Objective-C and JavaScript
+lmiceli;Sevilla, ES;Sevilla;4;6;0;5;JavaScript
+MiguelGarciaBenitez;Sevilla;Sevilla;1;6;0;0;
 jescap;Seville, Spain;Sevilla;1;6;0;0;
-palmasev;Seville/Spain;Sevilla;2;6;10;14;PHP
-natete;Sevilla;Sevilla;1;6;0;0;
 ReyDoz;Sevilla;Sevilla;1;6;1;2;Java
 icases;Sevilla, Spain;Sevilla;0;6;0;1;R
-lmiceli;Sevilla, ES;Sevilla;4;6;0;5;JavaScript
-avilchess;Málaga (Spain);Málaga;1;5;0;0;CMake
-olivarsolutions;Almeria Spain;Almería;0;5;0;0;
-daniconil;Andalucía;Andalucía;2;5;0;0;
-geowe;Córdoba, Andalucía (España);Andalucía;0;5;0;1;
-danigonlinea;Conil (Cádiz), España;Cádiz;2;5;4;42;CSS
-blanca-vela;San Fernando (Cádiz);Cádiz;0;5;0;0;
-GanemosCadiz;Cádiz;Cádiz;0;5;0;0;JavaScript
-rafasalas;Córdoba (Spain);Córdoba;1;5;0;0;Processing
-inakipinke;Cordoba;Córdoba;2;5;0;0;Python
-si2info;Granada, Spain, Europe;Granada;1;5;1;0;JavaScript
-javiermolinar;Granada, Spain;Granada;0;5;0;0;JavaScript and TypeScript
-Jairohm;Granada;Granada;0;5;0;0;R
-elena661;granada;Granada;0;5;0;0;
+palmasev;Seville/Spain;Sevilla;2;6;10;14;PHP
 boquiabierto;Granada - Spain;Granada;1;5;1;2;PHP
+Jairohm;Granada;Granada;0;5;0;0;R
+Katovit;Granada;Granada;6;5;0;0;C
 fjfnaranjo;Granada, España (ES);Granada;1;5;0;0;CSS
-Menda;Jaén, Spain;Jaén;5;5;6;35;Python
+si2info;Granada, Spain, Europe;Granada;1;5;1;0;JavaScript
+iesportada;Málaga;Málaga;4;5;0;0;Java and C#
+Sergiodiaz53;Málaga;Málaga;1;5;0;5;
+menismu;Malaga, Spain;Málaga;0;5;0;0;JavaScript
+GanemosCadiz;Cádiz;Cádiz;0;5;0;0;JavaScript
+avilchess;Málaga (Spain);Málaga;1;5;0;0;CMake
+inakipinke;Cordoba;Córdoba;2;5;0;0;Python
+daniconil;Andalucía;Andalucía;2;5;0;0;
 pedroag;Jódar (Jaén);Jaén;3;5;1;2;PHP
 abragoo;Linares (Jaen);Jaén;0;5;0;0;C#
 skuark;Jaén, Spain;Jaén;8;5;0;5;Ruby
-mdiazf;Almeria, Spain;Almería;0;5;0;0;Ruby
-Sergiodiaz53;Málaga;Málaga;1;5;0;5;
-menismu;Malaga, Spain;Málaga;0;5;0;0;JavaScript
-blogalizate;Marbella - Málaga (Spain);Málaga;2;5;2;1;
+Menda;Jaén, Spain;Jaén;5;5;6;35;Python
+jonsangar;Málaga;Málaga;0;5;1;0;Java and HTML
+LomoDorovich;Granada;Granada;0;5;0;0;C#
 miguelavm84;Málaga;Málaga;0;5;0;0;Java
-iesportada;Málaga;Málaga;4;5;0;0;Java and C#
-manuagui;Seville, Spain;Sevilla;1;5;0;0;CSS
-yoiiii121;Sevilla;Sevilla;0;5;0;0;Python
-selucote;Seville (Spain);Sevilla;0;5;0;0;R
-cgalvarez;Seville, Spain;Sevilla;1;5;4;0;Ruby
-juanmiitadiaz;Dos Hermanas, Sevilla;Sevilla;0;5;0;0;Shell and Python
-carlosgom20;Dos Hermanas, Sevilla;Sevilla;0;5;0;0;Python and Shell
-mlortizrojas;Seville;Sevilla;0;5;0;0;Java
-juanjerod;Dos Hermanas, Sevilla;Sevilla;2;5;0;0;Python
-alvfergar;Seville;Sevilla;0;5;0;1;
-androsio;Sevilla;Sevilla;1;5;2;16;
-chmeee;Sevilla;Sevilla;5;5;27;77;Ruby and JavaScript
-jmpa92;Écija (Sevilla);Sevilla;0;5;0;0;Python and HTML
-IvanGRod;Seville, Spain;Sevilla;1;5;0;2;Java
+blogalizate;Marbella - Málaga (Spain);Málaga;2;5;2;1;
+olivarsolutions;Almeria Spain;Almería;0;5;0;0;
+mdiazf;Almeria, Spain;Almería;0;5;0;0;Ruby
+Zpecter;Málaga (Spain);Málaga;0;5;0;3;C#
+elena661;granada;Granada;0;5;0;0;
+javiermolinar;Granada, Spain;Granada;0;5;0;0;JavaScript and TypeScript
+javierescobarcerezo;Granada, Spain;Granada;1;5;0;0;C#
 josemgarcia;Sevilla, Spain;Sevilla;1;5;0;1;
-EnricGTorrents;Vera, Almería, Spain;Almería;1;4;0;22;Python
-PepeGuerrero;Málaga;Málaga;5;4;7;8;Python
-borjacampina;Huelva, España;Huelva;3;4;0;29;Java
-Pacoroper;Málaga (Spain);Málaga;0;4;0;0;
-alvarocalle;Malaga, Spain;Málaga;0;4;0;0;R
-NuriaStatgirl;Granada;Granada;6;4;0;0;TeX
-asam139;Granada, Spain;Granada;0;4;0;0;Swift and Lua
-drwaky;Madrid - Jerez de la Frontera;Cádiz;7;4;1;4;Arduino
-franbueno;Cádiz;Cádiz;0;4;0;2;PHP
-jadiazg02;Granada;Granada;4;4;0;1;C++
-MigGmm;Granada;Granada;0;4;0;0;Java and PHP
+cgalvarez;Seville, Spain;Sevilla;1;5;4;0;Ruby
+chmeee;Sevilla;Sevilla;5;5;27;77;Ruby and JavaScript
+mlortizrojas;Seville;Sevilla;0;5;0;2;Java
+jmpa92;Écija (Sevilla);Sevilla;0;5;0;0;Python and HTML
+selucote;Seville (Spain);Sevilla;0;5;0;0;R
+yoiiii121;Sevilla;Sevilla;0;5;0;0;Python
+IvanGRod;Seville, Spain;Sevilla;1;5;0;2;Java
+manuagui;Seville, Spain;Sevilla;1;5;0;0;CSS
+androsio;Sevilla;Sevilla;1;5;4;16;
+juanjerod;Dos Hermanas, Sevilla;Sevilla;2;5;0;0;Python
+carlosgom20;Dos Hermanas, Sevilla;Sevilla;0;5;0;0;Python and Shell
+juanmiitadiaz;Dos Hermanas, Sevilla;Sevilla;0;5;0;0;Shell and Python
 gomio;Granada, Spain;Granada;1;4;1;2;Lua
-serj66;Granada (Spain);Granada;0;4;0;0;
-unsegnor;Granada, Spain;Granada;3;4;1;16;Java
-juanpablodonoso;University of Granada;Granada;3;4;0;0;JavaScript
-rlebron88;Granada, Spain;Granada;0;4;0;2;JavaScript
+asam139;Granada, Spain;Granada;0;4;0;0;Swift and Lua
+jojelupipa;Granada, Spain;Granada;1;4;0;0;Shell
+jadiazg02;Granada;Granada;4;4;0;1;C++
 martaml;Granada;Granada;0;4;0;0;PHP
-yestoall;granada, spain;Granada;12;4;20;65;Ruby
-EnriqueRS;Málaga, Spain;Málaga;1;4;0;0;Java
-sjrocha;Jaén, Spain;Jaén;1;4;0;5;CSS
-violetaballester;cordoba;Córdoba;0;4;0;0;JavaScript and CSS
-ivancito3117;Montería - Córdoba - Colombia;Córdoba;1;4;0;0;HTML
+unsegnor;Granada, Spain;Granada;3;4;1;16;Java
+MigGmm;Granada;Granada;0;4;0;0;Java and PHP
+javicubo;Malaga, Spain;Málaga;0;4;0;2;
 PascualArroyo;Córdoba;Córdoba;2;4;0;1;Arduino
-albrtogarcia;Seville, Andalucia;Andalucía;1;4;0;10;
-josecuesta76;Andalucia;Andalucía;0;4;0;0;Java
-carlop;Granada, Andalucia, Spain;Andalucía;5;4;5;297;PHP
-eme1980;Córdoba;Córdoba;5;4;0;0;JavaScript and CoffeeScript
-gteijeiro;Córdoba;Córdoba;1;4;1;1;C#
-Cgm00054;Linares;Jaén;0;4;0;0;Java
+violetaballester;cordoba;Córdoba;0;4;0;0;JavaScript and CSS
 wahogna;Montería, Córdoba, Colombia;Córdoba;0;4;0;0;HTML
-Mlro;Málaga;Málaga;0;4;0;0;Java
+gteijeiro;Córdoba;Córdoba;1;4;1;1;C#
+josecuesta76;Andalucia;Andalucía;0;4;0;0;Java
+carlop;Granada, Andalucia, Spain;Andalucía;5;4;5;298;PHP
+sjrocha;Jaén, Spain;Jaén;1;4;0;5;CSS
+manuelpancorbo;Jaén, Spain;Jaén;9;4;1;25;Java and Groovy
+Cgm00054;Linares;Jaén;0;4;0;0;Java
+albrtogarcia;Seville, Andalucia;Andalucía;1;4;0;10;
+EnriqueRS;Málaga, Spain;Málaga;1;4;0;0;Java
+alelopbes;Sevilla;Sevilla;2;4;3;4;JavaScript
+Pacoroper;Málaga (Spain);Málaga;0;4;0;0;
+franbueno;Cádiz;Cádiz;0;4;0;2;PHP
+drwaky;Madrid - Jerez de la Frontera;Cádiz;7;4;1;4;Arduino
+EnricGTorrents;Vera, Almería, Spain;Almería;1;4;0;22;Python
 acien101;Almeria, Spain;Almería;0;4;0;1;HTML
-8secs;Seville, Spain;Sevilla;0;4;0;0;ApacheConf
-juanmacobo;Dos Hermanas (Sevilla);Sevilla;0;4;0;0;Shell and Python
+alvarocalle;Malaga, Spain;Málaga;0;4;0;0;R
+borjacampina;Huelva, España;Huelva;3;4;0;29;Java
+PepeGuerrero;Málaga;Málaga;6;4;7;8;Python
+ivancito3117;Montería - Córdoba - Colombia;Córdoba;1;4;0;0;HTML
+juanpablodonoso;University of Granada;Granada;3;4;0;0;JavaScript
+Laurasmus;Granada;Granada;1;4;0;0;
+serj66;Granada (Spain);Granada;0;4;0;0;
+NuriaStatgirl;Granada;Granada;6;4;0;0;TeX
+rlebron88;Granada, Spain;Granada;0;4;0;2;JavaScript
+fafranco82;Sevilla;Sevilla;0;4;0;1;JavaScript
+rmartinezsoler;Sevilla;Sevilla;0;4;0;0;PHP
+rafaborrego;Sevilla, Spain;Sevilla;1;4;0;8;HTML
+anmiralles;Sevilla (España);Sevilla;0;4;0;1;Java
+Darkloud91;Sevilla;Sevilla;0;4;0;0;JavaScript and HTML
+mayantigo;Sevilla;Sevilla;4;4;0;2;Java
+AngelRobledano;Sevilla;Sevilla;0;4;0;0;Python
 fjferram;Sevilla;Sevilla;0;4;0;0;C++
 adrisanchezfr;Dos Hermanas, Sevilla;Sevilla;3;4;0;0;Python
-raul2117;Sevilla;Sevilla;0;4;0;0;CSS
-alelopbes;Sevilla;Sevilla;2;4;3;4;JavaScript
-paulino;Sevilla, Spain;Sevilla;1;4;2;16;VHDL
-Darkloud91;Sevilla;Sevilla;0;4;0;0;JavaScript and HTML
-granhal;Spain (Sevilla);Sevilla;0;4;5;6;JavaScript
-mayantigo;Sevilla;Sevilla;4;4;0;2;Java
-pablombg;Sevilla, Spain;Sevilla;1;4;0;0;Shell and VimL
-AngelRobledano;Sevilla;Sevilla;0;4;0;0;Python
-rmartinezsoler;Sevilla;Sevilla;0;4;0;0;PHP
-anmiralles;Sevilla (España);Sevilla;0;4;0;1;Java
-rafaborrego;Sevilla, Spain;Sevilla;1;4;0;8;HTML
-escoem;Seville, Spain;Sevilla;6;4;2;2;Java
 DemofiloVizuete;Sevilla, España;Sevilla;0;4;0;2;C++
-lfgmarcantoni;Córdoba;Córdoba;0;3;0;0;Shell
-lguarneros;Córdoba;Córdoba;0;3;0;0;
-iortea;Córdoba, Spain;Córdoba;0;3;0;0;R
-plopez-famaf;Cordoba;Córdoba;0;3;0;6;Python
-juanalfonsopr;Córdoba, Spain;Córdoba;0;3;0;0;Python
-mgonzalez10;Córdoba (Spain);Córdoba;1;3;0;17;JavaScript
-fsgpino;Córdoba, Spain;Córdoba;2;3;0;0;C++ and Makefile
-jeaveme;Almería, Spain;Almería;10;3;1;0;CSS
-German-Carmona;Almería (España);Almería;0;3;0;0;
-baldboy;Almería;Almería;1;3;0;1;Ruby
+raul2117;Sevilla;Sevilla;0;4;0;0;CSS
+8secs;Seville, Spain;Sevilla;0;4;0;0;ApacheConf
+granhal;Spain (Sevilla);Sevilla;0;4;5;6;JavaScript
+escoem;Seville, Spain;Sevilla;5;4;2;2;Java
+pablombg;Sevilla, Spain;Sevilla;1;4;0;0;Shell and VimL
+rociortegag;Granada;Granada;0;3;0;0;JavaScript and CSS
+linuxonrails;Málaga, Spain;Málaga;3;3;9;154;Ruby
+walkwizus;Malaga;Málaga;0;3;2;1;Shell
+fjcarazo;Jaén;Jaén;0;3;0;0;CSS
+Kirbo92;Jaén;Jaén;3;3;5;6;CSS
+DavidFP;Jaén,SPAIN;Jaén;0;3;0;0;Java
+antoniogas;Jaén;Jaén;0;3;0;0;C#
 menudoproblema;Jaén, Spain;Jaén;14;3;96;18;Python
-javituin94;Granada;Granada;0;3;0;0;Java
-escamez;Granada;Granada;2;3;0;0;Python
-franamaterasu;Granada;Granada;0;3;0;0;HTML
+jmtirado;Málaga, Spain;Málaga;5;3;0;33;Java
+061914677x;Malaga;Málaga;0;3;0;0;Java
+pablonete;Málaga, Spain;Málaga;2;3;2;4;JavaScript
+cpalosrejano;Málaga, Spain;Málaga;3;3;0;1;Java and Groovy
+br0th3r;Málaga;Málaga;3;3;3;4;Python
+artprojectgroup;Mijas (Málaga). España;Málaga;2;3;0;2;CSS
+jmhidgar;Málaga (Spain);Málaga;0;3;0;0;JavaScript
+AirieFenix;Cordoba;Córdoba;0;3;0;3;Java
+fsgpino;Córdoba, Spain;Córdoba;2;3;0;0;C++ and Makefile
+lguarneros;Córdoba;Córdoba;0;3;0;0;
+lfgmarcantoni;Córdoba;Córdoba;0;3;0;0;Shell
+rogerlyon;Villa del rosario - Cordoba;Córdoba;0;3;0;0;
+agrogeek;Arroyomolinos de León, Huelva;Huelva;0;3;2;20;PHP
+jvlobo;Huelva, Spain;Huelva;10;3;1;17;Ruby
+huelva3d;huelva;Huelva;0;3;0;0;OpenSCAD and Shell
+iortea;Córdoba, Spain;Córdoba;0;3;0;0;R
+juanalfonsopr;Córdoba, Spain;Córdoba;0;3;0;0;Python
+paullop;Córdoba;Córdoba;1;3;0;3;HTML and CSS
+samuelhl;Málaga, Spain;Málaga;6;3;0;7;Java
 jpm88;Granada;Granada;0;3;0;1;CSS
 kamuisaeba;Granada;Granada;4;3;1;2;JavaScript
-samuelhl;Málaga, Spain;Málaga;6;3;0;7;Java
-walkwizus;Malaga;Málaga;0;3;2;1;Shell
+escamez;Granada;Granada;2;3;0;0;Python
+adri9valle;Granada,  Spain;Granada;3;3;1;0;JavaScript
+voghDev;Granada;Granada;1;3;2;13;Java
 jorgefuertes;Málaga/Spain;Málaga;10;3;10;13;Ruby
-061914677x;Malaga;Málaga;0;3;0;0;Java
-Kirbo92;Jaén;Jaén;3;3;5;6;CSS
-paullop;Córdoba;Córdoba;1;3;0;3;HTML and CSS
-antoniogas;Jaén;Jaén;0;3;0;0;C#
-br0th3r;Málaga;Málaga;3;3;3;4;Python
-jrferrer;London / Malaga;Málaga;7;3;0;61;
-lorenzoplanas;Rota, Spain;Cádiz;20;3;24;496;Ruby
-ignaciogs;Cádiz;Cádiz;15;3;6;47;Java and Racket
-CristianLuis;Algeciras, Spain;Cádiz;0;3;0;0;
-fj-marmol;Algeciras, Spain;Cádiz;0;3;0;0;HTML and CSS
-jmhidgar;Málaga (Spain);Málaga;0;3;0;0;JavaScript
-algil;Málaga (España);Málaga;3;3;0;14;HTML
-pedrojpz;Málaga, Spain;Málaga;0;3;0;0;PHP
-jmtirado;Málaga, Spain;Málaga;5;3;0;33;Java
-Smarina;Málaga, Spain;Málaga;3;3;1;12;PHP and JavaScript
-versvs;Madrid / Málaga;Málaga;7;3;12;15;JavaScript
-TrustedCryptos;Alhaurin El Grande - Malaga - Spain;Málaga;0;3;0;0;C++
-jpescalona;Malaga;Málaga;0;3;1;2;Python
-huelva3d;huelva;Huelva;0;3;0;0;OpenSCAD and Shell
-agrogeek;Arroyomolinos de León, Huelva;Huelva;0;3;2;20;PHP
-cpalosrejano;Málaga, Spain;Málaga;3;3;0;1;Java and Groovy
-pablonete;Málaga, Spain;Málaga;2;3;2;4;JavaScript
-artprojectgroup;Mijas (Málaga). España;Málaga;2;3;0;2;CSS
-bukosabino;Granada;Granada;1;3;0;8;
+bmuchmore;Granada, Spain;Granada;0;3;0;0;
+bukosabino;Granada;Granada;2;3;0;8;
+Skeptor;Granada;Granada;0;3;0;1;C++ and QMake
+franamaterasu;Granada;Granada;0;3;0;0;HTML
+javituin94;Granada;Granada;0;3;0;0;Java
 raiabril;Granada (España);Granada;0;3;0;0;Prolog
+yestoall;granada, spain;Granada;12;3;20;65;Ruby
+mgonzalez10;Córdoba (Spain);Córdoba;1;3;0;17;JavaScript
 aartiles;Córdoba, Spain;Córdoba;4;3;1;5;
-fjcarazo;Jaén;Jaén;0;3;0;0;CSS
-viciana;Sevilla;Sevilla;2;3;0;1;HTML
-reina3596;España / Sevilla;Sevilla;2;3;1;10;PHP
-nackd;Sevilla, Spain;Sevilla;34;3;15;167;Ruby
-pekechis;Sevilla;Sevilla;12;3;3;14;Java
-isapozuelo;Seville, Spain;Sevilla;0;3;0;0;
+plopez-famaf;Cordoba;Córdoba;0;3;0;6;Python
+jeaveme;Almería, Spain;Almería;10;3;1;0;CSS
+baldboy;Almería;Almería;1;3;0;1;Ruby
+German-Carmona;Almería (España);Almería;0;3;0;0;
+pedrojpz;Málaga, Spain;Málaga;0;3;0;0;PHP
+jpescalona;Malaga;Málaga;0;3;1;2;Python
+versvs;Madrid / Málaga;Málaga;7;3;12;15;JavaScript
+Smarina;Málaga, Spain;Málaga;3;3;1;12;PHP and JavaScript
+jrferrer;London / Malaga;Málaga;7;3;0;61;
+algil;Málaga (España);Málaga;3;3;0;14;HTML
+ignaciogs;Cádiz;Cádiz;17;3;6;47;Java and Racket
+lorenzoplanas;Rota, Spain;Cádiz;20;3;24;496;Ruby
+CristianLuis;Algeciras, Spain;Cádiz;0;3;0;0;
 carlosfdez91;Utrera, Sevilla;Sevilla;17;3;0;0;Python
+nackd;Sevilla, Spain;Sevilla;34;3;15;167;Ruby
+reina3596;España / Sevilla;Sevilla;2;3;1;10;PHP
+fjperezgrau;Seville;Sevilla;0;3;0;0;C++ and C
 abranxi;Seville;Sevilla;3;3;1;3;Java
-p4coperez;Sevilla;Sevilla;7;3;5;9;Gosu and Java
+NSCoderSev;Sevilla;Sevilla;4;3;5;2;Objective-C and C
+pekechis;Sevilla;Sevilla;13;3;3;14;Java
 lamujeresponja;Sevilla, Spain;Sevilla;0;3;0;0;
+alvfergar;Seville;Sevilla;0;3;0;1;
+viciana;Sevilla;Sevilla;2;3;0;1;HTML
+ElAbbassi;Sevilla (Spain);Sevilla;0;3;0;0;C
+p4coperez;Sevilla;Sevilla;7;3;5;9;Gosu and Java
 Zeyckler;Madrid/Seville (Spain);Sevilla;0;3;0;0;Java
 danielcaceresm;Sevilla, Spain;Sevilla;2;3;0;0;C# and Java
-ElAbbassi;Sevilla (Spain);Sevilla;0;3;0;0;C
-NSCoderSev;Sevilla;Sevilla;4;3;5;2;Objective-C and C
-LorenzoGodino;Sevilla;Sevilla;0;3;0;0;CSS
-serrapos;Sevilla - España;Sevilla;2;3;7;7;Java
-guillermogotre;Granada;Granada;1;2;0;0;C++
-JavierAlvarezCastillo;Granada(Spain);Granada;5;2;0;0;Java
-aljesusg;Granada,Spain;Granada;10;2;0;0;
-julioortega;Granada, Spain;Granada;1;2;0;0;
-javimovi;GRANADA, SPAIN;Granada;2;2;0;0;JavaScript
-Nyu31415;Granada, Spain;Granada;5;2;0;3;
-dflatblues;Granada - Spain;Granada;0;2;0;0;PHP
-Mimo13;Málaga;Málaga;0;2;1;1;
-miguelijordan;Málaga (Spain);Málaga;0;2;0;0;Java
-FranAmeri99;Cordoba;Córdoba;2;2;0;0;Java
-webtilians;malaga;Málaga;1;2;2;4;JavaScript
-dtorelliitrsgroup;Málaga;Málaga;0;2;0;0;Shell
-antocara;Málaga - coin;Málaga;1;2;2;136;Java
-mrt694;Málaga;Málaga;0;2;0;0;
-MariluzdelaCasa;Málaga;Málaga;0;2;0;0;
-ismaelndes;Málaga, Spain;Málaga;0;2;0;0;R and Java
-gallegote;Málaga;Málaga;0;2;0;2;Java
-NoemiLeitonLopez;Málaga;Málaga;10;2;0;0;
+isapozuelo;Seville, Spain;Sevilla;0;3;0;0;
+rubencanovaca;Málaga (ESPAÑA);Málaga;0;2;0;0;Ruby
 galvezuma;Málaga, España;Málaga;0;2;0;0;Java and R
-areyesl;Málaga;Málaga;0;2;0;1;Eagle and Arduino
-menaweb;Córdoba;Córdoba;0;2;0;72;Objective-C
-EmanuelFontalba;Córdoba;Córdoba;6;2;0;0;Java
-prointegra;Córdoba, SPAIN;Córdoba;0;2;0;0;Makefile
-mercenario;14800 - Priego de Córdoba [CO/ES];Córdoba;0;2;0;0;
-MxAxG;Córdoba, Spain;Córdoba;2;2;0;1;JavaScript
-carmelosoft;El Ejido - Almería - España;Almería;0;2;0;0;
-fmarrabal;Almería (Spain);Almería;3;2;2;72;C#
-emitomas;Almería;Almería;0;2;0;0;HTML
-dariorlual;Almería (Spain);Almería;0;2;0;1;Shell and Java
-Almeritek;Almeria;Almería;0;2;0;1;Perl
-AlbertOne;Almería;Almería;0;2;0;2;
-rsaban;Almería (Spain);Almería;1;2;0;0;Python
-fcobo;Priego de Córdoba;Córdoba;3;2;6;2;C++
-rporrasluc;Espejo, Córdoba;Córdoba;3;2;0;11;JavaScript
-erohmer;Málaga, Spain;Málaga;0;2;0;1;ApacheConf and PHP
-ricardovelero;Estepona, Málaga, Spain;Málaga;0;2;0;0;PHP
-SebaLG;Huelva, Spain;Huelva;1;2;0;0;
-jvlobo;Huelva, Spain;Huelva;10;2;1;15;Ruby
-Dinasty0;Málaga;Málaga;0;2;0;6;
-ricardovillabrieva;Las Lagunas (Mijas Costa) - Málaga;Málaga;3;2;0;0;Java
-lmtanco;Málaga, Spain;Málaga;0;2;1;1;CSS
+MariluzdelaCasa;Málaga;Málaga;0;2;0;0;
+gallegote;Málaga;Málaga;0;2;0;2;Java
 KurroSoftware;Malaga;Málaga;0;2;0;0;C#
+Mimo13;Málaga;Málaga;0;2;1;1;
 ptvirtual;C/ Pacífico, 32 - 2E   29004   Málaga;Málaga;0;2;0;5;Python
-JP-;Granada;Granada;2;2;1;0;Java
-roman-developer;Granada (Spain);Granada;0;2;0;0;Ruby
-voghDev;Granada;Granada;1;2;2;11;Java
-mgomez-olmedo;Granada, Spain;Granada;1;2;0;0;R
-seiya64;Granada, Spain;Granada;3;2;11;9;JavaScript
-vcela;Granada, Spain;Granada;0;2;0;12;JavaScript and PHP
-jpuerto;Granada;Granada;3;2;4;0;JavaScript
-rive46;Granada, Spain;Granada;0;2;0;0;JavaScript
-lmartinfernandez;Granada, Spain;Granada;0;2;0;0;CSS
-ppmim;Granada(Spain);Granada;3;2;2;13;Python
-montsrzamorano;Granada;Granada;9;2;0;0;Java and Ruby
-AdriiiPRodri;Granada, Spain;Granada;0;2;0;2;HTML and CSS
-Puertas;Granada;Granada;6;2;0;19;JavaScript
-raulgtk;Granada, Spain;Granada;0;2;0;0;Python
-bmuchmore;Granada, Spain;Granada;0;2;0;0;
-franquciapubli;Cadiz;Cádiz;0;2;1;1;
-DanijoeyPK;cadiz (España);Cádiz;1;2;0;0;Java
-Guiber00;Jerez de la Frontera;Cádiz;0;2;0;0;Java
-Krlinhos;Cádiz;Cádiz;0;2;0;1;
-rutadaki;Sanlúcar de Barrameda;Cádiz;0;2;0;0;Java
-josegf1199;Granada, Spain;Granada;0;2;0;0;JavaScript
-patriciaflorrick;Granada, España;Granada;0;2;0;0;
-edugr87;Granada;Granada;0;2;0;0;
-josepfaneca;Sevilla;Sevilla;0;2;0;2;
-asantor;Sevilla;Sevilla;0;2;0;0;
-norbertolopez;Seville , Spain;Sevilla;0;2;0;0;PHP
-biomendi;Seville, Spain;Sevilla;0;2;0;0;R
-rafaelromcar;Seville, Spain;Sevilla;5;2;0;1;Python
-AntonioAcevedo;Sevilla, Spain;Sevilla;0;2;0;2;JavaScript
-dpcreativo;Sevilla;Sevilla;0;2;0;0;Shell
-davidlcarrascal;Seville;Sevilla;3;2;0;8;JavaScript
-leenyx;Sevilla, Spain;Sevilla;3;2;0;0;
-miguelbemartin;Seville, Spain;Sevilla;6;2;1;59;PHP
-djfponti;Sevilla;Sevilla;0;2;0;0;
-juaagugui;Seville, Spain;Sevilla;6;2;78;8;Java and CSS
-mablanco;Seville, Spain;Sevilla;0;2;0;0;R
-scumah;Seville, Spain;Sevilla;4;2;0;73;JavaScript and Shell
-jmlm16;Dos Hermanas, Sevilla;Sevilla;7;2;0;1;C
-wllacer;Sevilla (Spain);Sevilla;0;2;0;1;Python
-Scriptonita;Sevilla, Spain;Sevilla;0;2;4;0;JavaScript
-guangle;Seville;Sevilla;0;2;1;1;Makefile
-jmgomezro;Seville, Spain;Sevilla;0;2;0;0;
-arquio;Seville;Sevilla;15;2;3;8;CSS
-themerck;Seville;Sevilla;2;2;1;7;JavaScript
-Kernelkun;Seville, Spain.;Sevilla;1;2;3;4;JavaScript
+jugomo;Málaga, Spain.;Málaga;0;2;0;0;Swift
+MxAxG;Córdoba, Spain;Córdoba;2;2;0;1;JavaScript
+rporrasluc;Espejo, Córdoba;Córdoba;3;2;0;11;JavaScript
+fcobo;Priego de Córdoba;Córdoba;3;2;6;2;C++
+EmanuelFontalba;Córdoba;Córdoba;6;2;0;0;Java
+rafasalas;Córdoba (Spain);Córdoba;1;2;0;0;Processing
+FranAmeri99;Cordoba;Córdoba;2;2;0;0;Java
+p22ruloi;Córdoba, Spain;Córdoba;2;2;0;1;
+prointegra;Córdoba, SPAIN;Córdoba;0;2;0;0;Makefile
+fedehaust;Córdoba;Córdoba;0;2;0;0;
+joscani;Córdoba, Spain;Córdoba;7;2;2;11;R
+ricardovillabrieva;Las Lagunas (Mijas Costa) - Málaga;Málaga;3;2;0;0;Java
+dtorelliitrsgroup;Málaga;Málaga;0;2;0;0;Shell
+webtilians;malaga;Málaga;1;2;2;4;JavaScript
+mrt694;Málaga;Málaga;0;2;0;0;
+Dinasty0;Málaga;Málaga;0;2;0;6;
+afdez;Malaga, Spain;Málaga;0;2;0;0;
+erohmer;Málaga, Spain;Málaga;0;2;0;1;ApacheConf and PHP
+antocara;Málaga - coin;Málaga;1;2;2;136;Java
+ismaelndes;Málaga, Spain;Málaga;0;2;0;0;R and Java
+TrustedCryptos;Alhaurin El Grande - Malaga - Spain;Málaga;0;2;0;0;C++
+ricardovelero;Estepona, Málaga, Spain;Málaga;0;2;0;0;PHP
+areyesl;Málaga;Málaga;0;2;0;1;Eagle and Arduino
+lmtanco;Málaga, Spain;Málaga;0;2;1;2;CSS
+NoemiLeitonLopez;Málaga;Málaga;12;2;0;0;
+darioplaza;Malaga, Spain;Málaga;0;2;0;0;
 marh00;Seville;Sevilla;2;2;0;0;HTML
-wjax;Seville;Sevilla;0;2;1;3;C
-mimopo;Sevilla, Spain;Sevilla;1;2;6;24;JavaScript
-eduardo;Seville, Spain;Sevilla;34;2;26;1.2k;Ruby
+miguelijordan;Málaga (Spain);Málaga;0;2;0;0;Java
+SebaLG;Huelva, Spain;Huelva;1;2;0;0;
+Krlinhos;Cádiz;Cádiz;0;2;0;1;
+menaweb;Córdoba;Córdoba;0;2;0;72;Objective-C
+emitomas;Almería;Almería;0;2;0;0;HTML
+Almeritek;Almeria;Almería;0;2;0;1;Perl
+dariorlual;Almería (Spain);Almería;0;2;0;1;Shell and Java
+fmarrabal;Almería (Spain);Almería;3;2;2;73;C#
+seiya64;Granada, Spain;Granada;3;2;11;9;JavaScript
+JP-;Granada;Granada;2;2;1;0;Java
+ppmim;Granada(Spain);Granada;3;2;2;13;Python
+francisco-ruiz;Granada;Granada;0;2;0;0;C++
+Puertas;Granada;Granada;6;2;0;19;JavaScript
+aljesusg;Granada,Spain;Granada;10;2;0;0;
+Nyu31415;Granada, Spain;Granada;5;2;0;3;
+carmelosoft;El Ejido - Almería - España;Almería;0;2;0;0;
+AdriiiPRodri;Granada, Spain;Granada;0;2;0;2;HTML and CSS
+mgomez-olmedo;Granada, Spain;Granada;1;2;0;0;R
+raulgtk;Granada, Spain;Granada;0;2;0;0;Python
+patriciaflorrick;Granada, España;Granada;0;2;0;0;
+rive46;Granada, Spain;Granada;0;2;0;0;JavaScript
+vcela;Granada, Spain;Granada;0;2;0;12;JavaScript and PHP
+JavierAlvarezCastillo;Granada(Spain);Granada;6;2;0;0;Java
+jpuerto;Granada;Granada;3;2;4;0;JavaScript
+montsrzamorano;Granada;Granada;9;2;0;0;Java and Ruby
+josegf1199;Granada, Spain;Granada;0;2;0;0;JavaScript
+franjhr;Granada;Granada;1;2;0;0;Ruby
+lmartinfernandez;Granada, Spain;Granada;0;2;0;0;CSS
+guillermogotre;Granada;Granada;1;2;0;0;C++
+RafaelAlcala;Granada;Granada;0;2;0;0;
+javimovi;GRANADA, SPAIN;Granada;2;2;0;0;JavaScript
+AlbertOne;Almería;Almería;0;2;0;2;
+Guiber00;Jerez de la Frontera;Cádiz;0;2;0;0;Java
+DanijoeyPK;cadiz (España);Cádiz;1;2;0;0;Java
+danigonlinea;Conil (Cádiz), España;Cádiz;2;2;4;42;CSS
+rutadaki;Sanlúcar de Barrameda;Cádiz;0;2;0;0;Java
+franquciapubli;Cadiz;Cádiz;0;2;1;1;
+RubenBer;Malaga (Spain);Málaga;0;2;0;0;
+biomendi;Seville, Spain;Sevilla;0;2;0;1;R
+Kernelkun;Seville, Spain.;Sevilla;1;2;3;4;JavaScript
 Sukafe;Seville, Spain;Sevilla;1;2;0;0;CSS
-fvena;Málaga;Málaga;3;1;2;0;JavaScript
-Igna-Olivares;Málaga;Málaga;0;1;0;0;Java
-tuccy;Málaga Spain;Málaga;0;1;0;0;
-lolytallica;Málaga;Málaga;0;1;0;0;PHP
-FreeMEM;Málaga;Málaga;0;1;1;1;
-GonzaloFdC;Málaga;Málaga;0;1;0;0;
-darioplaza;Malaga, Spain;Málaga;0;1;0;0;
-charlydagos;Málaga, Spain;Málaga;5;1;0;32;C
-AlmuHS;Huelva;Huelva;0;1;0;0;
-juaniyofm;Gibraleón (Huelva);Huelva;0;1;1;1;Java
-BlogomaticProject;Malaga, Spain;Málaga;0;1;0;0;PHP
-framirez;Málaga;Málaga;4;1;0;0;
-Naturi;Málaga;Málaga;0;1;0;0;Java
-raquel180684;fuengirola,málaga;Málaga;0;1;0;0;
-EduTellez;Málaga;Málaga;0;1;0;0;
-eduardoguzman;Málaga. Spain;Málaga;0;1;0;0;Java
-yaiza-bailen;Málaga (Spain);Málaga;3;1;6;0;JavaScript and Python
-belzebit;Granada, Spain;Granada;1;1;0;2;
-MariaOrgaz;Granada;Granada;5;1;0;0;
-manuasir;Granada, Spain;Granada;0;1;0;0;HTML
+jmgomezro;Seville, Spain;Sevilla;0;2;0;0;
+Scriptonita;Sevilla, Spain;Sevilla;0;2;2;0;JavaScript
+mablanco;Seville, Spain;Sevilla;0;2;0;0;R
+rafaelromcar;Seville, Spain;Sevilla;6;2;0;1;Python
+paulino;Sevilla, Spain;Sevilla;1;2;2;17;VHDL
+themerck;Seville;Sevilla;2;2;1;8;JavaScript
+scumah;Seville, Spain;Sevilla;4;2;0;74;JavaScript and Shell
+juaagugui;Seville, Spain;Sevilla;6;2;78;8;Java and CSS
+hidupcloud;Sevilla;Sevilla;0;2;0;0;Shell
+guangle;Seville;Sevilla;0;2;1;1;Makefile
+norbertolopez;Seville , Spain;Sevilla;0;2;0;0;PHP
+miguelbemartin;Seville, Spain;Sevilla;6;2;1;59;PHP
+arquio;Seville;Sevilla;15;2;3;8;CSS
+luismiv85;Sevilla;Sevilla;0;2;0;0;Ruby
+AntonioAcevedo;Sevilla, Spain;Sevilla;0;2;0;2;JavaScript
+davidlcarrascal;Seville;Sevilla;3;2;0;8;JavaScript
+jmlm16;Dos Hermanas, Sevilla;Sevilla;8;2;0;1;C
+wjax;Seville;Sevilla;0;2;1;3;C
+eduardo;Seville, Spain;Sevilla;34;2;26;1.2k;Ruby
+asantor;Sevilla;Sevilla;0;2;0;0;
+IgnacioDomingo;Sevilla, Spain;Sevilla;0;2;0;0;Java
+serrapos;Sevilla - España;Sevilla;2;2;7;7;Java
+felramfab;Seville, Spain;Sevilla;0;2;0;0;CMake
+leenyx;Sevilla, Spain;Sevilla;3;2;0;0;
+dpcreativo;Sevilla;Sevilla;0;2;0;0;Shell
+julioortega;Granada, Spain;Granada;1;2;0;0;
 aes92;Granada, Spain;Granada;0;1;0;1;
 masterDuncan;Granada, Spain;Granada;0;1;1;1;Java
-12adrianmorente;Granada, España;Granada;1;1;1;3;Makefile
+manuasir;Granada, Spain;Granada;0;1;0;0;HTML
 mohabouje;Granada;Granada;0;1;0;0;QMake
+12adrianmorente;Granada, España;Granada;1;1;1;4;Makefile
+dazaro;Jaén;Jaén;2;1;0;1;CSS
+Johnbo;Jaén;Jaén;0;1;0;0;Java
+mgalanlara;Jaén;Jaén;0;1;0;1;PHP
+algarcia-ujaen;Jaén - SPAIN;Jaén;3;1;0;0;
+baeza67;Linares (Jaén);Jaén;0;1;0;0;
+maxcosworth;Jaén;Jaén;15;1;2;273;Ruby
+quicocaco;Granada;Granada;0;1;0;0;
+Inakimalerba;Córdoba, Arg;Córdoba;0;1;0;1;Shell
+EmilianoCenizo;Cordoba;Córdoba;0;1;0;0;Java
+rjgarciadelpino;Córdoba;Córdoba;9;1;1;38;Ruby
+lbertalot;Córdoba;Córdoba;6;1;0;1;PHP
+hcentelles;Córdoba;Córdoba;2;1;0;73;JavaScript
+malorentelopez;Córdoba, Spain;Córdoba;1;1;0;0;Java
+diegohoyola;Cordoba;Córdoba;0;1;0;0;
+adriansavarese;Córdoba;Córdoba;0;1;0;0;
+fpiston;Córdoba. Spain;Córdoba;0;1;0;0;R
+i22sanca;Córdoba, España;Córdoba;0;1;0;0;C
+raquel180684;fuengirola,málaga;Málaga;0;1;0;0;
+Igna-Olivares;Málaga;Málaga;0;1;0;0;Java
+ccottap;Málaga, Spain;Málaga;1;1;1;0;Shell
+PeteBoucher;Malaga;Málaga;9;1;0;27;JavaScript
+GonzaloFdC;Málaga;Málaga;0;1;0;0;
+lolytallica;Málaga;Málaga;0;1;0;0;PHP
+agredain;Malaga, Spain;Málaga;1;1;0;47;Shell
+Naturi;Málaga;Málaga;0;1;0;0;Java
+fvena;Málaga;Málaga;3;1;2;0;JavaScript
+eduardoguzman;Málaga. Spain;Málaga;0;1;0;0;Java
+yaiza-bailen;Málaga (Spain);Málaga;3;1;6;0;JavaScript and Python
+pacog1956;Málaga;Málaga;0;1;0;0;
+hespresati;Málaga, Spain;Málaga;0;1;0;0;
+toroot;MALAGA;Málaga;0;1;0;0;PHP
+EduTellez;Málaga;Málaga;0;1;0;0;
+BlogomaticProject;Malaga, Spain;Málaga;0;1;0;0;PHP
+AnBaGue;Málaga;Málaga;0;1;0;0;
+javialgaba;Málaga, Spain;Málaga;1;1;0;135;
+alvaro-itrs;Málaga;Málaga;2;1;0;3;
+jpoesen;Andalusia, Spain;Andalucía;18;1;13;29;Python
+SLABGUIDE;Malaga, Spain;Málaga;0;1;0;0;PHP
+ManuelGomezCerezo;Málaga;Málaga;2;1;0;0;CSS and PHP
+FreeMEM;Málaga;Málaga;0;1;1;1;
+framirez;Málaga;Málaga;4;1;0;0;
+charlydagos;Málaga, Spain;Málaga;6;1;0;34;C
+jcarlostrillo;Málaga;Málaga;1;1;0;0;
+manuel1107;Montería, Córdoba;Córdoba;0;1;0;0;
+Akhram;Malaga, Spain;Málaga;0;1;0;0;R
+JulioSimon;Málaga;Málaga;0;1;3;6;Java and PHP
+JARamirezP;Torremolinos - Málaga;Málaga;2;1;1;1;PHP
+JavierGallego;Montejaque, Málaga, Spain;Málaga;0;1;0;0;
+tuccy;Málaga Spain;Málaga;0;1;0;0;
+gefoSoftware;Córdoba;Córdoba;0;1;0;0;JavaScript
+smabres;Cordoba;Córdoba;0;1;0;0;
+Ramnza;Córdoba, Spain;Córdoba;0;1;0;0;Shell
+elmejorb;Planeta Rica - Córdoba - Colombia;Córdoba;0;1;0;0;
+lucascarrizo;Cordoba;Córdoba;0;1;0;0;
+BosioGerman;Cordoba;Córdoba;0;1;0;29;C#
+soyellupi;Granada, Spain;Granada;2;1;1;0;JavaScript
+AnibalGarcia;Granada;Granada;1;1;0;0;Java
+evoratec;Almería, Spain;Almería;2;1;3;27;JavaScript
+afalvarez;Almería (Spain);Almería;0;1;0;1;Shell and Java
+rsaban;Almería (Spain);Almería;1;1;0;0;Python
+Indalo3D;Huercal de Almeria, Almeria. Spain;Almería;1;1;1;2;
+jmaties;Almeria;Almería;5;1;15;28;PHP
+jucles;Almeria;Almería;0;1;0;0;ASP
+Argelim;Almeria;Almería;0;1;0;0;Java
+frasko;Almería, Spain;Almería;0;1;0;0;
+youenna;Seville (Spain);Sevilla;4;1;0;0;JavaScript
+javinievas;Granada;Granada;1;1;1;4;Python and Shell
 iEcolab;Granada;Granada;4;1;0;0;R
 Aloaloha;Granada (Spain);Granada;0;1;0;0;CSS
-dcasasmol;Puerto Real (Cádiz);Cádiz;2;1;6;1;Python
-japarrado;Cádiz;Cádiz;0;1;0;20;Swift
-costap;Tarifa, Spain;Cádiz;0;1;0;10;
-isrart;El Puerto de Santa María (Cádiz);Cádiz;0;1;0;1;Ruby
-albatrosfoto;Jerez de la Frontera;Cádiz;0;1;0;0;
+glycymeris;Granada;Granada;3;1;0;7;JavaScript
+ajmoyad;Granada;Granada;3;1;2;0;Matlab and TeX
+jmrobles;Granada;Granada;2;1;17;48;Python
+Furacin;Granada;Granada;1;1;0;0;
+Cristobal-M;Granada;Granada;0;1;0;0;JavaScript
+romanarranz;Granada;Granada;0;1;0;0;
+kotejante;Granada,Spain;Granada;1;1;3;2;Python
+abpelegrina;Granada, Spain;Granada;4;1;0;0;Java and HTML
+belzebit;Granada, Spain;Granada;1;1;0;2;
+SalvaMilenario;Granada, spain;Granada;9;1;0;0;
+arsuceno;Granada;Granada;4;1;0;8;
+sergiol29;Granada;Granada;1;1;0;0;
+santiagocl;Granada (Spain);Granada;0;1;0;0;C++
+RMRubert;Granada, Spain;Granada;0;1;0;0;
+javalderas;Granada / Valdepeñas / Somewhere;Granada;0;1;0;0;JavaScript
+costap;Tarifa, Spain;Cádiz;0;1;0;11;
+tarodann;El Puerto de Santa María;Cádiz;0;1;0;0;JavaScript and CSS
+keldrox;Cadiz;Cádiz;0;1;0;0;PHP and HTML
+webifish;Vejer de la Frontera, Spain;Cádiz;4;1;5;11;PHP
 danielnietocaballero;Conil, Cádiz;Cádiz;3;1;0;8;JavaScript
+DanielLucia;Cádiz;Cádiz;0;1;0;0;
 isocalidad;San Roque, Ecuador;Cádiz;0;1;0;0;
+albatrosfoto;Jerez de la Frontera;Cádiz;0;1;0;0;
+fldrog;Spain, Cadiz, La Linea;Cádiz;1;1;0;14;Java
 Sergiopopoulos;Granada - San Roque;Cádiz;1;1;0;0;Java
 26horas;Cádiz;Cádiz;0;1;0;0;
-fldrog;Spain, Cadiz, La Linea;Cádiz;1;1;0;10;Java
-webifish;Vejer de la Frontera, Spain;Cádiz;4;1;5;11;PHP
-keldrox;Cadiz;Cádiz;0;1;0;0;PHP and HTML
 periflo90;Cádiz, España;Cádiz;0;1;0;0;
-tarodann;El Puerto de Santa María;Cádiz;0;1;0;0;JavaScript and CSS
-franciscomanuel;Granada;Granada;5;1;3;2;CSS
-jmrobles;Granada;Granada;2;1;17;48;Python
-Skeptor;Granada;Granada;0;1;0;1;C++ and QMake
-Cristobal-M;Granada;Granada;0;1;0;0;JavaScript
-RMRubert;Granada, Spain;Granada;0;1;0;0;
+japarrado;Cádiz;Cádiz;0;1;0;20;Swift
+dcasasmol;Puerto Real (Cádiz);Cádiz;2;1;6;1;Python
+isrart;El Puerto de Santa María (Cádiz);Cádiz;0;1;0;1;Ruby
 DavidBaug;Granada;Granada;0;1;0;0;
-quicocaco;Granada;Granada;0;1;0;0;
-javalderas;Granada / Valdepeñas / Somewhere;Granada;0;1;0;0;JavaScript
-abpelegrina;Granada, Spain;Granada;4;1;0;0;Java and HTML
-SalvaMilenario;Granada, spain;Granada;9;1;0;0;
-kotejante;Granada,Spain;Granada;1;1;3;2;Python
-ajmoyad;Granada;Granada;4;1;2;0;Matlab and TeX
-rodrigogomez78;Granada;Granada;0;1;0;0;
-howtoandroid;Granada, Spain;Granada;0;1;0;2;HTML
-fkolopez;Granada;Granada;0;1;0;0;Python
-javinievas;Granada;Granada;1;1;1;4;Python and Shell
-soyellupi;Granada, Spain;Granada;2;1;1;0;JavaScript
-arsuceno;Granada;Granada;4;1;0;8;
-glycymeris;Granada;Granada;3;1;0;7;JavaScript
-sergiol29;Granada;Granada;1;1;0;0;
-romanarranz;Granada;Granada;0;1;0;0;
-AnibalGarcia;Granada;Granada;1;1;0;0;Java
-SLABGUIDE;Malaga, Spain;Málaga;0;1;0;0;PHP
-hespresati;Málaga, Spain;Málaga;0;1;0;0;
-JulioSimon;Málaga;Málaga;0;1;3;6;Java and PHP
-jpoesen;Andalusia, Spain;Andalucía;18;1;13;29;Python
-toroot;MALAGA;Málaga;0;1;0;0;PHP
-ManuelGomezCerezo;Málaga;Málaga;2;1;0;0;CSS and PHP
-alvaro-itrs;Málaga;Málaga;2;1;0;3;
-AnBaGue;Málaga;Málaga;0;1;0;0;
-ingeniuz;Málaga, Spain;Málaga;1;1;1;9;PHP
-JARamirezP;Torremolinos - Málaga;Málaga;1;1;2;1;PHP and CSS
-Majara;Málaga, España;Málaga;1;1;0;0;
-PeteBoucher;Malaga;Málaga;9;1;0;27;JavaScript
-Indalo3D;Huercal de Almeria, Almeria. Spain;Almería;1;1;1;2;
-enramos;Almería;Almería;1;1;0;45;JavaScript
-evoratec;Almería, Spain;Almería;2;1;3;26;JavaScript
-frasko;Almería, Spain;Almería;0;1;0;0;
-Argelim;Almeria;Almería;0;1;0;0;Java
-jucles;Almeria;Almería;0;1;0;0;ASP
-jmaties;Almeria;Almería;5;1;15;28;PHP
-afalvarez;Almería (Spain);Almería;0;1;0;1;Shell and Java
-lucadv;Málaga;Málaga;1;1;0;0;JavaScript and PHP
-ccottap;Málaga, Spain;Málaga;1;1;1;0;Shell
-agredain;Malaga, Spain;Málaga;1;1;0;47;Shell
-jcarlostrillo;Málaga;Málaga;1;1;0;0;
-javialgaba;Málaga, Spain;Málaga;1;1;0;135;
-gefoSoftware;Córdoba;Córdoba;0;1;0;0;JavaScript
-rjgarciadelpino;Córdoba;Córdoba;9;1;1;38;Ruby
-manuel1107;Montería, Córdoba;Córdoba;0;1;0;0;
-Ramnza;Córdoba, Spain;Córdoba;0;1;0;0;Shell
-adriansavarese;Córdoba;Córdoba;0;1;0;0;
-malorentelopez;Córdoba, Spain;Córdoba;1;1;0;0;Java
-lbertalot;Córdoba;Córdoba;6;1;0;1;PHP
-BosioGerman;Cordoba;Córdoba;0;1;0;29;C#
-lucascarrizo;Cordoba;Córdoba;0;1;0;0;
-hcentelles;Córdoba;Córdoba;2;1;0;73;JavaScript
-i22sanca;Córdoba, España;Córdoba;0;1;0;0;C
-elmejorb;Planeta Rica - Córdoba - Colombia;Córdoba;0;1;0;0;
-fpiston;Córdoba. Spain;Córdoba;0;1;0;0;R
-diegohoyola;Cordoba;Córdoba;0;1;0;0;
-smabres;Cordoba;Córdoba;0;1;0;0;
-dazaro;Jaén;Jaén;2;1;0;1;CSS
-mgalanlara;Jaén;Jaén;0;1;0;1;PHP
-maxcosworth;Jaén;Jaén;15;1;2;273;Ruby
-baeza67;Linares (Jaén);Jaén;0;1;0;0;
-algarcia-ujaen;Jaén - SPAIN;Jaén;3;1;0;0;
-Johnbo;Jaén;Jaén;0;1;0;0;Java
-felramfab;Seville, Spain;Sevilla;0;1;0;0;CMake and C++
-pintope;Sevilla (Spain);Sevilla;0;1;1;0;Objective-C
-ignotion;Seville;Sevilla;0;1;0;1;
-joseagudomontero;Sevilla.;Sevilla;0;1;0;0;
-FernanOrtega;La Algaba - Sevilla - Spain;Sevilla;0;1;0;3;Java and HTML
-efernandezleon;Sevilla;Sevilla;4;1;0;4;Java
-fernandoris;Sevilla - Spain;Sevilla;0;1;0;0;
-pabloescribanodeloza;Seville;Sevilla;0;1;0;0;Makefile
-GonESI;Seville;Sevilla;0;1;0;1;
-Twinber;Sevilla (SPAIN);Sevilla;4;1;0;5;Objective-C
-fcarrascosa;Sevilla;Sevilla;0;1;0;0;PHP
-alexdw;Seville;Sevilla;0;1;0;0;PHP
-youenna;Seville (Spain);Sevilla;4;1;0;0;JavaScript
-vesperaba;Seville, Spain;Sevilla;2;1;0;0;Java
-isegurola;Sevilla;Sevilla;0;1;0;0;
-soyroot;Sevilla;Sevilla;0;1;0;0;PHP
-ignaciodomingo;Sevilla, Spain;Sevilla;0;1;0;0;Java
-erchache2000;Sevilla;Sevilla;1;1;0;2;HTML
-ailimes;sevilla(spain);Sevilla;0;1;0;0;
+juaniyofm;Gibraleón (Huelva);Huelva;0;1;1;1;Java
+AlmuHS;Huelva;Huelva;0;1;0;0;
+franciscomanuel;Granada;Granada;5;1;3;2;CSS
+MariaOrgaz;Granada;Granada;5;1;0;0;
 robertovg;Sevilla;Sevilla;3;1;9;50;JavaScript
 AMongeMoreno;Seville, Spain;Sevilla;3;1;0;7;Python
-javiergalloj;Los Palacios y Vfca (Sevilla);Sevilla;10;1;0;0;Python
-Dany503;Seville;Sevilla;0;1;0;0;
-ikito;Sevilla;Sevilla;0;1;0;2;
-makmonty;Sevilla;Sevilla;4;1;8;6;Java
-isidrobaq;Sevilla;Sevilla;2;1;0;0;
-Pakoke;Tomares,Seville;Sevilla;0;1;0;0;
-rubfergor;Seville, Spain;Sevilla;2;1;0;6;
-Ignacio-Perez;Seville;Sevilla;1;1;0;0;
-nachopavon;Seville, Spain;Sevilla;2;1;8;16;PHP
-svqdev;Sevilla, España;Sevilla;0;1;0;0;
-alesevimor;Sevilla, España;Sevilla;1;1;2;3;Java and HTML
-QuiniRoizPagador;Sevilla;Sevilla;2;1;0;1;Java
-EnnoLangelotz;Sevilla, Spain;Sevilla;2;1;1;7;CSS
-migmae;Sevilla;Sevilla;16;1;2;275;
-fghelaz;SEVILLE;Sevilla;0;1;0;2;R
-KorXo;Sevilla;Sevilla;0;1;1;6;Shell
-mlunacant;Seville, Spain;Sevilla;1;1;0;1;C# and Shell
-Nievesglez;Sevilla, Spain;Sevilla;0;1;0;1;
-pedmuitor;Seville, Spain;Sevilla;1;1;1;19;Objective-C
-pikislabis;Seville, Spain;Sevilla;6;1;10;27;Ruby
-antsandel;Sevilla;Sevilla;0;1;0;0;C and C++
-luivalcab;Sevilla, España;Sevilla;0;1;0;0;R
-frhumanes;Seville;Sevilla;2;1;4;3;JavaScript
-laugardel;Seville;Sevilla;2;1;0;0;
-hfiel;Seville, Spain;Sevilla;2;1;0;5;PHP
-ahmontero;Seville, Spain;Sevilla;34;1;308;91;Python
-a28rangel;Sevilla;Sevilla;0;1;0;0;Java
-kosdavid;Sevilla;Sevilla;1;1;0;1;Swift
-josemiguelhs;Sevilla;Sevilla;1;1;0;1;
 emepetres;Seville, Spain;Sevilla;0;1;1;3;Prolog and C++
+javiergalloj;Los Palacios y Vfca (Sevilla);Sevilla;10;1;0;0;Python
+KorXo;Sevilla;Sevilla;0;1;1;6;Shell
+joseagudomontero;Sevilla.;Sevilla;0;1;0;0;
+antsandel;Sevilla;Sevilla;0;1;0;0;C and C++
+isidrobaq;Sevilla;Sevilla;2;1;0;0;
+Nievesglez;Sevilla, Spain;Sevilla;0;1;0;1;
+rubfergor;Seville, Spain;Sevilla;2;1;0;6;
+nachopavon;Seville, Spain;Sevilla;2;1;8;16;PHP
+sergioromeroesc;Sevilla;Sevilla;0;1;0;0;
+alexdw;Seville;Sevilla;0;1;0;0;PHP
+Pakoke;Tomares,Seville;Sevilla;0;1;0;0;
+QuiniRoizPagador;Sevilla;Sevilla;2;1;0;1;Java
+EnnoLangelotz;Sevilla, Spain;Sevilla;2;1;1;9;CSS
+gerar2;Sevilla;Sevilla;2;1;0;0;
+GonESI;Seville;Sevilla;0;1;0;1;
+pabloescribanodeloza;Seville;Sevilla;0;1;0;0;Makefile
+fghelaz;SEVILLE;Sevilla;0;1;0;2;R
+frhumanes;Seville;Sevilla;2;1;4;3;JavaScript
+isegurola;Sevilla;Sevilla;0;1;0;0;
+ailimes;sevilla(spain);Sevilla;0;1;0;0;
+makmonty;Sevilla;Sevilla;4;1;8;6;Java
+svqdev;Sevilla, España;Sevilla;0;1;0;0;
+a28rangel;Sevilla;Sevilla;0;1;0;0;Java
+efernandezleon;Sevilla;Sevilla;4;1;0;4;Java
+luivalcab;Sevilla, España;Sevilla;0;1;0;0;R
+mrluissan;Sevilla, España;Sevilla;0;1;0;0;CoffeeScript and CSS
+Twinber;Sevilla (SPAIN);Sevilla;4;1;0;5;Objective-C
+vesperaba;Seville, Spain;Sevilla;2;1;0;0;Java
+jmaparicio;Sevilla;Sevilla;0;1;0;2;Python
+ahmontero;Seville, Spain;Sevilla;33;1;308;91;Python
+lexicode;Seville;Sevilla;0;1;0;0;PHP and Python
 jarcos;Sevilla, Spain;Sevilla;7;1;0;5;CSS
+kruske;Sevilla;Sevilla;0;1;0;0;PHP
+FernanOrtega;La Algaba - Sevilla - Spain;Sevilla;0;1;0;3;Java and HTML
+laugardel;Seville;Sevilla;2;1;0;0;
+ignotion;Seville;Sevilla;0;1;0;1;
+ikito;Sevilla;Sevilla;0;1;0;2;
+hfiel;Seville, Spain;Sevilla;2;1;0;5;PHP
+erchache2000;Sevilla;Sevilla;1;1;0;2;HTML
+Dany503;Seville;Sevilla;0;1;0;0;
+fernandoris;Sevilla - Spain;Sevilla;1;1;0;0;
+josemiguelhs;Sevilla;Sevilla;1;1;0;1;
+kosdavid;Sevilla;Sevilla;1;1;0;1;Swift
+pikislabis;Seville, Spain;Sevilla;6;1;10;27;Ruby
+Ignacio-Perez;Seville;Sevilla;1;1;0;0;
+mlunacant;Seville, Spain;Sevilla;1;1;0;1;C# and Shell
+pedmuitor;Seville, Spain;Sevilla;1;1;1;19;Objective-C
+migmae;Sevilla;Sevilla;16;1;2;275;
+Majara;Málaga, España;Málaga;1;1;0;0;
