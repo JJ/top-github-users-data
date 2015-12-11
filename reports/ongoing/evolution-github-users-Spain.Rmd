@@ -1,7 +1,7 @@
 ---
-title: 'Github users in Spain: Evolution of number of users'
+title: 'GitHub users in Spain: Evolution of number of users up to December 2015'
 author: "JJ Merelo"
-date: "29/10/2015"
+date: "11/12/2015"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -42,4 +42,9 @@ ggplot(agg.top.Spain.evol,aes(x=users,y=followers))+geom_line()+geom_point()
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(agg.top.Spain.evol,aes(x=users,y=contributions))+geom_line()+geom_point()
+```
+
+So, has growth been "organic", that is, due mainly to the number of users, or has productivity increased?
+```{r, echo=FALSE,fig.width=10,fig.height=8}
+ggplot(agg.top.Spain.evol,aes(x=idu,y=contributions/users))+geom_line()+geom_point()
 ```
