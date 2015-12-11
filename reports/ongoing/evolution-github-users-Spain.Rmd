@@ -18,8 +18,8 @@ agg.top.Spain.evol$idu <- as.numeric(row.names(agg.top.Spain.evol))
 
 ##Abstract
 
->The number of users in a particular software development platform constrained to a topographical place like Spain changes in time, due to several factors: changes in usage patterns and change in the number of users. This last can be due too to several different reasons: popularity of the platform  or popularity of the ranking itself, that makes people add their place of origin to their profile so that they can show up in the ránking.
->In this report we will show how, since we started measuring the number of users in Spain and published the rankings, the number of followers, contributions and users has changed. We will also try to find out the reasons why that has happened.
+>The number of users in a particular software development and source control platform constrained to a topographical place like Spain changes in time, due several factors such as changes in usage patterns and change in the number of users. This last can be due too to several different reasons: popularity of the platform  or popularity of the ranking itself, that makes people add their place of origin to their profile so that they can show up in the ránking.
+>In this report we will show how, since we started measuring the number of users in Spain and published the rankings, the number of followers, contributions and users has changed. We will also try to find out the reasons why that has happened and base it on the numbers. 
 
 #Introduction
 
@@ -33,12 +33,14 @@ First we would like to check what has happened to the number of users, how they 
 ggplot(agg.top.Spain.evol,aes(x=idu,y=users))+geom_line()+geom_point()
 ```
 
-The `x` axis is an arbitrary scale that simply represents every time we have generated a new set of users, which happends usually every week, but not always. there have been new users practically every time except for two or three occassions, which might be attributed to errors in the GitHub API, which does not always return all users. In general, In general and in less than one year, the number has increased around 20%, going from under 9000 to close than 11000.
+The `x` axis is an arbitrary scale that simply represents every time we have generated a new set of users, which happends usually every week, but not always. there have been new users practically every time except for two or three occassions, which might be attributed to errors in the GitHub API, which does not always return all users. In general, In general and in less than one year, the number has increased around 20%, going from under 9000 to close to 11000.
 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(agg.top.Spain.evol,aes(x=users,y=followers))+geom_line()+geom_point()
 ```
+
+But how have the contributions grown with the number of users? This is shown below.
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(agg.top.Spain.evol,aes(x=users,y=contributions))+geom_line()+geom_point()
@@ -48,3 +50,7 @@ So, has growth been "organic", that is, due mainly to the number of users, or ha
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(agg.top.Spain.evol,aes(x=idu,y=contributions/users))+geom_line()+geom_point()
 ```
+
+## Conclusions
+
+In general, there is no clear conclusion, other than certify the growth in the number of users and productivity associated with that. We will have to delve deeper into the numbers to find out what has happened, and of course continue measurements to check what is the long-term trend. 
