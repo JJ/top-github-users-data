@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 04 Jan 2015 09:51:19 GMT** hasta **Mon, 04 Jan 2016 09:51:19 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 10 Jan 2015 10:37:52 GMT** hasta **Sun, 10 Jan 2016 10:37:52 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -14,6 +14,6 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [pablomario](https://github.com/pablomario) | 84 | 0 | PHP | Soria, Spain | <img src='https://avatars1.githubusercontent.com/u/4464094?v=3&s=64' width="64" title='Pablo Mario'> |
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [statickidz](https://github.com/statickidz) | 36 | 5 | PHP | Soria | <img src='https://avatars1.githubusercontent.com/u/7888227?v=3&s=64' width="64" title='Adrián Barrio Andrés'> |
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 3 | [IcuScc](https://github.com/IcuScc) | 5 | 0 | Swift and Java | Soria | <img src='https://avatars3.githubusercontent.com/u/5454095?v=3&s=64' width="64" title='Sergio'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [pablomario](https://github.com/pablomario) | 81 | 0 | PHP | Soria, Spain | <img src='https://avatars1.githubusercontent.com/u/4464094?v=3&s=64' width="64" title='Pablo Mario'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [statickidz](https://github.com/statickidz) | 43 | 5 | PHP | Soria | <img src='https://avatars1.githubusercontent.com/u/7888227?v=3&s=64' width="64" title='Adrián Barrio Andrés'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 3 | [IcuScc](https://github.com/IcuScc) | 5 | 0 | Java and Swift | Soria | <img src='https://avatars3.githubusercontent.com/u/5454095?v=3&s=64' width="64" title='Sergio'> |

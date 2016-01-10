@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 04 Jan 2015 09:33:30 GMT** hasta **Mon, 04 Jan 2016 09:33:30 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 10 Jan 2015 10:22:15 GMT** hasta **Sun, 10 Jan 2016 10:22:15 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -14,11 +14,11 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [davidmigloz](https://github.com/davidmigloz) | 142 | 3 | Java | Burgos | <img src='https://avatars1.githubusercontent.com/u/6546265?v=3&s=64' width="64" title='David Miguel Lozano'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [sl1pkn07](https://github.com/sl1pkn07) | 133 | 0 | Makefile | burgos (Spain) | <img src='https://avatars3.githubusercontent.com/u/462213?v=3&s=64' width="64" title='Gustavo Alvarez'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [davidmigloz](https://github.com/davidmigloz) | 151 | 3 | Java | Burgos | <img src='https://avatars1.githubusercontent.com/u/6546265?v=3&s=64' width="64" title='David Miguel Lozano'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [sl1pkn07](https://github.com/sl1pkn07) | 134 | 0 | C++ | burgos (Spain) | <img src='https://avatars3.githubusercontent.com/u/462213?v=3&s=64' width="64" title='Gustavo Alvarez'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [Zarpen](https://github.com/Zarpen) | 21 | 1 | JavaScript and CSS | Burgos | <img src='https://avatars2.githubusercontent.com/u/1887156?v=3&s=64' width="64" title='Alberto Romo Valverde'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [Macarod](https://github.com/Macarod) | 19 | 0 | JavaScript | Burgos, Spain | <img src='https://avatars2.githubusercontent.com/u/12810672?v=3&s=64' width="64" title='Rodrigo Pérez'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 5 | [ElionTDA](https://github.com/ElionTDA) | 19 | 2 | Java | Burgos | <img src='https://avatars2.githubusercontent.com/u/5507129?v=3&s=64' width="64" title='Diego Martín Pérez'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [Macarod](https://github.com/Macarod) | 19 | 0 | CSS | Burgos, Spain | <img src='https://avatars2.githubusercontent.com/u/12810672?v=3&s=64' width="64" title='Rodrigo Pérez'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 5 | [ElionTDA](https://github.com/ElionTDA) | 19 | 2 | ASP | Burgos | <img src='https://avatars2.githubusercontent.com/u/5507129?v=3&s=64' width="64" title='Diego Martín Pérez'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 6 | [clopezno](https://github.com/clopezno) | 15 | 1 | Java and Shell | Burgos | <img src='https://avatars2.githubusercontent.com/u/1453744?v=3&s=64' width="64" title='Carlos López'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 7 | [educajavies](https://github.com/educajavies) | 10 | 0 |  | Burgos | <img src='https://avatars3.githubusercontent.com/u/15256663?v=3&s=64' width="64" title='educajavies'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 8 | [zerberros](https://github.com/zerberros) | 8 | 0 | Python | Burgos, Spain | <img src='https://avatars0.githubusercontent.com/u/5930950?v=3&s=64' width="64" title='Jairo'> |
@@ -32,4 +32,3 @@
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 16 | [turtulino](https://github.com/turtulino) | 2 | 1 | Shell | Burgos, Spain | <img src='https://avatars0.githubusercontent.com/u/1004178?v=3&s=64' width="64" title='Rodrigo Saiz Camarero'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 17 | [rafcano](https://github.com/rafcano) | 2 | 0 | Java | Aranda de Duero, Burgos, Spain | <img src='https://avatars2.githubusercontent.com/u/5133503?v=3&s=64' width="64" title='Rafael Cano Parra'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 18 | [dlr0008](https://github.com/dlr0008) | 1 | 0 | Java and Shell | Burgos | <img src='https://avatars3.githubusercontent.com/u/9467051?v=3&s=64' width="64" title='Daniel Lozano'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 19 | [icruzado](https://github.com/icruzado) | 1 | 1 | Shell | Burgos or Valladolid, Spain | <img src='https://avatars2.githubusercontent.com/u/1931910?v=3&s=64' width="64" title='Ignacio Cruzado Nuño'> |

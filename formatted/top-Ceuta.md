@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 04 Jan 2015 09:52:22 GMT** hasta **Mon, 04 Jan 2016 09:52:22 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 10 Jan 2015 10:38:54 GMT** hasta **Sun, 10 Jan 2016 10:38:54 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -14,4 +14,4 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [carcam](https://github.com/carcam) | 144 | 10 | PHP | Almería, Ceuta, Spain | <img src='https://avatars2.githubusercontent.com/u/1695138?v=3&s=64' width="64" title='Carlos (carcam)'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [carcam](https://github.com/carcam) | 138 | 10 | PHP | Almería, Ceuta, Spain | <img src='https://avatars2.githubusercontent.com/u/1695138?v=3&s=64' width="64" title='Carlos (carcam)'> |
