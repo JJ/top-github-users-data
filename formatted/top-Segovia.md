@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 10 Jan 2015 10:35:46 GMT** hasta **Sun, 10 Jan 2016 10:35:46 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 17 Jan 2015 10:35:32 GMT** hasta **Sun, 17 Jan 2016 10:35:32 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -14,9 +14,9 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [soyapone](https://github.com/soyapone) | 68 | 0 | JavaScript and CSS | Segovia | <img src='https://avatars0.githubusercontent.com/u/13187123?v=3&s=64' width="64" title='Diego Martín'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [alvardsoler](https://github.com/alvardsoler) | 66 | 0 | CSS | Madrid / Segovia | <img src='https://avatars2.githubusercontent.com/u/4102837?v=3&s=64' width="64" title=''> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [carlosdelucas92](https://github.com/carlosdelucas92) | 62 | 0 | JavaScript | Segovia City | <img src='https://avatars2.githubusercontent.com/u/10717935?v=3&s=64' width="64" title='Carlos de Lucas Sanz'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [soyapone](https://github.com/soyapone) | 71 | 0 | JavaScript and CSS | Segovia | <img src='https://avatars0.githubusercontent.com/u/13187123?v=3&s=64' width="64" title='Diego Martín'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [carlosdelucas92](https://github.com/carlosdelucas92) | 62 | 0 | JavaScript | Segovia City | <img src='https://avatars2.githubusercontent.com/u/10717935?v=3&s=64' width="64" title='Carlos de Lucas Sanz'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [alvardsoler](https://github.com/alvardsoler) | 61 | 0 | CSS | Madrid / Segovia | <img src='https://avatars2.githubusercontent.com/u/4102837?v=3&s=64' width="64" title=''> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [guiyens](https://github.com/guiyens) | 41 | 3 | JavaScript | Segovia | <img src='https://avatars2.githubusercontent.com/u/1494204?v=3&s=64' width="64" title='Guillermo Ramos Vega'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 5 | [PhoneixS](https://github.com/PhoneixS) | 31 | 0 | Java | Segovia | <img src='https://avatars3.githubusercontent.com/u/1279539?v=3&s=64' width="64" title='Javier Alfonso'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 6 | [iMartinezMateu](https://github.com/iMartinezMateu) | 6 | 4 | C++ | Segovia, Spain | <img src='https://avatars1.githubusercontent.com/u/9308066?v=3&s=64' width="64" title='Iván Martínez Mateu'> |
