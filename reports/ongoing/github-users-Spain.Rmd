@@ -2,7 +2,7 @@
 title: 'Github users in Spain: a report on geographical distribution of open source
   developers'
 author: "JJ Merelo"
-date: "24/10/2015"
+date: "23/1/2016"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -86,7 +86,7 @@ ggplot(data.province, aes(x=reorder(province,usersrel),y=usersrel))+geom_bar(sta
 
 After these provinces the situation is more stable, with Seville in the 4th position, followed by Saragossa (Zaragoza), Valladolid, Bizkaia (represented by its main city, Bilbao), Valencia and Córdoba. The province of A Coruña is a distant nextand closes the top 10.
 
-The situation is similar if we take into account the aggregated contributions by all users that have declared their province. Once again, Granada emerges as the winner, with Navarra, largely due to a single user, as the second. Next, the positions of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. The first 6 positions seem consolidated, at least in the last few months, and closed by Zaragoza, but Bilbao and Sevilla are very close in the 7th and 8th, and Álava and Asturias, vying for the next positions up to the tenth. The next positions are very close and the situation is not stable for the time being, with Jaén, Donostia and Valencia virtually with the same number of contributions per person. 
+The situation is similar if we take into account the aggregated contributions by all users that have declared their province. Once again, Granada emerges as the winner, with Navarra, largely due to a single user, as the second. Next, the positions of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. The first 6 positions seem consolidated, at least in the last few months, and closed by Zaragoza, but Bilbao and Sevilla are very close in the 7th and 8th, and Álava, Jaén and Asturias, vying for the next positions up to the tenth. The next positions are very close and the situation is not stable for the time being, with Donostia and Valencia virtually with the same number of contributions per person. 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,contribrel),y=contribrel))+geom_bar(stat='identity')+coord_flip()

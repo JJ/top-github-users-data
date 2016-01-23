@@ -1,7 +1,7 @@
 ---
 title: 'GitHub users in Spain: Evolution of number of users up to December 2015'
 author: "JJ Merelo"
-date: "11/12/2015"
+date: "23/1/2016"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -50,6 +50,8 @@ So, has growth been "organic", that is, due mainly to the number of users, or ha
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(agg.top.Spain.evol,aes(x=idu,y=contributions/users))+geom_line()+geom_point()
 ```
+
+In general, productivity has veen increasing slightly, with several *plateau* periods. The initial drop is not too clear, but in this case it might be due to new users trying to show up in the ranking.
 
 ## Conclusions
 
