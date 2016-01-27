@@ -1,394 +1,405 @@
 login; location; place; followers; contributions; stars; user_stars; language
-notnotpsych0;Galicia, Spain.;Galicia;1;3437;2;7;CSS
-oscarotero;Galicia;Galicia;78;2259;1231;233;PHP
-fdansv;Madrid / Santiago de Compostela;Coruña;21;1513;24;18;Java
-diegopau;Vigo, Spain;Pontevedra;5;1129;5;23;JavaScript
-jjelosua;Vigo, Spain;Pontevedra;31;725;6;50;Python
-saulmm;Vigo, Spain;Pontevedra;1000;702;3645;240;Java
-unho;Galicia;Galicia;12;493;25;6;Python
-ctemescw;A Coruña, Spain;Coruña;11;491;10;29;Arduino
-eusonlito;Ourense, Galiza;Galicia;22;413;186;26;PHP
-carlosga;Vigo, Spain;Pontevedra;4;409;5;11;C#
-inercia;A Coruña, Spain;Coruña;14;395;22;476;Python
-agjacome;Ourense, Spain;Orense;24;395;4;31;Scala
-CytraL;Galicia;Galicia;7;392;18;17;C++
-alexandregz;Galiza;Galicia;17;386;66;1k;Shell
-fpuga;Vigo. Spain;Pontevedra;9;384;4;15;CSS
-carlosgoce;Baiona, Pontevedra, Spain;Pontevedra;3;382;2;24;Python
-barcia;Galicia, Spain;Galicia;10;372;4;46;JavaScript
-mmontes11;A Coruña;Coruña;19;371;20;93;CSS
-albertoruibal;Galicia, Spain;Galicia;24;368;49;10;CSS
-rcoedo;A Coruña;Coruña;5;360;8;2;HTML
+oscarotero;Galicia;Galicia;79;2201;1251;229;PHP
+fdansv;Madrid / Santiago de Compostela;Coruña;21;1726;24;18;Java
+diegopau;Vigo, Spain;Pontevedra;5;1126;5;23;JavaScript
+jjelosua;Vigo, Spain;Pontevedra;32;716;6;50;Python
+saulmm;Vigo, Spain;Pontevedra;1000;662;3689;240;Java
+alambike;Santiago de Compostela;Coruña;12;514;13;302;Perl
+ctemescw;A Coruña, Spain;Coruña;11;487;10;29;Arduino
+unho;Galicia;Galicia;12;486;25;6;Python
+carlosga;Vigo, Spain;Pontevedra;4;415;5;11;C#
+eusonlito;Ourense, Galiza;Galicia;22;415;189;26;PHP
+agjacome;Ourense, Spain;Orense;24;395;4;33;Scala
+inercia;A Coruña, Spain;Coruña;15;395;22;475;Python
+mmontes11;A Coruña;Coruña;20;393;21;97;CSS
+CytraL;Galicia;Galicia;7;393;18;18;C++
+fpuga;Vigo. Spain;Pontevedra;9;385;4;15;CSS
+alexandregz;Galiza;Galicia;17;384;66;1k;Shell
+barcia;Galicia, Spain;Galicia;10;379;4;47;JavaScript
+rcoedo;A Coruña;Coruña;5;366;8;2;HTML
 pablopunk;Santiago de Compostela;Coruña;5;359;2;12;Python
-alambike;Santiago de Compostela;Coruña;12;358;13;301;Perl
-bertez;Brión, Galicia, Spain;Galicia;32;346;28;125;JavaScript
-michogar;Vigo;Pontevedra;17;345;9;3;JavaScript
-jesusVMayor;Lugo;Lugo;5;340;0;18;Python
-fasouto;Vigo, Spain;Pontevedra;30;304;401;450;Python
-jesusprubio;A Coruña;Coruña;64;298;143;1.5k;JavaScript
-ablunier;Compostela, Galiza;Galicia;8;287;8;57;PHP
-jbgutierrez;A Coruña, Galicia, España;Coruña;11;285;91;128;Ruby
-adriannovegil;A Coruña;Coruña;4;268;3;4;Java
-rafacouto;Galicia;Galicia;23;267;9;90;Shell
-Reimashi;Ourense, Spain;Orense;3;240;0;1;C#
-rubenhortas;Lugo ⊕ A Coruña (Galiza, Spain);Coruña;13;238;5;11;Python
-dpino;Vigo;Pontevedra;17;232;47;28;Java
+michogar;Vigo;Pontevedra;17;352;9;3;JavaScript
+albertoruibal;Galicia, Spain;Galicia;24;348;49;10;CSS
+carlosgoce;Baiona, Pontevedra, Spain;Pontevedra;4;333;2;25;Python
+jesusVMayor;Lugo;Lugo;5;331;0;19;Python
+bertez;Brión, Galicia, Spain;Galicia;32;321;29;133;JavaScript
+ablunier;Compostela, Galiza;Galicia;8;307;8;57;PHP
+fasouto;Vigo, Spain;Pontevedra;30;304;406;451;Python
+jesusprubio;A Coruña;Coruña;66;299;145;1.5k;JavaScript
+rafacouto;Galicia;Galicia;23;270;9;90;Shell
+adriannovegil;A Coruña;Coruña;4;269;3;4;Java
+jbgutierrez;A Coruña, Galicia, España;Coruña;12;263;93;128;Ruby
+rubenhortas;Lugo ⊕ A Coruña (Galiza, Spain);Coruña;13;248;5;11;Python
+Reimashi;Ourense, Spain;Orense;3;239;0;1;C#
+dpino;Vigo;Pontevedra;18;233;47;28;Java
 carlosabalde;A Coruña, Spain;Coruña;4;222;47;14;Shell
-antoniovazquezblanco;Chantada, Lugo, Spain;Lugo;17;217;12;24;C
-chezwhite;Ourense, Spain;Orense;2;213;0;0;JavaScript
-segundofdez;Lugo, Galicia, Spain;Galicia;11;208;8;118;CSS
+chezwhite;Ourense, Spain;Orense;2;218;0;0;JavaScript
+castrinho8;A Coruña;Coruña;12;218;2;6;CSS
+antoniovazquezblanco;Chantada, Lugo, Spain;Lugo;17;213;12;24;C
+segundofdez;Lugo, Galicia, Spain;Galicia;11;208;8;123;CSS
 kix2902;Vigo, Spain;Pontevedra;18;200;0;32;Java
-castrinho8;A Coruña;Coruña;11;198;2;6;CSS
-pablormier;Santiago de Compostela;Coruña;20;197;7;453;Java
-nakome;La Coruña;Coruña;11;189;3;9;JavaScript
-Beluki;Carballo, A Coruña, Spain;Coruña;2;187;31;46;Python
-cmoralesweb;Galicia, Spain;Galicia;4;186;5;20;PHP
-adoankim;Vigo;Pontevedra;7;178;5;339;JavaScript
+pablormier;Santiago de Compostela;Coruña;20;197;7;455;Java
+cmoralesweb;Galicia, Spain;Galicia;4;188;5;20;PHP
+adoankim;Vigo;Pontevedra;7;184;5;340;JavaScript
+Beluki;Carballo, A Coruña, Spain;Coruña;2;182;31;48;Python
 liraryu;Galicia, Spain;Galicia;1;178;1;1;HTML
+ndrs92;Ourense;Orense;17;178;2;6;CSS
 braisNQ;Ourense;Orense;5;174;0;35;CSS
 antonmry;Galicia;Galicia;2;173;2;2;Java
-dalareo;A Coruña (Galiza);Coruña;15;158;1;695;CSS
-markoshorro;Galicia;Galicia;12;155;5;23;C
-omar7r;Lugo, Spain;Lugo;11;153;0;25;Python
-hectorrs;Ourense;Orense;4;151;8;8;Java
+omar7r;Lugo, Spain;Lugo;11;161;0;25;Python
+hectorrs;Ourense;Orense;4;157;8;8;Java
+dalareo;A Coruña (Galiza);Coruña;15;157;1;702;CSS
+markoshorro;Galicia;Galicia;12;155;5;25;C
 lauramcastro;A Coruña, Spain;Coruña;11;148;8;35;Erlang
-kewelinho;A coruña;Coruña;2;140;1;45;JavaScript
-dieg0v;Lugo, Galicia, Spain;Galicia;6;140;30;18;PHP
+kewelinho;A coruña;Coruña;2;145;1;46;JavaScript
+dieg0v;Lugo, Galicia, Spain;Galicia;6;141;30;18;PHP
 palas;Lugo, Spain;Lugo;3;139;0;16;Erlang
-agonbar;Ourense, Spain;Orense;2;138;0;0;JavaScript
-McOmghall;Santiago de Compostela, Galicia;Coruña;1;136;1;6;JavaScript
-daviddiz;A Coruña;Coruña;1;135;1;4;Python
+agonbar;Ourense, Spain;Orense;2;137;0;0;JavaScript
+daviddiz;A Coruña;Coruña;1;132;1;4;Python
 tomymolina;Ourense, Spain;Orense;0;127;4;6;JavaScript
-kojicomics;Galiza (Spain);Galicia;2;126;1;55;Python
+kojicomics;Galiza (Spain);Galicia;2;126;1;57;Python
 sotogarcia;Vigo, Spain;Pontevedra;10;124;19;11;Python
-santiarg;Lugo, Spain;Lugo;4;120;0;2;Python
-gonzaloiv;Santiago de Compostela;Coruña;2;120;1;1;CSS
-Aitor1995;Vigo;Pontevedra;4;119;0;5;HTML
+gonzaloiv;Santiago de Compostela;Coruña;2;123;1;1;CSS
+ssaavedra;A Coruña, Spain;Coruña;17;120;10;32;Shell
 juliome10;Galiza;Galicia;16;119;148;12;Java
 msantanagonzalez;Ourense,Spain;Orense;6;116;1;0;CSS
-ssaavedra;A Coruña, Spain;Coruña;16;115;10;32;Shell
-weberjavi;Galicia, Spain.;Galicia;3;107;0;15;CSS
-joedicastro;A Coruña, Spain;Coruña;82;105;622;761;Python
-andru;Galiza, Spain;Galicia;4;104;4;135;JavaScript
-alejandrosantana;Vigo (Spain);Pontevedra;10;101;1;20;Python
-easanles;A Coruña;Coruña;0;101;0;1;ApacheConf
-jacoboqc;Vigo;Pontevedra;4;99;0;24;Java
-BalbuenaJuan;Vigo (Galicia, España);Galicia;10;93;1;4;CSS
+Aitor1995;Vigo;Pontevedra;4;113;0;5;HTML
+nakome;La Coruña;Coruña;11;112;1;9;PHP
+andru;Galiza, Spain;Galicia;6;110;4;136;JavaScript
+santiarg;Lugo, Spain;Lugo;4;108;0;2;Python
+easanles;A Coruña;Coruña;0;106;0;1;ApacheConf
+joedicastro;A Coruña, Spain;Coruña;82;105;625;761;Python
+weberjavi;Galicia, Spain.;Galicia;3;103;0;15;CSS
+jacoboqc;Vigo;Pontevedra;4;99;0;26;Java
+BalbuenaJuan;Vigo (Galicia, España);Galicia;10;95;1;4;CSS
+droidpl;A Coruña;Coruña;2;94;9;4;Java
+alejandrosantana;Vigo (Spain);Pontevedra;10;94;1;20;Python
 davidgf;A Coruña;Coruña;3;92;1;3;JavaScript
-tonimc;Ourense;Orense;11;91;1;107;Java
 gaioso;Santiago de Compostela, Galicia (Spain);Coruña;1;90;0;9;Shell
 Fynardo;A Coruña;Coruña;5;89;0;0;C
-antonioferngarcia;(Spain) A Coruña - Pontevedra;Coruña;0;88;0;2;
-bertogs;Galicia,Spain;Galicia;0;87;0;3;Java
-albertedevigo;Vigo;Pontevedra;1;86;8;28;ApacheConf
+antonioferngarcia;(Spain) A Coruña - Pontevedra;Coruña;0;88;0;3;
+bertogs;Galicia,Spain;Galicia;0;87;0;4;Java
+albertedevigo;Vigo;Pontevedra;1;86;8;29;ApacheConf
+franiglesias;Vigo;Pontevedra;0;84;0;0;PHP
 mandrewcito;A coruña;Coruña;4;82;0;7;Python
 oknalv;Ourense;Orense;2;82;0;1;CSS
-droidpl;A Coruña;Coruña;2;80;3;2;Java
 xoan;A Coruña, Spain;Coruña;47;80;40;214;JavaScript
-horaciogd;Galicia / Spain;Galicia;1;75;4;2;CSS
-danidiaz;A Coruña, Spain;Coruña;12;75;37;242;Haskell
-damianfral;Vigo;Pontevedra;14;74;15;259;Haskell
+anpefi;Vigo, Spain;Pontevedra;1;80;0;16;R
+JoseBalado;Santiago de Compostela, Spain;Coruña;0;78;0;3;JavaScript
+danidiaz;A Coruña, Spain;Coruña;12;75;37;243;Haskell
+BEmyGlitch;Ourense;Orense;5;72;1;68;Shell
 andresgomezvidal;Santiago de Compostela;Coruña;3;72;0;50;Shell and Python
-adrinieto;Santiago de Compostela;Coruña;1;72;1;21;Python
-franiglesias;Vigo;Pontevedra;0;70;0;0;PHP
-ifcunharro;Pontevedra, Spain;Pontevedra;7;70;2;7;CSS
-luisgf;Vigo, Spain;Pontevedra;4;70;2;1;Python
-nosolosw;Lugo;Lugo;19;70;4;0;JavaScript
-pabloarias;Vigo (Spain);Pontevedra;9;69;7;33;PHP
-OoNEKERAFAoO;A Coruña / Galicia (Spain);Galicia;0;68;7;12;C
-BEmyGlitch;Ourense;Orense;5;68;1;66;Shell
+nosolosw;Lugo;Lugo;19;71;4;0;JavaScript
+damianfral;Vigo;Pontevedra;14;70;15;260;Haskell
+horaciogd;Galicia / Spain;Galicia;1;69;4;2;CSS
+OoNEKERAFAoO;A Coruña / Galicia (Spain);Coruña;0;68;7;12;C
+adrinieto;Santiago de Compostela;Coruña;1;68;1;21;Python
+ifcunharro;Pontevedra, Spain;Pontevedra;7;68;2;8;CSS
+tonimc;Ourense;Orense;12;67;2;107;Java
+luisgf;Vigo, Spain;Pontevedra;4;65;4;2;Python
 sroca93;Vigo, Spain;Pontevedra;0;64;0;0;JavaScript
 oscarcv;A Coruña;Coruña;1;63;0;55;Objective-C
-ndrs92;Ourense;Orense;17;63;2;6;CSS
 pdorgambide;Pontevedra Spain;Pontevedra;1;62;11;48;Java
+victorsndvg;Santiago de Compostela;Coruña;5;62;18;151;FORTRAN
 edupoch;A Coruña, Spain;Coruña;5;62;2;6;JavaScript and PHP
+pabloarias;Vigo (Spain);Pontevedra;9;62;7;33;PHP
 yrodrigez;Ourense, Spain;Orense;3;61;0;0;CSS
-migonzalvar;Vigo, Pontevedra, Spain;Pontevedra;23;61;40;72;Python
-dieg0vb;Padrón - Galicia;Galicia;0;61;1;2;Shell
-victorsndvg;Santiago de Compostela;Coruña;5;61;22;134;FORTRAN
+duqueGZ;A Coruña (Galicia, Spain);Coruña;1;61;0;0;Java and HTML
 jlobec;A Coruña;Coruña;4;61;0;0;CSS
+dieg0vb;Padrón - Galicia;Galicia;0;61;1;2;Shell
 mdgomez;Ourense;Orense;6;59;0;0;C#
 VictorP;Ferrol;Coruña;1;59;0;13;
 Peque;Vigo, Spain;Pontevedra;12;58;3;57;C
+calvaris;A Coruña;Coruña;4;58;0;0;Python and Shell
 rafalopez79;Vigo, Spain;Pontevedra;2;58;0;7;Java
 david-campos;Galicia, Spain;Galicia;1;57;0;0;Java
-megalomono;A Coruña;Coruña;3;56;0;3;Ruby
 epicleptico;Vigo, Spain;Pontevedra;6;56;2;83;JavaScript
-calvaris;A Coruña;Coruña;4;56;0;0;Python and Shell
-duqueGZ;A Coruña (Galicia, Spain);Coruña;1;55;0;0;Java
+migonzalvar;Vigo, Pontevedra, Spain;Pontevedra;23;56;40;73;Python
+megalomono;A Coruña;Coruña;3;56;0;3;Ruby
+chavaone;A Coruña, Galiza;Coruña;18;56;20;80;JavaScript
+Kaizo88;A Coruña;Coruña;0;54;0;0;Java
 josealonsogarcia;A Coruña;Coruña;0;53;0;15;Objective-C
 ignlg;Vigo, Spain;Pontevedra;3;52;7;111;Shell
-jandrop;Narón, Spain;Coruña;0;51;1;1;Java
-anpefi;Vigo, Spain;Pontevedra;0;50;0;14;CSS
-gonzalezsieira;Santiago de Compostela, Spain;Coruña;5;50;0;12;
+jandrop;Narón, Spain;Coruña;0;51;2;1;Java
 vilasmaciel;Vigo;Pontevedra;1;50;1;8;JavaScript
-davidfb;A Coruña, Spain;Coruña;1;49;7;3;Ruby
+gonzalezsieira;Santiago de Compostela, Spain;Coruña;5;50;0;12;
+mrjato;Ourense, Spain;Orense;14;47;4;6;Java
+jorgemarey;A Coruña;Coruña;4;47;1;27;Go
 alejandrofortes;A Coruña;Coruña;2;47;0;0;Java
-chavaone;A Coruña, Galiza;Coruña;18;47;20;80;JavaScript
-jorgemarey;A Coruña;Coruña;4;46;1;27;Go
+Pablo-Rodriguez;Vigo, Galiza;Galicia;4;46;0;9;JavaScript
+clopez;A Coruña;Coruña;5;45;23;46;Shell
+OrdinaryMagician;Galicia, Spain;Galicia;106;44;67;0;C
 Pteridium;Vigo, Spain;Pontevedra;12;44;4;14;Assembly
+antiapuentes;A Coruña;Coruña;0;44;1;1;Erlang and Python
 rrialq;Santiago de Compostela - La Coruña - Spain;Coruña;1;44;1;1;Java
-clopez;A Coruña;Coruña;5;44;23;46;Shell
 pazos;Santiago de Compostela, gz;Coruña;0;43;3;0;Shell
 olalinv;Galicia (Spain);Galicia;0;43;0;9;JavaScript
-Pablo-Rodriguez;Vigo, Galiza;Galicia;4;43;0;8;JavaScript and HTML
 MarioCordovilla;A Coruña;Coruña;0;43;0;1;
-OrdinaryMagician;Galicia, Spain;Galicia;105;43;66;0;C
+j0ssGZ;Pontevedra, Galicia;Galicia;4;42;1;5;HTML
 ainhoacr;A Coruña;Coruña;3;42;0;0;Objective-C
-j0ssGZ;Pontevedra, Galicia;Galicia;2;41;1;5;HTML
-migrax;Vigo;Pontevedra;1;41;10;4;PHP
+alopezsanchez;A Coruña. España;Coruña;0;42;0;0;Java
+migrax;Vigo;Pontevedra;1;41;5;4;PHP
 oscar2695;Ourense;Orense;3;40;0;0;HTML
+davidfb;A Coruña, Spain;Coruña;1;40;7;3;Ruby
 manufy;Galicia - Spain;Galicia;3;40;13;13;PHP
-javierev;A Coruña;Coruña;6;40;2;3;Java
 hlfernandez;Ourense (Galicia);Galicia;2;39;0;3;Java
 rubengglez;Tui, Pontevedra;Pontevedra;0;38;0;0;CSS
-juanjoseixas;A Coruña, Spain;Coruña;6;38;0;566;CSS
-ltilve;Pontevedra;Pontevedra;2;38;0;5;HTML
-mrjato;Ourense, Spain;Orense;14;38;4;6;Java
+ltilve;Pontevedra;Pontevedra;3;38;0;5;HTML
+juanjoseixas;A Coruña, Spain;Coruña;6;38;0;568;CSS
 Ricardolau;Vigo - España;Pontevedra;3;37;0;1;PHP
-asis;A Coruña, Spain;Coruña;13;36;12;23;JavaScript
+javierev;A Coruña;Coruña;6;36;2;3;Java
+asis;A Coruña, Spain;Coruña;13;35;12;23;JavaScript
 breogangf;Santiago de Compostela;Coruña;6;35;2;5;JavaScript
-MarcosBL;Lugo, Spain;Lugo;28;35;7;22;PHP
-eipporko;A Coruña, Spain;Coruña;2;35;12;22;C++
 mpedreira;La Coruña;Coruña;0;35;0;0;R
+eipporko;A Coruña, Spain;Coruña;2;35;12;23;C++
+MarcosBL;Lugo, Spain;Lugo;28;35;7;22;PHP
 albertoluengo;Lugo, Galicia, Spain;Galicia;1;34;0;0;HTML and Java
+cvarela;Ferrol, Spain;Coruña;1;34;0;0;
+donmik;A Coruña;Coruña;2;33;29;44;JavaScript
 burus86;Rianxo (A Coruña);Coruña;0;33;0;0;JavaScript
-donmik;A Coruña;Coruña;2;33;29;42;JavaScript
-eduardocorbelle;Escola Politécnica Superior, Campus de Lugo;Lugo;0;32;0;0;R
-sandboxwebs;La Coruña;Coruña;0;32;0;0;JavaScript
 csanvas;Galicia, Spain;Galicia;1;32;0;3;CSS
+pagafa;Pontevedra;Pontevedra;0;32;1;3;Java
+eduardocorbelle;Escola Politécnica Superior, Campus de Lugo;Lugo;0;32;0;0;R
 mcvendrell;Ourense (Spain);Orense;6;32;19;39;JavaScript
-eccoilmoro;Lugo;Lugo;1;31;0;1;Python
+sandboxwebs;La Coruña;Coruña;0;32;0;0;JavaScript
+eccoilmoro;Lugo;Lugo;1;31;0;2;Python
 andratwiro;Vigo;Pontevedra;1;31;0;0;CSS and JavaScript
-LucasMontero;Lugo, Galicia, Spain;Galicia;2;30;0;0;JavaScript
-viticlick;Ourense, Spain;Orense;4;30;4;3;Java
-nachouve;Galicia, Spain;Galicia;17;30;16;52;Python
-galirema;Santiago de Compostela. Galicia. Spain;Coruña;0;30;0;1;
-OsuKrafter;Galicia, Spain;Galicia;1;30;2;9;HTML
 rubencougil;Vigo;Pontevedra;16;30;1;13;JavaScript
-danybmx;Vigo;Pontevedra;0;29;0;2;JavaScript
-JoelSanchez;Santiago de Compostela, Spain;Coruña;0;29;0;0;ApacheConf
-delabit;Ferrol (A Coruña);Coruña;0;29;0;0;JavaScript
+galirema;Santiago de Compostela. Galicia. Spain;Coruña;0;30;0;1;
+viticlick;Ourense, Spain;Orense;4;30;4;3;Java
+pedrocelard;Vigo, Spain;Pontevedra;1;30;0;0;Shell
+LucasMontero;Lugo, Galicia, Spain;Galicia;2;30;0;0;JavaScript
+OsuKrafter;Galicia, Spain;Galicia;1;30;2;9;HTML
+danybmx;Vigo;Pontevedra;0;30;0;2;JavaScript
 flabe81;Coruña;Coruña;3;29;1;8;Python
-chartre;Vigo;Pontevedra;1;29;1;0;C
 ildsiempre;Vigo, Galicia, Spain;Galicia;0;29;0;5;Java
+nachouve;Galicia, Spain;Galicia;17;29;16;52;Python
+fraguela;A Coruña, Spain;Coruña;0;29;0;0;C
+delabit;Ferrol (A Coruña);Coruña;0;29;0;0;JavaScript
+JoelSanchez;Santiago de Compostela, Spain;Coruña;0;29;0;0;ApacheConf
+chartre;Vigo;Pontevedra;1;29;1;0;C
 Mascalerino;Ourense;Orense;6;28;0;0;ApacheConf
-cvarela;Ferrol, Spain;Coruña;1;28;0;0;
-davidtaboas;Ponteareas, Pontevedra, Galicia;Galicia;5;27;4;24;CSS
+yisus82;A Coruña;Coruña;0;28;0;0;R
 diegodelemos;Ourense, Spain;Orense;5;27;0;0;CSS
-jsanroman;Vigo;Pontevedra;6;26;6;159;Ruby
-pagafa;Pontevedra;Pontevedra;0;26;1;3;Java
-cromatdragon;Galicia, Spain;Galicia;0;25;0;0;Ruby
+davidtaboas;Ponteareas, Pontevedra, Galicia;Galicia;5;27;4;26;CSS
+mschez;Vigo;Pontevedra;0;26;0;5;Java
+jsanroman;Vigo;Pontevedra;6;26;6;162;Ruby
 josemato;Galicia;Galicia;4;25;6;1;JavaScript
-mschez;Vigo;Pontevedra;0;24;0;5;Java
-tak30;A Coruña;Coruña;3;24;0;2;Python
 celsoconde;Vigo;Pontevedra;0;24;0;0;JavaScript and CSS
 richnologies;Vigo, Spain;Pontevedra;0;24;2;0;JavaScript
-tomasalmeida;Vigo;Pontevedra;4;23;0;1;JavaScript
+tak30;A Coruña;Coruña;3;24;0;2;Python
 ruben39x2;A Coruña (Spain);Coruña;1;23;0;0;Java and C
 xurxof;Vigo;Pontevedra;1;23;1;6;Python
+tomasalmeida;Vigo;Pontevedra;4;23;0;1;JavaScript
+ivnc;Galicia, Spain;Galicia;0;23;0;0;Batchfile
 forvas;Vigo;Pontevedra;4;22;0;0;Python
+davidpazo;VIGO;Pontevedra;24;22;0;2;Java
 danitool;Pontevedra;Pontevedra;0;22;0;1;C
-Hugoer;Vigo (España);Pontevedra;5;21;3;1;JavaScript
-muntisa;A Coruña, Spain;Coruña;9;21;2;0;Python and R
+Hugoer;Vigo (España);Pontevedra;5;21;3;3;JavaScript
 davidbarral;A Coruña, Spain;Coruña;18;21;13;9;Ruby
-villaverde;Vigo;Pontevedra;1;20;0;0;Python
+franrua;A Coruña;Coruña;5;21;1;0;Emacs Lisp and VimL
+muntisa;A Coruña, Spain;Coruña;10;20;4;0;Python and R
+miguelferradans;Santiago de Compostela;Coruña;0;20;0;1;C#
+angelrca;Ferrol, Spain;Coruña;0;20;0;1;Assembly
 ismaelrf;Santiago de Compostela;Coruña;4;20;0;8;
+villaverde;Vigo;Pontevedra;1;20;0;0;Python
+DanielAbalde;Vigo, España;Pontevedra;9;20;15;1;Visual Basic
+amieiro;Vigo, Spain;Pontevedra;7;19;8;150;PHP
 jaimealonso;Vigo, Spain;Pontevedra;2;19;1;1;Java and Python
-amieiro;Vigo, Spain;Pontevedra;7;19;8;145;PHP
-franrua;A Coruña;Coruña;5;19;1;0;Emacs Lisp and VimL
-gonzaloadrio;Vigo;Pontevedra;12;18;1;1;Java
 cafernandezlo;A Coruña, Spain;Coruña;1;18;2;0;C and C++
-rodrigorevuelta;Ferrol;Coruña;0;18;0;8;Java
-robertoxinzo;Ourense, Spain;Orense;0;18;0;1;CSS and HTML
-dlsuarez;Vigo, Spain;Pontevedra;4;18;0;2;JavaScript
 albertogato;A Coruña;Coruña;0;18;0;0;HTML
-andion;A Coruña, España;Coruña;17;18;8;308;JavaScript
-angelrca;Ferrol, Spain;Coruña;0;17;0;1;Assembly
-roca67;Vigo;Pontevedra;1;17;0;2;
-tanisperez;A Coruña, Spain;Coruña;1;17;4;1;Arduino
+robertoxinzo;Ourense, Spain;Orense;0;18;0;1;CSS and HTML
+gonzaloadrio;Vigo;Pontevedra;12;18;1;1;Java
+andion;A Coruña, España;Coruña;18;18;8;308;JavaScript
+rodrigorevuelta;Ferrol;Coruña;0;18;0;8;Java
+dlsuarez;Vigo, Spain;Pontevedra;4;18;0;2;JavaScript
 Adizlois;Galicia;Galicia;1;17;0;0;Python
-DanielAbalde;Vigo, España;Pontevedra;6;17;11;1;Visual Basic
+tanisperez;A Coruña, Spain;Coruña;1;17;4;1;Arduino
+jjbier;A Coruña;Coruña;0;17;0;12;PHP
+mvm;Vigo, España;Pontevedra;1;17;6;15;Go
+roca67;Vigo;Pontevedra;1;17;0;2;
+AdriVillaB;Galicia;Galicia;4;16;2;4;Go
+B0gdar;Vigo;Pontevedra;0;16;0;5;C++
 ferrva;Santiago de Compostela;Coruña;1;16;0;0;CSS
 franrc89;A Coruña, Galicia, Spain;Coruña;0;16;0;0;CSS
-jnovos;A Coruña;Coruña;1;16;3;17;CSS
 hapol;Santiago de Compostela;Coruña;6;16;0;0;C
+jesus-sayar;Vigo - Madrid;Pontevedra;31;15;7;406;JavaScript
 alonsorodi20;A Coruña;Coruña;0;15;0;0;Visual Basic
-fraguela;A Coruña, Spain;Coruña;0;15;0;0;C
-AlbertoGODev;A Coruña;Coruña;1;15;0;1;Java
-B0gdar;Vigo;Pontevedra;0;15;0;5;C++
-rodrigorega;Lugo (Spain);Lugo;2;15;4;11;Python
-AdriVillaB;Galicia;Galicia;4;15;2;4;Go
 morois;Galiza;Galicia;6;15;1;20;Erlang
+rodrigorega;Lugo (Spain);Lugo;2;15;4;11;Python
+AlbertoGODev;A Coruña;Coruña;1;15;0;1;Java
 josevavia;A Coruña, Spain;Coruña;0;15;3;3;CSS
-EstherAF;Galicia, Spain;Galicia;3;14;2;1;Java
-rcalcaraz;Ourense, Spain;Orense;4;14;0;0;JavaScript
+eocanha;Vigo, Spain;Pontevedra;0;15;0;0;JavaScript
+andresmmera;Vigo (Spain);Pontevedra;0;15;0;0;AutoIt
+jnovos;A Coruña;Coruña;1;14;3;17;CSS
 jcalvocab;Santiago de Compostela, Spain;Coruña;0;14;0;0;R and HTML
-pnieto;Vigo;Pontevedra;0;14;0;0;
-eocanha;Vigo, Spain;Pontevedra;0;14;0;0;JavaScript
-andresmmera;Vigo (Spain);Pontevedra;0;14;0;0;AutoIt
-ivnc;Galicia, Spain;Galicia;0;14;0;0;Batchfile
-AgomezGZ;Lugo, Galiza;Galicia;1;14;4;4;AutoIt and Python
-sherreria;Vigo, Spain;Pontevedra;1;13;0;0;Java
-lauantai;Bueu, Galicia;Galicia;1;13;0;242;Python
+EstherAF;Galicia, Spain;Galicia;3;14;2;1;Java
+AgomezGZ;Lugo, Galiza;Galicia;1;14;8;5;AutoIt and Python
+rcalcaraz;Ourense, Spain;Orense;4;14;0;0;JavaScript
+pnieto;Vigo;Pontevedra;0;14;0;0;CSS
 zoltyvigo;Vigo;Pontevedra;0;13;0;0;
-jjbier;A Coruña;Coruña;0;13;0;12;PHP
+sherreria;Vigo, Spain;Pontevedra;1;13;0;0;Java
+lauantai;Bueu, Galicia;Galicia;1;13;0;244;Python
 mdaguete;A Coruña (Spain);Coruña;26;12;87;395;Erlang
-jmabuin;Santiago de Compostela, Spain;Coruña;3;12;2;2;C
-Recklesss;Pontevedra;Pontevedra;2;12;0;0;ApacheConf
-davidpazo;VIGO;Pontevedra;24;12;0;2;Java
-alejandrobarrio;A Coruña;Coruña;0;12;0;0;C
 markbran;A Coruña;Coruña;8;12;0;25;HTML and Python
+Recklesss;Pontevedra;Pontevedra;2;12;0;0;ApacheConf
+brainsqueezer;Coruña, Spain;Coruña;24;12;46;229;PHP
+ficiverson;A Coruña;Coruña;0;12;0;0;JavaScript and Java
+alejandrobarrio;A Coruña;Coruña;0;12;0;0;C
 dh-programacion;Santiago de Compostela;Coruña;3;12;0;0;
+jmabuin;Santiago de Compostela, Spain;Coruña;3;12;3;3;C
 magomez;A Coruña, Spain;Coruña;1;12;0;0;C++
-bokybanton;Ourense, Galicia, SPAIN.;Galicia;1;11;3;9;JavaScript
+br7;Ourense;Orense;0;11;1;1;JavaScript
 carlossc87;Santiago de Compostela, Spain;Coruña;0;11;0;0;CSS
-moreda;A Coruña, Spain;Coruña;3;11;5;2;Scheme
 javieramp;A Coruña;Coruña;1;11;0;3;Ruby
 fvnuria;Galicia;Galicia;0;11;0;0;HTML
+jesusropi;Galicia;Galicia;2;11;0;1;Python
 punkto;Vigo, Spain.;Pontevedra;4;11;11;11;JavaScript
-br7;Ourense;Orense;0;11;1;1;JavaScript
-pnietoiglesias;Vigo (Spain);Pontevedra;2;10;0;11;Shell
+moreda;A Coruña, Spain;Coruña;3;11;5;2;Scheme
+bokybanton;Ourense, Galicia, SPAIN.;Orense;1;11;3;9;JavaScript
 irconde;Ourense;Orense;0;10;0;0;JavaScript
+diego-XA;Galiza;Galicia;2;10;10;3;Python
+pnietoiglesias;Vigo (Spain);Pontevedra;2;10;0;11;Shell
 fabianlema;A Coruña;Coruña;1;10;1;1;Java
 caosdoar;Santiago de Compostela, Spain.;Coruña;4;9;31;11;C
-toniferr;Galicia;Galicia;1;9;0;0;HTML and Java
 eljaviero;A Coruña (GZ) - Spain;Coruña;0;9;0;0;HTML and PHP
 leitinha;Galiza;Galicia;0;9;0;0;CSS
+toniferr;Galicia;Galicia;1;9;0;0;HTML and Java
 kmewi1000;Vigo;Pontevedra;1;9;0;1;JavaScript
-jesus-sayar;Vigo - Madrid;Pontevedra;31;8;7;406;JavaScript
-josecurras;A Coruña, Spain;Coruña;1;8;2;7;Python
-mmanum;Ourense;Orense;0;8;0;0;CSS
-jmalarcon;Vigo (Spain);Pontevedra;2;8;3;9;JavaScript
-miquecg;Vigo;Pontevedra;3;8;2;3;CSS
-ivanoterouvigo;Vigo;Pontevedra;0;8;0;0;PHP
-pexejo;A Coruña;Coruña;0;8;0;0;JavaScript and CSS
+ManuelDiazP;Coruña, Spain;Coruña;0;9;0;0;Python
+jmalarcon;Vigo (Spain);Pontevedra;2;8;4;9;JavaScript
 keko;Galicia;Galicia;2;8;1;0;Java
+josecurras;A Coruña, Spain;Coruña;1;8;2;7;Python
+OnekO;A Coruña, GZ;Coruña;1;8;3;3;JavaScript
+ivanoterouvigo;Vigo;Pontevedra;0;8;0;0;PHP
+miquecg;Vigo;Pontevedra;3;8;2;3;CSS
+pexejo;A Coruña;Coruña;0;8;0;0;JavaScript and CSS
 pvieito;Galicia;Galicia;0;8;12;47;JavaScript
 Sanva;Galicia, Spain;Galicia;4;8;19;6;Shell
-jesusropi;Galicia;Galicia;2;8;0;0;Python
+mmanum;Ourense;Orense;0;8;0;0;CSS
 robertorodriguezgarcia;Galicia, España;Galicia;0;8;0;0;ApacheConf
-OnekO;A Coruña, GZ;Coruña;1;8;3;3;JavaScript
-damiannogueiras;Vigo - Pontevedra - España;Pontevedra;49;7;0;0;Java
-aurora-mareviv;Santiago de Compostela;Coruña;2;7;0;2;CSS
-txenoo;Coruña;Coruña;3;7;0;8;Batchfile
+dolphinziyo;Galicia;Galicia;0;7;1;2;Java
+aabilio;Vigo;Pontevedra;10;7;70;28;Python
 sCervino;Vigo;Pontevedra;0;7;0;6;C
 Andrewvf;Salvaterra de Miño, Pontevedra, España;Pontevedra;1;7;0;1;
-programwar;Vigo;Pontevedra;6;7;0;14;C#
-berio;Galicia;Galicia;7;7;8;12;C
-dolphinziyo;Galicia;Galicia;0;7;1;2;Java
-aabilio;Vigo;Pontevedra;10;7;71;28;Python
-pbelay;Galicia;Galicia;6;7;0;2;CSS
+aurora-mareviv;Santiago de Compostela;Coruña;2;7;0;2;CSS
 radabass;Galicia;Galicia;0;7;0;0;JavaScript
-CristoferCD;Galicia;Galicia;3;7;0;6;Java
-ainvar2015;Lugo;Lugo;0;6;0;0;ApacheConf
-javifernandez;A Coruña;Coruña;2;6;19;0;JavaScript
-johnanderpalma;A Coruña;Coruña;0;6;0;14;C#
-ozono;O Milladoiro - Ames - A Coruña - Spain;Coruña;0;6;0;0;Python and JavaScript
-GuillermoCouceiro;A Coruña;Coruña;0;6;0;1;Java
+berio;Galicia;Galicia;8;7;8;12;C
+pbelay;Galicia;Galicia;6;7;0;2;CSS
+CristoferCD;Galicia;Galicia;3;7;0;7;Java
+txenoo;Coruña;Coruña;3;7;0;8;Batchfile
 oslcixug;Santiago de Compostela, A Coruña, Spain;Coruña;4;6;7;3;Shell
 edelperi;Ourense (Spain);Orense;1;6;9;5;Python
-mvm;Vigo, España;Pontevedra;1;6;12;15;Go
-calidadesystems;Carballo, A Coruña, Spain;Coruña;1;5;0;0;Python
-ivanlomba;A Coruña;Coruña;5;5;0;22;Go
-maciaslopez;A Coruña (Galiza);Galicia;2;5;1;0;Erlang
-javivazquez;Santiago de Compostela;Coruña;0;5;0;0;CoffeeScript
-mpperez3;Ourense (Galicia);Galicia;2;5;0;0;
+ainvar2015;Lugo;Lugo;0;6;0;0;ApacheConf
+johnanderpalma;A Coruña;Coruña;0;6;0;14;C#
+damiannogueiras;Vigo - Pontevedra - España;Pontevedra;49;6;0;0;Java
+srutschmann;Vigo, Spain;Pontevedra;0;6;0;0;Python
+javifernandez;A Coruña;Coruña;2;6;19;0;JavaScript
+ozono;O Milladoiro - Ames - A Coruña - Spain;Coruña;0;6;0;0;Python and JavaScript
+GuillermoCouceiro;A Coruña;Coruña;0;6;0;1;Java
 eskalera;Vigo;Pontevedra;0;5;0;6;
 RixzZ;Lugo;Lugo;1;5;0;12;
 pancheto;Santiago de Compostela;Coruña;1;5;1;5;Python
 juan-micuss;A Coruña - Spain;Coruña;0;5;0;1;Makefile
-Inmovilizame;A Coruña;Coruña;3;5;1;6;PHP
+mpperez3;Ourense (Galicia);Galicia;2;5;0;0;
+programwar;Vigo;Pontevedra;6;5;0;14;C#
+calidadesystems;Carballo, A Coruña, Spain;Coruña;1;5;0;0;Python
+ivanlomba;A Coruña;Coruña;5;5;0;22;Go
+rolando-caldas;Vigo;Pontevedra;10;5;6;76;CSS
+Inmovilizame;A Coruña;Coruña;4;5;1;6;PHP
 pepellou;Santiago de Compostela;Coruña;35;5;57;73;PHP
-srutschmann;Vigo, Spain;Pontevedra;0;5;0;0;Python
-sonxurxo;A Coruña;Coruña;4;4;1;21;Objective-C
-NiciusB;Galicia, Spain;Galicia;1;4;3;10;CSS
-isalgueiro;Galicia;Galicia;1;4;0;16;Java
 gpc17;Galicia, Spain;Galicia;0;4;0;0;Java
-gprodriguez;Galicia;Galicia;1;4;0;0;Java
-oscarmlage;Lugo, Galicia, Spain;Galicia;9;4;4;15;JavaScript
-atycocene;Fene. La Coruña. Spain.;Coruña;1;4;2;0;
-roberto-barreiro;Santiago de Compostela;Coruña;0;4;0;0;Shell
-vicentepineiro;Santiago de Compostela;Coruña;0;4;0;2;
+NiciusB;Galicia, Spain;Galicia;1;4;3;10;CSS
 MrPgapom;A Coruña;Coruña;1;4;0;0;
 kmikodev;Coruña;Coruña;0;4;0;0;ApacheConf
-alvillares;Vigo (Spain);Pontevedra;0;4;0;12;Arduino
-joeray;vigo, spain;Pontevedra;1;4;2;1;CSS
+atycocene;Fene. La Coruña. Spain.;Coruña;1;4;2;0;
+albertopeam;A Coruña;Coruña;1;4;1;4;JavaScript
+sonxurxo;A Coruña;Coruña;4;4;1;22;Objective-C
+vicentepineiro;Santiago de Compostela;Coruña;0;4;0;2;
+roberto-barreiro;Santiago de Compostela;Coruña;0;4;0;0;Shell
 acostapazo;Vigo;Pontevedra;0;4;0;0;C
-braisdesousa;Vigo;Pontevedra;2;4;0;7;
+joeray;vigo, spain;Pontevedra;1;4;2;1;CSS
+gmarko;Vigo;Pontevedra;1;4;0;0;Java
 zenlaboratory;Vigo, Spain;Pontevedra;0;4;0;2;CSS
-xose;Galicia, Spain;Galicia;7;3;45;16;Java
-christianponte;Galicia, Spain;Galicia;1;3;0;0;
-ivangsa;A Coruña, Galicia, Spain (GMT+1);Coruña;1;3;7;2;Java
-manullanes;A Coruña;Coruña;0;3;0;0;R
+alvillares;Vigo (Spain);Pontevedra;0;4;0;12;Arduino
+gprodriguez;Galicia;Galicia;1;4;0;0;Java
+oscarmlage;Lugo, Galicia, Spain;Galicia;9;4;4;15;JavaScript
+alvarotarela;Santiago de Compostela - Spain;Coruña;0;3;0;0;JavaScript
+xurxo;Santiago de Compostela;Coruña;0;3;0;56;
 Ankso;Montrove - A Coruña - Spain;Coruña;10;3;22;14;C
-webvigo;Vigo;Pontevedra;0;3;0;25;
+christianponte;Galicia, Spain;Galicia;1;3;0;0;
+xose;Galicia, Spain;Galicia;7;3;45;16;Java
+jakinho;Galicia;Galicia;2;3;0;2;Java
+B1NAR10;Galicia ( Spain );Galicia;2;3;0;1;HTML
+meixome;Galicia;Galicia;4;3;3;1;JavaScript
+ivangsa;A Coruña, Galicia, Spain (GMT+1);Coruña;1;3;7;2;Java
+Kaylebor;A Coruña, Spain;Coruña;0;3;0;2;Java
 DaAira;A Coruña;Coruña;1;3;0;0;JavaScript and Java
 ayora;Santiago de Compostela;Coruña;0;3;0;0;HTML and Java
-alvarotarela;Santiago de Compostela - Spain;Coruña;0;3;0;0;JavaScript
-meixome;Galicia;Galicia;4;3;3;1;JavaScript
-jakinho;Galicia;Galicia;2;3;0;2;Java
-Ciges;36210 Vigo (Spain);Pontevedra;7;3;12;8;JavaScript
+maciaslopez;A Coruña (Galiza);Coruña;2;3;1;0;Erlang
+dseijasiglesias;Vigo;Pontevedra;35;3;0;0;Java
+webvigo;Vigo;Pontevedra;0;3;0;25;
 ivan-vazquez;Vigo, Spain;Pontevedra;0;3;0;0;HTML
+Ciges;36210 Vigo (Spain);Pontevedra;7;3;12;8;JavaScript
 AlessioPaternoster;Vigo di Ton (Trento);Pontevedra;0;3;0;3;CSS
 HugoXandre;Vigo;Pontevedra;0;3;0;0;CSS and PHP
-dseijasiglesias;Vigo;Pontevedra;35;3;0;0;Java
-Kaylebor;A Coruña, Spain;Coruña;0;3;0;2;Java
 TheHollowEsp;Galicia;Galicia;0;2;0;1;CSS
-butelo;A Coruña, Galicia;Coruña;0;2;9;29;Java
-braisCB;A Coruña, Spain;Coruña;0;2;0;0;C++ and Matlab
-rrodrigueznt;Santiago de Compostela, Spain;Coruña;1;2;0;3;
-PWGalicia;A Coruña;Coruña;2;2;0;5;HTML
-pabloroca;La Coruña, Spain;Coruña;0;2;1;40;Objective-C
-adrycerdeiro;A Coruña, Spain;Coruña;2;2;2;0;Python
-felixhorro;A Coruña;Coruña;3;2;1;5;JavaScript
 nbarreira;Coruña;Coruña;3;2;1;2;C++
-jciDoval;A Coruña;Coruña;0;2;0;0;Java
-brainsqueezer;Coruña, Spain;Coruña;23;2;46;229;PHP
+borjapazr;San Mauro, Frades, A Coruña, Galicia, Spain;Galicia;0;2;0;0;Java
 joserprieto;Lugo;Lugo;5;2;0;111;CSS
 michon;Primavera 40, LUGO;Lugo;0;2;0;2;Ruby
-B1NAR10;Galicia ( Spain );Galicia;2;2;0;0;JavaScript
-WuShell;Lugo, Galicia, Spain;Galicia;2;2;0;0;Python
-gmarko;Vigo;Pontevedra;1;2;0;0;Java
-borjapazr;San Mauro, Frades, A Coruña, Galicia, Spain;Coruña;0;2;0;0;Java
-afarrapeira;Vigo;Pontevedra;0;2;0;0;CSS
-kusflo;Vigo;Pontevedra;0;2;0;3;
-jdiospa;Vigo;Pontevedra;0;2;0;0;
-mitze;Vigo;Pontevedra;0;2;0;2;
+braisCB;A Coruña, Spain;Coruña;0;2;0;0;C++ and Matlab
+JLVeiga;A Coruña, Spain;Coruña;0;2;0;6;CSS
+adrycerdeiro;A Coruña, Spain;Coruña;2;2;2;0;Python
+PWGalicia;A Coruña;Coruña;2;2;0;5;HTML
+braisdesousa;Vigo;Pontevedra;2;2;0;7;
+butelo;A Coruña, Galicia;Coruña;0;2;9;29;Java
+rrodrigueznt;Santiago de Compostela, Spain;Coruña;1;2;0;3;
+jciDoval;A Coruña;Coruña;0;2;0;0;Java
+pabloroca;La Coruña, Spain;Coruña;0;2;1;40;Objective-C
+felixhorro;A Coruña;Coruña;3;2;1;5;JavaScript
 qvercvs;Santiago de Compostela;Coruña;0;2;0;0;
+WuShell;Lugo, Galicia, Spain;Galicia;2;2;0;0;Python
+jdiospa;Vigo;Pontevedra;0;2;0;0;
+afarrapeira;Vigo;Pontevedra;0;2;0;0;CSS
+mitze;Vigo;Pontevedra;0;2;0;2;
+kusflo;Vigo;Pontevedra;0;2;0;3;
+cromatdragon;Galicia, Spain;Galicia;0;2;0;0;Ruby
+soutocorral;A Coruña Spain;Coruña;0;1;0;0;CSS
+micafe;Parque Tecnológico de Galicia;Galicia;3;1;1;28;Objective-C
 jcastro;Ourense, Spain;Orense;8;1;0;43;CSS and HTML
 joseate;Galiza;Galicia;1;1;0;13;
-zeroseisdesign;A Coruña, Galicia, Spain;Galicia;0;1;0;0;
 vquintans;Galicia - Spain;Galicia;3;1;0;40;Ruby
+xosealvarez;Galicia, Spain;Galicia;0;1;0;0;Java
+jorgeSV;Lugo, Galicia, Spain;Galicia;2;1;3;37;Java
 jesuspeon;A Coruña (Spain);Coruña;2;1;0;7;CSS
-raveiga;Santiago de Compostela;Coruña;33;1;10;1;JavaScript
-Erroba;Santiago de Compostela;Coruña;0;1;0;1;
-misterpulpo;A Coruña;Coruña;1;1;1;1;
-brebaje;Santiago de Compostela, Spain;Coruña;0;1;0;0;
-erubio;Coruña;Coruña;5;1;2;7;JavaScript
-rene15009;A Coruña;Coruña;5;1;0;75;JavaScript
 vrdominguez;Santiago de Compostela;Coruña;4;1;7;14;Python and Perl
-soutocorral;A Coruña Spain;Coruña;0;1;0;0;CSS
-parapar;A Coruña, Spain;Coruña;0;1;0;0;Batchfile
+brebaje;Santiago de Compostela, Spain;Coruña;0;1;0;0;
+rene15009;A Coruña;Coruña;5;1;0;76;JavaScript
+erubio;Coruña;Coruña;5;1;2;7;JavaScript
+raveiga;Santiago de Compostela;Coruña;33;1;10;1;JavaScript
 Lancelotarthus;A coruña, España;Coruña;0;1;0;0;
-cleventy;A Coruña, Spain;Coruña;0;1;0;0;
+fbermudez;A Coruña;Coruña;0;1;0;0;
+parapar;A Coruña, Spain;Coruña;0;1;0;0;Batchfile
 laegnur;Redes (A Coruña), Galicia, Spain;Coruña;0;1;0;19;
+acandaldev;La Coruña;Coruña;0;1;1;8;C#
+borjita;A Coruña;Coruña;0;1;0;1;C#
+zeroseisdesign;A Coruña, Galicia, Spain;Coruña;0;1;0;0;
+Erroba;Santiago de Compostela;Coruña;0;1;0;1;
 jahernando;Santiago de Compostela, Spain;Coruña;0;1;0;0;Python
 NeoPolus;Lugo, Spain;Lugo;1;1;0;2;Java
-acandaldev;La Coruña;Coruña;0;1;1;8;C#
 BraisFreire;Lugo;Lugo;0;1;0;0;
-micafe;Parque Tecnológico de Galicia;Galicia;2;1;1;28;Objective-C
-jorgeSV;Lugo, Galicia, Spain;Galicia;2;1;3;37;Java
-xosealvarez;Galicia, Spain;Galicia;0;1;0;0;Java
-acarballo;Pontevedra;Pontevedra;0;1;0;1;PHP
-merlyescalona;Vigo, Spain;Pontevedra;2;1;1;5;
-mmartinezg;Vigo;Pontevedra;0;1;0;0;
+misterpulpo;A Coruña;Coruña;1;1;1;1;
 AlbertoEst;Vigo;Pontevedra;3;1;0;1;
-dibanez;Vigo (Spain);Pontevedra;2;1;6;14;Python
-lucasvieites;Pontevedra;Pontevedra;1;1;0;1;Java and PHP
+acarballo;Pontevedra;Pontevedra;0;1;0;1;PHP
 IncludeSolutions;Vigo;Pontevedra;0;1;0;0;
+mmartinezg;Vigo;Pontevedra;0;1;0;0;
+pedro-gomez;Pontevedra;Pontevedra;0;1;0;0;JavaScript
 RdrgPorto;Vigo;Pontevedra;0;1;0;12;CSS
-dfragac;Vigo, Pontevedra;Pontevedra;1;1;0;2;CSS
-rugarciap;Vigo (Spain);Pontevedra;0;1;211;0;C and Objective-C
-aitorfreire;Cangas (Pontevedra);Pontevedra;0;1;0;0;CSS and JavaScript
+merlyescalona;Vigo, Spain;Pontevedra;2;1;1;5;
 uzmi;vigo;Pontevedra;0;1;0;0;
+aitorfreire;Cangas (Pontevedra);Pontevedra;0;1;0;0;CSS and JavaScript
+dibanez;Vigo (Spain);Pontevedra;2;1;6;14;Python
+dfragac;Vigo, Pontevedra;Pontevedra;1;1;0;2;CSS
+lucasvieites;Pontevedra;Pontevedra;1;1;0;1;Java and PHP
+rugarciap;Vigo (Spain);Pontevedra;0;1;212;0;C and Objective-C
