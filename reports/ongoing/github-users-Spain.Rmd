@@ -2,7 +2,7 @@
 title: 'Github users in Spain: a report on geographical distribution of open source
   developers'
 author: "JJ Merelo"
-date: "23/1/2016"
+date: "27/1/2016"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -17,7 +17,7 @@ library(MASS)
 # Remember to run first 
 #./agg-csv.pl > data/processed/data-per-province.csv  
 # and
-# ./get-languages.pl > ../data/processed/place-language.csv
+# cd apps; ./get-languages.pl > ../data/processed/place-language.csv
 
 data.province <- read.csv('../../data/processed/data-per-province.csv',sep=';')
 data.province$usersrel <- data.province$users / data.province$population

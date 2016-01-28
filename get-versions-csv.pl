@@ -23,7 +23,7 @@ my %column_row =  ( followers => 2,
 		    contributions => 3,
 		    stars => 4 );
 
-say "users;",join(";",@columns);
+say "users;",join(";",@columns),";commitdate";
 
 #For files not in repo
 if ($baseline) {
@@ -33,10 +33,11 @@ if ($baseline) {
 }
 
 for my $commit ( reverse @revs ) {
+  my $commit_date = `git show -s --format=\%ci $commit`;
   my $file_contents = $repo->command('show',"$commit:$file" );
   my @file_lines = split("\n",$file_contents);
   my @row = extract_data(@file_lines );
-  say scalar @file_lines,";",join(";",@row);
+  print scalar @file_lines,";",join(";",@row),";$commit_date";
 }
 
 
