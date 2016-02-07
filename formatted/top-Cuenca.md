@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sun, 01 Feb 2015 18:38:56 GMT** hasta **Mon, 01 Feb 2016 18:38:56 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 07 Feb 2015 12:07:31 GMT** hasta **Sun, 07 Feb 2016 12:07:31 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -18,6 +18,5 @@
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [Tebo555](https://github.com/Tebo555) | 13 | 0 |  | Cuenca | <img src='https://avatars1.githubusercontent.com/u/3661837?v=3&s=64' width="64" title='Esteban Vintimilla'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 3 | [fredadri](https://github.com/fredadri) | 4 | 0 | CSS | cuenca | <img src='https://avatars1.githubusercontent.com/u/4308791?v=3&s=64' width="64" title='freddy'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 4 | [jotaOy](https://github.com/jotaOy) | 3 | 0 | CSS | Cuenca | <img src='https://avatars3.githubusercontent.com/u/13277260?v=3&s=64' width="64" title='Jonnathan Oyervide'> |
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 5 | [DesarrollandoAndroid](https://github.com/DesarrollandoAndroid) | 2 | 1 | Java | Cuenca, España | <img src='https://avatars1.githubusercontent.com/u/7956170?v=3&s=64' width="64" title='Desarrollando Android'> |
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 6 | [jhonnathanp27](https://github.com/jhonnathanp27) | 1 | 0 |  | Cuenca | <img src='https://avatars3.githubusercontent.com/u/12394226?v=3&s=64' width="64" title='jhonnathan Paul'> |
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 7 | [Arquitecto1663](https://github.com/Arquitecto1663) | 1 | 0 |  | cuenca, spain | <img src='https://avatars2.githubusercontent.com/u/13456548?v=3&s=64' width="64" title='Arquitecto1663'> |
+|![up](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/up.gif) 5 | [jhonnathanp27](https://github.com/jhonnathanp27) | 1 | 0 |  | Cuenca | <img src='https://avatars3.githubusercontent.com/u/12394226?v=3&s=64' width="64" title='jhonnathan Paul'> |
+|![up](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/up.gif) 6 | [Arquitecto1663](https://github.com/Arquitecto1663) | 1 | 0 |  | cuenca, spain | <img src='https://avatars2.githubusercontent.com/u/13456548?v=3&s=64' width="64" title='Arquitecto1663'> |
