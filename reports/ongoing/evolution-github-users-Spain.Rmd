@@ -1,7 +1,7 @@
 ---
-title: 'GitHub users in Spain: Evolution of number of users up to December 2015'
+title: 'GitHub users in Spain: User and contribution dynamics'
 author: "JJ Merelo"
-date: "07/02/2016"
+date: "24/02/2016"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -23,7 +23,7 @@ agg.top.Spain.evol$idu <- as.numeric(row.names(agg.top.Spain.evol))
 
 #Introduction
 
-Since the end of 2014, we have been tracking the users that feature Spain or one of its autnomous regions, provinces or main cities in their profile.
+Since the end of 2014, we have been tracking the users that feature Spain or one of its autnomous regions, provinces or main cities in their profile. These papers have been uploaded periocally to RPubs and other venues @rpubs, @rpubs2, @rpubs3
 
 #Results
 
@@ -56,3 +56,5 @@ In general, productivity has veen increasing slightly, with several *plateau* pe
 ## Conclusions
 
 In general, there is no clear conclusion, other than certify the growth in the number of users and productivity associated with that. We will have to delve deeper into the numbers to find out what has happened, and of course continue measurements to check what is the long-term trend. 
+
+# References

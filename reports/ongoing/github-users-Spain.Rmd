@@ -1,8 +1,8 @@
 ---
-title: 'Github users in Spain: a report on geographical distribution of open source
-  developers'
+title: 'Github users in Spain: a report on geographical distribution and language
+  use of open source developers'
 author: "JJ Merelo"
-date: "27/1/2016"
+date: "25/2/2016"
 output: html_document
 bibliography: gh-rankings.bib
 ---
@@ -50,13 +50,14 @@ language.top20.df <- data.frame(language=row.names(language.top20),
 ##Abstract
 
 >Measuring and ranking the free software developers in a particular geographical location is a way of knowing the existing community and also allows assessing the impact of certain policies in the dynamics of such a community. Besides, it is interesting to try and find out why there are differences from one place to the next and how these differences evolve with time. 
->In this paper, our main interest is to measure and rank the community of free software developers in Spain and also check its geographical distribution. This paper measures differences by province, providing a classification of provinces according to the number and type of developers present in each place. 
+>In this paper, our main interest is to measure and rank the community of free software developers in Spain and also check its geographical distribution. That is why measures are taken by province, providing a classification of provinces according to the number and type of developers present in each place. 
+>A study of the most popular languages is also made, leaving JavaScript as a clear winner.
 
 # Introduction and methodology
 
 The initial motive behind this paper was to check the health of the free software developer community in Spain. With that target in mind, we elaborated some initial national rankings which were published at The Winnower. The main problem with those rankings is that in many cases and specially in the big cities, there was no attempt to exhaustively search all active users. Since the [GitHub search API](https://developer.github.com/v3/search/#search-users) just returns 1000 results and, in the case of Madrid and Barcelona, there were way more than that, the script that downloads user data had to be modified so that, through partition of the search space, it was able to perform searches that returned less than 1000 results until all users were covered. It still does not cover users that *do not* declare their city/province in their profile, or use provincial towns that are not explicitly searched. In one case, Guadalajara, it was impossible to make out which users where actually from Guadalajara, Spain and not from Guadalajara, Mexico and thus was explicitly excluded. In general, it can be said that all users that *declare* their province or provincial capital are included, although the quantity of those that are there and do not do it is unknown, and hopefully uniform for all provinces involved. 
 
-In a previous version of this paper @rpubs, we had not been able to obtain all the results for the whole country, that is, users that declare their country (plus a city or town or community that is not searched otherwise, that is, excluding the provincial town). However, in this paper all users that declare Spain (in several versions) as their place of residence have been retrieved and additional analysis that involves them can be performed. This will be done next.
+In previous versions of this paper @rpubs we had not been able to obtain all the results for the whole country, that is, users that declare their country (plus a city or town or community that is not searched otherwise, that is, excluding the provincial town). However, in this paper all users that declare Spain (in several versions) as their place of residence have been retrieved and additional analysis that involves them can be performed. This will be done next. Other versions @rpubs2, @rpubs3 update these results and can be used for comparison, mainly in terms of provincial relative positions. 
 
 
 #Results
@@ -84,9 +85,9 @@ ggplot(data.province, aes(x=reorder(province,usersrel),y=usersrel))+geom_bar(sta
 
 >About this result, the fact that GitHub API searches return different numbers in two consecutive requests might play a role. There is always some degree of uncertainty.
 
-After these provinces the situation is more stable, with Seville in the 4th position, followed by Saragossa (Zaragoza), Valladolid, Bizkaia (represented by its main city, Bilbao), Valencia and Córdoba. The province of A Coruña is a distant nextand closes the top 10.
+After these provinces the situation is more stable, with Seville in the 4th position, followed by Saragossa (Zaragoza), Valladolid, Bizkaia (represented by its main city, Bilbao), Valencia and Córdoba. The province of A Coruña is a distant next and closes the top 10.
 
-The situation is similar if we take into account the aggregated contributions by all users that have declared their province. Once again, Granada emerges as the winner, with Navarra, largely due to a single user, as the second. Next, the positions of Barcelona and Madrid is inverted and a new player, Valladolid, enters the top five. The first 6 positions seem consolidated, at least in the last few months, and closed by Zaragoza, but Bilbao and Sevilla are very close in the 7th and 8th, and Álava, Jaén and Asturias, vying for the next positions up to the tenth. The next positions are very close and the situation is not stable for the time being, with Donostia and Valencia virtually with the same number of contributions per person. 
+The situation is similar if we take into account the aggregated contributions by all users that have declared their province. Once again, Granada emerges as the winner, with Navarra, largely due to two users, one of them using automated commits, as the second. Next, the positions of Barcelona and Madrid is inverted with respect to the previous graph and a new player, Valladolid, enters the top five. The first 6 positions seem consolidated, at least in the last few months, and closed by Zaragoza, but Bilbao and Sevilla are very close in the 7th and 8th, and Álava, Jaén and Asturias, vying for the next positions up to the tenth. The next positions are very close and the situation is not stable for the time being, with Donostia and Valencia virtually with the same number of contributions per person. 
 
 ```{r, echo=FALSE,fig.width=10,fig.height=8}
 ggplot(data.province, aes(x=reorder(province,contribrel),y=contribrel))+geom_bar(stat='identity')+coord_flip()
