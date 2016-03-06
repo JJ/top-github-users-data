@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Sat, 28 Feb 2015 11:27:00 GMT** hasta **Sun, 28 Feb 2016 11:27:00 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 06 Mar 2015 10:07:40 GMT** hasta **Sun, 06 Mar 2016 10:07:40 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -16,4 +16,5 @@
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [statickidz](https://github.com/statickidz) | 56 | 8 | JavaScript | Soria | <img src='https://avatars1.githubusercontent.com/u/7888227?v=3&s=64' width="64" title='Adrián Barrio Andrés'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [pablomario](https://github.com/pablomario) | 43 | 0 | CSS | Soria, Spain | <img src='https://avatars1.githubusercontent.com/u/4464094?v=3&s=64' width="64" title='Pablo Mario'> |
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 3 | [IcuScc](https://github.com/IcuScc) | 2 | 0 | Java and Swift | Soria | <img src='https://avatars3.githubusercontent.com/u/5454095?v=3&s=64' width="64" title='Sergio'> |
+|![up](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/up.gif) 3 | [diezrabanos](https://github.com/diezrabanos) | 8 | 0 | Python and Batchfile | SORIA, SPAIN | <img src='https://avatars3.githubusercontent.com/u/11255349?v=3&s=64' width="64" title='Francisco Javier Díez Rábanos'> |
+|![down](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/down.gif) 4 | [IcuScc](https://github.com/IcuScc) | 2 | 0 | Java and Swift | Soria | <img src='https://avatars3.githubusercontent.com/u/5454095?v=3&s=64' width="64" title='Sergio'> |
