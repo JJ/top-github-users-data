@@ -1,9 +1,8 @@
 login; location; place; followers; contributions; stars; user_stars; language
-ljmanso;Extremadura;Extremadura;6;947;2;6;Python
+ljmanso;Extremadura;Extremadura;7;973;2;6;Python
 adobo;Badajoz, Spain;Badajoz;24;218;205;217;PHP
 csuarez;Cáceres (Spain);Cáceres;26;212;42;242;PHP
 jamiebull1;Cáceres, Spain;Cáceres;3;132;0;9;Python
-oscarcpozas;Cáceres, Extremadura, Spain;Extremadura;32;117;12;117;Java
 spaceisstrange;Cáceres, Spain;Cáceres;2;97;3;50;JavaScript
 jormaral;(Badajoz), Spain;Badajoz;19;95;19;23;JavaScript
 alvar0hurtad0;Cáceres, Spain;Cáceres;10;80;9;7;Shell
@@ -33,37 +32,38 @@ Huaypitufo;Mérida;Badajoz;0;20;0;0;C#
 samu22893;Cáceres, España;Cáceres;3;17;1;0;HTML
 ivangd97;Cáceres-Spain;Cáceres;4;11;0;4;C
 Dlozanof;Badajoz, Spain;Badajoz;1;10;0;0;CSS
-jmacollado;Mérida;Badajoz;0;10;0;0;HTML
 Zevesh;Cáceres, Spain;Cáceres;0;10;0;0;HTML
-fdiazgon;Cáceres;Cáceres;1;8;0;0;Java
-DavidWolfgang;Spain, Almendralejo (Badajoz);Badajoz;0;8;1;2;Batchfile
+jmacollado;Mérida;Badajoz;0;10;0;0;HTML
 garciacarmonaam;Quintana de la Serena, Badajoz, Spain;Badajoz;1;8;0;0;C++ and C#
+DavidWolfgang;Spain, Almendralejo (Badajoz);Badajoz;0;8;1;2;Batchfile
+fdiazgon;Cáceres;Cáceres;1;8;0;0;Java
 frieser;Cáceres, Spain;Cáceres;11;7;3;277;PHP
-Axas;Cáceres, Spain;Cáceres;0;6;0;6;CSS
 robermorales;Cáceres, SPAIN;Cáceres;10;6;19;132;Ruby
+Axas;Cáceres, Spain;Cáceres;0;6;0;6;CSS
 jramosext;Extremadura;Extremadura;1;5;4;2;Python
 marbaez;Badajoz;Badajoz;1;5;0;0;AspectJ
-gonzalo-rodriguez;Cáceres (Spain);Cáceres;2;5;0;2;Python
-fuseprods;Madrid / Cáceres;Cáceres;7;5;1;4;Arduino
-robergd;Cáceres, Spain;Cáceres;1;5;1;17;CSS
 vancasti;Cáceres;Cáceres;1;5;0;0;CSS
+robergd;Cáceres, Spain;Cáceres;1;5;1;17;CSS
+fuseprods;Madrid / Cáceres;Cáceres;7;5;1;4;Arduino
+gonzalo-rodriguez;Cáceres (Spain);Cáceres;2;5;0;2;Python
 rstark1;Mérida;Badajoz;0;4;0;0;
 luminnem;Cáceres, Spain;Cáceres;0;4;2;2;Python
-emmanuelvazc;Mérida;Badajoz;0;3;0;0;R
-Ldiab;Mérida, Spain;Badajoz;1;3;0;15;
-macram;Cáceres;Cáceres;2;3;0;7;Java
 albertocabello;Badajoz, Spain;Badajoz;0;3;0;0;JavaScript
 fablabmerida;Mérida;Badajoz;0;3;0;0;
+macram;Cáceres;Cáceres;2;3;0;7;Java
+Ldiab;Mérida, Spain;Badajoz;1;3;0;15;
+emmanuelvazc;Mérida;Badajoz;0;3;0;0;R
 cyxmedia;Cáceres, Spain;Cáceres;1;3;0;0;JavaScript
 PabloCarmona;Badajoz, Spain;Badajoz;0;2;0;0;CSS
+Saavento;Mérida;Badajoz;0;2;0;2;C#
 jcgimfer;Plasencia, Cáceres, Spain;Cáceres;0;2;0;0;
 SolEpcc;Cáceres, Extremadura, Spain;Cáceres;3;2;0;0;
 JPery;Cáceres;Cáceres;0;2;0;0;Python
 AdolfoLozano;Cáceres. SPAIN;Cáceres;0;2;0;0;
-RobertoRodriguezGuerrero;Badajoz;Badajoz;0;2;0;0;CSS and Visual Basic
 branigan;Almendralejo;Badajoz;1;2;3;4;JavaScript and PHP
-Saavento;Mérida;Badajoz;0;2;0;2;C#
+RobertoRodriguezGuerrero;Badajoz;Badajoz;0;2;0;0;CSS and Visual Basic
 juanro49;Extremadura - España;Extremadura;0;2;0;0;ASP
+fjcasasaltas;Badajoz, EX, Spain;Badajoz;0;1;0;0;
 sebastian041965;Badajoz;Badajoz;1;1;10;18;C++
 espantaperros;calle Pontezuelas, 22 - 06800 Mérida (Badajoz) - España;Badajoz;0;1;0;0;ApacheConf
 javerage;Mérida;Badajoz;0;1;0;0;
@@ -72,5 +72,4 @@ rauljareno;Cáceres, Spain;Cáceres;0;1;0;0;Objective-C and Shell
 josecampo;Caceres, Extremadura, Spain;Extremadura;0;1;0;0;CSS and HTML
 raultm;Almendralejo;Badajoz;25;1;7;199;JavaScript
 titlani87;Mérida;Badajoz;0;1;0;0;CSS and JavaScript
-fjcasasaltas;Badajoz, EX, Spain;Badajoz;0;1;0;0;
 achojoao;Badajoz, Spain;Badajoz;0;1;0;0;
