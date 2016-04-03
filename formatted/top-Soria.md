@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 27 Mar 2015 11:36:31 GMT** hasta **Sun, 27 Mar 2016 10:36:31 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 03 Apr 2015 10:55:35 GMT** hasta **Sun, 03 Apr 2016 10:55:35 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -15,7 +15,7 @@
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [statickidz](https://github.com/statickidz) | 57 | 12 | PHP | Soria | <img src='https://avatars1.githubusercontent.com/u/7888227?v=3&s=64' width="64" title='Adrián Barrio Andrés'> |
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [pablomario](https://github.com/pablomario) | 36 | 0 | CSS | Soria, Spain | <img src='https://avatars1.githubusercontent.com/u/4464094?v=3&s=64' width="64" title='Pablo Mario'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [pablomario](https://github.com/pablomario) | 32 | 0 | CSS | Soria, Spain | <img src='https://avatars1.githubusercontent.com/u/4464094?v=3&s=64' width="64" title='Pablo Mario'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 3 | [diezrabanos](https://github.com/diezrabanos) | 8 | 0 | Python and Batchfile | SORIA, SPAIN | <img src='https://avatars3.githubusercontent.com/u/11255349?v=3&s=64' width="64" title='Francisco Javier Díez Rábanos'> |
-|![up](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/up.gif) 4 | [SoftwareRVG](https://github.com/SoftwareRVG) | 5 | 0 | HTML | Avda de Madrid 13 E-42110 OLVEGA (SORIA) ESPAÑA | <img src='https://avatars1.githubusercontent.com/u/15747545?v=3&s=64' width="64" title='ROBER VILLAR GARCIA'> |
-|![down](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/down.gif) 5 | [IcuScc](https://github.com/IcuScc) | 2 | 0 | Java and Swift | Soria | <img src='https://avatars3.githubusercontent.com/u/5454095?v=3&s=64' width="64" title='Sergio'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 4 | [SoftwareRVG](https://github.com/SoftwareRVG) | 5 | 0 | HTML | Avda de Madrid 13 E-42110 OLVEGA (SORIA) ESPAÑA | <img src='https://avatars1.githubusercontent.com/u/15747545?v=3&s=64' width="64" title='ROBER VILLAR GARCIA'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 5 | [IcuScc](https://github.com/IcuScc) | 2 | 0 | Java and Swift | Soria | <img src='https://avatars3.githubusercontent.com/u/5454095?v=3&s=64' width="64" title='Sergio'> |
