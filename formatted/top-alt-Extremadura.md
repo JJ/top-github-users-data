@@ -3,7 +3,7 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Mon, 06 Apr 2015 05:14:11 GMT** hasta **Wed, 06 Apr 2016 05:14:11 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Tue, 07 Apr 2015 05:22:58 GMT** hasta **Thu, 07 Apr 2016 05:22:58 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -14,7 +14,7 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [ljmanso](https://github.com/ljmanso) | 990 | 2 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width="64" title='Luis J. Manso'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [ljmanso](https://github.com/ljmanso) | 1004 | 2 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width="64" title='Luis J. Manso'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [pbustos](https://github.com/pbustos) | 461 | 2 | Python | Cáceres, SPAIN | <img src='https://avatars2.githubusercontent.com/u/6126487?v=3&s=64' width="64" title='Pablo Bustos'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [csuarez](https://github.com/csuarez) | 218 | 42 | PHP | Cáceres (Spain) | <img src='https://avatars0.githubusercontent.com/u/680660?v=3&s=64' width="64" title='César Suárez Ortega'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [adobo](https://github.com/adobo) | 214 | 213 | PHP | Badajoz, Spain | <img src='https://avatars2.githubusercontent.com/u/776565?v=3&s=64' width="64" title='Jorge López Pérez'> |

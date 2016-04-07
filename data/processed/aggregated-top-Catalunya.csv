@@ -16,7 +16,7 @@ alorma;Barcelona, Spain;Barcelona;129;1651;787;698;Java
 trikitrok;Barcelona;Barcelona;31;1516;34;6;Clojure
 kzangeli;Barcelona, Spain;Barcelona;5;1465;0;0;
 k0gaMSX;Barcelona (Spain);Barcelona;3;1434;6;4;C
-mssola;Piera, Catalunya;Catalunya;16;1420;182;191;Go
+mssola;Piera, Catalunya;Catalunya;16;1431;182;191;Go
 christkv;Barcelona, Spain;Barcelona;289;1393;923;243;JavaScript
 karasu;Barcelona, Catalunya;Barcelona;35;1362;10;20;CSS
 t0t;Barcelona;Barcelona;5;1339;0;146;CSS
@@ -27,7 +27,7 @@ josepramon;Catalunya;Catalunya;2;1292;0;8;JavaScript
 gentlecat;Barcelona;Barcelona;27;1191;51;134;Python
 pditommaso;Barcelona, Spain;Barcelona;41;1144;156;573;Java
 plungerman;Barcelona;Barcelona;2;1123;0;60;
-carloslozano;Sant Cugat del Vallès, Catalonia;Catalunya;21;1113;2;68;Shell
+carloslozano;Sant Cugat del Vallès, Catalonia;Catalunya;21;1099;2;68;Shell
 ctubio;Barcelona, Catalonia;Barcelona;4;1089;9;16;Shell
 miquelsoler;Barcelona;Barcelona;0;1065;2;3;C++
 clintongormley;Barcelona, Spain;Barcelona;231;1026;97;40;Perl
@@ -48,9 +48,9 @@ dasilvacontin;Barcelona, Spain;Barcelona;118;807;57;794;JavaScript
 romartin;Barcelona;Barcelona;9;787;2;5;Java
 victorcoder;Barcelona;Barcelona;52;776;811;99;Go
 tsdgeos;L'Hospitalet de Llobregat, Barcelona;Barcelona;8;773;0;263;C
-carlbutron;Barcelona;Barcelona;183;766;118;23;Objective-C
 joansola;Barcelona - Catalonia;Barcelona;10;766;11;0;Matlab
 lzcbetter;Oak Ridge, TN, USA / Barcelona, Spain;Barcelona;1;766;0;15;C++
+carlbutron;Barcelona;Barcelona;183;766;118;23;Objective-C
 belen-albeza;Barcelona;Barcelona;71;755;149;30;JavaScript
 xispa;Barcelona;Barcelona;17;754;0;8;CSS
 carloscuesta;Barcelona;Barcelona;12;752;53;7;CSS
@@ -65,11 +65,11 @@ lordofthejars;Barcelona;Barcelona;63;707;299;45;Java
 alastair;Barcelona;Barcelona;90;693;263;105;Python
 kaitokidi;Barcelona;Barcelona;16;691;16;7;C++
 slluis;Barcelona, Spain;Barcelona;56;689;40;26;C#
-IreneMarin;Barcelona;Barcelona;5;683;9;24;HTML
 ichinaski;Barcelona;Barcelona;9;683;52;108;Go
 jordimas;Barcelona;Barcelona;7;683;1;4;JavaScript
+IreneMarin;Barcelona;Barcelona;5;683;9;24;HTML
 fransua;Barcelona, Spain;Barcelona;17;669;9;28;Python
-aldomann;Catalonia;Catalunya;4;652;13;40;Python
+aldomann;Catalonia;Catalunya;4;652;13;41;Python
 srvaroa;Barcelona;Barcelona;19;650;2;65;Java
 gpawlik;Barcelona;Barcelona;8;647;34;24;JavaScript
 frederic-perez;Barcelona, Spain;Barcelona;3;646;4;0;C++
@@ -98,9 +98,9 @@ mgar;Barcelona;Barcelona;4;524;2;12;Shell
 andrebola;Barcelona;Barcelona;1;523;1;71;Python
 ivmartel;Barcelona, Spain;Barcelona;35;523;239;19;JavaScript
 sneridagh;Barcelona;Barcelona;16;523;69;13;Python
-mikz;Barcelona, Spain;Barcelona;31;519;175;508;Ruby
-toniher;Barcelona, Catalonia;Barcelona;13;519;8;4;JavaScript
 xavier-fernandez;Barcelona, Spain;Barcelona;3;519;2;63;Go
+toniher;Barcelona, Catalonia;Barcelona;13;519;8;4;JavaScript
+mikz;Barcelona, Spain;Barcelona;31;519;175;508;Ruby
 lluis;Vilafranca del Penedès, Catalunya;Catalunya;6;516;27;31;Ruby
 zakum42;Barcelona;Barcelona;16;514;0;128;Shell
 quicoto;Barcelona, Spain;Barcelona;1;509;4;17;CSS
@@ -145,11 +145,11 @@ spite;Barcelona;Barcelona;387;417;2772;41;JavaScript
 carlosvillu;Barcelona;Barcelona;82;413;110;431;JavaScript
 melviso;Barcelona, Catalunya, Spain;Barcelona;1;406;1;3;Makefile
 nacx;Barcelona;Barcelona;43;406;20;36;Java
-andresgutgon;Barcelona;Barcelona;12;401;30;76;JavaScript
 duarten;Barcelona;Barcelona;31;401;9;28;Shell
+andresgutgon;Barcelona;Barcelona;12;401;30;76;JavaScript
 elboletaire;Barcelona, Spain;Barcelona;24;400;137;814;PHP
-casassg;Barcelona;Barcelona;4;398;0;2;CSS
 AitorGuerrero;Barcelona;Barcelona;3;398;1;1;Go
+casassg;Barcelona;Barcelona;4;398;0;2;CSS
 JohnPett;Barcelona, Spain;Barcelona;3;395;3;45;CSS
 mariomac;Barcelona;Barcelona;4;395;14;25;Java
 CKGrafico;Barcelona;Barcelona;91;394;229;123;JavaScript
@@ -159,29 +159,29 @@ leemachin;Barcelona;Barcelona;27;383;663;341;JavaScript
 ivanilves;Barcelona, Spain;Barcelona;15;382;18;38;Shell
 twinone;Barcelona, Spain;Barcelona;41;379;6;85;Java
 jmgc;Barcelona;Barcelona;1;374;0;0;C
-jbeficent;Barcelona, Spain;Barcelona;14;373;0;5;Python
 reatlat;Catalunya;Catalunya;0;373;5;27;JavaScript
+jbeficent;Barcelona, Spain;Barcelona;14;373;0;5;Python
 nahuelsotelo;Barcelona;Barcelona;28;372;11;9;JavaScript
 juanmaguitar;Barcelona;Barcelona;30;371;40;62;JavaScript
 nazcahawk;Barcelona, Spain;Barcelona;1;370;0;6;HTML
 rgonalo;Barcelona;Barcelona;3;368;0;12;JavaScript
 Anaibi;Barcelona;Barcelona;5;365;0;27;CSS
 alexm;Barcelona;Barcelona;53;364;46;293;Perl
-DeBeNoPrMa;Barcelona, Spain;Barcelona;19;362;5;13;C++
 martincalsyn;Barcelona, Spain;Barcelona;9;362;2;7;C#
+DeBeNoPrMa;Barcelona, Spain;Barcelona;19;362;5;13;C++
 PauCodina;Barcelona;Barcelona;1;362;0;80;CSS
 agjacome;Barcelona, Spain;Barcelona;25;361;4;33;Scala
 doup;Barcelona (Spain);Barcelona;13;360;60;49;JavaScript
 v1v;Barcelona;Barcelona;5;357;6;43;Java
-galix85;Barcelona;Barcelona;3;354;1;3;Java and Perl
 CGA1123;Barcelona, ES / Edinburgh, UK;Barcelona;7;354;1;32;Java
+galix85;Barcelona;Barcelona;3;354;1;3;Java and Perl
 oscarmolinadev;Barcelona, Catalonia;Barcelona;3;351;8;74;C++
 oscar-raig;Barcelona, Catalonia;Barcelona;0;348;3;3;Java
 miljan-aleksic;Barcelona;Barcelona;15;344;3;65;JavaScript
 rubencaro;Barcelona;Barcelona;6;341;81;63;Ruby
 kosowski;Barcelona;Barcelona;9;339;6;64;C++
-angelfaraldo;Barcelona;Barcelona;5;338;10;1;Pure Data
 martgnz;Barcelona;Barcelona;47;338;26;1.2k;CSS
+angelfaraldo;Barcelona;Barcelona;5;338;10;1;Pure Data
 TheAnswer;Barcelona, Spain;Barcelona;9;337;20;4;C++
 markbain;Barcelona, Spain;Barcelona;11;335;1;28;PHP
 jordifierro;Barcelona;Barcelona;1;333;2;41;HTML
@@ -195,17 +195,17 @@ spiddy;Barcelona;Barcelona;11;322;7;40;JavaScript
 dgutierr;Barcelona;Barcelona;11;322;1;2;Java
 rbuj;Lleida;Lleida;0;321;2;2;Python
 lbergesio;Barcelona;Barcelona;1;319;1;1;C
-martin-azpillaga;Barcelona;Barcelona;0;318;3;4;GLSL
 amglebihan;Barcelona;Barcelona;9;318;0;0;CSS
+martin-azpillaga;Barcelona;Barcelona;0;318;3;4;GLSL
 pjmartorell;Barcelona;Barcelona;9;317;3;66;Ruby
 cabul;Barcelona;Barcelona;5;317;15;4;JavaScript
 ivankelly;Barcelona;Barcelona;16;316;43;24;Shell
 kmruiz;Barcelona;Barcelona;13;312;12;52;JavaScript
 josepllberral;Barcelona;Barcelona;2;310;0;0;C
 ArnauPrat;Barcelona;Barcelona;0;308;4;8;C
+davesnx;Barcelona;Barcelona;28;307;27;99;JavaScript
 mcornella;Barcelona;Barcelona;18;307;3;25;Shell
 hmeza;Barcelona;Barcelona;1;307;0;60;PHP
-davesnx;Barcelona;Barcelona;28;307;27;99;JavaScript
 ferranpm;Barcelona;Barcelona;12;305;43;96;VimL
 helicida;Barcelona;Barcelona;10;303;5;10;Java
 Snesi;Barcelona, Spain;Barcelona;7;302;6;39;JavaScript
@@ -227,26 +227,26 @@ aviscasillas;Mataró, Barcelona, Spain;Barcelona;6;283;3;3;Ruby
 albertnez;Barcelona, Spain;Barcelona;30;282;17;63;C++
 martinciu;Barcelona, Spain;Barcelona;31;281;201;175;Ruby
 javilumbrales;Barcelona;Barcelona;8;279;7;16;JavaScript
-GustavoCaso;Barcelona;Barcelona;9;278;2;10;Ruby
 mcomas;Girona;Gerona;2;278;0;0;R
+GustavoCaso;Barcelona;Barcelona;9;278;2;10;Ruby
 eduperez;Barcelona, SPAIN;Barcelona;3;277;1;1;Assembly
 opalenzuela;Barcelona;Barcelona;19;276;73;28;Shell
 daormar;Barcelona (Spain);Barcelona;2;274;11;1;Shell
 glopezdetorre;Barcelona;Barcelona;11;273;6;24;PHP
 castarco;El Prat de Llobregat, Barcelona, Spain;Barcelona;20;272;13;52;PHP
 dimaslz;Barcelona;Barcelona;9;271;10;11;JavaScript
-gireeshkbogu;Barcelona, Spain;Barcelona;0;270;1;6;CSS
 kiike;Barcelona, Spain;Barcelona;4;270;0;123;Python
+gireeshkbogu;Barcelona, Spain;Barcelona;0;270;1;6;CSS
 nixelsolutions;Barcelona;Barcelona;19;267;49;2;Shell
 joselufo;Barcelona;Barcelona;5;266;4;263;Java
 markets;Barcelona;Barcelona;85;265;210;525;Ruby
-XescuGC;Barcelona;Barcelona;23;264;73;141;JavaScript
 Gerard9494;Barcelona;Barcelona;1;264;0;0;CSS
 cumus;Barcelona, Espanya;Barcelona;15;264;0;0;C
+XescuGC;Barcelona;Barcelona;23;264;73;141;JavaScript
 OscarDoc;Barcelona;Barcelona;2;263;12;16;CSS
 vermiculite;Catalunya;Catalunya;1;262;6;66;JavaScript
-rveciana;Barcelona;Barcelona;28;261;64;37;JavaScript
 aeony;Barcelona;Barcelona;27;261;3;60;JavaScript
+rveciana;Barcelona;Barcelona;28;261;64;37;JavaScript
 bloodbare;Manresa, Catalunya;Catalunya;12;257;7;14;JavaScript
 itorres;Catalunya;Catalunya;20;255;4;42;Python
 kpacha;Barcelona;Barcelona;18;255;43;124;PHP
@@ -254,231 +254,231 @@ Satyam;Sitges, Barcelona, Spain;Barcelona;33;255;40;9;JavaScript
 vdel26;Barcelona;Barcelona;37;254;208;387;JavaScript
 daviderill;Barcelona, Spain;Barcelona;9;252;3;12;Python
 Pafcholini;Barcelona;Barcelona;10;250;3;4;Shell
-josepjaume;Barcelona, Spain;Barcelona;71;249;24;101;Ruby
-marcosQuesada;Barcelona;Barcelona;50;249;37;55;PHP
 existeundelta;Barcelona;Barcelona;13;249;0;285;JavaScript and R
+marcosQuesada;Barcelona;Barcelona;50;249;37;55;PHP
+josepjaume;Barcelona, Spain;Barcelona;71;249;24;101;Ruby
 arturictus;Barcelona;Barcelona;6;248;4;0;Ruby
 ribanez7;Barcelona;Barcelona;0;248;0;4;Ruby
 sbartek;Barcelona, Spain;Barcelona;4;247;0;5;R
-jbaylina;Barcelona;Barcelona;4;245;12;8;JavaScript
 boudra;Barcelona, Spain;Barcelona;2;245;4;36;JavaScript
 sfagmenos;Barcelona, Spain;Barcelona;3;245;0;1;Makefile
+jbaylina;Barcelona;Barcelona;4;245;12;8;JavaScript
 itrascastro;Barcelona, Spain;Barcelona;53;244;60;7;PHP
-pespin;Barcelona;Barcelona;1;243;0;0;Shell
 fcsonline;Barcelona, Spain;Barcelona;40;243;70;127;JavaScript
+pespin;Barcelona;Barcelona;1;243;0;0;Shell
 jmendeth;Barcelona, Spain;Barcelona;55;242;133;729;JavaScript
 CarolinaFernandez;Barcelona;Barcelona;0;241;0;16;Shell
 xphere;Barcelona, Spain;Barcelona;37;240;10;212;PHP
 jasuarez;Mataró, Barcelona, España;Barcelona;6;239;5;5;Shell
 jvilaplana;Lleida;Lleida;4;238;5;35;JavaScript
-antonienko;Barcelona;Barcelona;3;236;3;29;PHP
 Atinux;Spain, Barcelona;Barcelona;83;236;468;455;JavaScript
+antonienko;Barcelona;Barcelona;3;236;3;29;PHP
 svilaa;Lleida, Catalonia, Spain;Catalunya;4;235;1;2;Python
 edubxb;Barcelona, Spain;Barcelona;44;234;4;1.5k;Shell
 dertasiu;Barcelona, Spain;Barcelona;1;232;30;8;Shell
-pauek;Barcelona, Spain;Barcelona;31;232;83;321;Shell
 suy;Barcelona;Barcelona;9;232;24;427;VimL
+pauek;Barcelona, Spain;Barcelona;31;232;83;321;Shell
 jgrivolla;Barcelona;Barcelona;5;231;2;69;Java
 JAntn;Barcelona, Spain;Barcelona;0;231;2;2;C++
 dsager;Barcelona, Spain;Barcelona;8;230;2;91;Ruby
 Xelit3;Barcelona;Barcelona;10;229;0;0;CSS
-ignasioliver;Barcelona;Barcelona;0;228;0;0;PHP
 jchavarri;Barcelona;Barcelona;10;228;33;109;JavaScript
+ignasioliver;Barcelona;Barcelona;0;228;0;0;PHP
 sennett;Barcelona;Barcelona;10;227;2;1;JavaScript
-Ralusama19;Barcelona;Barcelona;4;222;5;9;C++
 xdurana;Barcelona;Barcelona;0;222;0;19;JavaScript
+Ralusama19;Barcelona;Barcelona;4;222;5;9;C++
 jmeler;Barcelona;Barcelona;1;217;0;4;JavaScript
 RodrigoVillatoro;Barcelona, Spain;Barcelona;7;216;7;53;Python
 AbrahamAlcaina;Barcelona;Barcelona;11;215;3;40;JavaScript
 hakudoshi23;Barcelona;Barcelona;6;214;1;11;Java
 cokoso;Barcelona, Spain;Barcelona;0;214;0;5;
-xavigiro;Barcelona, Catalonia;Barcelona;7;213;0;5;Jupyter Notebook
 carlosbuenosvinos;Barcelona, Spain;Barcelona;140;213;218;49;PHP
-fgui;Barcelona;Barcelona;5;212;6;50;Clojure
+xavigiro;Barcelona, Catalonia;Barcelona;7;213;0;5;Jupyter Notebook
 budsan;Barcelona;Barcelona;17;212;23;16;C
+fgui;Barcelona;Barcelona;5;212;6;50;Clojure
 gusjavaz;Barcelona, España;Barcelona;1;211;0;0;CSS and Java
 jamaga;barcelona;Barcelona;8;211;2;5;Ruby
 juanpescador;Barcelona;Barcelona;2;210;1;5;JavaScript
-wholedev;Barcelona;Barcelona;5;209;1;6;JavaScript
 templix;Figueres(Catalunya,Spain);Catalunya;1;209;2;0;Shell
+wholedev;Barcelona;Barcelona;5;209;1;6;JavaScript
 pacoorozco;Barcelona, Spain;Barcelona;1;206;6;2;PHP
 ivoarch;Tarragona,Spain;Tarragona;42;206;95;1.3k;Shell
-drodriguezmtb;Barcelona;Barcelona;0;205;0;0;CSS and HTML
-abelsromero;Barcelona;Barcelona;2;205;3;15;Groovy
 ferreret;Barcelona;Barcelona;2;205;0;9;HTML
+abelsromero;Barcelona;Barcelona;2;205;3;15;Groovy
+drodriguezmtb;Barcelona;Barcelona;0;205;0;0;CSS and HTML
 mleemaree;Barcelona, Spain;Barcelona;4;204;1;0;CSS
 natzar;Barcelona;Barcelona;12;204;7;58;JavaScript
 guigrpa;Barcelona, Spain;Barcelona;5;203;164;50;JavaScript
+howna13;Barcelona;Barcelona;0;202;0;2;ApacheConf
 enricostano;Barcelona, Spain;Barcelona;16;202;16;50;JavaScript
 rodbeh;Barcelona;Barcelona;6;202;2;147;HTML
-howna13;Barcelona;Barcelona;0;202;0;2;ApacheConf
 agustincl;Barcelona;Barcelona;78;201;33;21;PHP
 abelboldu;Barcelona;Barcelona;3;200;22;47;Shell
 aercolino;Barcelona;Barcelona;6;200;105;6;JavaScript
 davidpich;Barcelona, Spain;Barcelona;23;198;6;241;JavaScript
-krainet;Barcelona;Barcelona;0;197;18;9;JavaScript
-jasonlint;Barcelona;Barcelona;7;197;0;73;JavaScript
-gerardcl;Barcelona;Barcelona;8;197;5;22;CSS
-xavileon;Barcelona, Spain;Barcelona;1;197;1;7;Python
 edgarzamora;Tarragona;Tarragona;4;197;0;6;
+jasonlint;Barcelona;Barcelona;7;197;0;73;JavaScript
+xavileon;Barcelona, Spain;Barcelona;1;197;1;7;Python
+gerardcl;Barcelona;Barcelona;8;197;5;22;CSS
+krainet;Barcelona;Barcelona;0;197;18;9;JavaScript
 emmgfx;Barcelona;Barcelona;5;196;7;94;JavaScript
 BraisGabin;Barcelona (Spain);Barcelona;13;195;12;21;Java
 txels;Reykjavik & Barcelona;Barcelona;16;194;253;122;Python
 pestomerdes;Lleida;Lleida;1;194;0;0;Java and HTML
-jaschac;Barcelona, Catalunya, Spain;Barcelona;5;193;14;13;Puppet
-clement-moulin-frier;Barcelona, Spain;Barcelona;8;193;2;12;Python
 zurfyx;Catalonia, Spain;Catalunya;1;193;1;41;HTML
-ceritium;Barcelona;Barcelona;28;192;47;45;Ruby
+clement-moulin-frier;Barcelona, Spain;Barcelona;8;193;2;12;Python
+jaschac;Barcelona, Catalunya, Spain;Barcelona;5;193;14;13;Puppet
 simo163;Barcelona;Barcelona;2;192;3;0;JavaScript
+ceritium;Barcelona;Barcelona;28;192;47;45;Ruby
 48089748z;Barcelona;Barcelona;4;189;0;0;Java
-carlos-sancho-ramirez;Barcelona;Barcelona;3;188;6;12;Java
-dfernandez;Barcelona;Barcelona;0;188;0;0;Go
-agustibr;Barcelona;Barcelona;1;188;6;167;CSS
 georgid;Barcelona;Barcelona;4;188;23;1;Python
+dfernandez;Barcelona;Barcelona;0;188;0;0;Go
+carlos-sancho-ramirez;Barcelona;Barcelona;3;188;6;12;Java
+agustibr;Barcelona;Barcelona;1;188;6;167;CSS
 alexpixel14;catalonia;Catalunya;2;186;0;0;
-broucz;Barcelona, Catalonia;Barcelona;9;185;184;54;JavaScript
 toniSoftiberia;Barcelona;Barcelona;2;185;1;1;C
+broucz;Barcelona, Catalonia;Barcelona;9;185;184;54;JavaScript
 ggrandes;Barcelona, Spain;Barcelona;17;182;92;1.1k;Java
-3nr1c;Barcelona;Barcelona;8;181;19;72;PHP
-sebaswn;Barcelona, Spain;Barcelona;0;181;0;1;HTML
 keoko;Barcelona (Spain);Barcelona;10;181;5;41;Clojure
-edravis;Barcelona;Barcelona;12;180;178;151;JavaScript
+sebaswn;Barcelona, Spain;Barcelona;0;181;0;1;HTML
+3nr1c;Barcelona;Barcelona;8;181;19;72;PHP
 sharnik;Barcelona, Spain;Barcelona;30;180;23;13;Ruby
-sergixaudiera;Barcelona;Barcelona;8;179;0;27;CSS and HTML
+edravis;Barcelona;Barcelona;12;180;178;151;JavaScript
 bernatmv;Barcelona;Barcelona;10;179;2;17;JavaScript
+sergixaudiera;Barcelona;Barcelona;8;179;0;27;CSS and HTML
 edgarriba;Barcelona, Spain;Barcelona;17;178;4;13;C++
-davidor;Barcelona, Spain;Barcelona;13;177;32;80;CSS
 jorix;Castelldefels (near Barcelona, Spain);Barcelona;18;177;67;17;JavaScript
+davidor;Barcelona, Spain;Barcelona;13;177;32;80;CSS
 adolfo-rt;Barcelona, Spain ↔ Leuven, Belgium;Barcelona;37;176;0;4;Python
 jig;Barcelona;Barcelona;17;175;14;160;Shell
 viric;Girona;Gerona;16;174;10;13;C
 lastpotion;Barcelona;Barcelona;14;173;2;42;HTML
 deeleman;Barcelona, Spain;Barcelona;15;173;11;45;JavaScript
 xfornesa;Mataró, Barcelona (Spain);Barcelona;4;172;2;91;PHP
-xavidp;Barcelona;Barcelona;4;171;3;8;R
-rogergros;Barcelona, Spain;Barcelona;13;171;0;15;PHP
 dieguico;Barcelona,  Spain;Barcelona;4;171;2;9;Python
+rogergros;Barcelona, Spain;Barcelona;13;171;0;15;PHP
+xavidp;Barcelona;Barcelona;4;171;3;8;R
 vilanovi;Barcelona;Barcelona;23;170;321;22;Objective-C
 jdevesa;Barcelona;Barcelona;19;169;47;35;Shell
-josgilmo;Barcelona;Barcelona;14;169;1;164;Makefile
 am;Barcelona, Spain;Barcelona;18;169;20;160;JavaScript
-albertbellonch;Barcelona;Barcelona;43;167;155;72;Ruby
+josgilmo;Barcelona;Barcelona;14;169;1;164;Makefile
 j-rivero;Barcelona;Barcelona;5;167;4;2;C++
 4knahs;Barcelona;Barcelona;7;167;0;13;Java
-RogerOlasz;Catalunya;Catalunya;9;167;0;0;C++ and C
 alexhoma;Barcelona;Barcelona;4;167;2;16;Ruby
 robdayz;Barcelona;Barcelona;6;167;1;2;Python
-albarral;Barcelona, Spain;Barcelona;0;166;0;0;C++
+RogerOlasz;Catalunya;Catalunya;9;167;0;0;C++ and C
+albertbellonch;Barcelona;Barcelona;43;167;155;72;Ruby
 kborrell;Lleida, Catalonia (Spain);Catalunya;3;166;0;1;CSS
+albarral;Barcelona, Spain;Barcelona;0;166;0;0;C++
 carlessanagustin;Barcelona;Barcelona;14;165;9;91;Shell
 rgomezcasas;Barcelona;Barcelona;34;165;8;488;PHP
-Bestion;Barcelona;Barcelona;1;164;0;0;C
 Gan0k;Barcelona;Barcelona;6;164;5;303;HTML
+Bestion;Barcelona;Barcelona;1;164;0;0;C
+sinmsinm;Lleida;Lleida;2;163;10;6;JavaScript
 jherranzm;Barcelona (Spain);Barcelona;2;163;9;12;Java
 jaimeiniesta;Girona, Spain;Gerona;146;163;786;405;Ruby
-sinmsinm;Lleida;Lleida;2;163;10;6;JavaScript
 tcorral;Barcelona;Barcelona;255;162;1378;221;JavaScript
-martiadrogue;Barcelona;Barcelona;0;161;0;2;PHP
 eskerda;Barcelona;Barcelona;62;161;167;24;JavaScript
+martiadrogue;Barcelona;Barcelona;0;161;0;2;PHP
 lautarobock;Barcelona;Barcelona;4;160;6;20;JavaScript
-sdesimone;Barcelona;Barcelona;14;158;76;76;Objective-C
 perellonieto;Barcelona;Barcelona;1;158;2;3;Python
-dlizarra;Tarragona (Spain);Tarragona;0;157;6;30;Java
+sdesimone;Barcelona;Barcelona;14;158;76;76;Objective-C
 sonoro1234;Barcelona;Barcelona;10;157;33;15;C++
 albhilazo;Barcelona, Spain;Barcelona;12;157;1;53;JavaScript
+dlizarra;Tarragona (Spain);Tarragona;0;157;6;30;Java
 oscmansan;Barcelona, Spain;Barcelona;3;156;1;11;Java
-igorline;Barcelona;Barcelona;0;156;3;18;Python
 necavit;Barcelona;Barcelona;9;156;2;20;Shell
-acstll;Barcelona;Barcelona;5;155;28;80;JavaScript
-Galbar;Barcelona, Spain;Barcelona;16;155;13;31;C++
+igorline;Barcelona;Barcelona;0;156;3;18;Python
 bejar;Barcelona, Spain;Barcelona;1;155;1;0;Python
+Galbar;Barcelona, Spain;Barcelona;16;155;13;31;C++
+acstll;Barcelona;Barcelona;5;155;28;80;JavaScript
 fiunchinho;Barcelona;Barcelona;46;153;86;388;PHP
 Dinamiko;Barcelona;Barcelona;3;152;4;0;PHP
-pral2a;Barcelona;Barcelona;11;152;1;127;JavaScript
-CarlesLlobet;Barcelona;Barcelona;0;152;0;3;Java
 xsb;Barcelona, Catalunya;Barcelona;27;152;22;331;Shell
+CarlesLlobet;Barcelona;Barcelona;0;152;0;3;Java
+pral2a;Barcelona;Barcelona;11;152;1;127;JavaScript
+Saigesp;Barcelona;Barcelona;0;151;0;2;CSS
+MiquelAdell;Sabadell, Barcelona;Barcelona;2;151;0;5;PHP
 alombarte;Barcelona;Barcelona;52;151;84;96;Shell
 jjtortosa;Barcelona;Barcelona;0;151;2;3;JavaScript
-Saigesp;Barcelona;Barcelona;0;151;0;2;CSS
 agile-jordi;Barcelona;Barcelona;8;151;9;17;Clojure
-MiquelAdell;Sabadell, Barcelona;Barcelona;2;151;0;5;PHP
 franciscoj;Barcelona (Spain);Barcelona;44;150;11;42;HTML
+argaen;Tarragona, Spain;Tarragona;6;150;7;9;Python
 cosm0s;Barcelona;Barcelona;2;150;0;0;Java
 kidd;Barcelona (Spain);Barcelona;74;150;89;448;Emacs Lisp
-argaen;Tarragona, Spain;Tarragona;6;150;7;9;Python
-miguelmcolon;Barcelona;Barcelona;0;149;0;0;
 tatygrassini;Barcelona;Barcelona;44;149;615;430;JavaScript
-Kv0the;Barcelona, Spain;Barcelona;4;148;0;3;C#
+miguelmcolon;Barcelona;Barcelona;0;149;0;0;
 jponf;Lleida;Lleida;7;148;0;3;Python
+Kv0the;Barcelona, Spain;Barcelona;4;148;0;3;C#
 martensson;Barcelona;Barcelona;9;147;211;203;Go
 adrianolatorre;Barcelona;Barcelona;5;147;1;2;CSS
 glomadrian;Barcelona, Spain;Barcelona;264;146;4392;143;Java
 jcangas;Barcelona, spain;Barcelona;7;145;48;73;Ruby
 gui11aume;Barcelona (Spain);Barcelona;13;145;59;42;Python
+droca;Barcelona;Barcelona;0;144;0;0;Cucumber
 h02e56;Barcelona;Barcelona;4;144;2;42;JavaScript
 artivis;Barcelona, Spain;Barcelona;12;144;5;46;C++
-droca;Barcelona;Barcelona;0;144;0;0;Cucumber
-jordic;Barcelona, ES;Barcelona;21;143;88;700;Go
 rewritten;Barcelona;Barcelona;20;143;31;45;Ruby
+jordic;Barcelona, ES;Barcelona;21;143;88;700;Go
 valermor;Barcelona;Barcelona;4;143;5;31;Python
-alexpdp7;Barcelona, Spain;Barcelona;7;142;1;33;Java
 Moezalez;Barcelona;Barcelona;14;142;0;13;
-rubennorte;Barcelona;Barcelona;32;141;18;51;JavaScript
+alexpdp7;Barcelona, Spain;Barcelona;7;142;1;33;Java
 ElXaxe;Madrid / Barcelona;Barcelona;2;141;0;2;JavaScript
-slapresta;Barcelona;Barcelona;30;140;73;194;Python
+rubennorte;Barcelona;Barcelona;32;141;18;51;JavaScript
 gabri231;Barcelona;Barcelona;6;140;0;0;Java
+slapresta;Barcelona;Barcelona;30;140;73;194;Python
 ezorita;Barcelona;Barcelona;7;139;19;8;C
+christiancabarrocas;Barcelona, Catalunya;Barcelona;5;139;0;239;Swift
+dpujadas;Barcelona;Barcelona;2;139;0;0;Shell
 hectr;Barcelona, ES;Barcelona;16;139;187;200;Objective-C
 Towerthousand;Barcelona;Barcelona;27;139;24;4;C++
-dpujadas;Barcelona;Barcelona;2;139;0;0;Shell
-christiancabarrocas;Barcelona, Catalunya;Barcelona;5;139;0;239;Swift
-palaumarc;Barcelona;Barcelona;1;138;0;0;Assembly
 arthurMll;Casteldefels (Barcelona);Barcelona;0;138;0;1;
+palaumarc;Barcelona;Barcelona;1;138;0;0;Assembly
 Palaui;Barcelona;Barcelona;6;138;0;1;
 Termeni;Lleida;Lleida;5;137;0;3;Java
 juange87;Barcelona;Barcelona;20;137;0;174;Java
 mediafinger;Barcelona;Barcelona;30;137;24;72;Ruby
 SanabriaRusso;Barcelona, Spain;Barcelona;4;137;5;6;C++
 skyrpex;Barcelona, Spain;Barcelona;33;136;57;920;JavaScript
-aurelian;Barcelona, Spain;Barcelona;27;135;262;292;Ruby
 derrybirkett;Barcelona;Barcelona;11;135;6;214;CSS
+aurelian;Barcelona, Spain;Barcelona;27;135;262;292;Ruby
 alexandresaiz;Barcelona;Barcelona;24;135;7;48;JavaScript
 mikaku;Catalonia;Catalunya;11;134;356;6;HTML
-abosch19;Barcelona;Barcelona;1;134;1;0;CSS
 eloimaduell;Barcelona;Barcelona;13;134;6;5;C++
-erikrk;Tarragona, Spain;Tarragona;0;133;0;0;C
-mmasriera;Barcelona, Spain;Barcelona;20;133;4;119;JavaScript
-mparramont;Barcelona, Spain;Barcelona;28;133;62;282;JavaScript
+abosch19;Barcelona;Barcelona;1;134;1;0;CSS
 q2dg;Barcelona (Spain);Barcelona;4;133;0;42;
 urodoz;Barcelona;Barcelona;9;133;10;132;JavaScript
+mmasriera;Barcelona, Spain;Barcelona;20;133;4;119;JavaScript
 epilgrim;Barcelona, España;Barcelona;10;133;16;9;PHP
-mkbrv;Barcelona;Barcelona;8;132;2;18;Java
-Hopobcn;Barcelona;Barcelona;1;132;0;3;C++
+mparramont;Barcelona, Spain;Barcelona;28;133;62;282;JavaScript
+erikrk;Tarragona, Spain;Tarragona;0;133;0;0;C
 ronggong;Barcelona, Spain;Barcelona;2;132;5;0;Python
 Bastien-;Barcelona;Barcelona;4;132;2;32;R
 mikegoodstadt;Barcelona, Spain;Barcelona;1;132;1;22;
-josecgil;Barcelona, Spain;Barcelona;3;131;1;1;JavaScript
+mkbrv;Barcelona;Barcelona;8;132;2;18;Java
+Hopobcn;Barcelona;Barcelona;1;132;0;3;C++
 carlwebdev;Barcelona;Barcelona;1;131;0;38;CSS
-fadado;Barcelona;Barcelona;0;130;6;0;Makefile
+josecgil;Barcelona, Spain;Barcelona;3;131;1;1;JavaScript
 envyj020;Barcelona;Barcelona;4;130;5;60;PHP
 leonkyr;Barcelona;Barcelona;5;130;6;60;HTML
-raohmaru;Cornellà de Llobregat (Barcelona);Barcelona;3;129;8;21;ActionScript
-weapp;Barcelona, Spain;Barcelona;22;129;5;408;Ruby
+fadado;Barcelona;Barcelona;0;130;6;0;Makefile
 carthach;Barcelona, Catalonia, Spain.;Barcelona;6;129;3;7;C++
-tokland;Barcelona;Barcelona;32;129;390;55;Ruby
-marcobrador;Barcelona, Spain;Barcelona;5;129;1;1;HTML
-nicoSWD;Barcelona, Spain;Barcelona;20;129;164;378;PHP
-aramirez-es;Barcelona;Barcelona;36;129;28;79;PHP
 Vidimensional;Barcelona. Spain;Barcelona;12;129;21;6;Python
-MarcMDE;Catalonia;Catalunya;1;128;0;2;C
-gorkapit;Barcelona;Barcelona;18;128;0;45;CSS
+aramirez-es;Barcelona;Barcelona;36;129;28;79;PHP
+marcobrador;Barcelona, Spain;Barcelona;5;129;1;1;HTML
+weapp;Barcelona, Spain;Barcelona;22;129;5;408;Ruby
+nicoSWD;Barcelona, Spain;Barcelona;20;129;164;378;PHP
+raohmaru;Cornellà de Llobregat (Barcelona);Barcelona;3;129;8;21;ActionScript
+tokland;Barcelona;Barcelona;32;129;390;55;Ruby
 sankalpg;Barcelona;Barcelona;11;128;2;1;Python
-marcelopereirascmspain;barcelona;Barcelona;8;128;3;7;JavaScript
+MarcMDE;Catalonia;Catalunya;1;128;0;2;C
 karume;Barcelona;Barcelona;4;128;2;8;Puppet
 griba2001;Tiana (near Barcelona) Catalonia - Spain;Barcelona;0;128;1;0;Haskell
+marcelopereirascmspain;barcelona;Barcelona;8;128;3;7;JavaScript
 andreucm;Barcelona, Catalunya;Barcelona;15;128;0;7;Scilab
-hiulit;Barcelona;Barcelona;4;127;131;0;JavaScript
+gorkapit;Barcelona;Barcelona;18;128;0;45;CSS
 allaudet;Barcelona;Barcelona;0;127;1;3;C
+hiulit;Barcelona;Barcelona;4;127;131;0;JavaScript
 kakubei;Barcelona, Spain;Barcelona;1;126;0;1;CSS
 joanvila;Barcelona;Barcelona;7;126;1;20;JavaScript
 antonio-manuel;Girona;Gerona;3;125;0;11;Java
@@ -486,50 +486,50 @@ mcreel;Barcelona, Spain;Barcelona;10;124;6;5;Julia
 moriorgames;Barcelona;Barcelona;0;124;10;3;CSS
 crimarde;Tarragona;Tarragona;0;123;1;1;Java
 Moc;The Netherlands / Barcelona, Spain;Barcelona;19;122;8;207;PHP
-jllopis;Barcelona, Spain;Barcelona;1;121;17;8;Go
-imdario;Barcelona;Barcelona;47;121;202;2.3k;Go
-davidberneda;Girona, Catalonia;Catalunya;8;121;24;30;Pascal
-mgdiez;Barcelona;Barcelona;6;121;0;2;Java
 abailon;Barcelona;Barcelona;3;121;2;2;
-yyoyo;Barcelona;Barcelona;3;120;2;7;Shell
-davidbarna;Barcelona (Spain);Barcelona;2;120;0;10;CoffeeScript
-dcaba;Barcelona;Barcelona;0;120;0;0;Ruby
+davidberneda;Girona, Catalonia;Catalunya;8;121;24;30;Pascal
+imdario;Barcelona;Barcelona;47;121;202;2.3k;Go
+jllopis;Barcelona, Spain;Barcelona;1;121;17;8;Go
+mgdiez;Barcelona;Barcelona;6;121;0;2;Java
 victuxbb;Barcelona;Barcelona;10;120;7;19;Java
+davidbarna;Barcelona (Spain);Barcelona;2;120;0;10;CoffeeScript
+yyoyo;Barcelona;Barcelona;3;120;2;7;Shell
+dcaba;Barcelona;Barcelona;0;120;0;0;Ruby
 vitovalov;Barcelona, Spain;Barcelona;15;119;473;328;Java
-llaperez;Tarragona;Tarragona;0;118;0;0;JavaScript and CSS
 neferketer;Barcelona;Barcelona;1;118;5;0;PHP
 msonsona;Barcelona;Barcelona;6;118;1;22;CSS
 mariodev12;Barcelona;Barcelona;20;118;1;10;JavaScript
+llaperez;Tarragona;Tarragona;0;118;0;0;JavaScript and CSS
 sfotiadis;Barcelona;Barcelona;8;117;33;8;Java
 areina;barcelona;Barcelona;28;117;306;210;Emacs Lisp
 kvzivn;Barcelona;Barcelona;12;117;2;54;JavaScript
-rossf7;Barcelona;Barcelona;7;116;56;23;Ruby
 Theadd;Barcelona;Barcelona;23;116;91;256;JavaScript
-alexetta;Barcelona;Barcelona;0;115;0;0;CSS
-jofemodo;Barcelona;Barcelona;0;115;3;9;C
+rossf7;Barcelona;Barcelona;7;116;56;23;Ruby
 AinaSG;Barcelona;Barcelona;10;115;23;8;C++
-Legolasindar;Catalunya;Catalunya;2;115;0;2;C++
 unleashed;Barcelona;Barcelona;8;115;33;52;Ruby
+alexetta;Barcelona;Barcelona;0;115;0;0;CSS
+Legolasindar;Catalunya;Catalunya;2;115;0;2;C++
 joseparnau;Barcelona;Barcelona;0;115;0;0;C++
+jofemodo;Barcelona;Barcelona;0;115;3;9;C
+jfz94;Barcelona;Barcelona;7;114;0;0;Java and HTML
 dmitry-zaets;Barcelona, Spain;Barcelona;8;114;52;153;JavaScript
 xaviml;Barcelona;Barcelona;13;114;7;14;C
 Danziger;Barcelona;Barcelona;2;114;4;12;JavaScript
 theUniC;Barcelona;Barcelona;90;114;46;169;PHP
 albarralnunez;Barcelona;Barcelona;15;114;1;7;Python
-jfz94;Barcelona;Barcelona;7;114;0;0;Java and HTML
+castrolem;Barcelona, Spain;Barcelona;16;113;4;67;CSS
 mad-js-dev;Barcelona;Barcelona;0;113;0;0;ApacheConf
 nadimix;Barcelona;Barcelona;6;113;0;32;JavaScript
 javifr;Barcelona;Barcelona;7;113;1;13;Ruby
-castrolem;Barcelona, Spain;Barcelona;16;113;4;67;CSS
-juliamauri;Catalonia, Tarragona, Deltebre 43580;Catalunya;4;112;0;0;C and C++
 albertofem;Barcelona;Barcelona;20;112;64;242;PHP
-davidcarrera;Barcelona;Barcelona;3;112;0;9;Shell
-nguasch;Barcelona;Barcelona;1;112;0;0;JavaScript
 knoopx;Barcelona;Barcelona;50;112;58;1k;Ruby
+juliamauri;Catalonia, Tarragona, Deltebre 43580;Catalunya;4;112;0;0;C and C++
+nguasch;Barcelona;Barcelona;1;112;0;0;JavaScript
+davidcarrera;Barcelona;Barcelona;3;112;0;9;Shell
 lcalvofl;Barcelona;Barcelona;0;111;0;1;CSS
+MoralAlberto;Barcelona;Barcelona;5;111;3;308;Swift
 jsalcal;Barcelona;Barcelona;0;111;4;0;Makefile
 xperiments;Barcelona;Barcelona;28;111;95;719;JavaScript
-MoralAlberto;Barcelona;Barcelona;5;111;3;308;Swift
 peretuset;Barcelona, Spain;Barcelona;6;110;0;3;
 mllobet;Barcelona;Barcelona;25;110;2;68;Python
 xarabas;Barcelona, Spain;Barcelona;4;109;4;15;Python
@@ -537,190 +537,191 @@ jordimontana82;Dublin, Barcelona;Barcelona;2;109;7;1;C#
 Samitier;Barcelona;Barcelona;6;109;2;7;CSS
 masylum;Barcelona;Barcelona;128;109;1098;201;JavaScript
 xrubio;Barcelona;Barcelona;13;108;23;6;Python
-afcondon;Catalunya;Catalunya;0;108;0;16;PureScript
 rogercbe;Barcelona;Barcelona;2;108;1;3;CSS
+afcondon;Catalunya;Catalunya;0;108;0;16;PureScript
 FerCa;Barcelona;Barcelona;12;107;11;6;JavaScript
-JuanCarlosM;Barcelona;Barcelona;7;107;0;15;HTML
-rfguri;Barcelona · London;Barcelona;18;107;4;72;C
 miguelibero;Barcelona, Spain;Barcelona;10;107;7;51;C++
-gcasanova;Barcelona, Spain;Barcelona;0;106;0;0;JavaScript
-mariobrassescogarcia;Barcelona;Barcelona;3;106;0;0;HTML
+rfguri;Barcelona · London;Barcelona;18;107;4;72;C
+JuanCarlosM;Barcelona;Barcelona;7;107;0;15;HTML
 flordan;Barcelona;Barcelona;1;106;2;2;Java
+mariobrassescogarcia;Barcelona;Barcelona;3;106;0;0;HTML
 jcchavezs;Barcelona - Spain;Barcelona;10;106;43;9;PHP
-crboca;Barcelona;Barcelona;3;105;0;0;CSS
-lluisgomez;Universitat Autonoma de Barcelona;Barcelona;63;105;105;13;C++
+gcasanova;Barcelona, Spain;Barcelona;0;106;0;0;JavaScript
 Dokman;Spain,Girona,Arbúcies;Gerona;13;105;4;164;C#
+lluisgomez;Universitat Autonoma de Barcelona;Barcelona;63;105;105;13;C++
+crboca;Barcelona;Barcelona;3;105;0;0;CSS
 ruskid;Barcelona;Barcelona;7;105;15;41;PHP
 gchaincl;Barcelona;Barcelona;28;105;345;145;Go
 ruben998;Barcelona;Barcelona;1;104;0;0;Python
 GinesOrtiz;Barcelona;Barcelona;10;103;7;5;JavaScript
 xilosada;Barcelona;Barcelona;1;103;0;10;Swift
 rul3s;Lleida;Lleida;0;103;0;1;CSS
-skyweb07;España, Barcelona;Barcelona;10;102;30;67;Ruby
 ivanbardon;Tarragona Spain;Tarragona;3;102;0;18;JavaScript
+skyweb07;España, Barcelona;Barcelona;10;102;30;67;Ruby
 darkunito;Castelldefels, Barcelona;Barcelona;4;102;0;2;Java
+sief;Barcelona, Spain;Barcelona;1;101;25;11;Scala
+juandebravo;Barcelona;Barcelona;37;101;44;79;Ruby
 jferna57;Spain, barcelona;Barcelona;6;101;27;117;Java
 Fonserbc;Barcelona;Barcelona;21;101;8;24;JavaScript
-juandebravo;Barcelona;Barcelona;37;101;44;79;Ruby
-sief;Barcelona, Spain;Barcelona;1;101;25;11;Scala
-debiatan;Barcelona;Barcelona;5;100;6;29;C++
-davidkaste;Lleida;Lleida;30;100;5;52;Python
 manuel-munoz-aguirre;Barcelona, Spain;Barcelona;0;100;3;4;R
+davidkaste;Lleida;Lleida;30;100;5;52;Python
+debiatan;Barcelona;Barcelona;5;100;6;29;C++
 zapatran;Barcelona;Barcelona;1;100;0;0;JavaScript
 andreumasferrer;Barcelona;Barcelona;21;100;1;1;CSS
 danipknot;Barcelona;Barcelona;0;100;0;0;Python
 polmes;Barcelona, Catalunya;Barcelona;2;100;1;2;HTML
-jaor;Barcelona;Barcelona;45;99;414;67;Emacs Lisp
 jmgimeno;Lleida, Spain;Lleida;20;99;65;90;Clojure
-armellini13;Barcelona, Spain;Barcelona;10;99;15;21;CSS
-sgimeno;Barcelona;Barcelona;21;99;5;187;JavaScript
 somebody32;Barcelona, Spain;Barcelona;23;99;90;130;JavaScript
+armellini13;Barcelona, Spain;Barcelona;10;99;15;21;CSS
+jaor;Barcelona;Barcelona;45;99;414;67;Emacs Lisp
 juaoregon;Barcelona, Spain;Barcelona;2;99;2;4;Java
 ramalok;Barcelona;Barcelona;2;99;0;0;Shell
-cosarara97;Barcelona;Barcelona;7;98;17;5;C++
-santiHerranz;Barcelona;Barcelona;1;98;2;28;Java and Objective-C
-opsidao;Barcelona, Spain;Barcelona;12;98;5;149;Ruby
+sgimeno;Barcelona;Barcelona;21;99;5;187;JavaScript
 shockstate;Barcelona;Barcelona;1;98;0;0;HTML
-adrian-rosello;Barcelona;Barcelona;8;98;2;2;Java
-juanmorillios;Barcelona;Barcelona;2;98;1;5;Swift
 jmcarbo;Barcelona (SPAIN);Barcelona;6;98;61;117;Shell
 rafapoyatos;Barcelona;Barcelona;0;98;0;0;CSS
+santiHerranz;Barcelona;Barcelona;1;98;2;28;Java and Objective-C
+cosarara97;Barcelona;Barcelona;7;98;17;5;C++
+opsidao;Barcelona, Spain;Barcelona;12;98;5;149;Ruby
+adrian-rosello;Barcelona;Barcelona;8;98;2;2;Java
+juanmorillios;Barcelona;Barcelona;2;98;1;5;Swift
 jalucenyo;Spain - Tarragona;Tarragona;18;98;35;17;Java
-alfred82santa;Barcelona;Barcelona;8;97;12;11;Python
-edysanchez;Barcelona;Barcelona;8;97;2;26;PHP
-f-guitart;Lleida;Lleida;5;97;0;0;Python
 ayrad;Spain, Tarragona;Tarragona;0;97;1;3;JavaScript
-paugarcia95;Barcelona;Barcelona;0;96;2;3;Java
+alfred82santa;Barcelona;Barcelona;8;97;12;11;Python
+f-guitart;Lleida;Lleida;5;97;0;0;Python
+edysanchez;Barcelona;Barcelona;8;97;2;26;PHP
+hugozaragoza;Barcelona;Barcelona;0;96;0;0;
 ovicin;Barcelona;Barcelona;24;96;11;152;C++
 chirauki;Barcelona;Barcelona;2;96;2;0;Ruby
+paugarcia95;Barcelona;Barcelona;0;96;2;3;Java
 iuriaranda;Barcelona;Barcelona;13;96;5;124;JavaScript
-recarens;Girona;Gerona;0;96;0;0;C# and Java
 arkeros;Barcelona, Spain;Barcelona;7;96;3;104;CSS
-hugozaragoza;Barcelona;Barcelona;0;96;0;0;
 philn;Barcelona;Barcelona;22;96;29;14;Python
 fmvilas;Barcelona, Spain;Barcelona;22;96;35;21;JavaScript
 danyg;Barcelona, Spain;Barcelona;4;96;46;20;JavaScript
 fgonzalvez;Barcelona;Barcelona;5;96;0;57;JavaScript
+recarens;Girona;Gerona;0;96;0;0;C# and Java
 andresoviedo;Barcelona;Barcelona;0;95;8;9;Java
 lrubinat;Barcelona;Barcelona;2;95;0;0;HTML
-dixso;Barcelona;Barcelona;17;95;408;31;JavaScript
 jasonh-n-austin;Barcelona;Barcelona;31;95;23;234;Python
 sergiouve;Barcelona;Barcelona;0;95;0;12;CSS
-jbiscarri;Barcelona;Barcelona;0;94;0;8;Objective-C
-plastikaweb;Catalonia;Catalunya;4;94;8;8;JavaScript
-arnsangra;Barcelona;Barcelona;11;94;0;28;Shell
+dixso;Barcelona;Barcelona;17;95;408;31;JavaScript
 kedare;Barcelona, Spain;Barcelona;8;94;8;216;HTML
+arnsangra;Barcelona;Barcelona;11;94;0;28;Shell
+jbiscarri;Barcelona;Barcelona;0;94;0;8;Objective-C
 danicomas;Barcelona;Barcelona;11;94;50;138;JavaScript
+plastikaweb;Catalonia;Catalunya;4;94;8;8;JavaScript
+jaspermdegroot;Barcelona, Spain;Barcelona;86;93;0;61;CSS
 xavierpandis;Barcelona;Barcelona;7;93;2;4;Batchfile
 mateucamps;Barcelona;Barcelona;0;93;0;3;C++
 antoineallard;Barcelona, Spain;Barcelona;4;93;1;11;C++
 luckyshot;Barcelona, Spain;Barcelona;36;93;200;199;PHP
-jaspermdegroot;Barcelona, Spain;Barcelona;86;93;0;61;CSS
-nilpaco;Barcelona;Barcelona;7;92;3;4;HTML
-julian-urbano;Barcelona;Barcelona;1;92;8;4;TeX
 rubiojr;Barcelona, Spain;Barcelona;128;92;474;1.2k;Ruby
-osorioramirez;Barcelona, Spain;Barcelona;1;92;0;19;PHP
+julian-urbano;Barcelona;Barcelona;1;92;8;4;TeX
 joseppla;Barcelona;Barcelona;2;92;0;0;Ruby
-unrar;Lloret de Mar, Catalonia;Catalunya;1;91;29;8;Ruby
+osorioramirez;Barcelona, Spain;Barcelona;1;92;0;19;PHP
+nilpaco;Barcelona;Barcelona;7;92;3;4;HTML
 diegok;Barcelona, Spain;Barcelona;62;91;138;113;Perl
 skptic;Barcelona, Spain;Barcelona;4;91;0;7;Shell
-mrcasals;Barcelona, Spain;Barcelona;46;90;39;1.1k;Ruby
-jordicenzano;Barcelona;Barcelona;1;90;7;0;Shell
+unrar;Lloret de Mar, Catalonia;Catalunya;1;91;29;8;Ruby
 padilo;Barcelona;Barcelona;10;90;4;143;Java
-karolinkas;Barcelona;Barcelona;12;89;6;5;JavaScript
+jordicenzano;Barcelona;Barcelona;1;90;7;0;Shell
+mrcasals;Barcelona, Spain;Barcelona;46;90;39;1.1k;Ruby
 hanirok;Barcelona;Barcelona;0;89;0;0;
 singuerinc;Barcelona;Barcelona;12;89;30;358;Ruby
 avizcaino-newuibcn;Barcelona;Barcelona;0;89;0;2;CSS
-orioltestart;Girona;Gerona;0;88;0;0;HTML
+karolinkas;Barcelona;Barcelona;12;89;6;5;JavaScript
+lluia;Barcelona, Spain;Barcelona;4;88;3;48;JavaScript
+hcosta;Súria, Barcelona;Barcelona;10;88;6;16;JavaScript
+orestes;Barcelona → ✈️ → Galicia;Barcelona;14;88;1;146;JavaScript
+kdubezerra;Barcelona, Spain;Barcelona;2;88;0;1;Makefile
+alexcarol;Barcelona,Spain;Barcelona;12;88;1;29;PHP
 JaimeMrtnez;Terrassa (Barcelona);Barcelona;3;88;1;0;HTML
 kterf;Barcelona;Barcelona;2;88;7;2;Python
-marcelotena;Barcelona, Spain;Barcelona;2;88;0;2;CSS
-alexcarol;Barcelona,Spain;Barcelona;12;88;1;29;PHP
-hcosta;Súria, Barcelona;Barcelona;10;88;6;16;JavaScript
 jmasramon;BARCELONA;Barcelona;2;88;0;174;JavaScript
-lluia;Barcelona, Spain;Barcelona;4;88;3;48;JavaScript
-kdubezerra;Barcelona, Spain;Barcelona;2;88;0;1;Makefile
 tobiassjosten;Barcelona, Spain;Barcelona;98;88;182;345;PHP
-orestes;Barcelona → ✈️ → Galicia;Barcelona;14;88;1;146;JavaScript
-assimovt;Barcelona;Barcelona;41;87;68;903;JavaScript
+marcelotena;Barcelona, Spain;Barcelona;2;88;0;2;CSS
+orioltestart;Girona;Gerona;0;88;0;0;HTML
 rubencc;Barcelona;Barcelona;3;87;3;0;C# and Java
+assimovt;Barcelona;Barcelona;41;87;68;903;JavaScript
 juandp77;Barcelona;Barcelona;0;86;0;0;Shell and TeX
-alloveras;Barcelona;Barcelona;9;86;1;1;Shell
+marcos-sb;Sant Cugat del Vallés, Barcelona;Barcelona;0;86;2;12;Scala
+marcizhu;Barcelona, Spain;Barcelona;0;86;1;2;C
+eneko89;Barcelona / Bilbao;Barcelona;14;86;14;251;JavaScript
 logoff;Barcelona;Barcelona;4;86;0;10;Java
 MarcLF;Barcelona;Barcelona;1;86;2;2;C and C++
-eneko89;Barcelona / Bilbao;Barcelona;14;86;14;251;JavaScript
+marduke182;Barcelona, Spain;Barcelona;10;86;70;110;JavaScript
 ffaraone;Barcelona, Spain;Barcelona;2;86;0;2;
-marcizhu;Barcelona, Spain;Barcelona;0;86;1;2;C
+alloveras;Barcelona;Barcelona;9;86;1;1;Shell
 xserra93;Barcelona;Barcelona;0;86;0;0;Python
 kaikcreator;Barcelona (SPAIN);Barcelona;0;86;4;0;CSS
 L4D15;Lleida;Lleida;10;86;3;22;C++
-marcos-sb;Sant Cugat del Vallés, Barcelona;Barcelona;0;86;2;12;Scala
-marduke182;Barcelona, Spain;Barcelona;10;86;70;110;JavaScript
-davidllanos22;Barcelona, Spain;Barcelona;6;85;1;57;HTML
+jpavon;Barcelona;Barcelona;9;85;8;657;JavaScript
 rafelmm;Barcelona;Barcelona;1;85;0;0;JavaScript
 simium;Barcelona;Barcelona;9;85;2;2;C++
+davidllanos22;Barcelona, Spain;Barcelona;6;85;1;57;HTML
 Gerardlc;Barcelona;Barcelona;4;85;0;7;JavaScript
-jpavon;Barcelona;Barcelona;9;85;8;657;JavaScript
-dpiscia;Barcelona;Barcelona;1;84;5;11;JavaScript
-davidmasp;Barcelona;Barcelona;4;84;0;0;Python
-nicolas-fricke;Barcelona;Barcelona;15;84;14;27;Ruby
-andrewdavidmackenzie;Barcelona, Spain;Barcelona;4;84;4;17;Ruby
 nanakiksc;Barcelona (Spain);Barcelona;4;84;0;3;Python
-LluisRamon;Barcelona;Barcelona;17;84;36;16;R
+andrewdavidmackenzie;Barcelona, Spain;Barcelona;4;84;4;17;Ruby
+nicolas-fricke;Barcelona;Barcelona;15;84;14;27;Ruby
+davidmasp;Barcelona;Barcelona;4;84;0;0;Python
 nil;Barcelona, Spain;Barcelona;1;84;4;5;CSS
+dpiscia;Barcelona;Barcelona;1;84;5;11;JavaScript
 maeganburke;Barcelona, Spain;Barcelona;12;84;0;0;CSS
-marclop;Barcelona;Barcelona;9;83;1;94;Shell
-jvgutierrez;Barcelona;Barcelona;9;83;3;4;Go
-karlas;Barcelona, Spain;Barcelona;4;83;2;70;HTML
-vieron;Barcelona, Spain;Barcelona;114;83;91;1.3k;JavaScript
-acamps;Barcelona;Barcelona;9;83;1;9;HTML
-bartsanchez;Barcelona, Spain;Barcelona;3;83;1;0;Python
+LluisRamon;Barcelona;Barcelona;17;84;36;16;R
 anrodon;Barcelona;Barcelona;1;83;0;3;HTML
+jvgutierrez;Barcelona;Barcelona;9;83;3;4;Go
+marclop;Barcelona;Barcelona;9;83;1;94;Shell
+bartsanchez;Barcelona, Spain;Barcelona;3;83;1;0;Python
+acamps;Barcelona;Barcelona;9;83;1;9;HTML
+vieron;Barcelona, Spain;Barcelona;114;83;91;1.3k;JavaScript
+karlas;Barcelona, Spain;Barcelona;4;83;2;70;HTML
 spooker8;Vilnius Barcelona Kuala Lumpur;Barcelona;3;82;1;7;Objective-C
-tryadelion;Lleida, Catalonia;Catalunya;3;82;2;4;Java
 ChrisFernandez;Barcelona, San Francisco, Boston;Barcelona;7;82;47;92;Ruby
-david-garcia-garcia;Barcelona, Spain , León, México;Barcelona;0;82;12;5;PHP
-jorgeagundez;Barcelona;Barcelona;0;82;1;0;CSS
+tryadelion;Lleida, Catalonia;Catalunya;3;82;2;4;Java
 ferranpujolcamins;Barcelona;Barcelona;0;82;0;2;Batchfile
+jorgeagundez;Barcelona;Barcelona;0;82;1;0;CSS
+david-garcia-garcia;Barcelona, Spain , León, México;Barcelona;0;82;12;5;PHP
 gllortc;Tarragona (Catalonia);Catalunya;0;81;2;2;CSS
+llogaricasas;Barcelona, Spain;Barcelona;0;81;0;24;PHP
+eduardbosch;Barcelona, Spain;Barcelona;2;81;5;0;Java
 poliva;Barcelona;Barcelona;228;81;568;183;C
 lenadrolopez;Barcelona;Barcelona;4;81;0;3;
-eduardbosch;Barcelona, Spain;Barcelona;2;81;5;0;Java
-llogaricasas;Barcelona, Spain;Barcelona;0;81;0;24;PHP
 AnguloB;Barcelona;Barcelona;1;80;0;0;R
-brguez;Barcelona;Barcelona;0;80;0;4;
+eltechnic0;Barcelona;Barcelona;0;80;0;17;JavaScript
+geclos;Barcelona;Barcelona;1;80;2;4;JavaScript
 cugni;Barcelona;Barcelona;5;80;11;98;Java
 jordillonch;Barcelona;Barcelona;61;80;183;87;PHP
 mnogue;Barcelona;Barcelona;2;80;0;23;C++
-geclos;Barcelona;Barcelona;1;80;2;4;JavaScript
-eltechnic0;Barcelona;Barcelona;0;80;0;17;JavaScript
-javier-cabezas;Barcelona, Spain;Barcelona;0;79;6;8;C++
+brguez;Barcelona;Barcelona;0;80;0;4;
 drslump;Barcelona;Barcelona;58;79;499;64;JavaScript
-willblev;Barcelona, Spain;Barcelona;0;79;1;2;Python
-simorgh;Barcelona;Barcelona;13;79;0;0;C
-BBerastegui;Bilbao - Barcelona - Tokyo - Anywhere;Barcelona;8;79;1;16;Go
 orloxx;Barcelona, Spain;Barcelona;9;79;12;24;JavaScript
+BBerastegui;Bilbao - Barcelona - Tokyo - Anywhere;Barcelona;8;79;1;16;Go
+simorgh;Barcelona;Barcelona;13;79;0;0;C
+willblev;Barcelona, Spain;Barcelona;0;79;1;2;Python
+javier-cabezas;Barcelona, Spain;Barcelona;0;79;6;8;C++
 Ereza;Barcelona, Catalonia;Barcelona;48;78;5;37;Java
-JuanJoseFajardo;Sabadell (Barcelona);Barcelona;1;78;0;0;CSS
-DawnAngel;Barcelona, Spain;Barcelona;19;78;19;50;JavaScript
 graredcr;Barcelona;Barcelona;1;78;0;7;JavaScript
-jgimeno;Barcelona;Barcelona;3;77;2;3;PHP
+DawnAngel;Barcelona, Spain;Barcelona;19;78;19;50;JavaScript
+JuanJoseFajardo;Sabadell (Barcelona);Barcelona;1;78;0;0;CSS
 xlagunas;Barcelona;Barcelona;0;77;2;3;Java
 javocsoft;Barcelona;Barcelona;1;77;7;2;Java
 oriolgual;Barcelona, Spain;Barcelona;74;77;14;132;Ruby
 fdoxyz;Barcelona, Spain;Barcelona;3;77;1;15;JavaScript
 eloipoch;Barcelona;Barcelona;19;77;4;200;PHP
+jgimeno;Barcelona;Barcelona;3;77;2;3;PHP
+mlopezperez;Barcelona;Barcelona;0;76;0;0;C# and TeX
+jlopezr;Barcelona;Barcelona;13;76;4;5;JavaScript
 jiuck;Barcelona;Barcelona;0;76;0;0;CSS
 agilmor;Barcelona;Barcelona;4;76;0;1;Shell
 cris7ian;Barcelona, Spain;Barcelona;6;76;7;48;JavaScript
 rofirrim;Barcelona, Spain;Barcelona;11;76;46;2;C
-mlopezperez;Barcelona;Barcelona;0;76;0;0;C# and TeX
-jlopezr;Barcelona;Barcelona;13;76;4;5;JavaScript
-enriclluelles;Barcelona;Barcelona;55;75;259;149;Ruby
-bobwade;Barcelona;Barcelona;0;75;2;2;CSS
-xmollv;Barcelona, Spain;Barcelona;3;75;2;26;Swift
 albertcalv;Barcelona, Catalonia;Barcelona;1;75;1;3;Java
+enriclluelles;Barcelona;Barcelona;55;75;259;149;Ruby
+xmollv;Barcelona, Spain;Barcelona;3;75;2;26;Swift
+bobwade;Barcelona;Barcelona;0;75;2;2;CSS
 arojascastro;Barcelona;Barcelona;4;75;2;20;HTML
+JBCDev;Reus, Tarragona, Cataluña, España;Catalunya;1;75;3;5;Assembly
 stakewinner00;Barcelona;Barcelona;8;74;0;6;Go
 oscaralbareda;Barcelona;Barcelona;0;74;0;0;CSS
 JordiCruells;Barcelona (Spain);Barcelona;0;74;0;2;JavaScript
@@ -729,440 +730,431 @@ danilinares;Barcelona;Barcelona;0;74;5;1;R and Python
 tmdavid;Barcelona;Barcelona;2;74;0;1;Python
 renderdani;Barcelona;Barcelona;1;74;0;0;
 swapnilgt;Barcelona, Spain;Barcelona;0;74;0;0;HTML
-acperez;Barcelona;Barcelona;2;74;4;1;JavaScript
 quimcalpe;Granollers, Barcelona;Barcelona;1;74;6;39;PHP
+acperez;Barcelona;Barcelona;2;74;4;1;JavaScript
 carlesreig;barcelona;Barcelona;2;73;2;7;JavaScript and Shell
-jaimergp;Barcelona, Spain;Barcelona;1;73;0;24;Python
-mnothic;Barcelona;Barcelona;7;73;2;13;Python
-bthemad;Barcelona;Barcelona;6;73;5;6;Shell
-jessicafndez;Barcelona;Barcelona;0;73;0;0;Java
 rickyah;Barcelona;Barcelona;13;73;153;44;C#
-CorinaV;Barcelona, Spain;Barcelona;2;73;0;0;CSS
+mnothic;Barcelona;Barcelona;7;73;2;13;Python
+jessicafndez;Barcelona;Barcelona;0;73;0;0;Java
 adchsm;Barcelona;Barcelona;45;73;52;11;CSS
+CorinaV;Barcelona, Spain;Barcelona;2;73;0;0;CSS
+jaimergp;Barcelona, Spain;Barcelona;1;73;0;24;Python
+bthemad;Barcelona;Barcelona;6;73;5;6;Shell
 NicolasLetellier;Barcelona;Barcelona;0;72;0;0;CSS
+simonbcn;Barcelona (Spain);Barcelona;0;72;0;9;C
+skyme32;Barcelona;Barcelona;0;72;1;1;Java and Swift
 jgimenez;Barcelona;Barcelona;10;72;3;28;Objective-C
 inesvidal;Barcelona;Barcelona;0;72;0;0;R
-skyme32;Barcelona;Barcelona;0;72;1;1;Java and Swift
-simonbcn;Barcelona (Spain);Barcelona;0;72;0;9;C
+adv0r;Barcelona;Barcelona;17;71;46;56;Java
 xavi-a-gamedonia;Barcelona;Barcelona;0;71;0;1;C
+bentorfs;Barcelona, Spain;Barcelona;4;71;14;1;HTML
 martinezcoder;Barcelona, Spain;Barcelona;4;71;1;30;Ruby
 alexsancho;Barcelona, Spain;Barcelona;14;71;30;28;PHP
 nleite;Barcelona, Spain;Barcelona;23;71;20;13;Python
 ivannis;Barcelona;Barcelona;5;71;0;20;PHP
-adv0r;Barcelona;Barcelona;17;71;46;56;Java
-bentorfs;Barcelona, Spain;Barcelona;4;71;14;1;HTML
 bcndanos;Barcelona;Barcelona;2;70;21;17;Rust
-mllocs;Barcelona;Barcelona;25;70;27;74;JavaScript
 Warblefly;Barcelona and Brighton;Barcelona;0;70;8;1;Shell
 pablopussell;Barcelona;Barcelona;0;70;0;0;Java
 cristopher29;Barcelona;Barcelona;1;70;4;5;HTML
 mrtxema;Barcelona, Spain;Barcelona;0;70;1;0;Java
+mllocs;Barcelona;Barcelona;25;70;27;74;JavaScript
 nospotfer;Gran Via de Les Corts Catalanes, 585, 08007 Barcelona;Barcelona;3;69;0;0;HTML and Python
 alvico;Barcelona;Barcelona;2;69;1;0;Shell
 rogervila;Barcelona;Barcelona;2;69;0;4;CSS
 ferranfg;Barcelona;Barcelona;1;69;0;4;PHP
 Abuwabu;Barcelona;Barcelona;1;69;0;0;JavaScript
-JBCDev;Reus, Tarragona, Cataluña, España;Catalunya;1;69;3;5;ASP
-marcutl;Barcelona;Barcelona;0;68;0;0;
 MarcBernat;Barcelona;Barcelona;1;68;0;0;Java
 jezuhke;Barcelona;Barcelona;2;68;0;2;JavaScript
 sargue;Catalunya;Catalunya;5;68;6;31;Java
-albert-lopez;Barcelona;Barcelona;5;68;0;2;C and C++
-ramsys;Barcelona, Spain;Barcelona;0;68;4;22;CSS
-joanvallve;Barcelona;Barcelona;1;68;0;0;
-ericzon;Barcelona;Barcelona;9;68;9;100;JavaScript
-andpol5;Barcelona Spain;Barcelona;0;68;2;2;Python and Matlab
-bmoix;Barcelona;Barcelona;9;68;2;19;C++
-afiestas;Barcelona;Barcelona;6;68;4;6;Shell
+marcutl;Barcelona;Barcelona;0;68;0;0;
 mirimia;Barcelona;Barcelona;0;68;0;1;
-nellicus;Barcelona;Barcelona;10;67;1;37;Ruby
+afiestas;Barcelona;Barcelona;6;68;4;6;Shell
+bmoix;Barcelona;Barcelona;9;68;2;19;C++
+andpol5;Barcelona Spain;Barcelona;0;68;2;2;Python and Matlab
+ericzon;Barcelona;Barcelona;9;68;9;100;JavaScript
+joanvallve;Barcelona;Barcelona;1;68;0;0;
+ramsys;Barcelona, Spain;Barcelona;0;68;4;22;CSS
+albert-lopez;Barcelona;Barcelona;5;68;0;2;C and C++
 mesmerizedchild;Barcelona, Spain;Barcelona;0;67;0;0;HTML
+nellicus;Barcelona;Barcelona;10;67;1;37;Ruby
 RaulGracia;Tarragona;Tarragona;4;67;0;3;Java
+OriolAndres;Barcelona - Cork;Barcelona;0;66;0;0;Python
 ilammens;Barcelona;Barcelona;2;66;0;0;C++
 mudasobwa;Barcelona, Spain;Barcelona;7;66;64;6;Ruby
 faparicior;Barcelona, Spain;Barcelona;0;66;0;0;CSS
 aran-fern;Barcelona;Barcelona;0;66;0;2;CSS
 miquelruiz;Barcelona;Barcelona;10;66;23;16;Perl
 danigiri;Barcelona;Barcelona;27;66;37;267;Shell
-1n1;Barcelona;Barcelona;0;66;2;2;Shell
 pauca;Barcelona, Spain;Barcelona;1;66;8;17;R
+1n1;Barcelona;Barcelona;0;66;2;2;Shell
 dogmatico;Barcelona;Barcelona;0;66;0;0;JavaScript
-OriolAndres;Barcelona - Cork;Barcelona;0;66;0;0;Python
 Markcial;Barcelona;Barcelona;3;65;17;30;PHP
+victorblasco;Barcelona, Spain;Barcelona;4;65;0;41;JavaScript
 manuelbarzi;barcelona;Barcelona;1;65;0;2;HTML
 cfenollosa;Barcelona, Spain;Barcelona;51;65;692;7;JavaScript
-victorblasco;Barcelona, Spain;Barcelona;4;65;0;41;JavaScript
+josepbordesjove;Catalonia;Catalunya;1;65;0;4;Swift and Arduino
 pvaldesoiro;Barcelona;Barcelona;1;65;0;0;CSS
 mawrkus;Barcelona, Spain;Barcelona;28;64;121;15;JavaScript
-josepbordesjove;Catalonia;Catalunya;1;64;0;4;Swift and Arduino
+mezod;Barcelona, Catalonia;Barcelona;24;64;108;174;JavaScript
 xramoli;Barcelona;Barcelona;0;64;0;0;Objective-C
 mmeasic;Barcelona;Barcelona;1;64;0;0;Python
 davidpelayo;Barcelona;Barcelona;12;64;7;188;JavaScript
-Eudaldca;Barcelona, Spain;Barcelona;0;64;2;9;CSS
 elmeunick9;Girona, Catalunya;Catalunya;1;64;2;2;C++
-mezod;Barcelona, Catalonia;Barcelona;24;64;108;174;JavaScript
+Eudaldca;Barcelona, Spain;Barcelona;0;64;2;9;CSS
 BlaiMelendezCatalan;Barcelona;Barcelona;1;63;0;0;Java
-jsoucheiron;Barcelona;Barcelona;10;63;32;10;Python
 adridev;Barcelona, Spain;Barcelona;9;63;0;71;PHP
 atrandafir;Barcelona, Spain;Barcelona;4;63;0;69;CoffeeScript
-villanuevadani;Barcelona;Barcelona;1;63;0;0;HTML
 heroinsoul;Barcelona;Barcelona;3;63;0;1;C
+jsoucheiron;Barcelona;Barcelona;10;63;32;10;Python
+villanuevadani;Barcelona;Barcelona;1;63;0;0;HTML
 gopalkoduri;Barcelona;Barcelona;11;62;17;12;Python
 davizuku;Barcelona, Spain;Barcelona;0;62;0;3;HTML
 piercifani;Barcelona;Barcelona;14;62;11;154;Objective-C
 jorestma;Spain, Barcelona;Barcelona;0;62;0;0;
-henrydm;Barcelona;Barcelona;3;62;11;15;C#
-rodrigoaguilera;Barcelona;Barcelona;8;62;1;40;CSS
 miduga;Barcelona;Barcelona;8;62;0;69;JavaScript
+rodrigoaguilera;Barcelona;Barcelona;8;62;1;40;CSS
+henrydm;Barcelona;Barcelona;3;62;11;15;C#
 magarcia;Barcelona, Spain;Barcelona;17;61;34;255;JavaScript
 bpedro;Barcelona, Spain;Barcelona;111;61;98;188;JavaScript
 Solero93;Barcelona;Barcelona;2;61;1;15;Java
 valoraccoon;Barcelona;Barcelona;2;61;0;10;HTML
-mtbtiago;Menorca and Barcelona;Barcelona;10;61;0;1;JavaScript
-jorgalga;Barcelona;Barcelona;1;61;0;26;C
-aramboi;Barcelona, Spain;Barcelona;12;61;2;256;Python
 javyog;Tarragona;Tarragona;0;61;0;1;CSS
-apuratepp;Berlin ,, Barcelona;Barcelona;28;60;22;280;Ruby
-angelcj;Barcelona, Spain;Barcelona;0;60;0;1;HTML
-igormilla;Barcelona, Spain;Barcelona;10;60;2;84;JavaScript
+jorgalga;Barcelona;Barcelona;1;61;0;26;C
+mtbtiago;Menorca and Barcelona;Barcelona;10;61;0;1;JavaScript
+aramboi;Barcelona, Spain;Barcelona;12;61;2;256;Python
 JonasHaouzi;Barcelona, Spain;Barcelona;2;60;1;35;PHP
 dann41;Barcelona;Barcelona;0;60;0;1;Java and JavaScript
+igormilla;Barcelona, Spain;Barcelona;10;60;2;84;JavaScript
+angelcj;Barcelona, Spain;Barcelona;0;60;0;1;HTML
 diegobarna;Barcelona;Barcelona;0;60;0;0;CoffeeScript
+apuratepp;Berlin ,, Barcelona;Barcelona;28;60;22;280;Ruby
+alexmmocholi;Barcelona;Barcelona;1;59;0;1;Ruby
 okjake;London & Barcelona;Barcelona;8;59;6;46;C++
-manuelpastor;Barcelona (Spain);Barcelona;1;59;3;0;Python
 emilioriosvz;Barcelona;Barcelona;13;59;0;115;JavaScript
-aaguilera;Barcelona;Barcelona;8;59;0;59;Java
+Siziksu;Barcelona;Barcelona;6;59;2;0;Java
 carlos-dev;Barcelona;Barcelona;12;59;3;24;CSS
 jlopezxs;Barcelona;Barcelona;4;59;2;41;HTML
 lnolazco;Barcelona;Barcelona;2;59;2;0;JavaScript
-alexmmocholi;Barcelona;Barcelona;1;59;0;1;Ruby
+manuelpastor;Barcelona (Spain);Barcelona;1;59;3;0;Python
 towanda;Barcelona Spain;Barcelona;48;59;3;46;Ruby
 JVanDamme;Barcelona;Barcelona;0;59;1;0;C++
 l3eto;Barcelona, Spain;Barcelona;1;59;1;2;CSS
 jordiolivares;Barcelona;Barcelona;0;59;2;8;Python
-Siziksu;Barcelona;Barcelona;6;59;2;0;Java
-facundofarias;Barcelona, Catalunya;Barcelona;39;58;22;658;JavaScript
-oskrs111;Catalonia;Catalunya;0;58;0;3;C++
-amatiasq;Barcelona;Barcelona;34;58;30;93;JavaScript
+aaguilera;Barcelona;Barcelona;8;59;0;59;Java
 francescjimenez;Barcelona - Miami - Girona;Barcelona;8;58;0;39;JavaScript
-tiendan;Barcelona;Barcelona;2;58;17;19;JavaScript
+amatiasq;Barcelona;Barcelona;34;58;30;93;JavaScript
+oskrs111;Catalonia;Catalunya;0;58;0;3;C++
 shierve;Barcelona;Barcelona;0;58;0;2;Java
-ricardosncosta;Barcelona, Spain;Barcelona;1;57;0;0;Python
-joanlopez;Barcelona;Barcelona;2;57;5;0;HTML
-orimarti;Barcelona;Barcelona;3;57;0;64;Shell
+facundofarias;Barcelona, Catalunya;Barcelona;39;58;22;658;JavaScript
+tiendan;Barcelona;Barcelona;2;58;17;19;JavaScript
 demateu;Barcelona;Barcelona;0;57;2;11;CSS
 paulinagorecka;Barcelona;Barcelona;2;57;2;0;CSS
+joanlopez;Barcelona;Barcelona;2;57;5;0;HTML
+orimarti;Barcelona;Barcelona;3;57;0;64;Shell
+ricardosncosta;Barcelona, Spain;Barcelona;1;57;0;0;Python
+etrepat;Lleida, Spain;Lleida;20;56;1006;54;Ruby
 dsabalete;Barcelona;Barcelona;2;56;1;28;JavaScript
 AngelaFabregues;Barcelona;Barcelona;0;56;2;0;Java and Shell
 Elendow;Barcelona;Barcelona;1;56;0;7;C#
 chopenhauer;Barcelona;Barcelona;1;56;0;6;
-etrepat;Lleida, Spain;Lleida;20;56;1006;54;Ruby
-PixelNoc;Barcelona, Catalonia, Spain;Barcelona;0;55;0;0;
-thomedes;Barcelona, Spain;Barcelona;0;55;2;2;C
-raelga;Barcelona;Barcelona;3;55;5;15;JavaScript
-albertgasset;Barcelona;Barcelona;0;55;10;0;PHP
 jhbabon;Barcelona, Spain;Barcelona;27;55;22;150;Ruby
-kbsali;Barcelona, Spain;Barcelona;42;55;295;113;PHP
-ajimix;Barcelona;Barcelona;29;55;275;83;JavaScript
-teclliure;Premia de Mar, Barcelona;Barcelona;5;55;13;7;JavaScript
-Ale-;Barcelona;Barcelona;8;55;3;9;CSS
 ewiggin;Girona;Gerona;7;55;2;17;ApacheConf
+ajimix;Barcelona;Barcelona;29;55;275;83;JavaScript
 ekapic;Barcelona, Spain;Barcelona;2;55;0;0;C#
-gsamuel85;Barcelona;Barcelona;0;54;0;3;JavaScript
-santi-gonzalez;Barcelona, Spain;Barcelona;5;54;6;27;Java
+teclliure;Premia de Mar, Barcelona;Barcelona;5;55;13;7;JavaScript
+raelga;Barcelona;Barcelona;3;55;5;15;JavaScript
+thomedes;Barcelona, Spain;Barcelona;0;55;2;2;C
+PixelNoc;Barcelona, Catalonia, Spain;Barcelona;0;55;0;0;
+kbsali;Barcelona, Spain;Barcelona;42;55;295;113;PHP
+albertgasset;Barcelona;Barcelona;0;55;10;0;PHP
+Ale-;Barcelona;Barcelona;8;55;3;9;CSS
+DaviddeMiguel;Barcelona;Barcelona;1;54;3;6;Java
 jovid78;Barcelona, Spain;Barcelona;14;54;0;1;HTML
 BadChoice;Manresa (Barcelona, Spain);Barcelona;6;54;6;35;Objective-C
 kevprice83;Barcelona;Barcelona;16;54;1;0;JavaScript
+santi-gonzalez;Barcelona, Spain;Barcelona;5;54;6;27;Java
 ricardpanades;Catalunya;Catalunya;2;54;1;53;CSS and HTML
-DaviddeMiguel;Barcelona;Barcelona;1;54;3;6;Java
-jluis;Barcelona;Barcelona;5;53;3;15;Perl
+gsamuel85;Barcelona;Barcelona;0;54;0;3;JavaScript
+agseco;Barcelona, Spain;Barcelona;4;53;0;84;CSS
+marqmarti;Barcelona;Barcelona;1;53;1;1;CSS
+scalabilitysolved;Barcelona;Barcelona;12;53;4;220;Ruby
+danimus;Barcelona;Barcelona;2;53;0;0;CSS
+dasher;Barcelona;Barcelona;27;53;40;47;JavaScript
+rcnavarro;Barcelona;Barcelona;3;53;0;37;
 jcxk;Barcelona;Barcelona;6;53;0;19;PHP
 albertvp;Barcelona, Catalunya;Barcelona;10;53;2;120;JavaScript
+jluis;Barcelona;Barcelona;5;53;3;15;Perl
 svalver;Barcelona;Barcelona;1;53;0;1;CSS
-scalabilitysolved;Barcelona;Barcelona;12;53;4;220;Ruby
-agseco;Barcelona, Spain;Barcelona;4;53;0;84;CSS
-rcnavarro;Barcelona;Barcelona;3;53;0;37;
-dasher;Barcelona;Barcelona;27;53;40;47;JavaScript
-danimus;Barcelona;Barcelona;2;53;0;0;CSS
-marqmarti;Barcelona;Barcelona;1;53;1;1;CSS
 undeadpixel;Barcelona;Barcelona;9;53;2;6;Ruby
 Dirbaio;Barcelona, Spain;Barcelona;60;52;35;38;C++
+rcsole;Barcelona;Barcelona;60;52;33;740;JavaScript
+mpguerra;Barcelona, Spain;Barcelona;6;52;6;22;JavaScript
+LegaultOs;Barcelona;Barcelona;0;52;3;4;Java
+albertomontesg;Barcelona;Barcelona;6;52;2;62;Python
+VictorTellez;Barcelona;Barcelona;0;52;5;3;Java
 lussn;Barcelona;Barcelona;9;52;0;10;JavaScript
 albertoft;Barcelona;Barcelona;2;52;0;0;
-VictorTellez;Barcelona;Barcelona;0;52;5;3;Java
-albertomontesg;Barcelona;Barcelona;6;52;2;62;Python
-LegaultOs;Barcelona;Barcelona;0;52;3;4;Java
-mpguerra;Barcelona, Spain;Barcelona;6;52;6;22;JavaScript
-rcsole;Barcelona;Barcelona;60;52;33;740;JavaScript
 antonio-openroad;Barcelona;Barcelona;0;52;0;4;
-arnauorriols;Barcelona;Barcelona;7;51;4;63;Python
 alch;Barcelona;Barcelona;23;51;0;70;PHP
 jgonzalezdr;Barcelona;Barcelona;0;51;0;9;Ruby
 jesusfcr;Barcelona, Catalonia;Barcelona;2;51;0;5;Shell
+arnauorriols;Barcelona;Barcelona;7;51;4;63;Python
 ArnauAregall;Barcelona, Catalunya, Spain;Barcelona;18;51;1;66;JavaScript
 mabodo;Barcelona;Barcelona;2;51;1;6;Shell
-polstein;Barcelona;Barcelona;6;50;2;3;Python
-alexvijo;barcelona;Barcelona;0;50;0;0;CSS
-pokoli;Sarroca de Lleida;Lleida;11;50;13;10;Python
 AlexJF;Barcelona, Spain;Barcelona;13;50;21;13;Python
 seifreed;Barcelona;Barcelona;40;50;35;3;Shell
-ledfusion;Barcelona;Barcelona;5;50;3;31;CSS
-mcamara;Barcelona;Barcelona;30;50;839;29;PHP
+alexvijo;barcelona;Barcelona;0;50;0;0;CSS
 acasquete;Barcelona;Barcelona;10;50;2;17;JavaScript
+pokoli;Sarroca de Lleida;Lleida;11;50;13;10;Python
+ledfusion;Barcelona;Barcelona;5;50;3;31;CSS
+polstein;Barcelona;Barcelona;6;50;2;3;Python
 totesalaz;Barcelona - Spain;Barcelona;0;50;0;1;CSS
-jtorrents;Barcelona (Catalonia);Barcelona;8;49;2;42;CSS
-fernandomora;Barcelona;Barcelona;3;49;1;73;Scala
-roden0;Barcelona;Barcelona;2;49;0;21;JavaScript
-vladyslav2;Spain, Barcelona;Barcelona;0;49;1;18;Python
+mcamara;Barcelona;Barcelona;30;50;839;29;PHP
+humbertcostas;Barcelona;Barcelona;8;49;2;50;Python
+antoniofelices;Barcelona;Barcelona;1;49;0;2;CSS
+oriolpuig;Barcelona, Spain;Barcelona;5;49;0;23;JavaScript
+apuigsech;Barcelona, Spain;Barcelona;21;49;28;8;Python
+Knowledge91;Barcelona;Barcelona;0;49;0;3;CSS
+drpicox;Barcelona;Barcelona;17;49;24;6;JavaScript
+matiascaniete;Barcelona;Barcelona;0;49;2;2;PHP
+dhuertas;Barcelona;Barcelona;14;49;65;37;JavaScript
 aaronplanell;Barcelona;Barcelona;0;49;1;0;JavaScript
-andresbravog;Barcelona;Barcelona;15;49;115;125;Ruby
 xverges;Barcelona;Barcelona;0;49;33;32;JavaScript
 gyopiazza;Barcelona;Barcelona;1;49;2;31;JavaScript
 natxet;Barcelona, Spain;Barcelona;27;49;57;66;PHP
-dhuertas;Barcelona;Barcelona;14;49;65;37;JavaScript
-matiascaniete;Barcelona;Barcelona;0;49;2;2;PHP
-drpicox;Barcelona;Barcelona;17;49;24;6;JavaScript
-Knowledge91;Barcelona;Barcelona;0;49;0;3;CSS
-apuigsech;Barcelona, Spain;Barcelona;21;49;28;8;Python
-oriolpuig;Barcelona, Spain;Barcelona;5;49;0;23;JavaScript
-antoniofelices;Barcelona;Barcelona;1;49;0;2;CSS
-humbertcostas;Barcelona;Barcelona;8;49;2;50;Python
+vladyslav2;Spain, Barcelona;Barcelona;0;49;1;18;Python
+roden0;Barcelona;Barcelona;2;49;0;21;JavaScript
+andresbravog;Barcelona;Barcelona;15;49;115;125;Ruby
+fernandomora;Barcelona;Barcelona;3;49;1;73;Scala
+jtorrents;Barcelona (Catalonia);Barcelona;8;49;2;42;CSS
 cmmata;Tarragona;Tarragona;9;49;0;281;CSS
-wakumaku;Barcelona;Barcelona;13;48;2;29;PHP
-ronanociosoig;Barcelona, Spain.;Barcelona;2;48;5;18;Objective-C
-elementh;Barcelona, Spain;Barcelona;1;48;0;9;JavaScript
-milostu;Barcelona;Barcelona;2;48;0;1;CSS and HTML
-acasademont;Barcelona;Barcelona;25;48;11;25;PHP
-GerardSoleCa;Barcelona;Barcelona;21;48;30;79;JavaScript
 alsolanes;Catalonia;Catalunya;3;48;0;0;JavaScript
+GerardSoleCa;Barcelona;Barcelona;21;48;30;79;JavaScript
+acasademont;Barcelona;Barcelona;25;48;11;25;PHP
+milostu;Barcelona;Barcelona;2;48;0;1;CSS and HTML
+wakumaku;Barcelona;Barcelona;13;48;2;29;PHP
+elementh;Barcelona, Spain;Barcelona;1;48;0;9;JavaScript
 pervouchine;Barcelona, Spain;Barcelona;1;48;14;1;Perl
-huggenberg;Barcelona;Barcelona;0;47;0;6;C++ and Makefile
-BcnJS;Barcelona;Barcelona;0;47;0;0;
-xavi;Barcelona;Barcelona;23;47;353;105;Clojure
-enricruiz;Barcelona;Barcelona;11;47;7;144;Java
-JRodrigoTech;Barcelona (Spain);Barcelona;13;47;87;55;Arduino
-wandarkaf;barcelona, spain;Barcelona;7;47;2;29;JavaScript
-ruben-martin-lozano;Barcelona;Barcelona;2;47;1;0;CSS
+ronanociosoig;Barcelona, Spain.;Barcelona;2;48;5;18;Objective-C
 GMadorell;Catalonia;Catalunya;3;47;7;91;Python
 suxxus;barcelona;Barcelona;0;47;0;8;JavaScript
+ruben-martin-lozano;Barcelona;Barcelona;2;47;1;0;CSS
+BcnJS;Barcelona;Barcelona;0;47;0;0;
+JRodrigoTech;Barcelona (Spain);Barcelona;13;47;87;55;Arduino
+enricruiz;Barcelona;Barcelona;11;47;7;144;Java
+xavi;Barcelona;Barcelona;23;47;353;105;Clojure
 ShakMR;Barcelona;Barcelona;1;47;0;0;Java
+huggenberg;Barcelona;Barcelona;0;47;0;6;C++ and Makefile
+wandarkaf;barcelona, spain;Barcelona;7;47;2;29;JavaScript
 pablosoria;Barcelona;Barcelona;1;46;0;0;C++
-Softsapiens;Barcelona;Barcelona;4;46;4;596;JavaScript
+skolodyazhnyy;Barcelona, Spain;Barcelona;11;46;37;56;PHP
 laurent-RP;Barcelona;Barcelona;2;46;0;1;PHP and Shell
 wuaalb;Barcelona;Barcelona;2;46;20;1;Python
 amarti1986;Barcelona;Barcelona;1;46;0;0;HTML
 velascoraptor;Barcelona;Barcelona;0;46;0;0;
-jordeu;Barcelona;Barcelona;5;46;2;30;Java
 ctbrownlees;Barcelona, Spain;Barcelona;11;46;3;4;R
-skolodyazhnyy;Barcelona, Spain;Barcelona;11;46;37;56;PHP
-pfreixes;Barcelona;Barcelona;12;45;7;30;Python
+jordeu;Barcelona;Barcelona;5;46;2;30;Java
+Softsapiens;Barcelona;Barcelona;4;46;4;596;JavaScript
+miqmago;Barcelona;Barcelona;1;45;0;11;JavaScript
+petrklus;Barcelona, Spain;Barcelona;5;45;15;10;Python
 rcruzper;Barcelona;Barcelona;1;45;0;3;Java
 VashMKS;Barcelona;Barcelona;1;45;0;0;
 joanmarcriera;Barcelona;Barcelona;0;45;0;44;Shell
 codetplace;Barcelona, Spain;Barcelona;0;45;0;17;HTML
 davidlampon;Barcelona;Barcelona;6;45;1;15;HTML
 TimKreienkamp;Barcelona;Barcelona;4;45;0;0;Python
-miqmago;Barcelona;Barcelona;1;45;0;11;JavaScript
-petrklus;Barcelona, Spain;Barcelona;5;45;15;10;Python
-EsteveAguilera;Catalunya;Catalunya;9;45;1;63;Java
-albertsegura;Catalunya;Catalunya;1;45;6;8;C
-edutec;Cornellà (Barcelona);Barcelona;13;45;49;0;HTML
 hinojosachapel;Barcelona;Barcelona;0;45;2;1;C# and HTML
-tonibagur;Barcelona, Spain;Barcelona;1;45;5;3;JavaScript
+pfreixes;Barcelona;Barcelona;12;45;7;30;Python
 alicenara;Barcelona;Barcelona;2;45;1;0;Java
 hrysct;Barcelona;Barcelona;1;45;0;2;CSS
 ferran-brianso;Barcelona (Catalonia);Barcelona;2;45;0;1;R
 artjimlop;Barcelona, Spain;Barcelona;6;45;4;10;Java
-kitusmark;Barcelona;Barcelona;10;44;1;61;Arduino
-Ignasimg;Catalonia;Catalunya;1;44;2;11;PHP
+edutec;Cornellà (Barcelona);Barcelona;13;45;49;0;HTML
+tonibagur;Barcelona, Spain;Barcelona;1;45;5;3;JavaScript
+EsteveAguilera;Catalunya;Catalunya;9;45;1;63;Java
+albertsegura;Catalunya;Catalunya;1;45;6;8;C
 jrltt;Barcelona;Barcelona;1;44;0;36;JavaScript
 cimentadaj;Barcelona, Spain;Barcelona;1;44;1;0;R and Rebol
 cnotred;Barcelona;Barcelona;3;44;0;2;
-ececilla;Barcelona;Barcelona;2;44;5;7;Java
+kitusmark;Barcelona;Barcelona;10;44;1;61;Arduino
 ajaysmurthy;Barcelona;Barcelona;2;44;0;0;C
 ecomuere;Barcelona;Barcelona;3;44;0;65;JavaScript
 germanrcuriel;Barcelona;Barcelona;20;44;129;79;CoffeeScript and JavaScript
 elecay;Barcelona;Barcelona;17;44;49;13;JavaScript
 victorBaro;Barcelona;Barcelona;292;44;989;362;Objective-C
-DavidPerezIngeniero;Barcelona;Barcelona;0;43;2;107;CSS
-sarrufat;Barcelona, Spain;Barcelona;4;43;1;4;Scala
-ticdenis;Barcelona, Spain;Barcelona;1;43;1;1;Java and Swift
+ececilla;Barcelona;Barcelona;2;44;5;7;Java
+Ignasimg;Catalonia;Catalunya;1;44;2;11;PHP
+dominguezcelada;Barcelona;Barcelona;1;43;0;2;Java
 arnaumonty;Barcelona;Barcelona;1;43;0;0;
-essenciary;Sitges, Barcelona, Spain;Barcelona;2;43;6;217;Elixir
 kopinits;Barcelona;Barcelona;0;43;0;0;Java
 LaQuay;Barcelona;Barcelona;1;43;0;2;Assembly
 phelgo;Barcelona, Spain;Barcelona;9;43;9;26;Swift
-SimMeters;Barcelona, Catalonia, Spain;Barcelona;0;43;0;0;C and Lua
-lluismf;Barcelona;Barcelona;4;43;0;0;HTML
 Madveras;Barcelona;Barcelona;0;43;0;0;ApacheConf
+essenciary;Sitges, Barcelona, Spain;Barcelona;2;43;6;217;Elixir
 acamara;Barcelona, Spain;Barcelona;1;43;2;3;C++
-dominguezcelada;Barcelona;Barcelona;1;43;0;2;Java
-alexdesousa;Barcelona, Spain;Barcelona;5;42;0;14;Erlang
-admin-rgbconsulting;C/ Arquitecte Morera i Gatell, 2 Lleida 25196;Lleida;0;42;0;0;
+ticdenis;Barcelona, Spain;Barcelona;1;43;1;1;Java and Swift
+sarrufat;Barcelona, Spain;Barcelona;4;43;1;4;Scala
+DavidPerezIngeniero;Barcelona;Barcelona;0;43;2;107;CSS
+lluismf;Barcelona;Barcelona;4;43;0;0;HTML
+SimMeters;Barcelona, Catalonia, Spain;Barcelona;0;43;0;0;C and Lua
 dani-Tb;Barcelona;Barcelona;1;42;0;5;JavaScript
-martinpilch;Barcelona, ES;Barcelona;2;42;15;47;Objective-C
-jguillaumes;Barcelona - Catalonia;Barcelona;0;42;8;5;C
-eduardomhg;Barcelona, Spain;Barcelona;0;42;0;0;C#
 larribas;Barcelona;Barcelona;2;42;0;5;Shell
-sleistner;Barcelona, Spain;Barcelona;25;42;60;135;JavaScript
-kevinsala;Manresa, Barcelona (Spain);Barcelona;3;42;0;0;Java
-alexgt9;Barcelona;Barcelona;16;42;2;271;PHP
+admin-rgbconsulting;C/ Arquitecte Morera i Gatell, 2 Lleida 25196;Lleida;0;42;0;0;
 dracinternet;Barcelona;Barcelona;6;42;1;6;Swift
-CesarBiker;Catalonia;Catalunya;3;41;0;3;Java and HTML
-joseconti;Barcelona;Barcelona;5;41;14;1;PHP
-mpifa;Lleida;Lleida;1;41;0;0;Java and Python
-artefactop;Barcelona;Barcelona;33;41;59;169;Erlang
-xmarston;Barcelona;Barcelona;4;41;2;0;Java
+alexgt9;Barcelona;Barcelona;16;42;2;271;PHP
+CesarBiker;Catalonia;Catalunya;3;42;0;3;Java and HTML
+kevinsala;Manresa, Barcelona (Spain);Barcelona;3;42;0;0;Java
+sleistner;Barcelona, Spain;Barcelona;25;42;60;135;JavaScript
+alexdesousa;Barcelona, Spain;Barcelona;5;42;0;14;Erlang
+jguillaumes;Barcelona - Catalonia;Barcelona;0;42;8;5;C
+martinpilch;Barcelona, ES;Barcelona;2;42;15;47;Objective-C
+eduardomhg;Barcelona, Spain;Barcelona;0;42;0;0;C#
 ixdi;Barcelona;Barcelona;13;41;4;6;JavaScript
 danielurdas;Barcelona;Barcelona;1;41;0;1;ASP
+joseconti;Barcelona;Barcelona;5;41;14;1;PHP
 yaneq;Barcelona;Barcelona;12;41;9;38;JavaScript
-albertvilacalvo;Barcelona;Barcelona;0;40;0;42;JavaScript
-mpaulucci;Barcelona, Spain;Barcelona;20;40;0;188;JavaScript
+artefactop;Barcelona;Barcelona;33;41;59;169;Erlang
+mpifa;Lleida;Lleida;1;41;0;0;Java and Python
+xmarston;Barcelona;Barcelona;4;41;2;0;Java
 lurbas;Barcelona, Spain;Barcelona;15;40;165;90;Java
 Naguissa;Barcelona, Spain;Barcelona;0;40;8;12;Arduino
 ginsen;Vilanova i la Geltrú, Barcelona;Barcelona;9;40;1;8;PHP
 davebcn87;Barcelona;Barcelona;12;40;13;62;Ruby
-davidmles;Barcelona;Barcelona;6;40;10;0;CSS
+aeriepower;Barcelona;Barcelona;0;40;0;0;CSS
+padrisimo;Barcelona;Barcelona;1;40;0;12;CSS
+Juanvvc;Barcelona;Barcelona;3;40;37;5;Python
+albertvilacalvo;Barcelona;Barcelona;0;40;0;42;JavaScript
 gcastella;Lleida;Lleida;0;40;0;0;R
+danidmv;Barcelona;Barcelona;0;40;0;0;JavaScript and CSS
+androiz;Barcelona (Spain);Barcelona;2;40;0;3;Python
+mpaulucci;Barcelona, Spain;Barcelona;20;40;0;188;JavaScript
+davidmles;Barcelona;Barcelona;6;40;10;0;CSS
 xbelanch;Barcelona;Barcelona;10;40;19;125;Haxe
 claretcrab;Barcelona;Barcelona;5;40;0;25;PHP
-androiz;Barcelona (Spain);Barcelona;2;40;0;3;Python
-danidmv;Barcelona;Barcelona;0;40;0;0;JavaScript and CSS
-Juanvvc;Barcelona;Barcelona;3;40;37;5;Python
-padrisimo;Barcelona;Barcelona;1;40;0;12;CSS
-aeriepower;Barcelona;Barcelona;0;40;0;0;CSS
-beltrachi;Barcelona;Barcelona;22;39;24;51;Ruby
-Hotaruyami;Barcelona;Barcelona;0;39;1;1;C#
+protozoo;Barcelona, Spain;Barcelona;3;39;15;16;JavaScript
+hanbzu;Barcelona;Barcelona;3;39;4;31;JavaScript
 rocreguant;Munich - Barcelona;Barcelona;1;39;0;7;CSS
 hcarreras;Barcelona;Barcelona;11;39;5;10;JavaScript
 hbarriuso;Barcelona;Barcelona;0;39;1;1;CSS
-protozoo;Barcelona, Spain;Barcelona;3;39;15;16;JavaScript
 jordi-petit;Barcelona;Barcelona;4;39;0;3;CoffeeScript
+beltrachi;Barcelona;Barcelona;22;39;24;51;Ruby
 garciademarina;Barcelona, Spain;Barcelona;23;39;5;93;PHP
 xpadro;Barcelona;Barcelona;57;39;116;0;Java
 DCueto;Barcelona;Barcelona;5;39;0;4;CSS
-hanbzu;Barcelona;Barcelona;3;39;4;31;JavaScript
-irenedo;Barcelona;Barcelona;2;38;1;0;Python
-wuyingren;Catalunya;Catalunya;2;38;4;11;Java
-spink10;Barcelona, Spain;Barcelona;2;38;0;1;CSS
-jrey1977;Barcelona;Barcelona;0;38;0;0;JavaScript
-evili;Catalonia;Catalunya;1;38;1;0;Python
+Hotaruyami;Barcelona;Barcelona;0;39;1;1;C#
+davamix;Barcelona;Barcelona;2;38;5;6;C#
 tiurin;Barcelona, Spain;Barcelona;2;38;0;143;CSS
-erik-landvall;Barcelona, Spain;Barcelona;11;38;38;30;JavaScript
-santialbo;Barcelona;Barcelona;46;38;60;43;JavaScript
-badshark;New York , Barcelona;Barcelona;6;38;8;16;Ruby
-AIAitesla;EDIFICI ESADECREAPOLIS Av. de la Torre Blanca, 57 Planta 2ª Bloc C Porta 11 E-08172 Sant Cugat, Barcelona, Spain;Barcelona;0;38;0;0;Modelica
-ghbio;Barcelona;Barcelona;1;38;0;5;
-Sergiojimenez;Barcelona;Barcelona;1;38;0;2;JavaScript
+spink10;Barcelona, Spain;Barcelona;2;38;0;1;CSS
+evili;Catalonia;Catalunya;1;38;1;0;Python
+wuyingren;Catalunya;Catalunya;2;38;4;11;Java
+jrey1977;Barcelona;Barcelona;0;38;0;0;JavaScript
+irenedo;Barcelona;Barcelona;2;38;1;0;Python
+pachico;Barcelona;Barcelona;1;38;15;7;PHP and JavaScript
 cbmarc;Barcelona;Barcelona;3;38;2;3;Java
 alamillac;Barcelona;Barcelona;2;38;0;0;Python
-pachico;Barcelona;Barcelona;1;38;15;7;PHP and JavaScript
-davamix;Barcelona;Barcelona;2;38;5;6;C#
-jguille2;Barcelona;Barcelona;2;37;0;5;JavaScript
-Hyunk3l;Barcelona;Barcelona;0;37;3;49;PHP
-nahuelstatuto;Barcelona;Barcelona;2;37;1;0;CSS
-alfonsovng;Barcelona;Barcelona;2;37;8;2;Scala
-fdenia;Barcelona;Barcelona;0;37;2;3;CSS
-marc-mbc;Barcelona, Spain;Barcelona;1;37;0;0;JavaScript
-sergiandreplace;Barcelona;Barcelona;38;37;19;98;Java
-Jergar92;Terrassa - Barcelona - Spain;Barcelona;4;37;0;0;C and C++
-ribugent;Girona, Catalonia;Catalunya;2;37;1;34;Perl
-ganlub;Catalunya;Catalunya;12;37;3;436;CSS
-jcabot;Barcelona;Barcelona;6;37;6;13;PHP
+Sergiojimenez;Barcelona;Barcelona;1;38;0;2;JavaScript
+ghbio;Barcelona;Barcelona;1;38;0;5;
+AIAitesla;EDIFICI ESADECREAPOLIS Av. de la Torre Blanca, 57 Planta 2ª Bloc C Porta 11 E-08172 Sant Cugat, Barcelona, Spain;Barcelona;0;38;0;0;Modelica
+badshark;New York , Barcelona;Barcelona;6;38;8;16;Ruby
+santialbo;Barcelona;Barcelona;46;38;60;43;JavaScript
+erik-landvall;Barcelona, Spain;Barcelona;11;38;38;30;JavaScript
 odin-delrio;Barcelona;Barcelona;6;37;1;10;Java
+jcabot;Barcelona;Barcelona;6;37;6;13;PHP
+Jergar92;Terrassa - Barcelona - Spain;Barcelona;4;37;0;0;C and C++
+sergiandreplace;Barcelona;Barcelona;38;37;19;98;Java
+marc-mbc;Barcelona, Spain;Barcelona;1;37;0;0;JavaScript
+fdenia;Barcelona;Barcelona;0;37;2;3;CSS
+alfonsovng;Barcelona;Barcelona;2;37;8;2;Scala
+ganlub;Catalunya;Catalunya;12;37;3;436;CSS
+ribugent;Girona, Catalonia;Catalunya;2;37;1;34;Perl
+nahuelstatuto;Barcelona;Barcelona;2;37;1;0;CSS
+Hyunk3l;Barcelona;Barcelona;0;37;3;49;PHP
+jguille2;Barcelona;Barcelona;2;37;0;5;JavaScript
 davidfebca;Barcelona;Barcelona;1;37;0;0;Ruby and JavaScript
-Jbelmonte;Barcelona, Spain;Barcelona;4;36;0;18;JavaScript
-Rydra;Barcelona;Barcelona;4;36;3;1;C# and F#
+orekamenpe;Between Arrasate (Basque Country) and Barcelona;Barcelona;2;36;1;0;Python
 manlius;Tarragona (Catalunya, Spain);Catalunya;14;36;61;6;R
-abel-navarro;Barcelona;Barcelona;2;36;0;5;Shell
-nosolopau;Barcelona;Barcelona;9;36;11;79;Ruby
-warrendeleon;Barcelona;Barcelona;5;36;0;1;Java and Groovy
 cabans;Barcelona, Spain;Barcelona;5;36;0;55;
-miquelmarti;Stockholm, Sweden / Barcelona, Spain;Barcelona;0;36;0;0;Matlab and TeX
-davilera;Barcelona;Barcelona;1;36;1;0;PHP
+Jbelmonte;Barcelona, Spain;Barcelona;4;36;0;18;JavaScript
 lukasappelhans;Barcelona;Barcelona;14;36;3;24;JavaScript
 mrjusti;Barcelona, España;Barcelona;2;36;0;7;PHP
 ebisbe;Barcelona;Barcelona;1;36;1;18;PHP
+Rydra;Barcelona;Barcelona;4;36;3;1;C# and F#
+rmondejar;Tarragona, Spain;Tarragona;7;36;18;10;Groovy
+miquelmarti;Stockholm, Sweden / Barcelona, Spain;Barcelona;0;36;0;0;Matlab and TeX
+warrendeleon;Barcelona;Barcelona;5;36;0;1;Java and Groovy
+nosolopau;Barcelona;Barcelona;9;36;11;79;Ruby
+abel-navarro;Barcelona;Barcelona;2;36;0;5;Shell
+davilera;Barcelona;Barcelona;1;36;1;0;PHP
 tatuguerra;Barcelona;Barcelona;1;36;0;23;CSS
 p3drosola;Barcelona, Spain;Barcelona;39;36;218;96;JavaScript
-rmondejar;Tarragona, Spain;Tarragona;7;36;18;10;Groovy
-orekamenpe;Between Arrasate (Basque Country) and Barcelona;Barcelona;2;36;1;0;Python
-ewokcillo;Barcelona;Barcelona;16;35;8;72;Python
-DVilellar;Mataró (Barcelona);Barcelona;3;35;0;0;CSS
-x1m3;Barcelona;Barcelona;0;35;0;0;PHP
-mserrate;Barcelona;Barcelona;4;35;7;6;C#
-xpujol;Barcelona;Barcelona;4;35;1;3;JavaScript
-Mmorenogomez;Olesa de Montserrat (Barcelona);Barcelona;0;35;0;0;Java
-iZydro;Santa Coloma, Barcelona, Spain;Barcelona;0;35;1;0;Python
-pesoto;Barcelona, Spain;Barcelona;5;35;1;0;HTML
-enriquemgc;Barcelona, Spain;Barcelona;9;35;0;284;JavaScript
+DavidBernal;Barcelona;Barcelona;5;35;5;35;JavaScript
 jcapelladesto;Tarragona (SPAIN);Tarragona;0;35;0;0;R
 fontinixxl;Tarragona;Tarragona;1;35;1;1;PHP
-TwisterMW;Terrassa, Barcelona, Spain;Barcelona;1;35;7;5;HTML
-DavidBernal;Barcelona;Barcelona;5;35;5;35;JavaScript
-rliuzzi;Barcelona, Spain;Barcelona;7;35;2;12;Java
-abozadev;Barcelona;Barcelona;1;35;0;0;Java
+enriquemgc;Barcelona, Spain;Barcelona;9;35;0;284;JavaScript
+pesoto;Barcelona, Spain;Barcelona;5;35;1;0;HTML
+iZydro;Santa Coloma, Barcelona, Spain;Barcelona;0;35;1;0;Python
+Mmorenogomez;Olesa de Montserrat (Barcelona);Barcelona;0;35;0;0;Java
 calinrada;Barcelona;Barcelona;22;35;303;84;PHP
-tonicebrian;Barcelona;Barcelona;21;35;27;35;Haskell
-joanllenas;Barcelona;Barcelona;6;35;0;239;HTML and JavaScript
-roabhi;Barcelona;Barcelona;0;35;0;0;JavaScript and CSS
-paufabregat;Barcelona;Barcelona;4;35;0;18;JavaScript
-KTMarc;Barcelona;Barcelona;1;35;0;7;Objective-C
-planadecu;Barcelona;Barcelona;0;35;4;3;CSS
-chuckleplant;Barcelona;Barcelona;1;35;5;24;C
+mserrate;Barcelona;Barcelona;4;35;7;6;C#
+x1m3;Barcelona;Barcelona;0;35;0;0;PHP
+DVilellar;Mataró (Barcelona);Barcelona;3;35;0;0;CSS
+ewokcillo;Barcelona;Barcelona;16;35;8;72;Python
 Albertpv95;Barcelona;Barcelona;0;35;0;0;C and Java
-damienfa;Barcelona, Spain;Barcelona;0;34;0;8;JavaScript
-osoylemez;Barcelona, Spain;Barcelona;4;34;0;55;Perl
+chuckleplant;Barcelona;Barcelona;1;35;5;24;C
+planadecu;Barcelona;Barcelona;0;35;4;3;CSS
+KTMarc;Barcelona;Barcelona;1;35;0;7;Objective-C
+paufabregat;Barcelona;Barcelona;4;35;0;18;JavaScript
+roabhi;Barcelona;Barcelona;0;35;0;0;JavaScript and CSS
+joanllenas;Barcelona;Barcelona;6;35;0;239;HTML and JavaScript
+tonicebrian;Barcelona;Barcelona;21;35;27;35;Haskell
+abozadev;Barcelona;Barcelona;1;35;0;0;Java
+xpujol;Barcelona;Barcelona;4;35;1;3;JavaScript
+TwisterMW;Terrassa, Barcelona, Spain;Barcelona;1;35;7;5;HTML
+rliuzzi;Barcelona, Spain;Barcelona;7;35;2;12;Java
+ilpaijin;Barcelona, Spain;Barcelona;2;34;3;27;PHP
 joansalasoler;Catalonia, Spain;Catalunya;0;34;3;3;Java
 dbalas;Barcelona;Barcelona;7;34;6;19;CSS and Handlebars
+Herokid;Barcelona;Barcelona;8;34;1;13;CoffeeScript
+Ryozuki;Barcelona;Barcelona;1;34;0;3;Python
+GabrielReusRodriguez;Barcelona;Barcelona;3;34;0;75;Java
+manromao;Barcelona, Spain;Barcelona;0;34;1;0;C++
+damienfa;Barcelona, Spain;Barcelona;0;34;0;8;JavaScript
+osoylemez;Barcelona, Spain;Barcelona;4;34;0;55;Perl
+kiliancs;Terrassa, Catalonia;Catalunya;4;34;1;16;JavaScript
 ralcala;Girona, Spain;Gerona;0;34;0;0;R
 dvd70;Tarragona;Tarragona;0;34;0;0;CoffeeScript
-kiliancs;Terrassa, Catalonia;Catalunya;4;34;1;16;JavaScript
-ilpaijin;Barcelona, Spain;Barcelona;2;34;3;27;PHP
-GabrielReusRodriguez;Barcelona;Barcelona;3;34;0;75;Java
-Ryozuki;Barcelona;Barcelona;1;34;0;3;Python
-Herokid;Barcelona;Barcelona;8;34;1;13;CoffeeScript
-manromao;Barcelona, Spain;Barcelona;0;34;1;0;C++
+llambeau;Barcelona, ES;Barcelona;15;33;81;35;JavaScript
+dacafo;Barcelona;Barcelona;0;33;0;1;
 xDavidLeon;Barcelona;Barcelona;3;33;0;12;C#
 juanbacardit;Barcelona - Catalonia;Barcelona;3;33;0;1;JavaScript
-masipcat;Catalonia;Catalunya;11;33;2;19;Python
+joseprupi;Vallfogona de Balaguer;Lleida;1;33;0;8;Java
 joancardonasa;Barcelona;Barcelona;1;33;1;1;R
 danielcestrella;Barcelona;Barcelona;0;33;0;5;Java
-llambeau;Barcelona, ES;Barcelona;15;33;81;35;JavaScript
+PedroEscudero;Barcelona;Barcelona;1;33;1;3;CSS
 iagotomas;Barcelona;Barcelona;0;33;2;3;HTML
-joseprupi;Vallfogona de Balaguer;Lleida;1;33;0;8;Java
 ArturSoler;Barcelona, Spain;Barcelona;4;33;3;52;Scala
+masipcat;Catalonia;Catalunya;11;33;2;19;Python
 jpahullo;Tarragona;Tarragona;14;33;4;793;PHP
 JosepSampe;Tarragona;Tarragona;0;33;0;0;
-dacafo;Barcelona;Barcelona;0;33;0;1;
-PedroEscudero;Barcelona;Barcelona;1;33;1;3;CSS
-vichid;Barcelona / Hamburg / London;Barcelona;9;32;29;276;CSS
-iroyo;Barcelona;Barcelona;1;32;3;10;Java
+cartorjo;Barcelona / Berlin;Barcelona;8;32;0;87;CSS
+xaviarias;Barcelona, Catalonia, Spain;Barcelona;5;32;0;179;Java
 luisnomad;Barcelona, Spain;Barcelona;5;32;10;241;JavaScript
 blaiprat;London & Barcelona;Barcelona;14;32;85;60;JavaScript
 gonzaloserrano;Barcelona;Barcelona;23;32;26;192;Shell
 miguel-s;Barcelona, Spain;Barcelona;0;32;0;0;Objective-C
 sisqbates;Barcelona;Barcelona;0;32;0;2;Java
 tomvdw;Barcelona;Barcelona;1;32;0;0;Scala
-xaviarias;Barcelona, Catalonia, Spain;Barcelona;5;32;0;179;Java
+vichid;Barcelona / Hamburg / London;Barcelona;9;32;29;276;CSS
 nottu2584;Barcelona, Spain;Barcelona;0;32;0;0;PHP
 marcboquet;Barcelona;Barcelona;28;32;122;577;Ruby
 thebestpol;Barcelona;Barcelona;1;32;1;17;Java
 claudefa;Barcelona;Barcelona;4;32;3;0;Python
-jmcordoba;Barcelona;Barcelona;0;32;0;0;PHP
-cartorjo;Barcelona / Berlin;Barcelona;8;32;0;87;CSS
+iroyo;Barcelona;Barcelona;1;32;3;10;Java
 dvpablo;Barcelona, Spain;Barcelona;6;32;0;6;PHP
-hhg2288;Barcelona, Spain;Barcelona;26;31;23;97;JavaScript
-andresperezlopez;Barcelona;Barcelona;13;31;31;2;SuperCollider
-GenisO;Catalunya;Catalunya;0;31;0;0;Python
-naulacambra;Barcelona;Barcelona;6;31;1;6;CSS
-vinch;Barcelona, Spain;Barcelona;68;31;45;594;CSS
-AmenoPh1x;Barcelona;Barcelona;5;31;8;5;JavaScript
-pconcepcion;Barcelona;Barcelona;8;31;3;86;CSS
-rrodrigonuez;Barcelona, Catalunya;Barcelona;0;31;9;6;PHP
-DavidVazGuijarro;Badalona, Barcelona, Spain;Barcelona;18;31;5;0;Makefile
+jmcordoba;Barcelona;Barcelona;0;32;0;0;PHP
 diegoseso;Barcelona, España;Barcelona;2;31;2;2;CSS
 jxprat;Barcelona;Barcelona;0;31;0;0;Python
+GenisO;Catalunya;Catalunya;0;31;0;0;Python
 ciencia;Barcelona, Spain;Barcelona;3;31;3;13;JavaScript
 jcarlosn;Barcelona;Barcelona;18;31;47;1;CSS
 danigonza;Barcelona;Barcelona;7;31;4;11;Ruby
@@ -1171,9 +1163,17 @@ pchiwan;Barcelona, Spain;Barcelona;15;31;8;14;JavaScript
 solilokiam;Barcelona;Barcelona;15;31;14;10;PHP
 25mordad;Barcelona;Barcelona;1;31;2;11;Go
 danidoni;Granollers, Barcelona, Spain;Barcelona;12;31;13;29;Ruby
+andresperezlopez;Barcelona;Barcelona;13;31;31;2;SuperCollider
+hhg2288;Barcelona, Spain;Barcelona;26;31;23;97;JavaScript
+naulacambra;Barcelona;Barcelona;6;31;1;6;CSS
+vinch;Barcelona, Spain;Barcelona;68;31;45;594;CSS
+AmenoPh1x;Barcelona;Barcelona;5;31;8;5;JavaScript
+pconcepcion;Barcelona;Barcelona;8;31;3;86;CSS
+rrodrigonuez;Barcelona, Catalunya;Barcelona;0;31;9;6;PHP
+DavidVazGuijarro;Badalona, Barcelona, Spain;Barcelona;18;31;5;0;Makefile
+fabersky;Barcelona;Barcelona;5;30;6;229;HTML
+mtskelton;Barcelona, Spain;Barcelona;1;30;16;8;Python
 rubencougil;Barcelona;Barcelona;16;30;1;13;JavaScript
-ManuLeiva;Barcelona;Barcelona;0;30;0;1;Java
-mjordana;Lleida;Lleida;3;30;0;0;Python
 jordiclariana;Barcelona / Spain;Barcelona;13;30;7;12;Shell
 frankcortes;Barcelona;Barcelona;19;30;34;845;JavaScript
 danielrozo;Barcelona;Barcelona;6;30;4;0;C#
@@ -1190,189 +1190,185 @@ msanroman;Barcelona;Barcelona;63;30;40;134;JavaScript
 adomenech73;Barcelona;Barcelona;0;30;0;72;JavaScript
 slowmountain;Barcelona, Spain;Barcelona;3;30;0;0;Matlab and Python
 keur;Barcelona;Barcelona;0;30;0;0;C++
-netmanito;Barcelona;Barcelona;1;30;0;3;CSS
 orlandi;Barcelona, Spain;Barcelona;0;30;4;7;C
-fabersky;Barcelona;Barcelona;5;30;6;229;HTML
-mtskelton;Barcelona, Spain;Barcelona;1;30;16;8;Python
+ManuLeiva;Barcelona;Barcelona;0;30;0;1;Java
 maurocanuto;Barcelona;Barcelona;0;30;0;1;R
 ntpetrov;Barcelona;Barcelona;0;30;0;3;Python and Shell
-jordi-pages;Barcelona, Spain;Barcelona;4;29;1;1;C++
-albertvazquezm;Barcelona, Spain;Barcelona;0;29;0;19;HTML
-chopsuey5000;Barcelona;Barcelona;2;29;2;1;Arduino
+netmanito;Barcelona;Barcelona;1;30;0;3;CSS
+mjordana;Lleida;Lleida;3;30;0;0;Python
+GuillemD;Barcelona;Barcelona;3;29;0;0;C and C++
 xtorret;Barcelona;Barcelona;2;29;0;0;
 elaragon;Barcelona;Barcelona;0;29;0;0;HTML
 albert-gonzalez;Barcelona;Barcelona;5;29;17;5;JavaScript
 juancarlosvinas;Vilassar de Mar, barcelona;Barcelona;0;29;0;0;CSS
-GuillemD;Barcelona;Barcelona;3;29;0;0;C and C++
+jordi-pages;Barcelona, Spain;Barcelona;4;29;1;1;C++
 jgonfer;Barcelona;Barcelona;0;29;0;240;Objective-C and Swift
-camilb;Barcelona, Spain;Barcelona;5;29;1;92;Shell
+chopsuey5000;Barcelona;Barcelona;2;29;2;1;Arduino
 HenryHey;Barcelona;Barcelona;1;29;3;1;JavaScript
 fernandoabcampos;Barcelona, Spain;Barcelona;0;29;0;5;Java
 AlfredoDD;Barcelona, Spain;Barcelona;0;29;0;0;R
 Tzunki;Barcelona;Barcelona;0;29;0;0;JavaScript and CSS
 gerardabello;Barcelona;Barcelona;0;29;1;19;Java
-ataberner;Barcelona;Barcelona;0;28;0;0;
+albertvazquezm;Barcelona, Spain;Barcelona;0;29;0;19;HTML
+camilb;Barcelona, Spain;Barcelona;5;29;1;92;Shell
+diasjorge;Barcelona;Barcelona;52;28;125;208;Ruby
+boyander;Barcelona;Barcelona;15;28;22;361;Python
+fredfigueiredo;Barcelona;Barcelona;5;28;4;0;JavaScript
+not-only-code;Barcelona;Barcelona;16;28;70;131;JavaScript
+jimmyoak;Barcelona, Spain;Barcelona;8;28;19;0;PHP
+spejman;Barcelona, Spain;Barcelona;50;28;128;78;Ruby
+mistergough;Barcelona;Barcelona;0;28;1;0;CSS
+don-reba;Barcelona, Spain;Barcelona;1;28;1;3;CSS
+bcurtu;Barcelona;Barcelona;9;28;22;4;Python and HTML
 hectorgimenez;Barcelona, Spain;Barcelona;1;28;0;2;Arduino
 WildStudio;Barcelona;Barcelona;2;28;0;70;Objective-C
-rromerogar;Barcelona;Barcelona;1;28;0;20;Java
-kpeiruza;Barcelona;Barcelona;1;28;1;2;
-raulferras;Barcelona;Barcelona;8;28;76;330;JavaScript
-TulioDomingos;Barcelona;Barcelona;5;28;0;3;Scala
-akira28;Barcelona;Barcelona;21;28;98;206;PHP
-aaidettaa;Barcelona;Barcelona;2;28;0;0;PHP
-naoisegolden;Barcelona, Spain;Barcelona;39;28;25;109;JavaScript
 evamichalcak;Barcelona, Spain;Barcelona;0;28;0;0;JavaScript
-bcurtu;Barcelona;Barcelona;9;28;22;4;Python and HTML
-don-reba;Barcelona, Spain;Barcelona;1;28;1;3;CSS
-mistergough;Barcelona;Barcelona;0;28;1;0;CSS
-spejman;Barcelona, Spain;Barcelona;50;28;128;78;Ruby
-jimmyoak;Barcelona, Spain;Barcelona;8;28;19;0;PHP
-not-only-code;Barcelona;Barcelona;16;28;70;131;JavaScript
-fredfigueiredo;Barcelona;Barcelona;5;28;4;0;JavaScript
-boyander;Barcelona;Barcelona;15;28;22;361;Python
-diasjorge;Barcelona;Barcelona;52;28;125;208;Ruby
-eah1;Lleida;Lleida;1;27;0;0;Java and HTML
-mcarques;Lleida;Lleida;0;27;0;0;JavaScript and CSS
-VictorDeBlas;Barcelona;Barcelona;2;27;0;10;HTML
-jogaco;Barcelona;Barcelona;5;27;4;236;Ruby
-aroig;Barcelona;Barcelona;10;27;32;13;Python
-nazam80;Barcelona;Barcelona;0;27;0;0;CSS
-spittfree;Barcelona;Barcelona;0;27;0;1;HTML
-Nulleye;Barcelona;Barcelona;0;27;1;47;Java and HTML
-xsimov;Barcelona;Barcelona;36;27;3;10;Ruby
+naoisegolden;Barcelona, Spain;Barcelona;39;28;25;109;JavaScript
+aaidettaa;Barcelona;Barcelona;2;28;0;0;PHP
+akira28;Barcelona;Barcelona;21;28;98;206;PHP
+TulioDomingos;Barcelona;Barcelona;5;28;0;3;Scala
+ataberner;Barcelona;Barcelona;0;28;0;0;
+raulferras;Barcelona;Barcelona;8;28;76;330;JavaScript
+kpeiruza;Barcelona;Barcelona;1;28;1;2;
+rromerogar;Barcelona;Barcelona;1;28;0;20;Java
+MarcBeltran;Barcelona (Spain);Barcelona;3;27;0;0;Java
+javierseixas;Catalonia;Catalunya;3;27;0;20;PHP
 leukim;Barcelona;Barcelona;1;27;0;1;CSS
-lajimenez;Barcelona;Barcelona;1;27;1;0;CSS
-ecentinela;Barcelona, Spain;Barcelona;6;27;58;69;PHP
-mars13;Barcelona;Barcelona;0;27;0;0;
-jcasanovas;Barcelona;Barcelona;3;27;0;0;Shell
-xserra;Barcelona;Barcelona;50;27;0;4;
-xavib;Barcelona;Barcelona;10;27;0;54;CSS
-monifasol;Barcelona;Barcelona;1;27;0;0;CSS
+xsimov;Barcelona;Barcelona;36;27;3;10;Ruby
+Nulleye;Barcelona;Barcelona;0;27;1;47;Java and HTML
+spittfree;Barcelona;Barcelona;0;27;0;1;HTML
+nazam80;Barcelona;Barcelona;0;27;0;0;CSS
+aroig;Barcelona;Barcelona;10;27;32;13;Python
+jogaco;Barcelona;Barcelona;5;27;4;236;Ruby
+VictorDeBlas;Barcelona;Barcelona;2;27;0;10;HTML
+janmyler;Barcelona, Spain;Barcelona;23;27;124;175;JavaScript
 rogercampos;Barcelona;Barcelona;32;27;74;169;Ruby
+xavib;Barcelona;Barcelona;10;27;0;54;CSS
 carlospsig;Barcelona (Spain);Barcelona;1;27;0;5;Java
 jsmolina;Barcelona;Barcelona;4;27;7;49;Python
-MarcBeltran;Barcelona (Spain);Barcelona;3;27;0;0;Java
+lajimenez;Barcelona;Barcelona;1;27;1;0;CSS
 jarandaf;Barcelona, Spain;Barcelona;17;27;2;232;CSS
 vcollado;Barcelona;Barcelona;2;27;1;9;HTML
-janmyler;Barcelona, Spain;Barcelona;23;27;124;175;JavaScript
 JuanGaleano;Barcelona, Spain;Barcelona;1;27;5;1;R
 petxo;Barcelona;Barcelona;5;27;2;0;C#
-mpampols;Lleida;Lleida;4;27;14;20;JavaScript
-carlesm;Lleida;Lleida;17;27;7;61;Python
+ecentinela;Barcelona, Spain;Barcelona;6;27;58;69;PHP
+mars13;Barcelona;Barcelona;0;27;0;0;
 sersajar;Reus - Catalunya - Spain;Catalunya;0;27;0;0;HTML
-javierseixas;Catalonia;Catalunya;3;27;0;20;PHP
-subarroca;Barcelona, Catalonia;Barcelona;3;26;85;15;JavaScript
+mcarques;Lleida;Lleida;0;27;0;0;JavaScript and CSS
+eah1;Lleida;Lleida;1;27;0;0;Java and HTML
+carlesm;Lleida;Lleida;17;27;7;61;Python
+mpampols;Lleida;Lleida;4;27;14;20;JavaScript
+jcasanovas;Barcelona;Barcelona;3;27;0;0;Shell
+xserra;Barcelona;Barcelona;50;27;0;4;
+monifasol;Barcelona;Barcelona;1;27;0;0;CSS
+mpascu;Lleida;Lleida;1;26;0;2;HTML
 lluisi;Barcelona;Barcelona;12;26;1;51;Shell
+fdominguezr;Barcelona, Spain;Barcelona;2;26;1;8;Arduino
+saimonmoore;Barcelona, Spain;Barcelona;51;26;164;662;Ruby
+ygneo;Barcelona;Barcelona;17;26;13;101;Python
 dario1985;Barcelona, Spain;Barcelona;17;26;8;13;PHP
+johnbarca;Barcelona;Barcelona;0;26;0;0;C
+huorswords;Barcelona;Barcelona;1;26;0;7;C#
+ferranpi;Barcelona;Barcelona;0;26;0;1;CSS
+danywalls;Barcelona;Barcelona;8;26;4;11;JavaScript
+ggiovinazzo;Barcelona, Spain;Barcelona;0;26;0;5;JavaScript
+yeradis;Barcelona,Spain;Barcelona;26;26;11;278;Shell
+ipalaus;Barcelona;Barcelona;26;26;54;199;PHP
+subarroca;Barcelona, Catalonia;Barcelona;3;26;85;15;JavaScript
+javi-moralesf;Barcelona;Barcelona;1;26;2;5;JavaScript
+wkov;Barcelona;Barcelona;1;26;1;0;CSS
+mrsimo;Barcelona;Barcelona;42;26;61;78;Ruby
+weisk;Barcelona;Barcelona;5;26;4;182;JavaScript
+czyzykowski;Barcelona;Barcelona;4;26;2;56;Python
 Semro007;Barcelona;Barcelona;1;26;0;3;JavaScript
 gerardcuadras;Barcelona;Barcelona;0;26;6;18;JavaScript
 alminyana;Barcelona;Barcelona;1;26;0;14;CSS
-czyzykowski;Barcelona;Barcelona;4;26;2;56;Python
-weisk;Barcelona;Barcelona;5;26;4;182;JavaScript
-mrsimo;Barcelona;Barcelona;42;26;61;78;Ruby
-wkov;Barcelona;Barcelona;1;26;1;0;CSS
-javi-moralesf;Barcelona;Barcelona;1;26;2;5;JavaScript
-saimonmoore;Barcelona, Spain;Barcelona;51;26;164;662;Ruby
-ipalaus;Barcelona;Barcelona;26;26;54;199;PHP
-yeradis;Barcelona,Spain;Barcelona;26;26;11;278;Shell
-ggiovinazzo;Barcelona, Spain;Barcelona;0;26;0;5;JavaScript
-danywalls;Barcelona;Barcelona;8;26;4;11;JavaScript
-ferranpi;Barcelona;Barcelona;0;26;0;1;CSS
-huorswords;Barcelona;Barcelona;1;26;0;7;C#
-fdominguezr;Barcelona, Spain;Barcelona;2;26;1;8;Arduino
-mpascu;Lleida;Lleida;1;26;0;2;HTML
-johnbarca;Barcelona;Barcelona;0;26;0;0;C
-ygneo;Barcelona;Barcelona;17;26;13;101;Python
-pauapplecat;Catalunya;Catalunya;0;25;0;0;C
-meritxellmolas;Barcelona;Barcelona;3;25;0;0;CSS
-pire;Barcelona, Spain;Barcelona;4;25;4;83;JavaScript
-jpgpuyo;Barcelona;Barcelona;0;25;0;9;JavaScript
-maxigas;Barcelona / Calafou;Barcelona;3;25;5;5;Python
-dgvivero;Barcelona - Spain;Barcelona;2;25;9;13;JavaScript
-Gawyn;Barcelona;Barcelona;13;25;37;51;Ruby
-asarasua;Barcelona;Barcelona;6;25;6;1;C++
-jamoli;Barcelona;Barcelona;2;25;1;1;JavaScript
-drfperez;Barcelona;Barcelona;0;25;0;0;HTML
-felixramos;Barcelona, Spain;Barcelona;0;25;0;0;C++
-legnaleama;Barcelona, Spain;Barcelona;1;25;0;2;CSS
-yeeeeyaaaa;Barcelona;Barcelona;0;25;0;0;JavaScript
-catplus;Barcelona;Barcelona;0;25;0;1;CSS
-DaniGate;Barcelona;Barcelona;0;25;0;21;Python
-marsty5;London & Barcelona;Barcelona;17;25;4;17;CSS
-campsjos;Barcelona;Barcelona;0;25;1;2;JavaScript
-jorditorresBCN;Barcelona;Barcelona;6;25;8;0;Python
-sbays;Barcelona;Barcelona;1;25;0;2;JavaScript
-rbngzlv;Barcelona;Barcelona;2;25;1;398;Ruby
 francgaya;Barcelona;Barcelona;0;25;0;1;CSS
-Didweb;La Bisbal del Penedès;Gerona;2;25;0;2;PHP
-miquelmartos;Catalonia;Catalunya;11;25;7;8;C
-angeldm;Catalonia;Catalunya;1;25;9;92;Go
+rbngzlv;Barcelona;Barcelona;2;25;1;398;Ruby
+sbays;Barcelona;Barcelona;1;25;0;2;JavaScript
+jorditorresBCN;Barcelona;Barcelona;6;25;8;0;Python
+campsjos;Barcelona;Barcelona;0;25;1;2;JavaScript
+marsty5;London & Barcelona;Barcelona;17;25;4;17;CSS
+DaniGate;Barcelona;Barcelona;0;25;0;21;Python
+catplus;Barcelona;Barcelona;0;25;0;1;CSS
+yeeeeyaaaa;Barcelona;Barcelona;0;25;0;0;JavaScript
+legnaleama;Barcelona, Spain;Barcelona;1;25;0;2;CSS
+felixramos;Barcelona, Spain;Barcelona;0;25;0;0;C++
+drfperez;Barcelona;Barcelona;0;25;0;0;HTML
+jamoli;Barcelona;Barcelona;2;25;1;1;JavaScript
+asarasua;Barcelona;Barcelona;6;25;6;1;C++
+Gawyn;Barcelona;Barcelona;13;25;37;51;Ruby
+meritxellmolas;Barcelona;Barcelona;3;25;0;0;CSS
+dgvivero;Barcelona - Spain;Barcelona;2;25;9;13;JavaScript
+maxigas;Barcelona / Calafou;Barcelona;3;25;5;5;Python
+jpgpuyo;Barcelona;Barcelona;0;25;0;9;JavaScript
+pire;Barcelona, Spain;Barcelona;4;25;4;83;JavaScript
 xcafebabe;Barcelona;Barcelona;4;25;5;39;JavaScript
-neo2buha;Barcelona, Spain;Barcelona;0;24;2;26;C
-Alkxzv;Barcelona;Barcelona;1;24;1;17;Python
-jagenjo;Barcelona;Barcelona;129;24;215;64;CSS
-ulisescontreras;Barcelona, Spain;Barcelona;16;24;3;0;CSS
-duhow;Barcelona;Barcelona;1;24;0;2;PHP
-ulidev;Barcelona;Barcelona;13;24;307;248;Objective-C
-celtric;Barcelona;Barcelona;4;24;0;78;PHP
-corretge;Verges, Catalonia;Catalunya;14;24;86;174;PHP
-divadgama;Barcelona;Barcelona;0;24;0;0;C++ and C
-srxavi;Barcelona, Spain;Barcelona;10;24;8;12;Python
-sha0coder;Barcelona;Barcelona;4;24;16;6;Makefile
-mbgg;Barcelona;Barcelona;7;24;14;9;C
-patxi1980;Barcelona;Barcelona;5;24;4;20;PHP
-rgonzalezramos;Barcelona, Spain;Barcelona;1;24;2;7;JavaScript
-SamLeach;Barcelona, Spain;Barcelona;14;24;2;63;JavaScript
-sdruix;Barcelona;Barcelona;1;24;5;3;C++
-carguezu;Barcelona;Barcelona;0;24;9;11;Objective-C
-edumolins;Barcelona;Barcelona;1;24;1;0;Java
-saracubillas;Barcelona;Barcelona;7;24;4;3;PHP
-seinman;Barcelona, Spain;Barcelona;0;24;1;0;R and Jupyter Notebook
-ignasi;Barcelona;Barcelona;21;24;2;691;Ruby
-apaytuvi;Barcelona;Barcelona;0;24;0;0;Perl and Python
-teknopaul;barcelona;Barcelona;8;24;61;26;JavaScript
-arnautorrent;Banyoles, Girona;Gerona;0;24;0;0;CSS
+angeldm;Catalonia;Catalunya;1;25;9;92;Go
+miquelmartos;Catalonia;Catalunya;11;25;7;8;C
+Didweb;La Bisbal del Penedès;Gerona;2;25;0;2;PHP
+pauapplecat;Catalunya;Catalunya;0;25;0;0;C
 Arkalex;Barcelona;Barcelona;9;24;0;1;Java
-sghoshcvc;Barcelona;Barcelona;0;24;0;0;C
+jagenjo;Barcelona;Barcelona;129;24;215;64;CSS
+Alkxzv;Barcelona;Barcelona;1;24;1;17;Python
+duhow;Barcelona;Barcelona;1;24;0;2;PHP
 davduran;Barcelona;Barcelona;1;24;0;9;JavaScript
-fcojgodoy;Barcelona;Barcelona;0;23;0;21;JavaScript
-W0MP3R;Lleida;Lleida;1;23;0;4;
-taspapak;Barcelona;Barcelona;1;23;0;0;Python
-tramuntanal;Girona;Gerona;3;23;8;7;Ruby
-eparreno;Girona;Gerona;55;23;149;91;Ruby
+apaytuvi;Barcelona;Barcelona;0;24;0;0;Perl and Python
+ignasi;Barcelona;Barcelona;21;24;2;691;Ruby
+seinman;Barcelona, Spain;Barcelona;0;24;1;0;R and Jupyter Notebook
+saracubillas;Barcelona;Barcelona;7;24;4;3;PHP
+edumolins;Barcelona;Barcelona;1;24;1;0;Java
+arnautorrent;Banyoles, Girona;Gerona;0;24;0;0;CSS
+carguezu;Barcelona;Barcelona;0;24;9;11;Objective-C
+sdruix;Barcelona;Barcelona;1;24;5;3;C++
+SamLeach;Barcelona, Spain;Barcelona;14;24;2;63;JavaScript
+rgonzalezramos;Barcelona, Spain;Barcelona;1;24;2;7;JavaScript
+patxi1980;Barcelona;Barcelona;5;24;4;20;PHP
+mbgg;Barcelona;Barcelona;7;24;14;9;C
+sha0coder;Barcelona;Barcelona;4;24;16;6;Makefile
+srxavi;Barcelona, Spain;Barcelona;10;24;8;12;Python
+ulisescontreras;Barcelona, Spain;Barcelona;16;24;3;0;CSS
+neo2buha;Barcelona, Spain;Barcelona;0;24;2;26;C
+sghoshcvc;Barcelona;Barcelona;0;24;0;0;C
+teknopaul;barcelona;Barcelona;8;24;61;26;JavaScript
+divadgama;Barcelona;Barcelona;0;24;0;0;C++ and C
+celtric;Barcelona;Barcelona;4;24;0;78;PHP
+ulidev;Barcelona;Barcelona;13;24;307;248;Objective-C
+corretge;Verges, Catalonia;Catalunya;14;24;86;175;PHP
+xaviserrag;Barcelona;Barcelona;8;23;6;3;JavaScript
 didacog;Catalonia;Catalunya;6;23;0;6;Makefile
-MariaFdez;Barcelona;Barcelona;7;23;0;2;R
-alextarrago;Barcelona;Barcelona;17;23;253;6;Objective-C
-veralimita;Barcelona;Barcelona;0;23;0;0;JavaScript
 jlcampana;Barcelona (Andalucía Norte);Barcelona;21;23;1;364;JavaScript
-adriangibanelbtactic;LLeida, Spain;Lleida;4;23;15;0;Shell
+veralimita;Barcelona;Barcelona;0;23;0;0;JavaScript
+alextarrago;Barcelona;Barcelona;17;23;253;6;Objective-C
+MariaFdez;Barcelona;Barcelona;7;23;0;2;R
 nadiacw;Barcelona;Barcelona;0;23;0;6;JavaScript
 lluismnd;Barcelona;Barcelona;2;23;1;14;JavaScript
 mgboydcom;Barcelona, ES;Barcelona;0;23;2;14;CSS
 sekhansen;Barcelona and London;Barcelona;12;23;12;0;Jupyter Notebook and Python
-xaviserrag;Barcelona;Barcelona;8;23;6;3;JavaScript
+fcojgodoy;Barcelona;Barcelona;0;23;0;21;JavaScript
 virgiligarcia;Barcelona;Barcelona;3;23;0;31;PHP
 gcor13026;Barcelona;Barcelona;0;23;1;1;
 christofdamian;Barcelona, Spain;Barcelona;35;23;48;69;PHP
 elpassiu;Barcelona;Barcelona;0;23;0;0;C++
+taspapak;Barcelona;Barcelona;1;23;0;0;Python
 scapella;Barcelona, Spain;Barcelona;9;23;35;7;C
-mayorova;Barcelona;Barcelona;9;22;1;114;Java
-alvarocmh;Barcelona;Barcelona;1;22;0;0;CSS
-xeviknal;Barcelona;Barcelona;16;22;8;120;Ruby
+eparreno;Girona;Gerona;55;23;149;91;Ruby
+tramuntanal;Girona;Gerona;3;23;8;7;Ruby
+adriangibanelbtactic;LLeida, Spain;Lleida;4;23;15;0;Shell
+W0MP3R;Lleida;Lleida;1;23;0;4;
+exocuted;Rubi, Barcelona;Barcelona;5;22;0;23;CSS
 Dieckhoff;Barcelona;Barcelona;10;22;2;3;JavaScript
 hulehule20;Barcelona, Catalunya;Barcelona;1;22;0;5;JavaScript
+osagarra;Barcelona;Barcelona;5;22;4;0;C
+hds;Barcelona;Barcelona;11;22;9;21;JavaScript
+juanchaur;Barcelona;Barcelona;4;22;2;0;JavaScript
+mhjabreel;Spain, Tarragona;Tarragona;3;22;2;5;Java
 3-bits;Barcelona;Barcelona;3;22;2;22;CSS
 LianaN;Spain (Barcelona);Barcelona;0;22;0;0;Python and R
 CarlosCarrera;Barcelona;Barcelona;0;22;0;8;Objective-C
 oricha;Barcelona;Barcelona;1;22;0;0;Java
 javsaura;Barcelona;Barcelona;0;22;0;0;JavaScript
 psincraian;Barcelona;Barcelona;0;22;0;1;
-juanchaur;Barcelona;Barcelona;4;22;2;0;JavaScript
-exocuted;Rubi, Barcelona;Barcelona;5;22;0;23;CSS
-osagarra;Barcelona;Barcelona;5;22;4;0;C
-quanticbyte;LA Bisbal d'Emporda Girona;Gerona;0;22;0;0;JavaScript and CSS
-hds;Barcelona;Barcelona;11;22;9;21;JavaScript
-ittenes;Barcelona;Barcelona;0;22;1;0;Python
 swapbytes;Barcelona;Barcelona;3;22;4;7;Ruby
 tomasnama;Barcelona;Barcelona;0;22;0;2;Java
 Jaysom;Barcelona;Barcelona;4;22;0;0;HTML
@@ -1386,11 +1382,38 @@ onedesert;Barcelona;Barcelona;2;22;0;5;JavaScript
 ixiam;Barcelona;Barcelona;2;22;2;1;PHP
 itsraikey;Barcelona;Barcelona;1;22;0;3;
 sergigp;Barcelona;Barcelona;27;22;19;47;PHP
+dgil;Catalonia;Catalunya;9;22;57;139;JavaScript
+ittenes;Barcelona;Barcelona;0;22;1;0;Python
 fazeaction;barcelona;Barcelona;21;22;20;12;JavaScript
 jlainezs;Barcelona;Barcelona;0;22;0;1;CSS
-mhjabreel;Spain, Tarragona;Tarragona;3;22;2;5;Java
+mayorova;Barcelona;Barcelona;9;22;1;114;Java
+alvarocmh;Barcelona;Barcelona;1;22;0;0;CSS
+xeviknal;Barcelona;Barcelona;16;22;8;120;Ruby
+quanticbyte;LA Bisbal d'Emporda Girona;Gerona;0;22;0;0;JavaScript and CSS
+pablor;Barcelona;Barcelona;12;21;6;5;PHP
+smoya;Barcelona;Barcelona;22;21;31;127;PHP
+salvarubiomartinez;Barcelona, Spain;Barcelona;0;21;0;0;CSS
+solomonvimal;Barcelona;Barcelona;7;21;2;26;Python
+alxmllr;Barcelona, Spain;Barcelona;0;21;0;3;Java
 Quadramma;Buenos Aires, Barcelona, Paris;Barcelona;3;21;2;1;JavaScript
+guiem;Barcelona;Barcelona;1;21;1;6;Python
+jaume-pinyol;Barcelona;Barcelona;8;21;1;1;Java
+ignasi35;Barcelona;Barcelona;27;21;10;29;Java
+srbarrios;Barcelona;Barcelona;0;21;0;0;CSS
 dvrensk;Barcelona, Spain;Barcelona;13;21;55;67;Ruby
+xqueralt;Barcelona;Barcelona;13;21;1;2;Python
+bicherele;Barcelona, Spain;Barcelona;25;21;102;1.9k;JavaScript
+jairovadillo;Barcelona;Barcelona;1;21;0;4;CSS
+plitex;Barcelona;Barcelona;0;21;0;4;JavaScript
+rboldu;Barcelona;Barcelona;1;21;0;0;C
+jortilles;Barcelona, spain;Barcelona;0;21;1;3;Java
+clokd;Barcelona;Barcelona;0;21;0;0;Ruby
+cunyat;Catalonia;Catalunya;0;21;1;0;PHP
+maurovc;Barcelona, Spain;Barcelona;5;21;27;1;Objective-C
+ahfeel;Barcelona, Spain;Barcelona;8;21;14;22;Shell
+lhew;Barcelona;Barcelona;8;21;1;1;JavaScript
+davidgnin;Barcelona;Barcelona;1;21;0;0;JavaScript
+qmolla;Barcelona;Barcelona;0;21;0;0;Java
 jacekd;Barcelona;Barcelona;5;21;39;44;JavaScript
 ptmonline;Barcelona;Barcelona;0;21;0;0;JavaScript
 sdurban;Barcelona, SPAIN;Barcelona;1;21;0;11;C
@@ -1403,88 +1426,48 @@ jordihdz;Cerdanyola (Barcelona), SPAIN;Barcelona;0;21;0;2;Perl
 davidguardiola;Barcelona;Barcelona;0;21;0;2;JavaScript
 zareone;Barcelona;Barcelona;12;21;1;514;Go
 subzeta;Barcelona;Barcelona;2;21;5;3;PHP
-pablor;Barcelona;Barcelona;12;21;6;5;PHP
-smoya;Barcelona;Barcelona;22;21;31;127;PHP
-salvarubiomartinez;Barcelona, Spain;Barcelona;0;21;0;0;CSS
-solomonvimal;Barcelona;Barcelona;7;21;2;26;Python
-alxmllr;Barcelona, Spain;Barcelona;0;21;0;3;Java
-qmolla;Barcelona;Barcelona;0;21;0;0;Java
-guiem;Barcelona;Barcelona;1;21;1;6;Python
-jaume-pinyol;Barcelona;Barcelona;8;21;1;1;Java
-ignasi35;Barcelona;Barcelona;27;21;10;29;Java
-srbarrios;Barcelona;Barcelona;0;21;0;0;CSS
-xqueralt;Barcelona;Barcelona;13;21;1;2;Python
-bicherele;Barcelona, Spain;Barcelona;25;21;102;1.9k;JavaScript
-jairovadillo;Barcelona;Barcelona;1;21;0;4;CSS
-plitex;Barcelona;Barcelona;0;21;0;4;JavaScript
-rboldu;Barcelona;Barcelona;1;21;0;0;C
-jortilles;Barcelona, spain;Barcelona;0;21;1;3;Java
-clokd;Barcelona;Barcelona;0;21;0;0;Ruby
-maurovc;Barcelona, Spain;Barcelona;5;21;27;1;Objective-C
-ahfeel;Barcelona, Spain;Barcelona;8;21;14;22;Shell
-pespunya;Girona;Gerona;0;21;0;0;HTML
-lhew;Barcelona;Barcelona;8;21;1;1;JavaScript
-davidgnin;Barcelona;Barcelona;1;21;0;0;JavaScript
 enr00ted;Besalú, Girona, Spain;Gerona;0;21;0;0;C#
-cunyat;Catalonia;Catalunya;0;21;1;0;PHP
+pespunya;Girona;Gerona;0;21;0;0;HTML
+adriaPerez;Barcelona;Barcelona;2;20;0;21;HTML
+marcgascon;Barcelona;Barcelona;0;20;0;0;Ruby
 jbozanowski;Barcelona, Spain;Barcelona;5;20;0;62;Python
 Narfss;Barcelona;Barcelona;24;20;558;51;Java
 cpardos;Barcelona;Barcelona;0;20;0;0;R
 xegea;Barcelona;Barcelona;0;20;0;1;C#
 trico;Barcelona, Spain;Barcelona;4;20;8;74;Ruby
 ramonpoca;Barcelona;Barcelona;5;20;98;12;Shell
-adriaPerez;Barcelona;Barcelona;2;20;0;21;HTML
+GuillemGarciaSabate;Barcelona, Spain;Barcelona;0;20;0;0;CSS
 aralroca;Barcelona;Barcelona;1;20;0;11;JavaScript
 sp-miguel-ibero;Barcelona, Catalunya;Barcelona;1;20;0;3;HTML
 papalozarou;Barcelona;Barcelona;4;20;30;5;CSS
 sitobcn82;Barcelona;Barcelona;0;20;0;3;PHP
 vittorio-togliatti;Barcelona;Barcelona;0;20;0;1;Java
 ezeherrera;Barcelona;Barcelona;2;20;0;0;CSS
-marcgascon;Barcelona;Barcelona;0;20;0;0;Ruby
-dgil;Catalonia;Catalunya;9;20;57;139;JavaScript
 AnnaBlanc;Lleida;Lleida;2;20;0;2;HTML and Java
-GuillemGarciaSabate;Barcelona, Spain;Barcelona;0;20;0;0;CSS
-bvis;Barcelona;Barcelona;15;19;0;3;Puppet
-juanre;Barcelona;Barcelona;10;19;99;11;Python
-sergigrau;Barcelona, Catalonia, Spain;Barcelona;7;19;0;0;HTML
-varas;Barcelona, Spain;Barcelona;10;19;8;366;PHP
+hamzaed;Barcelona, Spain;Barcelona;2;19;0;10;Java
 gridchin;Barcelona, España;Barcelona;4;19;2;20;CSS
-doliveras;Catalunya;Catalunya;0;19;0;0;
-jaumeramos;Tortosa, Catalunya;Catalunya;4;19;6;0;HTML
+varas;Barcelona, Spain;Barcelona;10;19;8;366;PHP
+sergigrau;Barcelona, Catalonia, Spain;Barcelona;7;19;0;0;HTML
+juanre;Barcelona;Barcelona;10;19;99;11;Python
+joanpc;Seattle, Barcelona;Barcelona;11;19;65;11;Python
 memaker;Barcelona;Barcelona;0;19;2;3;Ruby
 ALEJANDROJ19;Barcelona;Barcelona;2;19;1;6;Erlang
+ftascon;España, Tarragona;Tarragona;0;19;0;0;CSS
 robertobarreda;Barcelona, Catalunya;Barcelona;14;19;6;200;Python
 olegmorajko;Barcelona, Spain;Barcelona;2;19;0;2;
-joanpc;Seattle, Barcelona;Barcelona;11;19;65;11;Python
+bvis;Barcelona;Barcelona;15;19;0;3;Puppet
 xavi-0210-stucom;Barcelona;Barcelona;0;19;0;1;HTML
-phylophyl;Barcelona;Barcelona;3;19;1;2;CSS
-ftascon;España, Tarragona;Tarragona;0;19;0;0;CSS
-ilaro-org;barcelona;Barcelona;1;19;0;0;C
-0xroot;Barcelona;Barcelona;64;19;61;69;C
-joaoqalves;Barcelona, Catalunya;Barcelona;35;19;19;203;Java
-hamzaed;Barcelona, Spain;Barcelona;2;19;0;10;Java
-nuriabelloc;Barcelona;Barcelona;1;19;0;0;
-histonemark;Center for Genomic Regulation CRG Barcelona;Barcelona;3;19;0;3;Python
 tamarinda;Barcelona;Barcelona;4;19;5;5;Objective-C
-juandiegoles;Barcelona;Barcelona;1;18;0;0;CSS
-jotabono;Barcelona;Barcelona;5;18;0;1;Java
+histonemark;Center for Genomic Regulation CRG Barcelona;Barcelona;3;19;0;3;Python
+nuriabelloc;Barcelona;Barcelona;1;19;0;0;
+phylophyl;Barcelona;Barcelona;3;19;1;2;CSS
+jaumeramos;Tortosa, Catalunya;Catalunya;4;19;6;0;HTML
+doliveras;Catalunya;Catalunya;0;19;0;0;
+joaoqalves;Barcelona, Catalunya;Barcelona;35;19;19;203;Java
+0xroot;Barcelona;Barcelona;64;19;61;69;C
+ilaro-org;barcelona;Barcelona;1;19;0;0;C
 wagerlabs;Barcelona, Spain;Barcelona;121;18;69;122;C
-MiguelPF;Barcelona, Spain;Barcelona;7;18;4;53;C++
-dmiro;Barcelona, Spain;Barcelona;12;18;5;142;Python
-sergi413;Barcelona;Barcelona;1;18;0;0;CSS
-pballart;Barcelona;Barcelona;3;18;1;9;Objective-C
-ddcesare;Barcelona;Barcelona;5;18;0;10;JavaScript
-srodrb;Barcelona;Barcelona;1;18;1;7;C
-pau-minoves;Barcelona;Barcelona;20;18;6;3;Java
-maddeveloper48;Girona,Spain;Gerona;0;18;0;0;JavaScript
-davidrv;Girona;Gerona;15;18;2;142;Ruby
 juanmaorta;Barcelona, Spain;Barcelona;4;18;9;59;JavaScript
-slipszenko;Barcelona;Barcelona;3;18;2;29;JavaScript
-cbutakoff;Barcelona;Barcelona;0;18;0;0;C
-rafaelalbondigas;Barcelona,Spain;Barcelona;0;18;0;0;CSS and HTML
-zazoomauro;Barcelona;Barcelona;10;18;13;22;PHP
-engyne09;Barcelona;Barcelona;0;18;0;5;CSS and HTML
-cescobedo;Barcelona, Spain;Barcelona;0;18;1;0;PHP
 Huespal;Barcelona;Barcelona;3;18;0;1;JavaScript
 alecuba16;Barcelona, Spain;Barcelona;1;18;0;0;Makefile
 markelg;Barcelona;Barcelona;1;18;3;11;Python
@@ -1492,95 +1475,96 @@ jjhidalgo;Barcelona, Spain;Barcelona;2;18;0;1;Python
 pinki145;Barcelona;Barcelona;1;18;0;0;
 xmontero;Barcelona;Barcelona;2;18;1;0;PHP
 adriagil;Barcelona;Barcelona;8;18;0;98;JavaScript
-ainformatico;Barcelona, Spain;Barcelona;33;17;95;85;JavaScript
-dacacioa;Barcelona, Spain;Barcelona;10;17;0;8;Shell and Python
-javicarrillo;Barcelona;Barcelona;1;17;0;0;CSS
-rafaduran;Barcelona, Catalonia, Spain;Barcelona;6;17;35;100;Python
-ekros;Barcelona, Spain;Barcelona;2;17;3;8;JavaScript
-jlopex;Barcelona;Barcelona;6;17;18;10;Shell
-jordi9;Barcelona;Barcelona;7;17;2;33;JavaScript
+davidrv;Girona;Gerona;15;18;2;142;Ruby
+maddeveloper48;Girona,Spain;Gerona;0;18;0;0;JavaScript
+juandiegoles;Barcelona;Barcelona;1;18;0;0;CSS
+jotabono;Barcelona;Barcelona;5;18;0;1;Java
+slipszenko;Barcelona;Barcelona;3;18;2;29;JavaScript
+MiguelPF;Barcelona, Spain;Barcelona;7;18;4;53;C++
+dmiro;Barcelona, Spain;Barcelona;12;18;5;142;Python
+sergi413;Barcelona;Barcelona;1;18;0;0;CSS
+pballart;Barcelona;Barcelona;3;18;1;9;Objective-C
+ddcesare;Barcelona;Barcelona;5;18;0;10;JavaScript
+srodrb;Barcelona;Barcelona;1;18;1;7;C
+pau-minoves;Barcelona;Barcelona;20;18;6;3;Java
+cbutakoff;Barcelona;Barcelona;0;18;0;0;C
+rafaelalbondigas;Barcelona,Spain;Barcelona;0;18;0;0;CSS and HTML
+zazoomauro;Barcelona;Barcelona;10;18;13;22;PHP
+engyne09;Barcelona;Barcelona;0;18;0;5;CSS and HTML
+cescobedo;Barcelona, Spain;Barcelona;0;18;1;0;PHP
+pintobikez;Barcelona;Barcelona;0;17;3;1;PHP
+jlupox;Barcelona;Barcelona;1;17;0;0;Groovy
+mayocaballero;Barcelona;Barcelona;0;17;0;0;CSS
 edgarweto;Barcelona;Barcelona;6;17;0;97;JavaScript and CSS
+jlopex;Barcelona;Barcelona;6;17;18;10;Shell
+ekros;Barcelona, Spain;Barcelona;2;17;3;8;JavaScript
+rafaduran;Barcelona, Catalonia, Spain;Barcelona;6;17;35;100;Python
+javicarrillo;Barcelona;Barcelona;1;17;0;0;CSS
+jordi9;Barcelona;Barcelona;7;17;2;33;JavaScript
+AitorRodriguez990;Barcelona;Barcelona;1;17;0;10;
+jordipons;Barcelona;Barcelona;4;17;5;0;Matlab
+datapythonista;Barcelona;Barcelona;1;17;0;0;Python
+renerubio;Barcelona;Barcelona;2;17;1;2;JavaScript
+jzoppi;Barcelona;Barcelona;0;17;0;0;Shell
+harryngh;Barcelona, Spain;Barcelona;0;17;2;3;JavaScript
+salmar;Barcelona, Spain;Barcelona;46;17;171;7;Java
+natanverdes;Barcelona;Barcelona;9;17;0;33;JavaScript
+mussegam;Barcelona;Barcelona;15;17;11;132;C
+nevillegallimore;Barcelona, Spain;Barcelona;2;17;0;9;JavaScript
+AlbertServen;Barcelona;Barcelona;9;17;2;42;TeX
+maria-antignolo;Barcelona;Barcelona;0;17;0;0;CSS
+nfdisco;Barcelona, Catalonia;Barcelona;0;17;0;0;Python
+jmprusi;Barcelona;Barcelona;15;17;4;501;Shell
+SirArslaan;Barcelona;Barcelona;18;17;3;121;JavaScript
+korgogro;Barcelona;Barcelona;1;17;0;0;C and C++
+cginer;Barcelona;Barcelona;0;17;1;2;R
+JoseGorchs;Barcelona;Barcelona;0;17;0;0;PHP
+victormln;Barcelona;Barcelona;0;17;0;0;Shell
+dacacioa;Barcelona, Spain;Barcelona;10;17;0;8;Shell and Python
 tetio;Vilanova i la Geltrú, Catalunya, Europe;Catalunya;2;17;6;6;JavaScript
 jaumemk;Manlleu, Catalunya;Catalunya;5;17;0;37;CSS
-victormln;Barcelona;Barcelona;0;17;0;0;Shell
-mayocaballero;Barcelona;Barcelona;0;17;0;0;CSS
-jlupox;Barcelona;Barcelona;1;17;0;0;Groovy
-pintobikez;Barcelona;Barcelona;0;17;3;1;PHP
-jrenaat;Barcelona;Barcelona;3;17;0;2;Java
-Arcontus;Barcelona, Spain;Barcelona;0;17;2;1;Python
-JoseGorchs;Barcelona;Barcelona;0;17;0;0;PHP
-cginer;Barcelona;Barcelona;0;17;1;2;R
-korgogro;Barcelona;Barcelona;1;17;0;0;C and C++
-SirArslaan;Barcelona;Barcelona;18;17;3;121;JavaScript
-jmprusi;Barcelona;Barcelona;15;17;4;501;Shell
-nfdisco;Barcelona, Catalonia;Barcelona;0;17;0;0;Python
-maria-antignolo;Barcelona;Barcelona;0;17;0;0;CSS
-AlbertServen;Barcelona;Barcelona;9;17;2;42;TeX
-nevillegallimore;Barcelona, Spain;Barcelona;2;17;0;9;JavaScript
-mussegam;Barcelona;Barcelona;15;17;11;132;C
-natanverdes;Barcelona;Barcelona;9;17;0;33;JavaScript
-salmar;Barcelona, Spain;Barcelona;46;17;171;7;Java
-harryngh;Barcelona, Spain;Barcelona;0;17;2;3;JavaScript
-jzoppi;Barcelona;Barcelona;0;17;0;0;Shell
-renerubio;Barcelona;Barcelona;2;17;1;2;JavaScript
-datapythonista;Barcelona;Barcelona;1;17;0;0;Python
-jordipons;Barcelona;Barcelona;4;17;5;0;Matlab
-AitorRodriguez990;Barcelona;Barcelona;1;17;0;10;
 didvae;Barcelona;Barcelona;1;17;0;0;Java
-SrFlipFlop;Catalonia;Catalunya;1;16;0;0;Python and Java
-vpascual;Barcelona;Barcelona;12;16;4;39;JavaScript
-rgalindo33;Barcelona;Barcelona;8;16;1;9;Ruby
-didacs;Barcelona;Barcelona;0;16;0;3;Python and R
-jordi122;Barcelona;Barcelona;0;16;0;1;C++
-albertmmtt;Barcelona;Barcelona;0;16;0;1;Python
-ealvarezdelacampa;Barcelona, Spain;Barcelona;1;16;0;1;C# and TeX
-jlpoveda;Barcelona;Barcelona;10;16;5;21;PHP
-davidsantosmerino;Barcelona;Barcelona;1;16;0;19;CSS
-magaliboada;Barcelona;Barcelona;2;16;1;0;Java and HTML
-santiperez;Barcelona;Barcelona;9;16;11;8;JavaScript
-Suryavarman;Barcelona;Barcelona;0;16;0;0;C++
-odelrio;Barcelona;Barcelona;2;16;0;7;CSS
-ianmartorell;Barcelona, Spain;Barcelona;20;16;148;51;JavaScript
-ealcaniz;Barcelona;Barcelona;3;16;1;14;Python
-oscarmarinmiro;Barcelona;Barcelona;10;16;10;24;JavaScript
-jaquol;Barcelona;Barcelona;0;16;1;0;Python
-xavi19;Catalunya;Catalunya;1;16;0;0;Java
+ainformatico;Barcelona, Spain;Barcelona;33;17;95;85;JavaScript
+Arcontus;Barcelona, Spain;Barcelona;0;17;2;1;Python
+jrenaat;Barcelona;Barcelona;3;17;0;2;Java
 alexbarcelo;Barcelona, Spain;Barcelona;1;16;6;5;Shell
-avperez;Barcelona;Barcelona;0;16;0;0;Jupyter Notebook
-cristinaserrano;Barcelona (SPAIN);Barcelona;1;16;0;0;R
-marivipelaez;Barcelona;Barcelona;0;16;1;8;Python
-asilvestre;Barcelona;Barcelona;1;16;14;5;Haskell
-marcalj;Montseny, Barcelona;Barcelona;10;16;0;33;Go
-sergigracia;Barcelona;Barcelona;19;16;97;46;Ruby
-mob1970;Sant Cugat del Vallès (Barcelona);Barcelona;2;16;8;10;Ruby
-bastiqui;Barcelona (Spain);Barcelona;0;16;0;0;Shell
-jonathanvila;Barcelona, Spain;Barcelona;4;16;0;4;Java
-jvalduvieco;Barcelona;Barcelona;27;16;15;14;C
-golcinab;Barcelona, Spain;Barcelona;0;16;0;2;JavaScript
-jonathan-roper;Barcelona, Spain;Barcelona;9;16;24;5;Shell
-valigula;Barcelona;Barcelona;0;16;0;0;Python
-jorgeavilacardenosa;Barcelona;Barcelona;10;16;0;12;PHP
+vpascual;Barcelona;Barcelona;12;16;4;39;JavaScript
+xavi19;Catalunya;Catalunya;1;16;0;0;Java
 SVMarshall;Barcelona, Catalonia;Barcelona;0;16;1;1;Python
+jorgeavilacardenosa;Barcelona;Barcelona;10;16;0;12;PHP
+valigula;Barcelona;Barcelona;0;16;0;0;Python
+jonathan-roper;Barcelona, Spain;Barcelona;9;16;24;5;Shell
+golcinab;Barcelona, Spain;Barcelona;0;16;0;2;JavaScript
+jvalduvieco;Barcelona;Barcelona;27;16;15;14;C
+jonathanvila;Barcelona, Spain;Barcelona;4;16;0;4;Java
+bastiqui;Barcelona (Spain);Barcelona;0;16;0;0;Shell
+mob1970;Sant Cugat del Vallès (Barcelona);Barcelona;2;16;8;10;Ruby
+sergigracia;Barcelona;Barcelona;19;16;97;46;Ruby
+marcalj;Montseny, Barcelona;Barcelona;10;16;0;33;Go
+asilvestre;Barcelona;Barcelona;1;16;14;5;Haskell
+marivipelaez;Barcelona;Barcelona;0;16;1;8;Python
+cristinaserrano;Barcelona (SPAIN);Barcelona;1;16;0;0;R
+avperez;Barcelona;Barcelona;0;16;0;0;Jupyter Notebook
+SrFlipFlop;Catalonia;Catalunya;1;16;0;0;Python and Java
 Neithar;Barcelona;Barcelona;0;16;0;0;JavaScript
-kilburn;Barcelona, Spain;Barcelona;13;15;46;15;Java
-davidrojo;Barcelona;Barcelona;0;15;0;0;JavaScript and PHP
-sikanrong;Barcelona, Spain;Barcelona;3;15;3;2;Ruby
-LuisResco;Barcelona, Spain;Barcelona;0;15;0;0;JavaScript and HTML
-aalcvr;Barcelona;Barcelona;0;15;0;0;Java
-juanangosto;Barcelona;Barcelona;2;15;0;57;PHP
-gilserrap;Barcelona;Barcelona;12;15;7;152;Ruby
-cristobalcastilla;Barcelona;Barcelona;0;15;0;5;CSS
-jcapde87;Barcelona;Barcelona;1;15;0;0;Python
-Gaucho-9;Girona, Spain;Gerona;2;15;0;3;Swift
-jaranega;Barcelona;Barcelona;4;15;0;12;C++
-marc280492;Catalonia;Catalunya;0;15;0;0;
-xavi-rp;Catalonia;Catalunya;0;15;0;0;R
-melzua;Catalonia;Catalunya;1;15;0;0;Lua
-Cobo3;Barcelona;Barcelona;0;15;0;0;C# and ASP
-thecheshirecat;Barcelona, Spain;Barcelona;0;15;1;1;CSS
+jaquol;Barcelona;Barcelona;0;16;1;0;Python
+oscarmarinmiro;Barcelona;Barcelona;10;16;10;24;JavaScript
+ealcaniz;Barcelona;Barcelona;3;16;1;14;Python
+ianmartorell;Barcelona, Spain;Barcelona;20;16;148;51;JavaScript
+odelrio;Barcelona;Barcelona;2;16;0;7;CSS
+Suryavarman;Barcelona;Barcelona;0;16;0;0;C++
+santiperez;Barcelona;Barcelona;9;16;11;8;JavaScript
+magaliboada;Barcelona;Barcelona;2;16;1;0;Java and HTML
+davidsantosmerino;Barcelona;Barcelona;1;16;0;19;CSS
+jlpoveda;Barcelona;Barcelona;10;16;5;21;PHP
+ealvarezdelacampa;Barcelona, Spain;Barcelona;1;16;0;1;C# and TeX
+albertmmtt;Barcelona;Barcelona;0;16;0;1;Python
+jordi122;Barcelona;Barcelona;0;16;0;1;C++
+didacs;Barcelona;Barcelona;0;16;0;3;Python and R
+rgalindo33;Barcelona;Barcelona;8;16;1;9;Ruby
 albertnavas;Barcelona;Barcelona;13;15;9;17;CSS
-devstepbcn;C\ Rector Ubach 7 At 2   08021 Barcelona;Barcelona;0;15;3;0;Java and JavaScript
-infohab;Barcelona;Barcelona;0;15;0;0;
+jaranega;Barcelona;Barcelona;4;15;0;12;C++
+thecheshirecat;Barcelona, Spain;Barcelona;0;15;1;1;CSS
 anomalia;Barcelona;Barcelona;0;15;0;2;CSS
 gsumalo;Barcelona;Barcelona;0;15;1;2;C++ and CMake
 davidgaya;Barcelona;Barcelona;10;15;28;51;Ruby
@@ -1599,60 +1583,85 @@ hacknug;Barcelona;Barcelona;2;15;1;189;CSS
 DanielRomanMartinez;Barcelona;Barcelona;0;15;0;0;ActionScript
 fenixbinario;Barcelona;Barcelona;0;15;0;0;Arduino
 xavisuau;Barcelona;Barcelona;0;15;0;1;Batchfile
+Gaucho-9;Girona, Spain;Gerona;2;15;0;3;Swift
 MagFer;Barcelona;Barcelona;0;15;2;0;Objective-C
 adi182;Manchester / HK / Barcelona / NYC;Barcelona;0;15;0;0;HTML
-carlesalonso;Mataró, Barcelona, Spain;Barcelona;3;14;1;0;C#
-dayalav;Tarragona, Spain;Tarragona;0;14;2;4;JavaScript
-stefanacin;Barcelona;Barcelona;5;14;0;90;ApacheConf
-bmunslow;Lleida;Lleida;3;14;0;16;CSS
-mariavilaro;Sort,Lleida,Spain;Lleida;1;14;0;4;JavaScript
-DoHITB;Lleida;Lleida;1;14;0;0;PHP
-lmsp;Barcelona;Barcelona;1;14;0;0;C and C++
-xaviliz;Barcelona;Barcelona;1;14;0;1;Java
-JSgarri;Barcelona;Barcelona;4;14;0;1;Arduino
-agustifernandez;Barcelona;Barcelona;3;14;0;498;Ruby
-albcarreras;Barcelona;Barcelona;3;14;4;4;C#
-mgarciaguerrero;Barcelona, Catalonia;Barcelona;0;14;0;43;Java
-nikkiparsons;Barcelona, Spain;Barcelona;1;14;0;0;Ruby
-cbr4yan;Barcelona, Spain;Barcelona;0;14;0;1;CSS and HTML
-miguelbernadi;Barcelona, Spain;Barcelona;3;14;14;7;C++
-Elph;Manresa, Catalonia;Catalunya;1;14;0;9;JavaScript
-SSLune;Barcelona;Barcelona;0;14;0;0;Java
-jmendezv;Barcelona;Barcelona;0;14;0;0;HTML
+kilburn;Barcelona, Spain;Barcelona;13;15;46;15;Java
+davidrojo;Barcelona;Barcelona;0;15;0;0;JavaScript and PHP
+sikanrong;Barcelona, Spain;Barcelona;3;15;3;2;Ruby
+LuisResco;Barcelona, Spain;Barcelona;0;15;0;0;JavaScript and HTML
+aalcvr;Barcelona;Barcelona;0;15;0;0;Java
+juanangosto;Barcelona;Barcelona;2;15;0;57;PHP
+gilserrap;Barcelona;Barcelona;12;15;7;152;Ruby
+cristobalcastilla;Barcelona;Barcelona;0;15;0;5;CSS
+melzua;Catalonia;Catalunya;1;15;0;0;Lua
+xavi-rp;Catalonia;Catalunya;0;15;0;0;R
+marc280492;Catalonia;Catalunya;0;15;0;0;
+jcapde87;Barcelona;Barcelona;1;15;0;0;Python
+Cobo3;Barcelona;Barcelona;0;15;0;0;C# and ASP
+devstepbcn;C\ Rector Ubach 7 At 2   08021 Barcelona;Barcelona;0;15;3;0;Java and JavaScript
+infohab;Barcelona;Barcelona;0;15;0;0;
 estevejm;Barcelona;Barcelona;1;14;0;19;CSS
-AlexBruch;Barcelona;Barcelona;0;14;0;0;Java
-opengeekv2;Barcelona;Barcelona;0;14;0;3;Java
-mailofjordi;Barcelona;Barcelona;0;14;0;1;JavaScript
-elmimmo;Barcelona, Spain;Barcelona;8;14;4;62;Objective-C
-izanbf1803;Barcelona;Barcelona;0;14;0;0;CSS
-claudix;Barcelona;Barcelona;1;14;0;1;C
-drocera;Barcelona;Barcelona;5;14;0;39;
-felixcarmona;Barcelona (Spain);Barcelona;22;14;19;18;Python
-borjavaillo;Barcelona;Barcelona;1;14;0;0;Python
-RedRudeBoy;Barcelona;Barcelona;5;14;2;59;JavaScript
 ahharu;Barcelona, Spain;Barcelona;1;14;0;1;Python
-jaragones;Barcelona (Catalonia);Barcelona;1;13;1;2;Objective-C
-megamarc;Barcelona, Spain;Barcelona;0;13;18;0;Batchfile
-anortef;Barcelona;Barcelona;2;13;0;0;Shell
-ejrope;Barcelona (Catalonia - Spain);Barcelona;3;13;0;28;Java
-fevsea;Barcelona;Barcelona;0;13;0;6;Makefile
-dfvalero;Barcelona;Barcelona;5;13;2;10;CSS
-jcornide;Barcelona;Barcelona;3;13;0;0;ApacheConf
-rubenpla-develop;Barcelona, Spain.;Barcelona;4;13;14;22;Java
-andresin87;Barcelona;Barcelona;2;13;1;22;JavaScript
-malefikh;Barcelona;Barcelona;0;13;0;0;CSS
-gsietsetb;Barcelona;Barcelona;2;13;1;1;C
-sergiosusa;Barcelona, España;Barcelona;3;13;0;1;PHP
-cjm1327;Terrassa, Barcelona;Barcelona;1;13;0;0;HTML
+RedRudeBoy;Barcelona;Barcelona;5;14;2;59;JavaScript
+DoHITB;Lleida;Lleida;1;14;0;0;PHP
+mariavilaro;Sort,Lleida,Spain;Lleida;1;14;0;4;JavaScript
+bmunslow;Lleida;Lleida;3;14;0;16;CSS
+borjavaillo;Barcelona;Barcelona;1;14;0;0;Python
+felixcarmona;Barcelona (Spain);Barcelona;22;14;19;18;Python
+drocera;Barcelona;Barcelona;5;14;0;39;
+claudix;Barcelona;Barcelona;1;14;0;1;C
+izanbf1803;Barcelona;Barcelona;0;14;0;0;CSS
+elmimmo;Barcelona, Spain;Barcelona;8;14;4;62;Objective-C
+mailofjordi;Barcelona;Barcelona;0;14;0;1;JavaScript
+opengeekv2;Barcelona;Barcelona;0;14;0;3;Java
+AlexBruch;Barcelona;Barcelona;0;14;0;0;Java
+dayalav;Tarragona, Spain;Tarragona;0;14;2;4;JavaScript
+jmendezv;Barcelona;Barcelona;0;14;0;0;HTML
+SSLune;Barcelona;Barcelona;0;14;0;0;Java
+carlesalonso;Mataró, Barcelona, Spain;Barcelona;3;14;1;0;C#
+miguelbernadi;Barcelona, Spain;Barcelona;3;14;14;7;C++
+cbr4yan;Barcelona, Spain;Barcelona;0;14;0;1;CSS and HTML
+nikkiparsons;Barcelona, Spain;Barcelona;1;14;0;0;Ruby
+mgarciaguerrero;Barcelona, Catalonia;Barcelona;0;14;0;43;Java
+albcarreras;Barcelona;Barcelona;3;14;4;4;C#
+agustifernandez;Barcelona;Barcelona;3;14;0;498;Ruby
+JSgarri;Barcelona;Barcelona;4;14;0;1;Arduino
+xaviliz;Barcelona;Barcelona;1;14;0;1;Java
+lmsp;Barcelona;Barcelona;1;14;0;0;C and C++
+stefanacin;Barcelona;Barcelona;5;14;0;90;ApacheConf
+Elph;Manresa, Catalonia;Catalunya;2;14;0;9;JavaScript
+mateullas;Lleida;Lleida;0;13;0;0;CSS
 MiguelHervias;Barcelona;Barcelona;7;13;1;0;CSS
+cjm1327;Terrassa, Barcelona;Barcelona;1;13;0;0;HTML
+sergiosusa;Barcelona, España;Barcelona;3;13;0;1;PHP
+gsietsetb;Barcelona;Barcelona;2;13;1;1;C
+malefikh;Barcelona;Barcelona;0;13;0;0;CSS
+andresin87;Barcelona;Barcelona;2;13;1;22;JavaScript
+rubenpla-develop;Barcelona, Spain.;Barcelona;4;13;14;22;Java
+jcornide;Barcelona;Barcelona;3;13;0;0;ApacheConf
+dfvalero;Barcelona;Barcelona;5;13;2;10;CSS
+fevsea;Barcelona;Barcelona;0;13;0;6;Makefile
+ejrope;Barcelona (Catalonia - Spain);Barcelona;3;13;0;28;Java
+anortef;Barcelona;Barcelona;2;13;0;0;Shell
+megamarc;Barcelona, Spain;Barcelona;0;13;18;0;Batchfile
+jaragones;Barcelona (Catalonia);Barcelona;1;13;1;2;Objective-C
+rcrehuet;Barcelona;Barcelona;0;13;1;8;Python
+jordinebot;Barcelona, CT;Barcelona;2;13;0;31;JavaScript
+albegomez;Barcelona;Barcelona;0;13;2;1;C#
+robinsk1;Barcelona;Barcelona;2;13;9;90;Ruby
+avallesalas;Barcelona;Barcelona;0;13;0;1;Shell
 oriolrd;Catalunya;Catalunya;0;13;0;3;Python
 lujop;Aiguaviva, Girona, Catalonia;Catalunya;1;13;3;58;Java
-XusBadia;Callus, Catalonia;Catalunya;1;13;0;83;HTML
 ichalfachrizal;catalonia,spanyol;Catalunya;12;13;0;0;C# and Java
-mateullas;Lleida;Lleida;0;13;0;0;CSS
+XusBadia;Callus, Catalonia;Catalunya;1;13;0;83;HTML
+rafathefull;Bigues i Riells, Barcelona, Spain;Barcelona;4;13;7;6;Java
+tobytf;Barcelona;Barcelona;1;13;0;0;Python and Ruby
+vickyvou;Barcelona, Spain;Barcelona;2;13;1;1;TeX
+bichotll;Barcelona;Barcelona;17;13;152;265;JavaScript
 matiasmenker;Barcelona;Barcelona;2;13;0;5;JavaScript
 xavireig;Barcelona, Spain;Barcelona;2;13;4;0;Java
-rafathefull;Bigues i Riells, Barcelona, Spain;Barcelona;4;13;7;6;Java
+valeriodimatteo;Barcelona, Spain;Barcelona;0;13;1;0;Java and JavaScript
 orlanmarty;Barcelona;Barcelona;3;13;1;43;CSS
 marcbeldata;Barcelona;Barcelona;0;13;0;0;HTML and R
 celeduc;Barcelona, Spain;Barcelona;32;13;6;92;Ruby
@@ -1665,92 +1674,83 @@ dgarceran;Barcelona, Spain;Barcelona;4;13;1;2;Batchfile
 radarnex;Barcelona, Spain;Barcelona;0;13;1;2;Python and Shell
 polcolomer;Barcelona;Barcelona;5;13;6;5;C
 xavi-reloaded;Barcelona;Barcelona;8;13;3;10;CSS
-valeriodimatteo;Barcelona, Spain;Barcelona;0;13;1;0;Java and JavaScript
-bichotll;Barcelona;Barcelona;17;13;152;265;JavaScript
-vickyvou;Barcelona, Spain;Barcelona;2;13;1;1;TeX
-tobytf;Barcelona;Barcelona;1;13;0;0;Python and Ruby
-avallesalas;Barcelona;Barcelona;0;13;0;1;Shell
-robinsk1;Barcelona;Barcelona;2;13;9;90;Ruby
-albegomez;Barcelona;Barcelona;0;13;2;1;C#
-jordinebot;Barcelona, CT;Barcelona;2;13;0;31;JavaScript
-rcrehuet;Barcelona;Barcelona;0;13;1;8;Python
-sarguinsson;Girona;Gerona;0;12;0;0;R
+amorshanty;Barcelona - España;Barcelona;6;12;0;0;JavaScript
 jrodriguezg;Tarragona, Spain;Tarragona;1;12;0;1;Java
-cor9003;Barcelona;Barcelona;0;12;0;0;CSS
-aperezg;Barcelona, Spain;Barcelona;0;12;0;1;Ruby
-miguelRivero;Barcelona;Barcelona;1;12;0;11;CSS
-atrilla;Barcelona;Barcelona;11;12;138;37;C++
-dgisbert;Cardedeu, Catalonia;Catalunya;0;12;0;0;Java
-gillesmateu;Catalunya;Catalunya;2;12;1;23;Ruby
-griera;Barcelona, Catalunya;Barcelona;5;12;1;187;Shell
-bike-bill;Barcelona;Barcelona;5;12;2;11;Shell
-andresmr;Barcelona;Barcelona;0;12;0;10;Java
-Jordira;Barcelona;Barcelona;1;12;0;0;R and HTML
-YONGMKKK;BARCELONA;Barcelona;0;12;0;1;
-poteirard;Barcelona;Barcelona;3;12;0;3;PHP
-wtebbens;Amsterdam/Barcelona;Barcelona;6;12;2;14;JavaScript
-oscarraigscmspain;Barcelona, (Catalonia);Barcelona;2;12;0;8;Java and Shell
-ycasasgonzalez;Barcelona;Barcelona;1;12;0;0;JavaScript and CSS
 alextremp;Barcelona;Barcelona;0;12;0;6;Java
+ycasasgonzalez;Barcelona;Barcelona;1;12;0;0;JavaScript and CSS
+gillesmateu;Catalunya;Catalunya;2;12;1;23;Ruby
+dgisbert;Cardedeu, Catalonia;Catalunya;0;12;0;0;Java
+oscarraigscmspain;Barcelona, (Catalonia);Barcelona;2;12;0;8;Java and Shell
+wtebbens;Amsterdam/Barcelona;Barcelona;6;12;2;14;JavaScript
+poteirard;Barcelona;Barcelona;3;12;0;3;PHP
+YONGMKKK;BARCELONA;Barcelona;0;12;0;1;
+Jordira;Barcelona;Barcelona;1;12;0;0;R and HTML
+andresmr;Barcelona;Barcelona;0;12;0;10;Java
+bike-bill;Barcelona;Barcelona;5;12;2;11;Shell
+griera;Barcelona, Catalunya;Barcelona;5;12;1;187;Shell
+jordi-luir;Barcelona;Barcelona;1;12;0;0;Swift and R
+GerardGarcia;Barcelona;Barcelona;0;12;1;1;C
+eddygarcas;Barcelona;Barcelona;0;12;0;0;C++
+peresleguine;Barcelona;Barcelona;12;12;40;96;CoffeeScript
+katan;Sant Cugat del Vallès, Barcelona, Spain;Barcelona;1;12;7;6;PHP
+jcondominas;Barcelona;Barcelona;12;12;0;50;Java
+SantiJacomet;Barcelona;Barcelona;0;12;0;0;
+DaniUPC;Barcelona, Catalunya;Barcelona;0;12;1;0;Java
+zigotica;Barcelona;Barcelona;28;12;48;62;JavaScript
+lucasvc;Barcelona, Catalonia, Spain;Barcelona;2;12;0;5;Java
 Sandrami;Barcelona;Barcelona;1;12;2;2;HTML
-danielsequeira;Barcelona;Barcelona;3;12;0;3;Java
-martibosch;Barcelona;Barcelona;1;12;0;0;CSS
-ivanrdgc;Lleida, Spain;Lleida;0;12;0;0;Java and Python
-RafalEsp;Barcelona, Spain;Barcelona;0;12;0;0;PHP
-robmosca;Barcelona, Spain;Barcelona;1;12;0;2;HTML
-fitigf15;Barcelona;Barcelona;4;12;0;3;C++
-z4m0;Barcelona, Catalunya;Barcelona;4;12;2;38;JavaScript
-QUIQUELHAPPY;Barcelona, Spain;Barcelona;0;12;0;4;CSS
-jcasals;Sant Cugat del Vallés, Barcelona;Barcelona;3;12;4;12;Shell
-msteghofer;Barcelona;Barcelona;6;12;12;13;Python
-ivannpaz;Barcelona;Barcelona;11;12;6;203;PHP
-victorAlvarez;Barcelona, Spain;Barcelona;2;12;0;0;CSS
 dpcat237;Barcelona, Spain;Barcelona;17;12;3;117;Shell
+victorAlvarez;Barcelona, Spain;Barcelona;2;12;0;0;CSS
+ivannpaz;Barcelona;Barcelona;11;12;6;203;PHP
+msteghofer;Barcelona;Barcelona;6;12;12;13;Python
 jongurutz;Girona;Gerona;0;12;0;0;HTML
-afeherc;Barcelona;Barcelona;1;12;0;1;ApacheConf
+sarguinsson;Girona;Gerona;0;12;0;0;R
 marcmascort;Girona;Gerona;5;12;0;31;HTML
 marclr;Girona;Gerona;7;12;2;26;JavaScript
-amorshanty;Barcelona - España;Barcelona;6;12;0;0;JavaScript
-lucasvc;Barcelona, Catalonia, Spain;Barcelona;2;12;0;5;Java
-zigotica;Barcelona;Barcelona;28;12;48;62;JavaScript
-DaniUPC;Barcelona, Catalunya;Barcelona;0;12;1;0;Java
-SantiJacomet;Barcelona;Barcelona;0;12;0;0;
-jcondominas;Barcelona;Barcelona;12;12;0;50;Java
-katan;Sant Cugat del Vallès, Barcelona, Spain;Barcelona;1;12;7;6;PHP
-peresleguine;Barcelona;Barcelona;12;12;40;96;CoffeeScript
-eddygarcas;Barcelona;Barcelona;0;12;0;0;C++
-GerardGarcia;Barcelona;Barcelona;0;12;1;1;C
-jordi-luir;Barcelona;Barcelona;1;12;0;0;Swift and R
-fleveque;Cubelles, Garraf, Barcelona;Barcelona;4;11;378;51;Ruby
+jcasals;Sant Cugat del Vallés, Barcelona;Barcelona;3;12;4;12;Shell
+QUIQUELHAPPY;Barcelona, Spain;Barcelona;0;12;0;4;CSS
+z4m0;Barcelona, Catalunya;Barcelona;4;12;2;38;JavaScript
+fitigf15;Barcelona;Barcelona;4;12;0;3;C++
+robmosca;Barcelona, Spain;Barcelona;1;12;0;2;HTML
+RafalEsp;Barcelona, Spain;Barcelona;0;12;0;0;PHP
+martibosch;Barcelona;Barcelona;1;12;0;0;CSS
+danielsequeira;Barcelona;Barcelona;3;12;0;3;Java
+atrilla;Barcelona;Barcelona;11;12;138;37;C++
+miguelRivero;Barcelona;Barcelona;1;12;0;11;CSS
+aperezg;Barcelona, Spain;Barcelona;0;12;0;1;Ruby
+cor9003;Barcelona;Barcelona;0;12;0;0;CSS
+afeherc;Barcelona;Barcelona;1;12;0;1;ApacheConf
+ivanrdgc;Lleida, Spain;Lleida;0;12;0;0;Java and Python
+davidruizrodri;Barcelona;Barcelona;2;11;1;8;Ruby
+xbeumala;Barcelona;Barcelona;2;11;3;11;Java
 aleixrodri98;Barcelona;Barcelona;0;11;0;0;Python
 plushgraffiti;Barcelona, Spain;Barcelona;4;11;1;31;JavaScript
 IN2felipepozo;Barcelona;Barcelona;1;11;1;1;HTML
 diekus;Barcelona;Barcelona;6;11;3;4;CSS
 StateX;Barcelona;Barcelona;9;11;4;1;Python and Tcl
 jordigil;Barcelona, Spain;Barcelona;0;11;0;2;HTML
+MarcCollado;Barcelona;Barcelona;0;11;0;15;Ruby
+ismaelresp;Barcelona, Spain;Barcelona;0;11;0;1;Python
+jdcastillor;Barcelona;Barcelona;0;11;0;0;JavaScript and PHP
+dbuendiab;Barcelona, Spain;Barcelona;0;11;0;0;JavaScript
+hermesmonteiro;Barcelona/Spain;Barcelona;0;11;0;0;ASP
 maariasb;Barcelona, Spain;Barcelona;0;11;0;3;PHP
 prota;Barcelona;Barcelona;0;11;0;3;Java
 danielramirezmartin;Barcelona;Barcelona;1;11;0;1;CSS
-ncalvet;Banyoles, Catalonia;Catalunya;2;11;0;0;
 pcasanellasp;Barcelona;Barcelona;0;11;0;0;CSS
 rmiguel1985;Barcelona;Barcelona;0;11;0;0;Python
 igochan;Barcelona;Barcelona;1;11;0;0;CSS
 noe6600;Barcelona;Barcelona;4;11;2;4;Java and PHP
 danielart;Barcelona;Barcelona;0;11;0;1;CSS
 spayder;Barcelona, SPAIN;Barcelona;1;11;0;4;ApacheConf
+ncalvet;Banyoles, Catalonia;Catalunya;2;11;0;0;
 plmarcelo;Barcelona;Barcelona;2;11;1;5;PHP
 gpunti;Barcelona;Barcelona;0;11;1;0;Java
 jolivepetrus;BARCELONA;Barcelona;0;11;0;0;
 cubometa;Barcelona;Barcelona;2;11;0;3;C
 kailn;Barcelona, Spain;Barcelona;0;11;0;1;C#
 jrdi;Barcelona;Barcelona;22;11;25;47;Ruby
-lucacerone;Barcelona, Catalunya, Spain;Barcelona;2;11;1;45;Python
 sergicase;Barcelona , Spain;Barcelona;2;11;0;0;CoffeeScript
-MarcCollado;Barcelona;Barcelona;0;11;0;15;Ruby
-ismaelresp;Barcelona, Spain;Barcelona;0;11;0;1;Python
-jdcastillor;Barcelona;Barcelona;0;11;0;0;JavaScript and PHP
-dbuendiab;Barcelona, Spain;Barcelona;0;11;0;0;JavaScript
-hermesmonteiro;Barcelona/Spain;Barcelona;0;11;0;0;ASP
 miguelmossa;Barcelona;Barcelona;1;11;0;2;R and TeX
 carlosrobles;Dubai - Hong Kong - Manila - London - Barcelona;Barcelona;0;11;3;13;Java
 jodersus;Barcelona, Spain;Barcelona;1;11;0;1;
@@ -1759,91 +1759,95 @@ bbwebconsult;Barcelona;Barcelona;2;11;0;0;PHP
 xaviaracil;Barcelona;Barcelona;5;11;5;93;JavaScript
 colinkingswood;Barcelona;Barcelona;1;11;0;2;Python and Perl
 brutuscat;Barcelona;Barcelona;26;11;37;213;Ruby
-rashgaroc;Platja d'Aro (Girona);Gerona;0;11;0;0;HTML and JavaScript
 iamsanti;Barcelona;Barcelona;0;11;1;0;R
 pasqualguerrero;Barcelona;Barcelona;1;11;0;8;CSS
 liopic;Barcelona;Barcelona;1;11;1;15;PHP
+rashgaroc;Platja d'Aro (Girona);Gerona;0;11;0;0;HTML and JavaScript
 jlealbernal;Barcelona;Barcelona;4;11;0;0;R
 obfuscatedgeek;Barcelona, Spain;Barcelona;4;11;2;5;JavaScript
 javiel;Barcelona;Barcelona;1;11;1;0;CSS
 bedomo;Barcelona;Barcelona;0;11;0;0;Java
 dormi;Barcelona;Barcelona;4;11;3;6;Ruby
 inakicalvo;Barcelona;Barcelona;0;11;0;4;CSS and HTML
-xbeumala;Barcelona;Barcelona;2;11;3;11;Java
-davidruizrodri;Barcelona;Barcelona;2;11;1;8;Ruby
 sergiocastellote;Barcelona;Barcelona;0;11;0;1;CSS
-massens;Barcelona;Barcelona;2;10;0;0;Ruby
-hydex86;Barcelona, Spain;Barcelona;3;10;2;37;Objective-C
+fleveque;Cubelles, Garraf, Barcelona;Barcelona;4;11;378;51;Ruby
+lucacerone;Barcelona, Catalunya, Spain;Barcelona;2;11;1;45;Python
+santiago-pan;Barcelona;Barcelona;0;10;0;1;CSS
+guillemmateos;Sunny Barcelona;Barcelona;0;10;2;3;CSS
 studi7;Tarragona;Tarragona;0;10;1;2;CSS
+dpoquet;Barcelona;Barcelona;2;10;0;4;CSS
+mpuig;Barcelona, Spain;Barcelona;5;10;15;199;Python
+Jypy;Barcelona;Barcelona;0;10;3;2;Shell
+michirohrer;Barcelona;Barcelona;0;10;0;0;CoffeeScript
+JesConsuegra;Olivella, (Barcelona) - SPAIN;Barcelona;0;10;0;3;Assembly and Visual Basic
+anshmania;Barcelona;Barcelona;0;10;0;1;Python
+brianjimenez;Barcelona;Barcelona;4;10;4;1;Python
+jse1978;Barcelona;Barcelona;0;10;0;0;CSS
+devloe;Barcelona;Barcelona;2;10;0;209;PHP
+obarcelonap;Barcelona;Barcelona;0;10;2;14;JavaScript
+enriqueto;Barcelona;Barcelona;0;10;0;5;ActionScript
+yukideluxe;Barcelona;Barcelona;34;10;5;26;Ruby
+mamorosdev;Barcelona;Barcelona;0;10;0;0;HTML
+andresberrios;Barcelona;Barcelona;4;10;4;14;JavaScript
+Galloman;Barcelona;Barcelona;1;10;29;8;C
+zwollander;Barcelona;Barcelona;0;10;2;2;CSS
+LMDavid;Barcelona, Spain;Barcelona;0;10;0;3;C
+sdivad;Barcelona, Spain;Barcelona;3;10;9;1;Python
+r0uzic;Barcelona, Spain;Barcelona;0;10;0;1;
+hydex86;Barcelona, Spain;Barcelona;3;10;2;37;Objective-C
+maartenklijnstra;Barcelona;Barcelona;0;10;0;0;
+oskarizu;Barcelona, Spain;Barcelona;11;10;0;58;Ruby
+XaviTad;Barcelona;Barcelona;0;10;0;0;CSS and HTML
+remosu;Barcelona;Barcelona;6;10;35;593;Python
+gerardcobas;Barcelona;Barcelona;3;10;2;5;C
+Rafa350;Barcelona, SPAIN;Barcelona;0;10;0;0;Eagle
+jlerida;Lleida;Lleida;1;10;0;0;C
+Ivi94;Barcelona;Barcelona;0;10;0;0;CSS
 yramirezc;Tarragona, Spain;Tarragona;0;10;0;0;C++
+r01010010;Barcelona;Barcelona;10;10;1;8;JavaScript
+jrom;Barcelona;Barcelona;62;10;78;154;Ruby
+djuery;Barcelona;Barcelona;8;10;2;9;R
+pelayomendez;Barcelona, Spain;Barcelona;16;10;63;46;C++
+massens;Barcelona;Barcelona;2;10;0;0;Ruby
+CaminsMakers;Barcelona;Barcelona;0;10;0;0;
+ureesoriano;Barcelona;Barcelona;3;10;0;0;Perl
+sergiwf;barcelona;Barcelona;0;10;0;0;JavaScript
+martirenom;Barcelona;Barcelona;1;10;0;1;
+fjavier-moreno;Barcelona;Barcelona;1;10;0;0;PHP
+zonzamas;Barcelona, Spain;Barcelona;9;10;1;4;Ruby
+burakukula;Barcelona, Spain;Barcelona;3;10;0;1;CSS
+Catmacey;Barcelona. Spain;Barcelona;1;10;15;1;C
+nealobrien;London and Barcelona;Barcelona;0;10;1;5;Batchfile
+roowifi;Barcelona, Spain;Barcelona;0;10;0;0;C
+dberga;Barcelona;Barcelona;3;10;0;27;C++
+adosaiguas;Rubí, Barcelona, Espanya;Barcelona;4;10;1;18;PHP
+egamonal;Barcelona, Catalonia;Barcelona;10;10;1;1;CSS
+pablomoreno61;Barcelona;Barcelona;0;10;0;0;PHP
+slobadx;Barcelona;Barcelona;1;10;0;1;
+lienbcn;Barcelona;Barcelona;6;10;4;11;JavaScript
+VictorPurMar;Barcelona, Spain;Barcelona;3;10;0;10;Java
+ivanaldavert;Barcelona;Barcelona;1;10;0;0;CSS
+jsampedro77;Arenys de Munt, Barcelona;Barcelona;6;10;7;19;PHP
+xavicolomer;Barcelona;Barcelona;0;10;2;7;JavaScript
+Andergraw;Barcelona;Barcelona;0;10;0;9;JavaScript
 aplcat;Tarragona, Catalonia;Catalunya;0;10;0;0;HTML
+xavividal;Terrassa (Catalunya);Catalunya;21;10;5;1;CSS
 Rusca8;Tordera, Catalonia;Catalunya;1;10;0;1;C++ and Java
 ventayol;Catalonia;Catalunya;5;10;0;31;Objective-C
-xavividal;Terrassa (Catalunya);Catalunya;21;10;5;1;CSS
 kuduka;Catalonia;Catalunya;0;10;0;0;Shell
-Andergraw;Barcelona;Barcelona;0;10;0;9;JavaScript
-xavicolomer;Barcelona;Barcelona;0;10;2;7;JavaScript
-guillemmateos;Sunny Barcelona;Barcelona;0;10;2;3;CSS
-jsampedro77;Arenys de Munt, Barcelona;Barcelona;6;10;7;19;PHP
-ivanaldavert;Barcelona;Barcelona;1;10;0;0;CSS
-VictorPurMar;Barcelona, Spain;Barcelona;3;10;0;10;Java
-lienbcn;Barcelona;Barcelona;6;10;4;11;JavaScript
-slobadx;Barcelona;Barcelona;1;10;0;1;
-pablomoreno61;Barcelona;Barcelona;0;10;0;0;PHP
-egamonal;Barcelona, Catalonia;Barcelona;10;10;1;1;CSS
-adosaiguas;Rubí, Barcelona, Espanya;Barcelona;4;10;1;18;PHP
-dberga;Barcelona;Barcelona;3;10;0;27;C++
-roowifi;Barcelona, Spain;Barcelona;0;10;0;0;C
-nealobrien;London and Barcelona;Barcelona;0;10;1;5;Batchfile
-Catmacey;Barcelona. Spain;Barcelona;1;10;15;1;C
-burakukula;Barcelona, Spain;Barcelona;3;10;0;1;CSS
-zonzamas;Barcelona, Spain;Barcelona;9;10;1;4;Ruby
-fjavier-moreno;Barcelona;Barcelona;1;10;0;0;PHP
-martirenom;Barcelona;Barcelona;1;10;0;1;
-sergiwf;barcelona;Barcelona;0;10;0;0;JavaScript
-ureesoriano;Barcelona;Barcelona;3;10;0;0;Perl
-CaminsMakers;Barcelona;Barcelona;0;10;0;0;
-jlerida;Lleida;Lleida;1;10;0;0;C
-pelayomendez;Barcelona, Spain;Barcelona;16;10;63;46;C++
-djuery;Barcelona;Barcelona;8;10;2;9;R
-jrom;Barcelona;Barcelona;62;10;78;154;Ruby
-r01010010;Barcelona;Barcelona;10;10;1;8;JavaScript
-santiago-pan;Barcelona;Barcelona;0;10;0;1;CSS
-Ivi94;Barcelona;Barcelona;0;10;0;0;CSS
-Rafa350;Barcelona, SPAIN;Barcelona;0;10;0;0;Eagle
-gerardcobas;Barcelona;Barcelona;3;10;2;5;C
-remosu;Barcelona;Barcelona;6;10;35;593;Python
-XaviTad;Barcelona;Barcelona;0;10;0;0;CSS and HTML
-oskarizu;Barcelona, Spain;Barcelona;11;10;0;58;Ruby
-maartenklijnstra;Barcelona;Barcelona;0;10;0;0;
-r0uzic;Barcelona, Spain;Barcelona;0;10;0;1;
-sdivad;Barcelona, Spain;Barcelona;3;10;9;1;Python
-LMDavid;Barcelona, Spain;Barcelona;0;10;0;3;C
-zwollander;Barcelona;Barcelona;0;10;2;2;CSS
-Galloman;Barcelona;Barcelona;1;10;29;8;C
-andresberrios;Barcelona;Barcelona;4;10;4;14;JavaScript
-mamorosdev;Barcelona;Barcelona;0;10;0;0;HTML
-yukideluxe;Barcelona;Barcelona;34;10;5;26;Ruby
-enriqueto;Barcelona;Barcelona;0;10;0;5;ActionScript
-obarcelonap;Barcelona;Barcelona;0;10;2;14;JavaScript
-devloe;Barcelona;Barcelona;2;10;0;209;PHP
-jse1978;Barcelona;Barcelona;0;10;0;0;CSS
-brianjimenez;Barcelona;Barcelona;4;10;4;1;Python
-anshmania;Barcelona;Barcelona;0;10;0;1;Python
-JesConsuegra;Olivella, (Barcelona) - SPAIN;Barcelona;0;10;0;3;Assembly and Visual Basic
-michirohrer;Barcelona;Barcelona;0;10;0;0;CoffeeScript
-Jypy;Barcelona;Barcelona;0;10;3;2;Shell
-mpuig;Barcelona, Spain;Barcelona;5;10;15;199;Python
-dpoquet;Barcelona;Barcelona;2;10;0;4;CSS
-danigosa;Barcelona;Barcelona;15;9;21;33;Python
-juansalvatella;Barcelona;Barcelona;1;9;0;0;CSS
+aldodfm;L'Hospitalet de Llobregat, Barcelona;Barcelona;12;9;0;363;Java and HTML
+asllop;Barcelona (Catalonia);Barcelona;2;9;4;5;HTML and JavaScript
 martyN1;Girona;Gerona;0;9;0;1;HTML
-raulillana;08016, Barcelona, Spain;Barcelona;7;9;1;96;JavaScript
+sylven;Barcelona, Spain;Barcelona;0;9;0;4;PHP
+juansalvatella;Barcelona;Barcelona;1;9;0;0;CSS
+MarcosAguayo;Barcelona;Barcelona;13;9;12;35;C
 rubiaonrails;Barcelona;Barcelona;22;9;0;0;CSS
 albarin;Barcelona;Barcelona;5;9;2;2;CSS
-Elexy;Tarragona area, Spain;Tarragona;13;9;15;43;JavaScript
-LuisMuniz;Tarragona, Spain;Tarragona;1;9;0;5;CSS
-ssorgatem;Tarragona;Tarragona;6;9;16;41;Python
+lapicateclas;Barcelona;Barcelona;0;9;0;0;HTML
+pablorf-dev;Barcelona;Barcelona;0;9;0;0;ApacheConf
+gracielarock;Barcelona;Barcelona;0;9;0;0;CSS and HTML
+gpbonifazi;Barcelona, Spain;Barcelona;5;9;6;16;JavaScript
+raulillana;08016, Barcelona, Spain;Barcelona;7;9;1;96;JavaScript
 marccoll;Barcelona;Barcelona;2;9;2;44;PHP
 alaramar;Barcelona;Barcelona;1;9;0;0;Batchfile
 AngelVillanueva;Barcelona;Barcelona;0;9;2;4;JavaScript
@@ -1853,6 +1857,17 @@ smironescu;Barcelona;Barcelona;0;9;0;1;CSS
 jomsdev;Barcelona;Barcelona;16;9;1;99;Python
 PCerralbo;Barcelona;Barcelona;0;9;0;0;
 ls30657;Barcelona;Barcelona;1;9;0;1;C and HTML
+philippebernou;Barcelona;Barcelona;0;9;0;0;R
+ssorgatem;Tarragona;Tarragona;6;9;16;41;Python
+LuisMuniz;Tarragona, Spain;Tarragona;1;9;0;5;CSS
+Elexy;Tarragona area, Spain;Tarragona;13;9;15;43;JavaScript
+danigosa;Barcelona;Barcelona;15;9;21;33;Python
+mm2;Catalonia;Catalunya;8;9;100;2;Batchfile
+cgarciap;Catalonia;Catalunya;0;9;0;0;Java
+savayg;Barcelona;Barcelona;2;9;0;1;Ruby
+SmasSive;Barcelona;Barcelona;6;9;13;7;Java
+cinefilo;Barcelona, Spain;Barcelona;3;9;2;17;JavaScript
+jfbarranco;Barcelona, Catalonia;Barcelona;5;9;0;0;
 vmolina;Barcelona;Barcelona;1;9;0;6;Python and JavaScript
 turbohz;Barcelona;Barcelona;5;9;4;57;JavaScript
 aaronroman;Barcelona;Barcelona;4;9;1;11;PHP
@@ -1865,13 +1880,6 @@ jcarlosrga;Barcelona;Barcelona;1;9;0;1;Python
 alcaina;Barcelona. Spain;Barcelona;5;9;0;0;R
 ThXou;Barcelona;Barcelona;1;9;7;29;Objective-C
 albertca;Sabadell, Barcelona;Barcelona;10;9;9;4;Python
-mm2;Catalonia;Catalunya;8;9;99;2;Batchfile
-cgarciap;Catalonia;Catalunya;0;9;0;0;Java
-lapicateclas;Barcelona;Barcelona;0;9;0;0;HTML
-pablorf-dev;Barcelona;Barcelona;0;9;0;0;ApacheConf
-gracielarock;Barcelona;Barcelona;0;9;0;0;CSS and HTML
-gpbonifazi;Barcelona, Spain;Barcelona;5;9;6;16;JavaScript
-MarcosAguayo;Barcelona;Barcelona;13;9;12;35;C
 ericmarcos;Barcelona;Barcelona;2;9;0;58;Python
 jaumecolom;Terrassa, Barcelona;Barcelona;0;9;1;0;Java
 suilillo;Vilafranca del Penedès, Barcelona.;Barcelona;1;9;0;4;JavaScript
@@ -1882,99 +1890,84 @@ lant;Barcelona;Barcelona;15;9;28;54;Java
 XavierGimenez;Barcelona, Catalonia;Barcelona;4;9;5;4;JavaScript
 amalinovskiy;Barcelona;Barcelona;2;9;3;4;HTML
 Carmoldu;Esplugues de Llobregat, Barcelona;Barcelona;0;9;0;0;Matlab and Arduino
-philippebernou;Barcelona;Barcelona;0;9;0;0;R
-jfbarranco;Barcelona, Catalonia;Barcelona;5;9;0;0;
-cinefilo;Barcelona, Spain;Barcelona;3;9;2;17;JavaScript
-SmasSive;Barcelona;Barcelona;6;9;13;7;Java
-savayg;Barcelona;Barcelona;2;9;0;1;Ruby
-sylven;Barcelona, Spain;Barcelona;0;9;0;4;PHP
-asllop;Barcelona (Catalonia);Barcelona;2;9;4;5;HTML and JavaScript
-aldodfm;L'Hospitalet de Llobregat, Barcelona;Barcelona;12;9;0;363;Java and HTML
-davidgit;Barcelona, Catalonia;Barcelona;23;8;13;89;Python
+nesilin;Barcelona;Barcelona;0;8;0;0;
+dtamajon;Barcelona;Barcelona;1;8;0;1;JavaScript
+andyw0101;Barcelona, Spain;Barcelona;0;8;0;1;
+mcanes;Barcelona;Barcelona;13;8;3;150;Python
+marccaps;Barcelona;Barcelona;0;8;0;0;Java
+Siftah;Barcelona, España;Barcelona;1;8;1;1;PHP
+Marina42;Barcelona;Barcelona;3;8;1;0;Java
+sdecandelario;Barcelona, Spain;Barcelona;5;8;1;10;PHP
+patxi80;Barcelona;Barcelona;4;8;2;0;JavaScript
+frankespasa;Barcelona;Barcelona;1;8;0;0;
+lombartec;Barcelona;Barcelona;18;8;2;301;PHP
+mromerog;Barcelona;Barcelona;1;8;0;0;C
+Welcius;Barcelona;Barcelona;0;8;0;2;Batchfile
+codeboost;Barcelona;Barcelona;18;8;190;18;JavaScript
+artpok;Barcelona - Spain;Barcelona;0;8;1;0;CSS
 joaquimforcada;BARCELONA;Barcelona;0;8;0;0;PHP
-oriolet;Caldes de Montbui, Barcelona;Barcelona;0;8;3;3;PHP
-victorcl;Barcelona;Barcelona;10;8;0;17;PHP
 Suelves;Barcelona;Barcelona;1;8;0;0;PHP and JavaScript
 juagardac;Barcelona;Barcelona;0;8;0;0;HTML
-artpok;Barcelona - Spain;Barcelona;0;8;1;0;CSS
-nesilin;Barcelona;Barcelona;0;8;0;0;
-Welcius;Barcelona;Barcelona;0;8;0;2;Batchfile
-mromerog;Barcelona;Barcelona;1;8;0;0;C
-lombartec;Barcelona;Barcelona;18;8;2;301;PHP
-frankespasa;Barcelona;Barcelona;1;8;0;0;
-patxi80;Barcelona;Barcelona;4;8;2;0;JavaScript
-sdecandelario;Barcelona, Spain;Barcelona;5;8;1;10;PHP
-Marina42;Barcelona;Barcelona;3;8;1;0;Java
-Siftah;Barcelona, España;Barcelona;1;8;1;1;PHP
-marccaps;Barcelona;Barcelona;0;8;0;0;Java
-mcanes;Barcelona;Barcelona;13;8;3;150;Python
-andyw0101;Barcelona, Spain;Barcelona;0;8;0;1;
-dtamajon;Barcelona;Barcelona;1;8;0;1;JavaScript
-ImmaLlobet;Barcelona;Barcelona;0;8;0;0;HTML
-eduguiu;Barcelona;Barcelona;0;8;0;0;
-viatgers;Barcelona;Barcelona;0;8;0;1;R
-ManOguaR;Barcelona;Barcelona;0;8;0;1;C#
-alexresta;Barcelona;Barcelona;1;8;3;1;CSS
-lumunez;Barcelona;Barcelona;0;8;0;0;CSS
-marcpuig;Barcelona;Barcelona;0;8;0;1;C
-PCASME;Barcelona, Spain;Barcelona;1;8;0;16;HTML
-manugarciaes;Barcelona;Barcelona;2;8;5;4;PHP
-jorditorra;Barcelona;Barcelona;1;8;0;0;HTML and JavaScript
-desko27;Barcelona (Spain);Barcelona;1;8;1;67;Python
-naufalCA;Barcelona;Barcelona;0;8;0;0;F#
-RainCT;Barcelona;Barcelona;13;8;7;21;Python
-philoliver;Spain, Barcelona;Barcelona;1;8;0;0;CSS
-nubotica;Barcelona, Spain;Barcelona;0;8;0;0;JavaScript and CSS
-PepJorge;Girona;Gerona;4;8;0;0;
-yagoff;Barcelona;Barcelona;2;8;1;8;JavaScript and Ruby
-smrpr;Barcelona;Barcelona;2;8;1;4;Python
-markkusringer;Barcelona;Barcelona;0;8;1;0;CSS
-iamyellow;barcelona;Barcelona;82;8;173;51;Objective-C
-fegabe;Barcelona;Barcelona;35;8;8;491;Java
-thomasmaas;Barcelona, Spain;Barcelona;7;8;5;104;Ruby and JavaScript
-MrPolymath;Barcelona;Barcelona;0;8;0;1;
-aiorla;Barcelona;Barcelona;0;8;0;3;
-poinu;Barcelona;Barcelona;0;8;2;0;C
-andrescarceller;London and Barcelona;Barcelona;0;8;0;13;CSS
-slaurie;Barcelona;Barcelona;1;8;0;1;Python
-tdmsolutions;Barcelona;Barcelona;2;8;6;0;C#
-codeboost;Barcelona;Barcelona;18;8;190;18;JavaScript
-albestia;Barcelona - Spain;Barcelona;0;8;1;5;Java
-aleixverges;Barcelona;Barcelona;2;8;0;6;PHP
-AlbertCalvet;Barcelona;Barcelona;0;8;0;0;HTML and PHP
-coboshm;Barcelona;Barcelona;3;8;0;0;C++
-marinabj;Barcelona;Barcelona;0;8;0;0;
-Ibarz;Barcelona;Barcelona;2;8;0;0;
-albertboada;Barcelona;Barcelona;8;8;9;76;PHP
-jhancarlosmj;Barcelona;Barcelona;5;8;0;2;Java
-Eskatrem;Barcelona;Barcelona;8;8;5;40;Clojure
-netmarti;Barcelona;Barcelona;9;8;1;17;Java
-willylatorre;Barcelona;Barcelona;2;8;14;4;Java
-Mahidur;Barcelona, Spain;Barcelona;0;8;0;0;HTML
-ondono;Barcelona;Barcelona;0;8;0;2;
-apxat;Spain, Barcelona;Barcelona;0;8;0;0;Python
-cristiangauma;Barcelona;Barcelona;2;8;0;41;Shell
 pipo02mix;Tarragona;Tarragona;4;8;5;22;JavaScript
 abaranguer;Barcelona - Catalunya;Barcelona;0;8;0;0;Python
-masterguru;Catalonia;Catalunya;3;8;1;0;PHP
+PepJorge;Girona;Gerona;4;8;0;0;
+oriolet;Caldes de Montbui, Barcelona;Barcelona;0;8;3;3;PHP
+victorcl;Barcelona;Barcelona;10;8;0;17;PHP
+desko27;Barcelona (Spain);Barcelona;1;8;1;67;Python
+shengpingwu;Barcelona;Barcelona;0;8;0;11;Batchfile
+cristiangauma;Barcelona;Barcelona;2;8;0;41;Shell
+apxat;Spain, Barcelona;Barcelona;0;8;0;0;Python
+ondono;Barcelona;Barcelona;0;8;0;2;
+Mahidur;Barcelona, Spain;Barcelona;0;8;0;0;HTML
+willylatorre;Barcelona;Barcelona;2;8;14;4;Java
+netmarti;Barcelona;Barcelona;9;8;1;17;Java
+Eskatrem;Barcelona;Barcelona;8;8;5;40;Clojure
+jhancarlosmj;Barcelona;Barcelona;5;8;0;2;Java
+albertboada;Barcelona;Barcelona;8;8;9;76;PHP
+Ibarz;Barcelona;Barcelona;2;8;0;0;
+marinabj;Barcelona;Barcelona;0;8;0;0;
+coboshm;Barcelona;Barcelona;3;8;0;0;C++
+AlbertCalvet;Barcelona;Barcelona;0;8;0;0;HTML and PHP
+aleixverges;Barcelona;Barcelona;2;8;0;6;PHP
+albestia;Barcelona - Spain;Barcelona;0;8;1;5;Java
 Avengis;Girona, Catalonia, Spain;Catalunya;1;8;0;0;HTML and JavaScript
 SrBlimp;Catalonia, Spain;Catalunya;0;8;0;2;
-shengpingwu;Barcelona;Barcelona;0;8;0;11;Batchfile
-lluisgarcia;Sabadell (Barcelona, Spain);Barcelona;2;7;16;0;C
-kiketid;Barcelona;Barcelona;0;7;0;0;Ruby
-karimhossenbux;Barcelona;Barcelona;8;7;0;221;CSS
-emtypefoundry;Barcelona;Barcelona;2;7;0;0;HTML and Python
-richigallego;Barcelona;Barcelona;0;7;0;0;HTML
-abraao;Barcelona, Spain;Barcelona;6;7;15;45;Java
-fraguada;Barcelona, Spain;Barcelona;15;7;21;46;CSS
-theguitxo;Tarragona, Spain;Tarragona;0;7;0;0;Java
-ShantiSR;Tarragona, Spain;Tarragona;7;7;14;1.2k;Objective-C
-Eutherio;Barcelona;Barcelona;0;7;0;0;CSS
+masterguru;Catalonia;Catalunya;3;8;1;0;PHP
+tdmsolutions;Barcelona;Barcelona;2;8;6;0;C#
+slaurie;Barcelona;Barcelona;1;8;0;1;Python
+andrescarceller;London and Barcelona;Barcelona;0;8;0;13;CSS
+poinu;Barcelona;Barcelona;0;8;2;0;C
+aiorla;Barcelona;Barcelona;0;8;0;3;
+MrPolymath;Barcelona;Barcelona;0;8;0;1;
+thomasmaas;Barcelona, Spain;Barcelona;7;8;5;104;Ruby and JavaScript
+fegabe;Barcelona;Barcelona;35;8;8;491;Java
+iamyellow;barcelona;Barcelona;82;8;173;51;Objective-C
+markkusringer;Barcelona;Barcelona;0;8;1;0;CSS
+smrpr;Barcelona;Barcelona;2;8;1;4;Python
+yagoff;Barcelona;Barcelona;2;8;1;8;JavaScript and Ruby
+davidgit;Barcelona, Catalonia;Barcelona;23;8;13;89;Python
+nubotica;Barcelona, Spain;Barcelona;0;8;0;0;JavaScript and CSS
+philoliver;Spain, Barcelona;Barcelona;1;8;0;0;CSS
+RainCT;Barcelona;Barcelona;13;8;7;21;Python
+naufalCA;Barcelona;Barcelona;0;8;0;0;F#
+jorditorra;Barcelona;Barcelona;1;8;0;0;HTML and JavaScript
+manugarciaes;Barcelona;Barcelona;2;8;5;4;PHP
+PCASME;Barcelona, Spain;Barcelona;1;8;0;16;HTML
+marcpuig;Barcelona;Barcelona;0;8;0;1;C
+lumunez;Barcelona;Barcelona;0;8;0;0;CSS
+alexresta;Barcelona;Barcelona;1;8;3;1;CSS
+ManOguaR;Barcelona;Barcelona;0;8;0;1;C#
+viatgers;Barcelona;Barcelona;0;8;0;1;R
+eduguiu;Barcelona;Barcelona;0;8;0;0;
+ImmaLlobet;Barcelona;Barcelona;0;8;0;0;HTML
+D3r3ck;Barcelona;Barcelona;9;7;15;2;PHP
+blaslopez;Mataró (Catalonia);Catalunya;0;7;0;0;R
+aobiols;Catalonia;Catalunya;0;7;0;0;R and HTML
+dsoms;Girona, Catalonia;Catalunya;4;7;2;52;Python
 shadows7;Barcelona;Barcelona;0;7;0;0;
 jimi75;Barcelona;Barcelona;0;7;0;2;CSS
 xeeevi;Barcelona;Barcelona;0;7;0;0;JavaScript
 NicolasPK;Barcelona, Spain;Barcelona;3;7;0;12;
-ipereziriarte;Barcelona, Spain;Barcelona;16;7;18;349;Java
 afernandez90;Martorell (Barcelona);Barcelona;1;7;0;0;C++
 ngunsu;Barcelona, Spain;Barcelona;1;7;2;14;C++
 Archel;Barcelona;Barcelona;1;7;0;0;CSS
@@ -1999,22 +1992,14 @@ adcortes;Barcelona;Barcelona;1;7;0;0;CSS
 mrzard;Barcelona;Barcelona;20;7;10;17;PHP
 drjoju;Sant Cugat del Vallés - Barcelona - Spain;Barcelona;1;7;0;6;C
 jdmartinez;Barcelona;Barcelona;1;7;1;18;C#
-jpallares;Barcelona, Spain;Barcelona;3;7;0;1;HTML
 thomasgallagher;Barcelona, Spain;Barcelona;17;7;8;56;Ruby and Objective-C
 karimRS;Barcelona;Barcelona;1;7;0;0;CSS
 askainet;Barcelona (Spain);Barcelona;1;7;2;6;Lua
 casasin;Barcelona/Santa Coloma de Queralt;Barcelona;18;7;7;5;Python
-bensventures;Barcelona;Barcelona;8;7;19;17;JavaScript
-D3r3ck;Barcelona;Barcelona;9;7;15;2;PHP
+alaruss;Barcelona;Barcelona;1;7;2;15;Python
+xborrell;Caldes de Montbui, Catalunya;Catalunya;0;7;0;0;C#
 jlrobles;El Prat del Llobregat, Barcelona, Spain;Barcelona;1;7;0;0;CSS
 abertranb;Barcelona;Barcelona;5;7;1;7;JavaScript
-pereorga;Barcelona;Barcelona;12;7;44;170;CSS
-gnatok;Barcelona;Barcelona;11;7;10;354;Ruby
-jeromerader;Barcelona, Spain;Barcelona;0;7;0;0;R
-aobiols;Catalonia;Catalunya;0;7;0;0;R and HTML
-xborrell;Caldes de Montbui, Catalunya;Catalunya;0;7;0;0;C#
-dsoms;Girona, Catalonia;Catalunya;4;7;2;52;Python
-chris-y-meyers;Barcelona;Barcelona;2;7;0;0;ApacheConf
 hborras;Barcelona;Barcelona;6;7;0;5;PHP
 ferrangarciapagans;Barcelona;Barcelona;1;7;0;0;R and HTML
 kalymero;Barcelona (Spain);Barcelona;5;7;10;0;Python
@@ -2032,10 +2017,77 @@ jmrcs;Barcelona;Barcelona;3;7;0;7;PHP
 deibeat74;Barcelona;Barcelona;0;7;0;0;CSS
 GuiuRocafort;Barcelona, Spain;Barcelona;2;7;0;2;Shell
 Hammandsoul;Barcelona;Barcelona;0;7;0;0;R
-alaruss;Barcelona;Barcelona;1;7;2;15;Python
 eballetbo;Barcelona;Barcelona;6;7;12;10;Shell
+chris-y-meyers;Barcelona;Barcelona;2;7;0;0;ApacheConf
+bensventures;Barcelona;Barcelona;8;7;19;17;JavaScript
+Eutherio;Barcelona;Barcelona;0;7;0;0;CSS
+abraao;Barcelona, Spain;Barcelona;6;7;15;45;Java
+richigallego;Barcelona;Barcelona;0;7;0;0;HTML
+emtypefoundry;Barcelona;Barcelona;2;7;0;0;HTML and Python
+karimhossenbux;Barcelona;Barcelona;8;7;0;221;CSS
+kiketid;Barcelona;Barcelona;0;7;0;0;Ruby
+fraguada;Barcelona, Spain;Barcelona;15;7;21;46;CSS
+lluisgarcia;Sabadell (Barcelona, Spain);Barcelona;2;7;16;0;C
+jeromerader;Barcelona, Spain;Barcelona;0;7;0;0;R
+gnatok;Barcelona;Barcelona;11;7;10;354;Ruby
+pereorga;Barcelona;Barcelona;12;7;44;170;CSS
+ipereziriarte;Barcelona, Spain;Barcelona;16;7;18;349;Java
+theguitxo;Tarragona, Spain;Tarragona;0;7;0;0;Java
+ShantiSR;Tarragona, Spain;Tarragona;7;7;14;1.2k;Objective-C
+jpallares;Barcelona, Spain;Barcelona;3;7;0;1;HTML
+tony2nite;Barcelona, Spain;Barcelona;4;6;14;44;JavaScript
+tokyographer;Barcelona;Barcelona;0;6;0;1;CSS
+sergioaxa;Barcelona;Barcelona;0;6;0;0;C# and JavaScript
+klander;Barcelona;Barcelona;5;6;0;2;Makefile
+raimonbosch;Barcelona;Barcelona;5;6;22;11;Shell
+genispr;Barcelona;Barcelona;0;6;0;0;CSS
+guillemf;Barcelona;Barcelona;1;6;0;0;Objective-C
+jmangas;Barcelona;Barcelona;0;6;0;3;JavaScript
 aleixpellicer;Barcelona;Barcelona;11;6;0;1;CSS
-M3LiNdRu;Catalonia;Catalunya;0;6;0;5;C#
+rmorros;Barcelona;Barcelona;0;6;0;0;
+xplanes;Barcelona;Barcelona;1;6;2;4;C++
+mmalagelada;Girona;Gerona;0;6;0;0;
+sangar82;Girona;Gerona;12;6;61;90;PHP
+Leusev;Girona;Gerona;0;6;0;3;PHP
+guillemsalas;Barcelona;Barcelona;2;6;0;5;JavaScript
+FerranMartin;Barcelona;Barcelona;4;6;0;13;Ruby
+ilia510;Barcelona & US;Barcelona;0;6;0;4;Objective-C
+gbasile;Barcelona;Barcelona;14;6;19;66;Objective-C
+janciesko;Barcelona, Spain;Barcelona;3;6;0;1;C++
+txeo;Barcelona;Barcelona;0;6;1;2;C
+cokarmando;Barcelona;Barcelona;0;6;0;0;PHP
+neburs;Barcelona;Barcelona;3;6;1;0;PHP
+kevin92dev;Barcelona;Barcelona;0;6;0;0;CSS
+ahernandezlopez;Barcelona;Barcelona;14;6;154;36;Objective-C
+albertomoral;Barcelona;Barcelona;1;6;0;1;
+bertbalcaen;Barcelona, Spain / Ghent, Belgium;Barcelona;11;6;4;23;PHP
+grypp;Barcelona;Barcelona;5;6;3;12;C
+ngalanis;Barcelona;Barcelona;0;6;0;4;Batchfile
+miquellaboria;Terrassa, Barcelona, Catalonia;Barcelona;0;6;0;3;Objective-C
+obendi;Barcelona;Barcelona;0;6;0;0;JavaScript
+bertex;Barcelona;Barcelona;0;6;1;0;CSS
+pescu25;Barcelona;Barcelona;0;6;0;2;HTML
+cgpijuan;Barcelona;Barcelona;0;6;0;0;R and HTML
+roig;Barcelona;Barcelona;4;6;5;12;C++
+holaefraineduardo;Barcelona;Barcelona;0;6;0;0;JavaScript and PHP
+juanvy03;Terrassa, Barcelona.;Barcelona;0;6;0;0;Perl
+valldu;Barcelona;Barcelona;0;6;0;0;JavaScript
+hibanlosano;Barcelona;Barcelona;1;6;0;0;Batchfile
+jeromehubert;Barcelona;Barcelona;17;6;2;467;PHP
+m-sudmann-day;Barcelona, Spain;Barcelona;0;6;1;0;R
+blauigris;Barcelona;Barcelona;2;6;3;1;Python
+fra82;Barcelona;Barcelona;0;6;0;0;Java
+dcanetma;Barcelona;Barcelona;3;6;17;36;Shell
+ifrins;Barcelona;Barcelona;2;6;16;24;Java
+nkoub;Barcelona, Spain;Barcelona;2;6;51;11;Python and TeX
+jlferrer;Barcelona, Spain;Barcelona;4;6;0;10;Ruby
+MetalMor;Barcelona;Barcelona;1;6;0;0;CSS
+jordim;Lleida, Spain;Lleida;12;6;2;156;Objective-C and Python
+marclafita;Lleida;Lleida;0;6;0;0;ApacheConf
+ixavy;Barcelona (Spain);Barcelona;1;6;2;5;Objective-C and Swift
+xabierlegasa;Barcelona;Barcelona;9;6;2;4;PHP
+alvarovelezgalvez;Barcelona;Barcelona;1;6;3;0;HTML
+xaviermariaconejo;Granollers, Barcelona;Barcelona;0;6;0;0;C++
 valoresymarketing;Barcelona;Barcelona;0;6;0;0;HTML and CSS
 Sensing-Control-DevTeam;Barcelona;Barcelona;0;6;0;0;C# and Java
 alvamat;Barcelona;Barcelona;0;6;0;0;CSS
@@ -2047,6 +2099,7 @@ gbarba;Barcelona, Catalunya;Barcelona;4;6;6;39;Python
 luigdima;Barcelona;Barcelona;6;6;0;115;JavaScript
 santmarti;Barcelona;Barcelona;1;6;0;0;Max
 flaquir4;Barcelona;Barcelona;1;6;0;5;Java
+M3LiNdRu;Catalonia;Catalunya;0;6;0;5;C#
 John-Lluch;Barcelona;Barcelona;176;6;434;14;Objective-C and Ruby
 ferranrigual;Barcelona, Spain;Barcelona;0;6;0;0;CSS
 david-java;Barcelona;Barcelona;0;6;1;0;Java
@@ -2066,175 +2119,150 @@ CastellanoED;Barcelona (Spain);Barcelona;1;6;0;0;
 carlostalaga;Barcelona, Spain;Barcelona;0;6;0;0;
 albertoamo;Barcelona;Barcelona;1;6;0;1;CSS
 vrouet;Barcelona;Barcelona;0;6;0;0;HTML
-tony2nite;Barcelona, Spain;Barcelona;4;6;14;44;JavaScript
-tokyographer;Barcelona;Barcelona;0;6;0;1;CSS
-sergioaxa;Barcelona;Barcelona;0;6;0;0;C# and JavaScript
-klander;Barcelona;Barcelona;5;6;0;2;Makefile
-raimonbosch;Barcelona;Barcelona;5;6;22;11;Shell
-genispr;Barcelona;Barcelona;0;6;0;0;CSS
-marclafita;Lleida;Lleida;0;6;0;0;ApacheConf
-jordim;Lleida, Spain;Lleida;12;6;2;156;Objective-C and Python
-guillemf;Barcelona;Barcelona;1;6;0;0;Objective-C
-jmangas;Barcelona;Barcelona;0;6;0;3;JavaScript
-gbasile;Barcelona;Barcelona;14;6;19;66;Objective-C
-rmorros;Barcelona;Barcelona;0;6;0;0;
-xplanes;Barcelona;Barcelona;1;6;2;4;C++
-guillemsalas;Barcelona;Barcelona;2;6;0;5;JavaScript
-FerranMartin;Barcelona;Barcelona;4;6;0;13;Ruby
-xaviermariaconejo;Granollers, Barcelona;Barcelona;0;6;0;0;C++
-alvarovelezgalvez;Barcelona;Barcelona;1;6;3;0;HTML
-xabierlegasa;Barcelona;Barcelona;9;6;2;4;PHP
-ixavy;Barcelona (Spain);Barcelona;1;6;2;5;Objective-C and Swift
-MetalMor;Barcelona;Barcelona;1;6;0;0;CSS
-jlferrer;Barcelona, Spain;Barcelona;4;6;0;10;Ruby
-nkoub;Barcelona, Spain;Barcelona;2;6;51;11;Python and TeX
-ifrins;Barcelona;Barcelona;2;6;16;24;Java
-dcanetma;Barcelona;Barcelona;3;6;17;36;Shell
-fra82;Barcelona;Barcelona;0;6;0;0;Java
-blauigris;Barcelona;Barcelona;2;6;3;1;Python
-m-sudmann-day;Barcelona, Spain;Barcelona;0;6;1;0;R
-jeromehubert;Barcelona;Barcelona;17;6;2;467;PHP
-hibanlosano;Barcelona;Barcelona;1;6;0;0;Batchfile
-valldu;Barcelona;Barcelona;0;6;0;0;JavaScript
-juanvy03;Terrassa, Barcelona.;Barcelona;0;6;0;0;Perl
-holaefraineduardo;Barcelona;Barcelona;0;6;0;0;JavaScript and PHP
-roig;Barcelona;Barcelona;4;6;5;12;C++
-cgpijuan;Barcelona;Barcelona;0;6;0;0;R and HTML
-pescu25;Barcelona;Barcelona;0;6;0;2;HTML
-bertex;Barcelona;Barcelona;0;6;1;0;CSS
-obendi;Barcelona;Barcelona;0;6;0;0;JavaScript
-miquellaboria;Terrassa, Barcelona, Catalonia;Barcelona;0;6;0;3;Objective-C
-ngalanis;Barcelona;Barcelona;0;6;0;4;Batchfile
-grypp;Barcelona;Barcelona;5;6;3;12;C
-bertbalcaen;Barcelona, Spain / Ghent, Belgium;Barcelona;11;6;4;23;PHP
-albertomoral;Barcelona;Barcelona;1;6;0;1;
-ahernandezlopez;Barcelona;Barcelona;14;6;154;36;Objective-C
-kevin92dev;Barcelona;Barcelona;0;6;0;0;CSS
-neburs;Barcelona;Barcelona;3;6;1;0;PHP
-cokarmando;Barcelona;Barcelona;0;6;0;0;PHP
-txeo;Barcelona;Barcelona;0;6;1;2;C
-Leusev;Girona;Gerona;0;6;0;3;PHP
-sangar82;Girona;Gerona;12;6;61;90;PHP
-mmalagelada;Girona;Gerona;0;6;0;0;
-janciesko;Barcelona, Spain;Barcelona;3;6;0;1;C++
-ilia510;Barcelona & US;Barcelona;0;6;0;4;Objective-C
-alexarraiza;Barcelona;Barcelona;3;5;0;32;Java
-DavidGallardo;Barcelona;Barcelona;0;5;0;7;CSS
-javiercasares;Barcelona, Spain;Barcelona;1;5;0;13;
-argeminis;Sentmenat, Barcelona (SPAIN);Barcelona;0;5;0;0;Java and Makefile
-ekiekiekitapang;Barcelona;Barcelona;0;5;0;0;
-javiexpo;Barcelona, Spain;Barcelona;0;5;0;1;
-WholeGenix;Barcelona;Barcelona;0;5;0;0;Java
-cesc86;Tarragona, Spain;Tarragona;0;5;0;0;Haskell and Makefile
-LoPoal;Barcelona;Barcelona;1;5;0;0;C and Python
-gcleaves;Barcelona, Spain;Barcelona;1;5;0;3;Shell
-ronnylt;Barcelona, Spain;Barcelona;54;5;145;488;Go
-adrianonco;Barcelona, Spain;Barcelona;8;5;0;7;CSS and JavaScript
-xserrat;Barcelona;Barcelona;2;5;0;1;Arduino
-morecar;Barcelona;Barcelona;1;5;0;0;Java
-jrosell;Aiguafreda, Barcelona;Barcelona;5;5;0;87;CSS
-jordimartos;Barcelona, españa;Barcelona;2;5;2;3;C#
-a-p-co;Barcelona;Barcelona;0;5;0;22;JavaScript
-jlyda;Barcelona;Barcelona;0;5;0;0;Python
-joselao;Barcelona, SPAIN;Barcelona;0;5;2;2;R
-kooso;Barcelona;Barcelona;9;5;0;27;CSS
-lusob;Barcelona;Barcelona;11;5;86;26;JavaScript
-sanbnl;Barcelona;Barcelona;0;5;0;0;Java
-luskaner;L'Hospitalet de llobregat, Barcelona, Catalonia, Spain;Barcelona;2;5;0;0;PHP
-davidpenn;Barcelona, Spain;Barcelona;2;5;0;35;CoffeeScript
-sp1v4k;Barcelona;Barcelona;0;5;0;0;
-phenomarc;Barcelona;Barcelona;0;5;0;0;C
-carl0FF;Barcelona;Barcelona;0;5;2;5;Cucumber
-mfcanovas;Barcelona;Barcelona;5;5;2;2;Batchfile
-TriunityStudios;Barcelona;Barcelona;5;5;2;0;Game Maker Language and NSIS
-bifacil;Barcelona;Barcelona;0;5;0;11;C#
 oriolgm;Barcelona;Barcelona;7;5;5;6;PHP
-medinlu;Barcelona;Barcelona;0;5;0;36;JavaScript
-edugarciabdn;Badalona ( Barcelona);Barcelona;0;5;0;0;Java and HTML
-pablochacin;Barcelona, Spain;Barcelona;4;5;0;23;Java
-msanchezd;Barcelona;Barcelona;0;5;0;0;CSS
-mangakid;barcelona;Barcelona;0;5;0;1;CSS
-kocakafa;Barcelona;Barcelona;7;5;4;6;HTML
-Gwillink;Barcelona, London, Amsterdam;Barcelona;3;5;1;385;Python
-qborreda;Madrid / Barcelona / Moscow;Barcelona;6;5;0;435;JavaScript
-joseraya;Barcelona;Barcelona;26;5;1;17;JavaScript
-fcastells;Barcelona;Barcelona;0;5;0;0;C#
-emanzanoaxa;Barcelona;Barcelona;1;5;4;12;Java
-TexcocoMedia;Barcelona / México;Barcelona;0;5;0;0;Python
+bifacil;Barcelona;Barcelona;0;5;0;11;C#
 ejgutierrez74;Lleida;Lleida;2;5;0;1;Java
 ericalarcon;Lleida;Lleida;1;5;0;0;Visual Basic
-goda87;Barcelona;Barcelona;2;5;0;1;Java
-sergiovelayos;Barcelona;Barcelona;0;5;0;3;CSS
-marticols;Barcelona;Barcelona;0;5;1;1;CSS and HTML
-m-sanchez;Barcelona;Barcelona;0;5;0;0;CSS
-calcosares;Barcelona;Barcelona;0;5;0;0;
-AlbertHerrera;Barcelona;Barcelona;0;5;0;0;CSS
-vfabregat;Barcelona, Spain;Barcelona;7;5;1;12;C#
-ruipferreira;Barcelona, Spain;Barcelona;0;5;0;0;CSS
-Naimikan;Barcelona, Barcelona;Barcelona;0;5;0;0;JavaScript
-WiReD-;Barcelona;Barcelona;2;5;1;0;CSS
-jpieres;Barcelona;Barcelona;3;5;0;0;Ruby
-rodicafazakas;Barcelona;Barcelona;0;5;0;0;HTML and R
-pitarch;Barcelona;Barcelona;0;5;0;0;Java
-extrememicro;Barcelona, Spain;Barcelona;2;5;0;59;Java
-palilsonjmr;Barcelona;Barcelona;0;5;0;0;CSS
-sdepablos;Barcelona;Barcelona;17;5;5;35;PHP
-iddqd89;Barcelona;Barcelona;0;5;0;0;C++
-jantonsg;Barcelona;Barcelona;0;5;0;1;JavaScript
-emillano;Barcelona;Barcelona;0;5;0;0;CSS and HTML
-mvazquezc;Barcelona;Barcelona;0;5;2;10;CSS
-RaulDev;Mataró, Barcelona - Spain;Barcelona;0;5;0;1;
-murbano83;Vilafranca del Penedès, Barcelona, Spain;Barcelona;0;5;0;12;JavaScript
-poblemalin;Barcelona;Barcelona;0;5;0;0;
-jbonette;Barcelona;Barcelona;1;5;0;0;CSS
-vargaendre;Barcelona, Spain;Barcelona;1;5;0;5;HTML
-Kitton;Barcelona, Spain;Barcelona;1;5;0;28;CSS
-omitsis;Barcelona;Barcelona;3;5;0;0;Ruby
-jpuigde;Terrassa,Catalonia,Spain;Catalunya;2;5;1;1;R
-UngarMax;Catalonia;Catalunya;2;5;0;4;C#
-smarmengol;SABADELL (CATALONIA);Catalunya;6;5;31;1;C++
-ARION94;Molins de Rei, Catalunya;Catalunya;0;5;0;1;Visual Basic
-danielmacho72;Barcelona, ES;Barcelona;2;5;0;10;Ruby
-comac2k;Barcelona, Spain;Barcelona;0;5;0;0;Python
-pereferrera;Barcelona;Barcelona;42;5;184;19;Java
-xavieraijon;Barcelona;Barcelona;2;5;0;7;JavaScript
-peterstouw;Amsterdam - The Netherlands / Barcelona - Spain;Barcelona;0;5;0;1;
-arnauti;Barcelona, Spain;Barcelona;8;5;0;2;Ruby
-hectorcanto;Barcelona, Spain;Barcelona;1;5;1;29;Python
-pabloFdz;Barcelona, Spain;Barcelona;0;5;0;0;HTML
-juanfraferca;Barcelona, Spain;Barcelona;0;5;0;0;Java
-mariosanchez;Barcelona;Barcelona;1;5;0;0;
 lastpoke;Girona;Gerona;1;5;0;1;CSS
 MarioTerron157;Girona, España;Gerona;0;5;0;1;CSS
 DaWy;Olot;Gerona;1;5;1;3;CSS
 AbelToy;Girona;Gerona;21;5;8;25;ActionScript
 albertgallego;Girona;Gerona;0;5;0;1;ApacheConf
 rgraf20;Girona;Gerona;1;5;0;0;Java
-sercomi;Barcelona;Barcelona;0;5;0;1;JavaScript
-povmaniaco;Barcelona- Spain;Barcelona;4;5;1;9;Python
-sergilazaro;Barcelona;Barcelona;3;5;4;92;C#
-luvacu;Barcelona, Spain;Barcelona;1;5;0;147;Objective-C
+ARION94;Molins de Rei, Catalunya;Catalunya;0;5;0;1;Visual Basic
+smarmengol;SABADELL (CATALONIA);Catalunya;6;5;31;1;C++
+UngarMax;Catalonia;Catalunya;2;5;0;4;C#
+jpuigde;Terrassa,Catalonia,Spain;Catalunya;2;5;1;1;R
+murbano83;Vilafranca del Penedès, Barcelona, Spain;Barcelona;0;5;0;12;JavaScript
+RaulDev;Mataró, Barcelona - Spain;Barcelona;0;5;0;1;
+mvazquezc;Barcelona;Barcelona;0;5;2;10;CSS
+emillano;Barcelona;Barcelona;0;5;0;0;CSS and HTML
+jantonsg;Barcelona;Barcelona;0;5;0;1;JavaScript
+iddqd89;Barcelona;Barcelona;0;5;0;0;C++
+sdepablos;Barcelona;Barcelona;17;5;5;35;PHP
+palilsonjmr;Barcelona;Barcelona;0;5;0;0;CSS
+extrememicro;Barcelona, Spain;Barcelona;2;5;0;59;Java
+pitarch;Barcelona;Barcelona;0;5;0;0;Java
+rodicafazakas;Barcelona;Barcelona;0;5;0;0;HTML and R
+jpieres;Barcelona;Barcelona;3;5;0;0;Ruby
+WiReD-;Barcelona;Barcelona;2;5;1;0;CSS
+Naimikan;Barcelona, Barcelona;Barcelona;0;5;0;0;JavaScript
+ruipferreira;Barcelona, Spain;Barcelona;0;5;0;0;CSS
+vfabregat;Barcelona, Spain;Barcelona;7;5;1;12;C#
+AlbertHerrera;Barcelona;Barcelona;0;5;0;0;CSS
+calcosares;Barcelona;Barcelona;0;5;0;0;
+m-sanchez;Barcelona;Barcelona;0;5;0;0;CSS
+marticols;Barcelona;Barcelona;0;5;1;1;CSS and HTML
+sergiovelayos;Barcelona;Barcelona;0;5;0;3;CSS
+goda87;Barcelona;Barcelona;2;5;0;1;Java
+TexcocoMedia;Barcelona / México;Barcelona;0;5;0;0;Python
+emanzanoaxa;Barcelona;Barcelona;1;5;4;12;Java
+fcastells;Barcelona;Barcelona;0;5;0;0;C#
+joseraya;Barcelona;Barcelona;26;5;1;17;JavaScript
+qborreda;Madrid / Barcelona / Moscow;Barcelona;6;5;0;435;JavaScript
+Gwillink;Barcelona, London, Amsterdam;Barcelona;3;5;1;385;Python
+kocakafa;Barcelona;Barcelona;7;5;4;6;HTML
+mangakid;barcelona;Barcelona;0;5;0;1;CSS
+msanchezd;Barcelona;Barcelona;0;5;0;0;CSS
+pablochacin;Barcelona, Spain;Barcelona;4;5;0;23;Java
+edugarciabdn;Badalona ( Barcelona);Barcelona;0;5;0;0;Java and HTML
+medinlu;Barcelona;Barcelona;0;5;0;36;JavaScript
+cesc86;Tarragona, Spain;Tarragona;0;5;0;0;Haskell and Makefile
+TriunityStudios;Barcelona;Barcelona;5;5;2;0;Game Maker Language and NSIS
+mfcanovas;Barcelona;Barcelona;5;5;2;2;Batchfile
+carl0FF;Barcelona;Barcelona;0;5;2;5;Cucumber
+phenomarc;Barcelona;Barcelona;0;5;0;0;C
+sp1v4k;Barcelona;Barcelona;0;5;0;0;
+davidpenn;Barcelona, Spain;Barcelona;2;5;0;35;CoffeeScript
+luskaner;L'Hospitalet de llobregat, Barcelona, Catalonia, Spain;Barcelona;2;5;0;0;PHP
+sanbnl;Barcelona;Barcelona;0;5;0;0;Java
+lusob;Barcelona;Barcelona;11;5;86;26;JavaScript
+kooso;Barcelona;Barcelona;9;5;0;27;CSS
+joselao;Barcelona, SPAIN;Barcelona;0;5;2;2;R
+jlyda;Barcelona;Barcelona;0;5;0;0;Python
+a-p-co;Barcelona;Barcelona;0;5;0;22;JavaScript
+jordimartos;Barcelona, españa;Barcelona;2;5;2;3;C#
+jrosell;Aiguafreda, Barcelona;Barcelona;5;5;0;87;CSS
+morecar;Barcelona;Barcelona;1;5;0;0;Java
+xserrat;Barcelona;Barcelona;2;5;0;1;Arduino
+adrianonco;Barcelona, Spain;Barcelona;8;5;0;7;CSS and JavaScript
+ronnylt;Barcelona, Spain;Barcelona;54;5;145;488;Go
+gcleaves;Barcelona, Spain;Barcelona;1;5;0;3;Shell
+LoPoal;Barcelona;Barcelona;1;5;0;0;C and Python
+WholeGenix;Barcelona;Barcelona;0;5;0;0;Java
+javiexpo;Barcelona, Spain;Barcelona;0;5;0;1;
+ekiekiekitapang;Barcelona;Barcelona;0;5;0;0;
+argeminis;Sentmenat, Barcelona (SPAIN);Barcelona;0;5;0;0;Java and Makefile
+javiercasares;Barcelona, Spain;Barcelona;1;5;0;13;
+DavidGallardo;Barcelona;Barcelona;0;5;0;7;CSS
+alexarraiza;Barcelona;Barcelona;3;5;0;32;Java
 sabatesduran;Barcelona;Barcelona;15;5;0;821;CSS
-meirinf;Barcelona;Barcelona;1;4;0;0;CSS
-ghs;Lloret de Mar, Spain;Gerona;8;4;0;327;JavaScript
-murtra;Girona, Spain;Gerona;7;4;0;4;Ruby
-BrunoAltadill;Girona (Spain);Gerona;1;4;0;0;
-jponsp;Girona;Gerona;0;4;0;0;Shell
-jcampana;Girona;Gerona;2;4;1;182;CSS
-Ruekov;Lleida;Lleida;4;4;2;11;C
-maroxa86;Vila-seca(Tarragona);Tarragona;0;4;0;0;HTML
-NaraJeamfry;Valls, tarragona;Tarragona;0;4;0;0;Python
-alex-pardo;Tarragona;Tarragona;6;4;5;3;Java
-maguri;Tarragona;Tarragona;0;4;0;0;Groovy
-iaw1394106;Barcelona;Barcelona;0;4;0;0;
+luvacu;Barcelona, Spain;Barcelona;1;5;0;147;Objective-C
+sergilazaro;Barcelona;Barcelona;3;5;4;92;C#
+povmaniaco;Barcelona- Spain;Barcelona;4;5;1;9;Python
+sercomi;Barcelona;Barcelona;0;5;0;1;JavaScript
+mariosanchez;Barcelona;Barcelona;1;5;0;0;
+juanfraferca;Barcelona, Spain;Barcelona;0;5;0;0;Java
+pabloFdz;Barcelona, Spain;Barcelona;0;5;0;0;HTML
+hectorcanto;Barcelona, Spain;Barcelona;1;5;1;29;Python
+arnauti;Barcelona, Spain;Barcelona;8;5;0;2;Ruby
+peterstouw;Amsterdam - The Netherlands / Barcelona - Spain;Barcelona;0;5;0;1;
+xavieraijon;Barcelona;Barcelona;2;5;0;7;JavaScript
+pereferrera;Barcelona;Barcelona;42;5;184;19;Java
+comac2k;Barcelona, Spain;Barcelona;0;5;0;0;Python
+danielmacho72;Barcelona, ES;Barcelona;2;5;0;10;Ruby
+omitsis;Barcelona;Barcelona;3;5;0;0;Ruby
+Kitton;Barcelona, Spain;Barcelona;1;5;0;28;CSS
+vargaendre;Barcelona, Spain;Barcelona;1;5;0;5;HTML
+jbonette;Barcelona;Barcelona;1;5;0;0;CSS
+poblemalin;Barcelona;Barcelona;0;5;0;0;
+xavigomez;Barcelona, SPAIN;Barcelona;1;4;0;1;HTML
+edrevo;Barcelona;Barcelona;18;4;3;19;Scala
+smvarela;Barcelona;Barcelona;0;4;0;0;CoffeeScript and CSS
+jmtomasena;Barcelona, Spain;Barcelona;0;4;0;1;CSS and PHP
+guillenxt;Barcelona, Spain;Barcelona;3;4;0;5;Arduino
+ivosandoval;Barcelona;Barcelona;1;4;1;9;Shell
+txemaq;Barcelona;Barcelona;1;4;0;0;HTML
+uricar;Barcelona;Barcelona;0;4;1;5;Python
+DiegoPomares;Barcelona, Spain;Barcelona;0;4;0;0;Groff
+sergibada;Barcelona;Barcelona;0;4;0;0;
+rpinolf;Barcelona, Spain;Barcelona;0;4;0;14;C#
+saradoe;Barcelona;Barcelona;2;4;0;0;CoffeeScript
+MGareta;Cornellá (Barcelona);Barcelona;0;4;0;0;
+arnatal;Barcelona;Barcelona;3;4;1;3;C and Objective-C
+thinkink;Monistrol de Montserrat - Barcelona;Barcelona;0;4;0;13;PHP
+raimonesteve;Vilafranca del Penedès. Barcelona;Barcelona;4;4;2;9;Python
+openmindsystems;Mataró, Barcelona;Barcelona;1;4;0;0;Python
 chefchef;Barcelona;Barcelona;7;4;1;11;PHP
-eloipuertas;Barcelona;Barcelona;56;4;43;8;C#
-kirthar;Barcelona, Spain;Barcelona;4;4;0;9;JavaScript
-oarnau;Barcelona;Barcelona;0;4;0;0;
+oscarjg;Barcelona ( Spain );Barcelona;1;4;1;1;PHP
+arturh;Barcelona;Barcelona;11;4;8;36;JavaScript
+cmirallesp;Barcelona;Barcelona;0;4;3;3;JavaScript
+spvernet;Barcelona;Barcelona;6;4;0;1;ApacheConf
+cristina-elespacio;Barcelona;Barcelona;1;4;0;1;
+lopezalb;Barcelona;Barcelona;0;4;0;0;
+jmsallan;Terrassa - Barcelona;Barcelona;2;4;5;0;R
+jaznow;Barcelona;Barcelona;0;4;0;31;Shell
+valls;Barcelona;Barcelona;6;4;0;23;JavaScript
+GregoriBS;Girona, Catalunya, ES;Catalunya;0;4;0;0;
+codesse;Catalunya;Catalunya;1;4;0;0;
+saidrkc;Catalonia;Catalunya;0;4;0;0;PHP
+marcel-bariou;Catalunya;Catalunya;0;4;0;0;CSS
+joseplluis;Catalunya;Catalunya;0;4;0;1;ApacheConf
+rgallart101;Catalunya;Catalunya;0;4;0;1;Python
+JordiCamps;Igualada, Catalunya;Catalunya;0;4;0;1;CSS and JavaScript
+tkanzakic;Girona, Catalonia, Spain;Catalunya;6;4;1;39;Objective-C
+JordiROP;Lleida - Catalonia - Spain;Catalunya;0;4;0;0;Python
+CoolWind;Catalonia, Spain;Catalunya;2;4;0;13;
 santihbc;Barcelona, Spain;Barcelona;14;4;19;834;JavaScript
 dtarda;Barcelona;Barcelona;3;4;1;4;CSS and JavaScript
 sitamet;Barcelona;Barcelona;2;4;31;111;JavaScript
 Contrastat;Barcelona;Barcelona;0;4;0;0;CSS
+jrleonr;Barcelona;Barcelona;1;4;0;4;PHP
+roldanpau;Barcelona, Spain;Barcelona;0;4;0;1;Awk
+beiOSDev;Barcelona;Barcelona;0;4;1;19;
+danielmazzini;Barcelona, España;Barcelona;0;4;0;0;C#
+jparera;Barcelona, Spain;Barcelona;1;4;0;2;JavaScript
+alexmanrique;Barcelona;Barcelona;1;4;1;18;CSS
 pedroaspiazu;Barcelona;Barcelona;2;4;3;13;HTML
 prodriguezmad;Barcelona, Spain;Barcelona;0;4;0;0;
 ealmirall;Barcelona;Barcelona;0;4;0;0;Julia
@@ -2243,15 +2271,6 @@ MartaSanchez;Barcelona;Barcelona;0;4;0;0;CSS and HTML
 niladell;Barcelona;Barcelona;1;4;0;2;Python
 felipedelpozo;Barcelona;Barcelona;3;4;3;5;JavaScript
 laklau;Barcelona;Barcelona;1;4;0;1;CSS
-JordiCamps;Igualada, Catalunya;Catalunya;0;4;0;1;CSS and JavaScript
-CoolWind;Catalonia, Spain;Catalunya;2;4;0;13;
-joseplluis;Catalunya;Catalunya;0;4;0;1;ApacheConf
-marcel-bariou;Catalunya;Catalunya;0;4;0;0;CSS
-GregoriBS;Girona, Catalunya, ES;Catalunya;0;4;0;0;
-tkanzakic;Girona, Catalonia, Spain;Catalunya;6;4;1;39;Objective-C
-JordiROP;Lleida - Catalonia - Spain;Catalunya;0;4;0;0;Python
-rgallart101;Catalunya;Catalunya;0;4;0;1;Python
-codesse;Catalunya;Catalunya;1;4;0;0;
 sebero;Barcelona;Barcelona;4;4;0;0;PHP
 ramonfmir;Barcelona;Barcelona;1;4;0;0;CSS
 JordiGamez;Barcelona;Barcelona;0;4;4;10;JavaScript
@@ -2271,6 +2290,9 @@ skilla;Barcelona, Spain;Barcelona;2;4;1;2;PHP and CSS
 jeflopo;Barcelona;Barcelona;0;4;0;5;Python
 jcampalo;Barcelona;Barcelona;4;4;0;11;JavaScript
 juankadiaz;Tarragona - Salou - Barcelona;Barcelona;8;4;3;6;CSS
+Ruekov;Lleida;Lleida;4;4;2;11;C
+maguri;Tarragona;Tarragona;0;4;0;0;Groovy
+alex-pardo;Tarragona;Tarragona;6;4;5;3;Java
 MichaelGradek;Barcelona;Barcelona;1;4;0;13;HTML
 JordiTR;Barcelona (Spain);Barcelona;0;4;0;0;
 nkundiushuti;Barcelona;Barcelona;4;4;3;27;C++
@@ -2280,7 +2302,7 @@ carlostomas;Barcelona;Barcelona;1;4;0;1;CSS
 PerroVerd;Barcelona, Spain;Barcelona;1;4;2;12;JavaScript
 stygmah;Barcelona;Barcelona;0;4;0;3;HTML
 FiRiN59;Barcelona;Barcelona;1;4;0;15;Ruby
-YerayAlonso;Girona;Gerona;2;4;1;5;Java
+meirinf;Barcelona;Barcelona;1;4;0;0;CSS
 niallamas;Barcelona;Barcelona;0;4;0;0;
 hpuiglarrauri;Barcelona, Spain;Barcelona;0;4;0;0;
 DavidPombar;Barcelona, Spain;Barcelona;11;4;11;52;Ruby
@@ -2296,6 +2318,7 @@ lousmontabes;Barcelona;Barcelona;0;4;0;0;Java and PHP
 gonzumanrique;Madrid - Barcelona - Miami;Barcelona;1;4;0;0;CoffeeScript
 wayne-soldevila;Barcelona, Spain;Barcelona;0;4;0;2;Python
 pcbcid;Barcelona;Barcelona;0;4;0;0;R
+liendoe;Barcelona, Spain;Barcelona;0;4;0;0;
 carlosmartinmari;Barcelona;Barcelona;0;4;0;1;R
 kamidar;Barcelona;Barcelona;0;4;0;0;
 AlbertKampde;Barcelona;Barcelona;0;4;0;1;PHP
@@ -2305,48 +2328,25 @@ radykal-com;Barcelona;Barcelona;3;4;0;2;PHP
 jjrumi;Barcelona, Spain;Barcelona;12;4;1;4;PHP
 Nalx;Barcelona;Barcelona;1;4;0;5;C
 enricjuan;Barcelona;Barcelona;0;4;0;0;CSS and HTML
+jcampana;Girona;Gerona;2;4;1;182;CSS
+jponsp;Girona;Gerona;0;4;0;0;Shell
+BrunoAltadill;Girona (Spain);Gerona;1;4;0;0;
+murtra;Girona, Spain;Gerona;7;4;0;4;Ruby
+YerayAlonso;Girona;Gerona;2;4;1;5;Java
+ghs;Lloret de Mar, Spain;Gerona;8;4;0;327;JavaScript
+NaraJeamfry;Valls, tarragona;Tarragona;0;4;0;0;Python
+maroxa86;Vila-seca(Tarragona);Tarragona;0;4;0;0;HTML
+iaw1394106;Barcelona;Barcelona;0;4;0;0;
+eloipuertas;Barcelona;Barcelona;56;4;43;8;C#
+kirthar;Barcelona, Spain;Barcelona;4;4;0;9;JavaScript
+oarnau;Barcelona;Barcelona;0;4;0;0;
 00Susan;Barcelona;Barcelona;1;4;2;2;HTML
 jordi-marsol;Barcelona, Spain;Barcelona;0;4;0;0;R
 xmorales;Barcelona;Barcelona;2;4;0;6;HTML
 viktors;Barcelona, Spain;Barcelona;12;4;16;609;JavaScript
 rafamarquezv;Barcelona;Barcelona;0;4;0;0;Java
 eduRivera;Barcelona;Barcelona;14;4;0;1;CSS
-xavigomez;Barcelona, SPAIN;Barcelona;1;4;0;1;HTML
-edrevo;Barcelona;Barcelona;18;4;3;19;Scala
-smvarela;Barcelona;Barcelona;0;4;0;0;CoffeeScript and CSS
-jmtomasena;Barcelona, Spain;Barcelona;0;4;0;1;CSS and PHP
-guillenxt;Barcelona, Spain;Barcelona;3;4;0;5;Arduino
-ivosandoval;Barcelona;Barcelona;1;4;1;9;Shell
-txemaq;Barcelona;Barcelona;1;4;0;0;HTML
-uricar;Barcelona;Barcelona;0;4;1;5;Python
-DiegoPomares;Barcelona, Spain;Barcelona;0;4;0;0;Groff
-sergibada;Barcelona;Barcelona;0;4;0;0;
-rpinolf;Barcelona, Spain;Barcelona;0;4;0;14;C#
-saradoe;Barcelona;Barcelona;2;4;0;0;CoffeeScript
-MGareta;Cornellá (Barcelona);Barcelona;0;4;0;0;
-arnatal;Barcelona;Barcelona;3;4;1;3;C and Objective-C
-thinkink;Monistrol de Montserrat - Barcelona;Barcelona;0;4;0;13;PHP
-raimonesteve;Vilafranca del Penedès. Barcelona;Barcelona;4;4;2;9;Python
-openmindsystems;Mataró, Barcelona;Barcelona;1;4;0;0;Python
 dliuzzi;Barcelona;Barcelona;5;4;4;12;Batchfile
-oscarjg;Barcelona ( Spain );Barcelona;1;4;1;1;PHP
-arturh;Barcelona;Barcelona;11;4;8;36;JavaScript
-cmirallesp;Barcelona;Barcelona;0;4;3;3;JavaScript
-spvernet;Barcelona;Barcelona;6;4;0;1;ApacheConf
-cristina-elespacio;Barcelona;Barcelona;1;4;0;1;
-lopezalb;Barcelona;Barcelona;0;4;0;0;
-jmsallan;Terrassa - Barcelona;Barcelona;2;4;5;0;R
-jaznow;Barcelona;Barcelona;0;4;0;31;Shell
-valls;Barcelona;Barcelona;6;4;0;23;JavaScript
-jrleonr;Barcelona;Barcelona;1;4;0;4;PHP
-roldanpau;Barcelona, Spain;Barcelona;0;4;0;1;Awk
-beiOSDev;Barcelona;Barcelona;0;4;1;19;
-danielmazzini;Barcelona, España;Barcelona;0;4;0;0;C#
-jparera;Barcelona, Spain;Barcelona;1;4;0;2;JavaScript
-alexmanrique;Barcelona;Barcelona;1;4;1;18;CSS
-liendoe;Barcelona, Spain;Barcelona;0;4;0;0;
-danielribes;Barcelona;Barcelona;1;3;0;2;PHP and Shell
-rudeworks;Barcelona;Barcelona;8;3;1;1k;JavaScript
 alberthr;Barcelona;Barcelona;1;3;0;0;R
 solidajenjo;Barcelona, Spain;Barcelona;0;3;0;0;C
 pierocampa;Barcelona, Spain;Barcelona;0;3;0;0;Java
@@ -2387,14 +2387,15 @@ c990802;Barcelona, Spain;Barcelona;5;3;0;16;JavaScript
 pespinar;Barcelona (Spain);Barcelona;0;3;0;0;R
 rmendezbcn;Barcelona, Catalonia;Barcelona;0;3;0;0;R
 marceloamaral;Barcelona;Barcelona;0;3;0;0;
+carlesmu;Catalonia;Catalunya;0;3;1;2;C
 frontday;Girona (Catalunya, Spain);Catalunya;1;3;0;12;CSS
-jorditudela;Igualada, Catalonia, Spain;Catalunya;3;3;0;7;Pascal
-albertix314;Girona, Catalonia;Catalunya;1;3;0;1;C
-rolblo12;Catalunya, Spain;Catalunya;0;3;0;0;
-fjorba;Alt Empordà, Catalonia;Catalunya;10;3;4;73;Python
-aniol;Catalonia;Catalunya;4;3;0;18;CSS
-ioliva;Girona, Catalonia, Spain;Catalunya;1;3;0;0;CSS
 guillempq;Catalonia;Catalunya;1;3;1;18;Arduino
+rolblo12;Catalunya, Spain;Catalunya;0;3;0;0;
+ioliva;Girona, Catalonia, Spain;Catalunya;1;3;0;0;CSS
+aniol;Catalonia;Catalunya;4;3;0;18;CSS
+fjorba;Alt Empordà, Catalonia;Catalunya;10;3;4;74;Python
+albertix314;Girona, Catalonia;Catalunya;1;3;0;1;C
+jorditudela;Igualada, Catalonia, Spain;Catalunya;3;3;0;7;Pascal
 egouy;Barcelona, Paris;Barcelona;0;3;0;14;CSS and JavaScript
 VictorBassas;Barcelona, Catalonia, Spain;Barcelona;0;3;0;0;R
 ioc-dam-m05;Barcelona;Barcelona;0;3;0;0;Java
@@ -2497,6 +2498,8 @@ xevivila;Girona;Gerona;1;3;0;1;HTML
 sailens;Barcelona;Barcelona;0;3;0;7;JavaScript
 miguelsanchez;Barcelona;Barcelona;5;3;0;47;Objective-C
 erkosone;SPAIN [BARCELONA];Barcelona;0;3;0;0;
+danielribes;Barcelona;Barcelona;1;3;0;2;PHP and Shell
+rudeworks;Barcelona;Barcelona;8;3;1;1k;JavaScript
 anaflasker;Barcelona, Spain;Barcelona;0;2;0;1;
 ablancoj;Tarragona;Tarragona;0;2;0;0;Java
 dcallejas;Barcelona;Barcelona;0;2;0;0;C# and Java
@@ -2551,12 +2554,12 @@ okiwan;Barcelona;Barcelona;0;2;3;15;JavaScript
 metelidrissi;Spain, Barcelona;Barcelona;0;2;0;0;
 marc-gr;Barcelona;Barcelona;1;2;0;0;Go
 kirian;Barcelona;Barcelona;8;2;0;201;
+jorcons;Catalonia;Catalunya;0;2;0;9;CSS
 Carlesla;Girona, Catalonia;Catalunya;5;2;2;56;R
 toniguix;Torroella de Montgrí - Catalunya;Catalunya;0;2;0;0;
+CherryAnt;Catalonia;Catalunya;1;2;0;19;PHP
 alexll;Catalunya;Catalunya;0;2;0;5;PHP
 ferrastas;Vilanova i la Geltrú, Catalonia;Catalunya;2;2;0;2;HTML
-jorcons;Catalonia;Catalunya;0;2;0;9;CSS
-CherryAnt;Catalonia;Catalunya;1;2;0;19;PHP
 wlundgren;Barcelona;Barcelona;0;2;0;6;JavaScript
 BaNkIck;Barcelona, Catalunya;Barcelona;0;2;3;24;PHP
 rferranp;Mollet del Vallès (Barcelona);Barcelona;0;2;0;0;Batchfile
@@ -2698,9 +2701,6 @@ ReoDeveloper;Tarragona;Tarragona;1;2;0;0;Java
 cestarlich;Tortosa,Tarragona,Spain;Tarragona;0;2;0;4;CSS
 martinproject;Tarragona, Spain;Tarragona;7;2;16;184;JavaScript
 gustavomartin;Barcelona;Barcelona;2;1;0;0;
-pparescasellas;Barcelona;Barcelona;2;1;0;5;
-marcomsousa;Barcelona;Barcelona;0;1;2;11;JavaScript
-oriolblanc;Barcelona;Barcelona;39;1;38;68;Objective-C
 carra;Barcelona;Barcelona;2;1;1;1;
 olimax;London and Barcelona;Barcelona;0;1;0;2;
 muebel;Barcelona;Barcelona;0;1;0;0;CSS
@@ -2761,6 +2761,9 @@ arodilana;Barcelona;Barcelona;0;1;1;1;
 joachimneumann;Barcelona, Spain;Barcelona;3;1;0;0;ActionScript
 ql4b;Barcelona, Spain;Barcelona;1;1;0;83;PHP
 bourb;Barcelona, Spain;Barcelona;0;1;0;2;Ruby
+monitotxi;Barcelona;Barcelona;0;1;0;0;
+albsala;Barcelona;Barcelona;3;1;0;182;Objective-C and Ruby
+nadalsol;Barcelona;Barcelona;9;1;1;6;CSS
 aleksandar9;Barcelona;Barcelona;7;1;0;12;
 xinoxan;Barcelona, Spain;Barcelona;0;1;0;0;CoffeeScript
 martinpetts;Barcelona, Spain;Barcelona;4;1;0;56;HTML and JavaScript
@@ -2772,7 +2775,7 @@ mhamson;Barcelona, Spain;Barcelona;5;1;0;87;CoffeeScript
 jesusdiez;Barcelona;Barcelona;5;1;4;19;PHP
 shadowman;Barcelona;Barcelona;5;1;11;11;Java
 PGRdesign;Barcelona;Barcelona;0;1;0;0;
-albsala;Barcelona;Barcelona;3;1;0;182;Objective-C and Ruby
+demon-tdr;Barcelona;Barcelona;2;1;0;4;HTML
 hvontrier;Barcelona-Spain;Barcelona;0;1;0;3;
 scarbajo;Barcelona;Barcelona;0;1;0;0;
 yuraksisa;Barcelona, Spain;Barcelona;2;1;41;47;Ruby
@@ -2818,10 +2821,7 @@ joandome;Barcelona;Barcelona;0;1;0;16;Objective-C
 egogarcia;Barcelona;Barcelona;0;1;1;2;PHP
 zvyagelskaya;Barcelona, Spain;Barcelona;0;1;0;0;Java
 JunioMarquesMartins;Barcelona;Barcelona;0;1;0;1;HTML
-nadalsol;Barcelona;Barcelona;9;1;1;6;CSS
-monitotxi;Barcelona;Barcelona;0;1;0;0;
 danielcuervo;Barcelona;Barcelona;4;1;1;0;PHP
-demon-tdr;Barcelona;Barcelona;2;1;0;4;HTML
 targetimc;Barcelona, Spain;Barcelona;0;1;0;1;PHP
 PabloReyes;Barcelona, Spain;Barcelona;2;1;3;3;CSS
 mandorra;Barcelona;Barcelona;2;1;0;0;Python
@@ -2877,22 +2877,23 @@ martias;Barcelona;Barcelona;1;1;0;0;C
 alejobs;Barcelona, Spain;Barcelona;0;1;0;0;Java
 zetchan;Barcelona, Spain;Barcelona;3;1;0;1;CSS
 francesctovar;Barcelona;Barcelona;1;1;3;2;Objective-C
-rossinimv;City Barcelona, BCN, Catalonia;Catalunya;0;1;0;0;
-GVallicrosa;Girona, Catalunya;Catalunya;3;1;0;78;QMake
-sitges;Sitges, Catalunya, Spain;Catalunya;0;1;0;0;
-dvdgmz;Catalonia, Spain;Catalunya;0;1;0;0;
-estevegrau;Matadepera (Catalunya);Catalunya;0;1;0;0;
-JeanBanane;French Catalonia;Catalunya;0;1;0;4;
-tyl3r;Catalunya;Catalunya;6;1;0;116;
-mllinas;Llagostera, Catalunya, Europe;Catalunya;1;1;0;0;C
-tornako;Catalonia;Catalunya;0;1;0;1;
-radioelf;Torroella de Montgri, Girona, Catalonia, Spain;Catalunya;0;1;0;0;
-jqueralt;Sant Andreu del Palomar, Catalunya;Catalunya;2;1;4;4;CSS
-pgarriga;Vidreres, Girona, Catalunya;Catalunya;0;1;0;25;
-David-Gil;Barcelona (Catalonia);Catalunya;1;1;0;14;Ruby
 gabrielboucher;Quebec/Barcelona;Barcelona;0;1;0;14;JavaScript
 izurdo;Barcelona;Barcelona;1;1;0;0;
 albertoalcaraz;Barcelona;Barcelona;1;1;1;10;JavaScript
+jqueralt;Sant Andreu del Palomar, Catalunya;Catalunya;2;1;4;4;CSS
+tornako;Catalonia;Catalunya;0;1;0;1;
+mllinas;Llagostera, Catalunya, Europe;Catalunya;1;1;0;0;C
+GVallicrosa;Girona, Catalunya;Catalunya;3;1;0;78;QMake
+rossinimv;City Barcelona, BCN, Catalonia;Catalunya;0;1;0;0;
+David-Gil;Barcelona (Catalonia);Catalunya;1;1;0;14;Ruby
+radioelf;Torroella de Montgri, Girona, Catalonia, Spain;Catalunya;0;1;0;0;
+JeanBanane;French Catalonia;Catalunya;0;1;0;4;
+estevegrau;Matadepera (Catalunya);Catalunya;0;1;0;0;
+tyl3r;Catalunya;Catalunya;6;1;0;116;
+dvdgmz;Catalonia, Spain;Catalunya;0;1;0;0;
+sitges;Sitges, Catalunya, Spain;Catalunya;0;1;0;0;
+pgarriga;Vidreres, Girona, Catalunya;Catalunya;0;1;0;25;
+miquelbofill;Girona (Catalonia, Spain);Catalunya;0;1;0;0;
 fv3rdugo;L*H - Barcelona;Barcelona;3;1;0;4;Shell
 afortuny;Barcelona;Barcelona;0;1;0;0;
 tgabaldon;Barcelona;Barcelona;1;1;0;0;
@@ -2945,6 +2946,9 @@ davidpenya;Barcelona (Spain);Barcelona;0;1;0;0;
 Nescafemix;Barcelona;Barcelona;10;1;3;11;Java
 gerardocdc;Barcelona;Barcelona;8;1;15;86;PHP
 marccerrato;Barcelona;Barcelona;7;1;16;126;Python
+jmoraltu;Barcelona;Barcelona;0;1;0;0;C#
+ashish021;Barcelona, Spain;Barcelona;1;1;0;0;
+popedub;Barcelona;Barcelona;0;1;0;0;CSS
 EloyRoura;Girona, Spain;Gerona;0;1;0;0;C++
 futurepastori;Colomers, Girona, CAT;Gerona;1;1;0;1;HTML
 Mulisec;Girona;Gerona;0;1;0;0;
@@ -2953,9 +2957,6 @@ pktito;Girona, Spain;Gerona;0;1;0;3;
 jrc-imente;Girona;Gerona;2;1;0;5;
 mgarcia96;Figueres, Girona;Gerona;2;1;3;5;PHP
 jeroen;Lloret de Mar, Spain;Gerona;9;1;26;65;JavaScript
-jmoraltu;Barcelona;Barcelona;0;1;0;0;C#
-ashish021;Barcelona, Spain;Barcelona;1;1;0;0;
-popedub;Barcelona;Barcelona;0;1;0;0;CSS
 Janjiji;Barcelona, Spain;Barcelona;0;1;0;0;
 annanoell;Barcelona;Barcelona;0;1;0;0;
 oroel;Barcelona;Barcelona;0;1;0;0;
@@ -2995,14 +2996,14 @@ sbanzas;Barcelona;Barcelona;1;1;0;0;JavaScript
 despinola;Barcelona;Barcelona;0;1;0;1;CoffeeScript
 yumartynova;Barcelona, Spain;Barcelona;0;1;0;0;
 andressotov;Barcelona, Spain;Barcelona;0;1;0;0;
+MarcRamos;Barcelona, Cat;Barcelona;1;1;0;1;C
+matiasBravo;Barcelona;Barcelona;0;1;0;3;ApacheConf
+ellibre;Barcelona;Barcelona;1;1;0;0;CoffeeScript
 psykologist90;Lleida, Spain;Lleida;0;1;0;1;Shell
 JordiMateo;Lleida;Lleida;0;1;0;0;
 iferrera;Lleida;Lleida;1;1;0;3;Objective-C and Ruby
 jaumecornado;Lleida;Lleida;5;1;39;12;Objective-C
 Shauku;Balaguer;Lleida;3;1;0;3;CSS
-MarcRamos;Barcelona, Cat;Barcelona;1;1;0;1;C
-matiasBravo;Barcelona;Barcelona;0;1;0;3;ApacheConf
-ellibre;Barcelona;Barcelona;1;1;0;0;CoffeeScript
 ClaraOrtiMoles;Barcelona;Barcelona;0;1;0;1;
 jvsalatino;Capellades - Barcelona - Spain;Barcelona;1;1;0;0;Processing
 jordirue;Barcelona;Barcelona;1;1;0;0;CSS
@@ -3044,6 +3045,9 @@ mydocumenta;Barcelona;Barcelona;0;1;0;0;CSS
 Tweener;Barcelona;Barcelona;2;1;9;16;Java and Objective-C
 alvarosaburido;Barcelona, Spain;Barcelona;0;1;0;0;CSS
 agustisanchez;Barcelona;Barcelona;0;1;0;1;Java
+pparescasellas;Barcelona;Barcelona;2;1;0;5;
+marcomsousa;Barcelona;Barcelona;0;1;2;11;JavaScript
+oriolblanc;Barcelona;Barcelona;39;1;38;68;Objective-C
 alfroc;Tarragona, Spain;Tarragona;0;1;0;0;
 Gerard-Gutierrez;Tarragona;Tarragona;2;1;0;0;
 famassucci;Tarragona, Spain;Tarragona;1;1;1;0;C

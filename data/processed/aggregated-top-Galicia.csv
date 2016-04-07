@@ -1,39 +1,39 @@
 login; location; place; followers; contributions; stars; user_stars; language
 notnotpsych0;Galicia, Spain.;Galicia;1;2468;2;10;CSS
-oscarotero;Galicia;Galicia;96;1948;1591;204;PHP
+oscarotero;Galicia;Galicia;96;1948;1597;204;PHP
 fdansv;Madrid / Santiago de Compostela;Coruña;30;1777;671;24;Java
 diegopau;Vigo, Spain;Pontevedra;5;710;5;25;JavaScript
 jjelosua;Vigo, Spain;Pontevedra;35;697;7;53;JavaScript
 fpuga;Vigo. Spain;Pontevedra;9;675;4;15;CSS
 rubenhortas;Lugo ⊕ A Coruña (Galiza, Spain);Coruña;19;592;6;24;Python
-unho;Galicia;Galicia;13;538;25;6;Python
+unho;Galicia;Galicia;13;538;26;6;Python
 mmontes11;A Coruña;Coruña;22;528;21;103;CSS
 pablopunk;Santiago de Compostela;Coruña;7;503;13;19;CSS
 rcoedo;A Coruña;Coruña;5;458;6;3;CSS
 ctemescw;A Coruña, Spain;Coruña;11;455;12;30;C
-CytraL;Galicia;Galicia;8;441;22;16;C++
+CytraL;Galicia;Galicia;8;438;22;16;C++
 alambike;Santiago de Compostela;Coruña;13;434;13;315;Ruby
+rafacouto;Galicia;Galicia;26;405;9;105;CSS
 castrinho8;A Coruña;Coruña;12;405;2;7;CSS
-rafacouto;Galicia;Galicia;26;404;9;104;CSS
 barcia;Galicia, Spain;Galicia;12;385;4;49;JavaScript
 carlosga;Vigo, Spain;Pontevedra;5;379;5;10;C#
-ablunier;Compostela, Galiza;Galicia;10;355;10;60;PHP
+ablunier;Compostela, Galiza;Galicia;10;355;11;60;PHP
 michogar;Vigo;Pontevedra;18;350;10;4;JavaScript
-eusonlito;Ourense, Galiza;Galicia;25;349;201;28;PHP
+eusonlito;Ourense, Galiza;Galicia;25;349;202;28;PHP
 nosolosw;Lugo;Lugo;21;331;4;0;JavaScript
 jacoborus;A Coruña, Spain;Coruña;68;329;177;465;JavaScript
-bertez;Brión, Galicia, Spain;Galicia;35;326;29;167;JavaScript
+bertez;Brión, Galicia, Spain;Galicia;35;327;29;168;JavaScript
 fasouto;Vigo, Spain;Pontevedra;32;303;458;475;Python
 inercia;A Coruña, Spain;Coruña;17;293;22;501;Go
 franiglesias;Vigo;Pontevedra;0;289;0;0;PHP
-alexandregz;Galiza;Galicia;19;283;70;1.2k;Shell
+alexandregz;Galiza;Galicia;19;284;70;1.2k;Shell
 dalareo;A Coruña (Galiza);Coruña;16;279;1;798;CSS
 cmoralesweb;Galicia, Spain;Galicia;4;256;5;21;PHP
 jesusVMayor;Lugo;Lugo;5;249;0;21;Python
 alex030293;A Coruña;Coruña;8;244;2;3;JavaScript
 adriannovegil;A Coruña;Coruña;5;240;3;4;Java
+liraru;Galicia, Spain;Galicia;1;236;1;2;HTML
 Beluki;Carballo, A Coruña, Spain;Coruña;2;235;31;69;Python
-liraru;Galicia, Spain;Galicia;1;232;1;2;HTML
 weberjavi;Galicia, Spain.;Galicia;15;231;1;15;CSS
 jesusprubio;A Coruña;Coruña;66;229;154;1.5k;JavaScript
 chezwhite;Ourense, Spain;Orense;2;228;0;0;JavaScript
@@ -41,7 +41,7 @@ Reimashi;Ourense, Spain;Orense;2;220;0;1;C#
 antoniovazquezblanco;Chantada, Lugo, Spain;Lugo;19;217;8;23;C
 McOmghall;Santiago de Compostela;Coruña;2;216;3;9;JavaScript
 carlosabalde;A Coruña, Spain;Coruña;4;214;52;17;Shell
-segundofdez;Lugo, Galicia, Spain;Galicia;12;206;8;136;CSS
+segundofdez;Lugo, Galicia, Spain;Galicia;12;206;8;140;CSS
 pablormier;Santiago de Compostela;Coruña;21;206;7;479;Java
 kix2902;Vigo, Spain;Pontevedra;19;202;0;38;Java
 dpino;Vigo;Pontevedra;21;202;48;29;Java
@@ -73,9 +73,9 @@ Peque;Vigo, Spain;Pontevedra;13;114;3;67;Python
 carlosgoce;Baiona, Pontevedra, Spain;Pontevedra;5;109;2;27;Python
 daavoo;Vigo;Pontevedra;1;108;0;0;Python
 ifcunharro;Pontevedra, Spain;Pontevedra;7;103;0;6;Java
-christianponte;Galicia, Spain;Galicia;2;103;0;0;CSS
 BalbuenaJuan;Vigo (Galicia, España);Galicia;8;103;1;5;CSS
-M4STERANGEL;Galicia, España;Galicia;1;102;5;11;Lua
+christianponte;Galicia, Spain;Galicia;2;103;0;0;CSS
+M4STERANGEL;Galicia, España;Galicia;1;102;6;11;Lua
 antonioferngarcia;(Spain) A Coruña - Pontevedra;Coruña;0;99;0;3;
 jsanroman;Vigo;Pontevedra;8;99;5;165;Ruby
 joedicastro;A Coruña, Spain;Coruña;83;98;644;766;Python
@@ -267,12 +267,12 @@ sCervino;Vigo;Pontevedra;0;12;0;6;R
 ficiverson;A Coruña;Coruña;0;12;0;1;JavaScript and Java
 javieramp;A Coruña;Coruña;1;11;0;5;Ruby
 br7;Ourense;Orense;0;11;1;1;JavaScript
-jesusropi;Galicia;Galicia;2;11;0;1;Python
-bokybanton;Ourense, Galicia, SPAIN.;Galicia;1;11;4;9;JavaScript
-diego-XA;Galiza;Galicia;2;11;10;3;Python
-ildsiempre;Vigo, Galicia, Spain;Galicia;0;11;0;5;Java
-lauantai;Bueu, Galicia;Galicia;2;11;0;273;Python
 fvnuria;Galicia;Galicia;0;11;0;0;HTML
+bokybanton;Ourense, Galicia, SPAIN.;Galicia;1;11;4;9;JavaScript
+ildsiempre;Vigo, Galicia, Spain;Galicia;0;11;0;5;Java
+jesusropi;Galicia;Galicia;2;11;0;1;Python
+diego-XA;Galiza;Galicia;2;11;10;3;Python
+lauantai;Bueu, Galicia;Galicia;2;11;0;273;Python
 punkto;Vigo, Spain.;Pontevedra;5;11;11;11;JavaScript
 eocanha;Vigo, Spain;Pontevedra;0;11;0;0;JavaScript
 ivanoterouvigo;Vigo;Pontevedra;0;11;0;0;PHP and Python
@@ -283,17 +283,17 @@ srutschmann;Vigo, Spain;Pontevedra;0;10;0;0;Python
 zoltyvigo;Vigo;Pontevedra;0;10;0;0;
 irconde;Ourense;Orense;0;10;0;0;JavaScript
 ManuelDiazP;Coruña, Spain;Coruña;0;9;0;0;Python
-leitinha;Galiza;Galicia;0;9;0;0;CSS
-pancheto;Santiago de Compostela;Coruña;1;9;1;5;Python
-kotehector;Bueu, Galiza;Galicia;2;9;0;1;CSS
 toniferr;Galicia;Galicia;1;9;0;0;HTML and Java
+pancheto;Santiago de Compostela;Coruña;1;9;1;5;Python
+leitinha;Galiza;Galicia;0;9;0;0;CSS
+kotehector;Bueu, Galiza;Galicia;2;9;0;1;CSS
 gonzaloadrio;Vigo;Pontevedra;12;9;1;1;Java
 eljaviero;A Coruña (GZ) - Spain;Coruña;0;9;0;0;HTML and PHP
 josecurras;A Coruña, Spain;Coruña;1;8;2;7;Python
 miquecg;Vigo;Pontevedra;3;8;2;3;CSS
 rodrigorevuelta;Ferrol;Coruña;0;8;0;8;Java
-keko;Galicia;Galicia;3;8;1;0;Java
 Sanva;Galicia, Spain;Galicia;5;8;19;6;Shell
+keko;Galicia;Galicia;3;8;1;0;Java
 berio;Galicia;Galicia;9;8;8;12;C
 robertorodriguezgarcia;Galicia, España;Galicia;0;8;0;0;ApacheConf
 pexejo;A Coruña;Coruña;0;8;0;0;JavaScript and CSS
@@ -305,9 +305,9 @@ fabianlema;A Coruña;Coruña;1;7;1;1;Java
 edelperi;Ourense (Spain);Orense;1;7;9;6;Python
 dseijasiglesias;Vigo;Pontevedra;35;7;0;0;Java
 Andrewvf;Salvaterra de Miño, Pontevedra, España;Pontevedra;1;7;0;1;
-radabass;Galicia;Galicia;0;7;0;0;JavaScript
-joserprieto;Lugo;Lugo;5;7;0;112;HTML
 CristoferCD;Galicia;Galicia;3;7;0;8;Java
+joserprieto;Lugo;Lugo;5;7;0;112;HTML
+radabass;Galicia;Galicia;0;7;0;0;JavaScript
 Ankso;Montrove - A Coruña - Spain;Coruña;10;7;23;14;C++
 carlossc87;Santiago de Compostela, Spain;Coruña;0;7;0;0;CSS
 eskalera;Vigo;Pontevedra;0;6;0;7;
@@ -321,10 +321,10 @@ oslcixug;Santiago de Compostela, A Coruña, Spain;Coruña;5;6;7;3;Shell
 ozono;O Milladoiro - Ames - A Coruña - Spain;Coruña;1;6;0;0;Python
 iagosayar;Vigo;Pontevedra;10;6;0;0;CSS
 mpperez3;Ourense (Galicia);Galicia;2;6;0;0;
-EnforcerZhukov;Galicia, Spain;Galicia;1;5;0;0;
 xxesus;Galiza;Galicia;1;5;0;0;CSS
-pargibay;Galicia;Galicia;1;5;1;1;HTML and PHP
 pedrovr-;Arteixo, Galicia;Galicia;4;5;0;7;Scala
+pargibay;Galicia;Galicia;1;5;1;1;HTML and PHP
+EnforcerZhukov;Galicia, Spain;Galicia;1;5;0;0;
 calidadesystems;Carballo, A Coruña, Spain;Coruña;1;5;0;0;Python
 moreda;A Coruña, Spain;Coruña;3;5;5;2;Scheme
 Inmovilizame;A Coruña;Coruña;4;5;1;6;PHP
@@ -343,11 +343,11 @@ roberto-barreiro;Santiago de Compostela;Coruña;0;4;1;0;Shell
 atycocene;Fene. La Coruña. Spain.;Coruña;1;4;2;0;
 GuillermoCouceiro;A Coruña;Coruña;2;4;0;1;Java
 gpc17;Galicia, Spain;Galicia;0;4;0;0;Java
-B1NAR10;Galicia ( Spain );Galicia;2;4;0;2;HTML
 oscarmlage;Lugo, Galicia, Spain;Galicia;10;4;4;15;HTML
-manufy;Galicia - Spain;Galicia;3;4;13;13;PHP
 xose;Galicia, Spain;Galicia;7;4;45;16;Java
+manufy;Galicia - Spain;Galicia;4;4;13;13;PHP
 gprodriguez;Galicia;Galicia;1;4;0;0;Java
+B1NAR10;Galicia ( Spain );Galicia;2;4;0;2;HTML
 pvieito;Galicia;Galicia;0;4;13;47;JavaScript
 acostapazo;Vigo;Pontevedra;0;4;0;0;C
 zenlaboratory;Vigo, Spain;Pontevedra;0;4;0;2;CSS
@@ -357,8 +357,8 @@ programwar;Vigo;Pontevedra;6;3;0;14;C#
 ivan-vazquez;Vigo, Spain;Pontevedra;0;3;0;0;HTML
 jakinho;Galicia;Galicia;1;3;0;2;Java
 dolphinziyo;Galicia;Galicia;0;3;1;2;Java
-meixome;Galicia;Galicia;4;3;3;1;JavaScript
 venadHD;Galicia, España;Galicia;0;3;0;0;Lua
+meixome;Galicia;Galicia;4;3;3;1;JavaScript
 brapercas;A Coruña;Coruña;0;3;0;2;C#
 HugoXandre;Vigo;Pontevedra;0;3;0;0;CSS and PHP
 ayora;Santiago de Compostela;Coruña;0;3;0;0;HTML and Java
@@ -380,9 +380,9 @@ Alexsays;Vigo;Pontevedra;2;2;9;11;Objective-C
 kmewi1000;Vigo;Pontevedra;1;2;0;1;JavaScript
 prolsobrado;Ourense;Orense;0;2;0;0;PHP
 openpipelabs;Galicia. Spain.;Galicia;12;2;6;0;Arduino
+maeloc;Galiza;Galicia;0;2;0;0;ApacheConf
 WuShell;Lugo, Galicia, Spain;Galicia;2;2;0;0;Python
 TheHollowEsp;Galicia;Galicia;0;2;0;1;CSS
-maeloc;Galiza;Galicia;0;2;0;0;ApacheConf
 nbarreira;Coruña;Coruña;4;2;1;2;C++
 braisCB;A Coruña, Spain;Coruña;0;2;0;0;C++ and Matlab
 jciDoval;A Coruña;Coruña;0;2;0;0;Java
@@ -409,12 +409,12 @@ erubio;Coruña;Coruña;5;1;2;8;JavaScript
 brebaje;Santiago de Compostela, Spain;Coruña;0;1;0;0;
 misterpulpo;A Coruña;Coruña;1;1;1;1;
 cleventy;A Coruña, Spain;Coruña;1;1;0;0;
-vquintans;Galicia - Spain;Galicia;4;1;0;40;Ruby
+joseate;Galiza;Galicia;1;1;0;16;
 soutocorral;A Coruña Spain;Coruña;0;1;0;0;
-joseate;Galiza;Galicia;1;1;0;15;
-damian-aragunde-udc;Galicia, Spain;Galicia;3;1;1;4;Java
+vquintans;Galicia - Spain;Galicia;4;1;0;40;Ruby
 thisjrodriguez;Galicia;Galicia;2;1;0;0;
 micafe;Parque Tecnológico de Galicia;Galicia;4;1;1;29;Objective-C
+damian-aragunde-udc;Galicia, Spain;Galicia;3;1;1;4;Java
 BraisFreire;Lugo;Lugo;0;1;0;0;
 VictorCorchero;Vigo;Pontevedra;0;1;0;1;Java
 aitorfreire;Cangas (Pontevedra);Pontevedra;0;1;0;0;CSS and JavaScript
