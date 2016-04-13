@@ -3,7 +3,12 @@
 
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Tue, 07 Apr 2015 05:16:19 GMT** hasta **Thu, 07 Apr 2016 05:16:19 GMT**.
+Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
+
+<a href='https://www.easyname.com/es'><img src='https://raw.githubusercontent.com/JJ/top-github-users-data/master/img/easyname_500px.png' alt='logo patrocinador'></a>
+
+
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Mon, 13 Apr 2015 05:25:17 GMT** hasta **Wed, 13 Apr 2016 05:25:17 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -14,9 +19,8 @@
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [ljmanso](https://github.com/ljmanso) | 1004 | 2 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width="64" title='Luis J. Manso'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [ljmanso](https://github.com/ljmanso) | 988 | 2 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width="64" title='Luis J. Manso'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [afrasilv](https://github.com/afrasilv) | 35 | 0 | Java | Cáceres/Badajoz (Extremadura) - Spain | <img src='https://avatars1.githubusercontent.com/u/9256924?v=3&s=64' width="64" title='Alejandro Franco Silva'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 3 | [jramosext](https://github.com/jramosext) | 4 | 4 | Python | Extremadura | <img src='https://avatars3.githubusercontent.com/u/14995205?v=3&s=64' width="64" title='Jorge Ramos S.'> |
-|![up](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/up.gif) 4 | [SolEpcc](https://github.com/SolEpcc) | 2 | 0 |  | Cáceres, Extremadura, Spain | <img src='https://avatars3.githubusercontent.com/u/9723722?v=3&s=64' width="64" title='Smart Open Lab Epcc'> |
-|![down](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/down.gif) 5 | [juanro49](https://github.com/juanro49) | 2 | 0 | ASP | Extremadura - España | <img src='https://avatars1.githubusercontent.com/u/11600804?v=3&s=64' width="64" title='Juanro'> |
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 6 | [josecampo](https://github.com/josecampo) | 1 | 0 | CSS and HTML | Caceres, Extremadura, Spain | <img src='https://avatars3.githubusercontent.com/u/3856286?v=3&s=64' width="64" title='Jose Campo'> |
+|![up](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/up.gif) 4 | [juanro49](https://github.com/juanro49) | 2 | 0 | ASP | Extremadura - España | <img src='https://avatars1.githubusercontent.com/u/11600804?v=3&s=64' width="64" title='Juanro'> |
+|![up](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/up.gif) 5 | [josecampo](https://github.com/josecampo) | 1 | 0 | CSS and HTML | Caceres, Extremadura, Spain | <img src='https://avatars3.githubusercontent.com/u/3856286?v=3&s=64' width="64" title='Jose Campo'> |
