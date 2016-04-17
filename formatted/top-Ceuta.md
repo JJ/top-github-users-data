@@ -8,7 +8,7 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 <a href='https://www.easyname.com/es'><img src='https://raw.githubusercontent.com/JJ/top-github-users-data/master/img/easyname_500px.png' alt='logo patrocinador'></a>
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 10 Apr 2015 17:13:21 GMT** hasta **Sun, 10 Apr 2016 17:13:21 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 17 Apr 2015 10:35:03 GMT** hasta **Sun, 17 Apr 2016 10:35:03 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
