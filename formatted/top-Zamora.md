@@ -8,7 +8,7 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 <a href='https://www.easyname.com/es'><img src='https://raw.githubusercontent.com/JJ/top-github-users-data/master/img/easyname_500px.png' alt='logo patrocinador'></a>
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 17 Apr 2015 10:28:33 GMT** hasta **Sun, 17 Apr 2016 10:28:33 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 24 Apr 2015 18:20:53 GMT** hasta **Sun, 24 Apr 2016 18:20:53 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -19,11 +19,11 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [crueda](https://github.com/crueda) | 264 | 0 | Python | Valladolid - Zamora (Spain) | <img src='https://avatars0.githubusercontent.com/u/1956285?v=3&s=64' width="64" title='Carlos Rueda Morales'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [crueda](https://github.com/crueda) | 279 | 0 | Python | Valladolid - Zamora (Spain) | <img src='https://avatars0.githubusercontent.com/u/1956285?v=3&s=64' width="64" title='Carlos Rueda Morales'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [leopaglia](https://github.com/leopaglia) | 109 | 2 | C | Lomas de Zamora, Buenos Aires | <img src='https://avatars3.githubusercontent.com/u/4120036?v=3&s=64' width="64" title='Leonardo Paglialunga'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [Roberth1203](https://github.com/Roberth1203) | 69 | 0 | C# | Zamora de Hidalgo, Mich | <img src='https://avatars0.githubusercontent.com/u/10360581?v=3&s=64' width="64" title='Roberto Arroyo'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [ahdezma](https://github.com/ahdezma) | 47 | 0 |  | Zamora | <img src='https://avatars3.githubusercontent.com/u/9027541?v=3&s=64' width="64" title='Alejandro Hernández Malillos'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 5 | [amaliahern](https://github.com/amaliahern) | 23 | 15 | Ruby | Valladolid - Zamora (Spain) | <img src='https://avatars3.githubusercontent.com/u/304761?v=3&s=64' width="64" title='Amalia Hernandez'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 5 | [amaliahern](https://github.com/amaliahern) | 17 | 15 | Ruby | Valladolid - Zamora (Spain) | <img src='https://avatars3.githubusercontent.com/u/304761?v=3&s=64' width="64" title='Amalia Hernandez'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 6 | [jairomelo](https://github.com/jairomelo) | 12 | 0 |  | Zamora, Mich., México | <img src='https://avatars1.githubusercontent.com/u/7632991?v=3&s=64' width="64" title='Jairo Antonio Melo Flórez'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 7 | [arcxyz](https://github.com/arcxyz) | 11 | 3 | JavaScript | Madrid and Zamora (Spain) | <img src='https://avatars0.githubusercontent.com/u/185002?v=3&s=64' width="64" title='Alejandro Rodríguez'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 8 | [rodvic](https://github.com/rodvic) | 10 | 0 | HTML | Zamora | <img src='https://avatars0.githubusercontent.com/u/15360394?v=3&s=64' width="64" title='Alejandro Rodríguez Vicente'> |
