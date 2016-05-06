@@ -4,6 +4,7 @@
 library(ggplot2)
 library(mclust)
 library(MASS)
+library(ggthemes)
 
 # Remember to run first 
 #./agg-csv.pl > data/processed/data-per-province.csv  
@@ -40,7 +41,8 @@ language.top20.df <- data.frame(language=row.names(language.top20),
                                 devs=language.top20$"summary(language.province$language, max = 25)")
 
 ## ---- echo=FALSE,fig.width=10,fig.height=8-------------------------------
-ggplot(data.province, aes(x=reorder(province,population),y=users))+geom_bar(stat='identity')+coord_flip()
+ggplot(data.province, aes(x=reorder(province,population),y=users,width=contribrel*10,fill=followers))+geom_bar(stat='identity')+labs(x='Provincia',y='Usuarios')+theme_tufte()
+
 
 ## ---- echo=FALSE,fig.width=10,fig.height=8-------------------------------
 ggplot( data=province.table.df, aes(x="",y=users,fill=factor(province)))+ geom_bar(width=1,stat='identity') + coord_polar(theta='y')
