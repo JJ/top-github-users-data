@@ -1,7 +1,7 @@
 ---
 title: 'GitHub users in Spain: User and contribution dynamics'
 author: "JJ Merelo"
-date: "24/02/2016"
+date: "12/05/2016"
 output: html_document
 bibliography: gh-rankings.bib
 ---
