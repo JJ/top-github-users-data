@@ -8,7 +8,7 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 <a href='https://www.easyname.com/es'><img src='https://raw.githubusercontent.com/JJ/top-github-users-data/master/img/easyname_500px.png' alt='logo patrocinador'></a>
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 08 May 2015 08:19:56 GMT** hasta **Sun, 08 May 2016 08:19:56 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 15 May 2015 16:40:47 GMT** hasta **Sun, 15 May 2016 16:40:47 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -19,7 +19,7 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [garciparedes](https://github.com/garciparedes) | 908 | 60 | Java | Palencia, Spain | <img src='https://avatars1.githubusercontent.com/u/5640366?v=3&s=64' width="64" title='Sergio García'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [garciparedes](https://github.com/garciparedes) | 999 | 60 | Java | Palencia, Spain | <img src='https://avatars1.githubusercontent.com/u/5640366?v=3&s=64' width="64" title='Sergio García'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [zdavidlnx](https://github.com/zdavidlnx) | 16 | 2 | CoffeeScript | Palencia, Spain | <img src='https://avatars1.githubusercontent.com/u/944150?v=3&s=64' width="64" title='David Garcia Alonso'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [villeparamio](https://github.com/villeparamio) | 10 | 0 | CSS and HTML | Palencia, Castilla y León, España | <img src='https://avatars1.githubusercontent.com/u/16100827?v=3&s=64' width="64" title='David Paramio Calvo'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [VitoZanchi](https://github.com/VitoZanchi) | 9 | 0 | JavaScript | PALENCIA | <img src='https://avatars1.githubusercontent.com/u/12576130?v=3&s=64' width="64" title='Vito'> |

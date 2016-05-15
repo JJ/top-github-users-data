@@ -8,7 +8,7 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 <a href='https://www.easyname.com/es'><img src='https://raw.githubusercontent.com/JJ/top-github-users-data/master/img/easyname_500px.png' alt='logo patrocinador'></a>
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 08 May 2015 08:24:15 GMT** hasta **Sun, 08 May 2016 08:24:15 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 15 May 2015 16:45:10 GMT** hasta **Sun, 15 May 2016 16:45:10 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -19,4 +19,5 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [carcam](https://github.com/carcam) | 103 | 10 | PHP | Almería, Ceuta, Spain | <img src='https://avatars2.githubusercontent.com/u/1695138?v=3&s=64' width="64" title='Carlos (carcam)'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [carcam](https://github.com/carcam) | 95 | 10 | PHP | Almería, Ceuta, Spain | <img src='https://avatars2.githubusercontent.com/u/1695138?v=3&s=64' width="64" title='Carlos (carcam)'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [EmilioMN92](https://github.com/EmilioMN92) | 4 | 0 | C# | Granada / Ceuta | <img src='https://avatars1.githubusercontent.com/u/8913229?v=3&s=64' width="64" title='Emilio Morilla'> |
