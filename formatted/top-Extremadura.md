@@ -8,7 +8,7 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 <a href='https://www.easyname.com/es'><img src='https://raw.githubusercontent.com/JJ/top-github-users-data/master/img/easyname_500px.png' alt='logo patrocinador'></a>
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Mon, 18 May 2015 15:34:50 GMT** hasta **Wed, 18 May 2016 15:34:50 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Mon, 25 May 2015 05:37:18 GMT** hasta **Wed, 25 May 2016 05:37:18 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -19,7 +19,7 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
-|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [ljmanso](https://github.com/ljmanso) | 955 | 2 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width="64" title='Luis J. Manso'> |
+|![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 1 | [ljmanso](https://github.com/ljmanso) | 936 | 2 | Python | Extremadura | <img src='https://avatars0.githubusercontent.com/u/1719846?v=3&s=64' width="64" title='Luis J. Manso'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 2 | [afrasilv](https://github.com/afrasilv) | 35 | 0 | Java | Cáceres/Badajoz (Extremadura) - Spain | <img src='https://avatars1.githubusercontent.com/u/9256924?v=3&s=64' width="64" title='Alejandro Franco Silva'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 3 | [jramosext](https://github.com/jramosext) | 3 | 4 | Python | Extremadura | <img src='https://avatars3.githubusercontent.com/u/14995205?v=3&s=64' width="64" title='Jorge Ramos S.'> |
 |![equal](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/equal.gif) 4 | [juanro49](https://github.com/juanro49) | 2 | 0 | ASP | Extremadura - España | <img src='https://avatars1.githubusercontent.com/u/11600804?v=3&s=64' width="64" title='Juanro'> |
