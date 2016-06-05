@@ -8,7 +8,7 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 <a href='https://www.easyname.com/es'><img src='https://raw.githubusercontent.com/JJ/top-github-users-data/master/img/easyname_500px.png' alt='logo patrocinador'></a>
 
 
-  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 29 May 2015 17:35:59 GMT** hasta **Sun, 29 May 2016 17:35:59 GMT**.
+  Cuenta las contribuciones a los repos públicos (issues, pull requests y commits de repos públicos) en GitHub.com desde  **Fri, 05 Jun 2015 07:10:16 GMT** hasta **Sun, 05 Jun 2016 07:10:16 GMT**.
 
   Hecho usando el API de [GitHub](http://github.com) ([datos en otro directorio](https://github.com/JJ/top-github-users-data/tree/master/data), [script en otro repo](https://github.com/JJ/github-city-rankings/blob/master/get-city.coffee)) adaptado de [@paulmillr](https://github.com/paulmillr) con contribuciones de [@lifesinger](https://github.com/lifesinger) y adaptación de [JJ](http://jj.github.io) con contribuciones de [Benito Palacios `@pleonex`](http://github.com/pleonex) e [Israel Blancas `@iblancasa`](https://github.com/iblancasa). Actualizado todas las semanas.
 
@@ -20,10 +20,10 @@ Este ránking está patrocinado por [EasyName](https://www.easyname.com/es)
 | Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
 |----------|:---------:|-------:|-------|-------------|:---------------:|----------|
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 1 | [jmendiara](https://github.com/jmendiara) | 164 | 83 | JavaScript | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/851359?v=3&s=64' width="64" title='Javier Mendiara'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [fernand0](https://github.com/fernand0) | 102 | 7 | Python | Huesca-Zaragoza, Spain | <img src='https://avatars3.githubusercontent.com/u/2467?v=3&s=64' width="64" title='Fernando Tricas García'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [hbiarge](https://github.com/hbiarge) | 44 | 27 | C# | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/473010?v=3&s=64' width="64" title='Hugo Biarge'> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [Lusbert](https://github.com/Lusbert) | 38 | 0 | Shell | Huesca, Spain | <img src='https://avatars2.githubusercontent.com/u/19206937?v=3&s=64' width="64" title=''> |
-|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 5 | [jcalejero](https://github.com/jcalejero) | 23 | 1 | R | Huesca | <img src='https://avatars3.githubusercontent.com/u/3702479?v=3&s=64' width="64" title='Jesus Armand Calejero Roman'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 2 | [fernand0](https://github.com/fernand0) | 104 | 7 | Python | Huesca-Zaragoza, Spain | <img src='https://avatars3.githubusercontent.com/u/2467?v=3&s=64' width="64" title='Fernando Tricas García'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 3 | [hbiarge](https://github.com/hbiarge) | 45 | 27 | C# | Huesca, Spain | <img src='https://avatars3.githubusercontent.com/u/473010?v=3&s=64' width="64" title='Hugo Biarge'> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 4 | [Lusbert](https://github.com/Lusbert) | 39 | 0 | Shell | Huesca, Spain | <img src='https://avatars2.githubusercontent.com/u/19206937?v=3&s=64' width="64" title=''> |
+|![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 5 | [jcalejero](https://github.com/jcalejero) | 24 | 1 | R | Huesca | <img src='https://avatars3.githubusercontent.com/u/3702479?v=3&s=64' width="64" title='Jesus Armand Calejero Roman'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 6 | [JuanS](https://github.com/JuanS) | 13 | 0 | PHP | Huesca, Spain | <img src='https://avatars2.githubusercontent.com/u/2165396?v=3&s=64' width="64" title='Juan Sierra'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 7 | [fgarcialainez](https://github.com/fgarcialainez) | 6 | 60 | Java | Huesca (Spain) | <img src='https://avatars0.githubusercontent.com/u/1755561?v=3&s=64' width="64" title='Felix Garcia Lainez'> |
 |![](https://raw.githubusercontent.com/JJ/github-city-rankings/master/img/.gif) 8 | [isaiasanchez](https://github.com/isaiasanchez) | 5 | 0 |  | Huesca - Spain | <img src='https://avatars2.githubusercontent.com/u/8542819?v=3&s=64' width="64" title='Isaias Sanchez'> |
