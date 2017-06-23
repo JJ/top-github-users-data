@@ -17,7 +17,7 @@ Index
 
 * [alt-Spain](formatted/top-alt-Spain.md)
 
-# Provincias (y otros)#
+# Provincias (y otros)
 * [Álava](formatted/top-Álava.md)
 * [Albacete](formatted/top-Albacete.md)
 * [Alicante](formatted/top-Alicante.md)
@@ -34,7 +34,7 @@ Index
 * [Cantabria](formatted/top-Cantabria.md)
 * [Castellón](formatted/top-Castellón.md)
 * [Ceuta](formatted/top-Ceuta.md)
-* [Ciudad Real](formatted/top-Ciudad Real.md)
+* [Ciudad Real](formatted/top-Ciudad%20Real.md)
 * [Córdoba](formatted/top-Córdoba.md)
 * [Coruña](formatted/top-Coruña.md)
 * [Cuenca](formatted/top-Cuenca.md)
@@ -45,7 +45,7 @@ Index
 * [Huelva](formatted/top-Huelva.md)
 * [Huesca](formatted/top-Huesca.md)
 * [Jaén](formatted/top-Jaén.md)
-* [Las Palmas](formatted/top-Las Palmas.md)
+* [Las Palmas](formatted/top-Las%20Palmas.md)
 * [León](formatted/top-León.md)
 * [Lleida](formatted/top-Lleida.md)
 * [Lugo](formatted/top-Lugo.md)
